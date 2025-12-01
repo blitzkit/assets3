@@ -58,7 +58,7 @@ R
 DrumGunPitchLimitsPreset6
 fg
 lm
-zs
+z{
 hk
 no
 tu
