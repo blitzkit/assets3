@@ -17517,6 +17517,27 @@ Tæ	Oæ	
 enCaernarvon Palikari"
 
 enCaernarvon Palikari
+]ø	Xø	
+
+enMountaineer
+
+enERAC Proto Mountaineer"
+
+enERAC Proto Mountaineer
+H¿	C¿	
+
+enInvictus
+
+enSPHT Invictus"
+
+enSPHT Invictus
+N¡	I¡	
+
+enSawtooth
+
+enBrennos Sawtooth"
+
+enBrennos Sawtooth
 è–â–É
 
 enScorching Barricade
@@ -19900,3 +19921,27 @@ Nitro Nova
 enWZ-132 Baozhang
 
 ruWZ-132 –ë–∞–æ—á–∂–∞–Ω
+.Á)Á$
+"
+enUFC Legacy Championship Belt
+\ËWË
+
+enMax Holloway
+
+enSheridan Max Holloway"
+
+enSheridan Max Holloway
+kÍfÍ
+
+enIsrael Adesanya#
+!
+enProgetto 65 Israel Adesanya"#
+!
+enProgetto 65 Israel Adesanya
+^ÎYÎ
+
+enAlex Pereira
+
+enGrille 15 Alex Pereira"
+
+enGrille 15 Alex Pereira
