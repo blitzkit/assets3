@@ -4,19 +4,19 @@
 
 enSilver Victor Avatar
 
-plSilver Victor Avatar
-
 zhSilver Victor Avatar
--
-ja'アバター「シルバーの勝者」
-:
-uk4Аватар «Срібний переможець»
+
+plSilver Victor Avatar
 
 ptSilver Victor Avatar
 
 esSilver Victor Avatar
 
 frAvatar Vainqueur d'argent
+:
+uk4Аватар «Срібний переможець»
+-
+ja'アバター「シルバーの勝者」
 @
 ru:Аватар «Серебряный победитель».webp
 �
@@ -24,19 +24,19 @@
 
 enMad Games Avatar
 
-plMad Games Avatar
-
 zhMad Games Avatar
-!
-jaアバター「Mad Games」
-,
-uk&Аватар «Шалені ігри»
+
+plMad Games Avatar
 
 ptMad Games Avatar
 
 esMad Games Avatar
 
 frAvatar des Mad Games
+,
+uk&Аватар «Шалені ігри»
+!
+jaアバター「Mad Games」
 0
 ru*Аватар «Безумные игры».png
 �
@@ -44,13 +44,9 @@
 
 enArnold Avatar
 
-plArnold Avatar
-
 zhArnold Avatar
-'
-ja!アバター「アーノルド」
-%
-ukАватар «Арнольд»
+
+plArnold Avatar
 
 ptArnold Avatar
 
@@ -58,25 +54,29 @@
 
 frAvatar d'Arnold
 %
+ukАватар «Арнольд»
+'
+ja!アバター「アーノルド」
+%
 ruАватар «Арнольд».png
 �
 avatar_progressive_mg_wins_3�
 
 enMad Games Avatar
 
-plMad Games Avatar
-
 zhMad Games Avatar
-!
-jaアバター「Mad Games」
-,
-uk&Аватар «Шалені ігри»
+
+plMad Games Avatar
 
 ptMad Games Avatar
 
 esMad Games Avatar
 
 frAvatar des Mad Games
+,
+uk&Аватар «Шалені ігри»
+!
+jaアバター「Mad Games」
 0
 ru*Аватар «Безумные игры».png
 �
@@ -84,19 +84,19 @@
 
 enMad Games Avatar
 
-plMad Games Avatar
-
 zhMad Games Avatar
-!
-jaアバター「Mad Games」
-,
-uk&Аватар «Шалені ігри»
+
+plMad Games Avatar
 
 ptMad Games Avatar
 
 esMad Games Avatar
 
 frAvatar des Mad Games
+,
+uk&Аватар «Шалені ігри»
+!
+jaアバター「Mad Games」
 0
 ru*Аватар «Безумные игры».png
 �
@@ -104,19 +104,19 @@
 
 enWorthy Avatar
 
-plWorthy Avatar
-
 zhWorthy Avatar
-*
-ja$アバター「正当な継承者」
-<
-uk6Аватар «Зухвалий переможець»
+
+plWorthy Avatar
 
 ptWorthy Avatar
 
 esWorthy Avatar
 
 frAvatar de mérite
+<
+uk6Аватар «Зухвалий переможець»
+*
+ja$アバター「正当な継承者」
 :
 ru4Аватар «Дерзкий победитель».png
 �
@@ -124,19 +124,19 @@
 
 enMad Games Avatar
 
-plMad Games Avatar
-
 zhMad Games Avatar
-!
-jaアバター「Mad Games」
-,
-uk&Аватар «Шалені ігри»
+
+plMad Games Avatar
 
 ptMad Games Avatar
 
 esMad Games Avatar
 
 frAvatar des Mad Games
+,
+uk&Аватар «Шалені ігри»
+!
+jaアバター「Mad Games」
 0
 ru*Аватар «Безумные игры».png
 �
@@ -144,19 +144,19 @@
 
 enMad Games Avatar
 
-plMad Games Avatar
-
 zhMad Games Avatar
-!
-jaアバター「Mad Games」
-,
-uk&Аватар «Шалені ігри»
+
+plMad Games Avatar
 
 ptMad Games Avatar
 
 esMad Games Avatar
 
 frAvatar des Mad Games
+,
+uk&Аватар «Шалені ігри»
+!
+jaアバター「Mad Games」
 0
 ru*Аватар «Безумные игры».png
 �
@@ -164,19 +164,19 @@
 
 enNew Horizons Avatar
 
-plNew Horizons Avatar
-
 zhNew Horizons Avatar
-0
-ja*アバター「地平線のかなたへ」
-0
-uk*Аватар «За горизонтом»
+
+plNew Horizons Avatar
 
 ptNew Horizons Avatar
 
 esNew Horizons Avatar
 
 frAvatar Nouveaux horizons
+0
+uk*Аватар «За горизонтом»
+0
+ja*アバター「地平線のかなたへ」
 0
 ru*Аватар «За горизонтом».webp
 �
@@ -184,19 +184,19 @@
 
 enNew Horizons Avatar
 
-plNew Horizons Avatar
-
 zhNew Horizons Avatar
-0
-ja*アバター「地平線のかなたへ」
-0
-uk*Аватар «За горизонтом»
+
+plNew Horizons Avatar
 
 ptNew Horizons Avatar
 
 esNew Horizons Avatar
 
 frAvatar Nouveaux horizons
+0
+uk*Аватар «За горизонтом»
+0
+ja*アバター「地平線のかなたへ」
 0
 ru*Аватар «За горизонтом».webp
 �
@@ -204,19 +204,19 @@
 
 enWorthy Avatar
 
-plWorthy Avatar
-
 zhWorthy Avatar
-*
-ja$アバター「正当な継承者」
-<
-uk6Аватар «Зухвалий переможець»
+
+plWorthy Avatar
 
 ptWorthy Avatar
 
 esWorthy Avatar
 
 frAvatar de mérite
+<
+uk6Аватар «Зухвалий переможець»
+*
+ja$アバター「正当な継承者」
 :
 ru4Аватар «Дерзкий победитель».png
 �
@@ -224,19 +224,19 @@
 
 enNew Horizons Avatar
 
-plNew Horizons Avatar
-
 zhNew Horizons Avatar
-0
-ja*アバター「地平線のかなたへ」
-0
-uk*Аватар «За горизонтом»
+
+plNew Horizons Avatar
 
 ptNew Horizons Avatar
 
 esNew Horizons Avatar
 
 frAvatar Nouveaux horizons
+0
+uk*Аватар «За горизонтом»
+0
+ja*アバター「地平線のかなたへ」
 0
 ru*Аватар «За горизонтом».webp
 �
@@ -244,19 +244,19 @@
 
 enNew Horizons Avatar
 
-plNew Horizons Avatar
-
 zhNew Horizons Avatar
-0
-ja*アバター「地平線のかなたへ」
-0
-uk*Аватар «За горизонтом»
+
+plNew Horizons Avatar
 
 ptNew Horizons Avatar
 
 esNew Horizons Avatar
 
 frAvatar Nouveaux horizons
+0
+uk*Аватар «За горизонтом»
+0
+ja*アバター「地平線のかなたへ」
 0
 ru*Аватар «За горизонтом».webp
 �
@@ -264,19 +264,19 @@
 
 enJokers Fan Avatar
 
-plJokers Fan Avatar
-
 zhJokers Fan Avatar
-(
-ja"アバター「Jokers ファン」
-6
-uk0Аватар «Вболівальник Jokers»
+
+plJokers Fan Avatar
 
 ptJokers Fan Avatar
 
 esJokers Fan Avatar
 $
 frAvatar du passionné de Jokers
+6
+uk0Аватар «Вболівальник Jokers»
+(
+ja"アバター「Jokers ファン」
 0
 ru*Аватар «Болельщик Jokers».webp
 �
@@ -284,13 +284,9 @@ $
 
 enNew Horizons Avatar
 
-plNew Horizons Avatar
-
 zhNew Horizons Avatar
-0
-ja*アバター「地平線のかなたへ」
-0
-uk*Аватар «За горизонтом»
+
+plNew Horizons Avatar
 
 ptNew Horizons Avatar
 
@@ -298,19 +294,19 @@ $
 
 frAvatar Nouveaux horizons
 0
+uk*Аватар «За горизонтом»
+0
+ja*アバター「地平線のかなたへ」
+0
 ru*Аватар «За горизонтом».webp
 �
 avatar_TankGirl_WZ111�
 /
 en)storage/Items/avatar_TankGirl_WZ111/Title
 /
-pl)storage/Items/avatar_TankGirl_WZ111/Title
-/
 zh)storage/Items/avatar_TankGirl_WZ111/Title
 /
-ja)storage/Items/avatar_TankGirl_WZ111/Title
-/
-uk)storage/Items/avatar_TankGirl_WZ111/Title
+pl)storage/Items/avatar_TankGirl_WZ111/Title
 /
 pt)storage/Items/avatar_TankGirl_WZ111/Title
 /
@@ -318,26 +314,30 @@ $
 /
 fr)storage/Items/avatar_TankGirl_WZ111/Title
 /
+uk)storage/Items/avatar_TankGirl_WZ111/Title
+/
+ja)storage/Items/avatar_TankGirl_WZ111/Title
+/
 ru)storage/Items/avatar_TankGirl_WZ111/Title.webp
 �
 avatar_ny23ruby_legendary�
 +
 en%Аватар «Новогодний»
 +
-pl%Аватар «Новогодний»
-+
 zh%Аватар «Новогодний»
 +
-ja%Аватар «Новогодний»
-
-
-uktest
+pl%Аватар «Новогодний»
 +
 pt%Аватар «Новогодний»
 +
 es%Аватар «Новогодний»
 +
 fr%Аватар «Новогодний»
+
+
+uktest
++
+ja%Аватар «Новогодний»
 +
 ru%Аватар «Новогодний».webp
 �
@@ -345,19 +345,19 @@ $
 '
 en!Blitz Summer Cup Asia 2023 Avatar
 '
-pl!Blitz Summer Cup Asia 2023 Avatar
-'
 zh!Blitz Summer Cup Asia 2023 Avatar
-2
-ja,アバター「Blitz Summer Cup Asia 2023」
-6
-uk0Аватар «Blitz Summer Cup, Азія 2023»
+'
+pl!Blitz Summer Cup Asia 2023 Avatar
 '
 pt!Blitz Summer Cup Asia 2023 Avatar
 '
 es!Blitz Summer Cup Asia 2023 Avatar
 -
 fr'Avatar de la Blitz Summer Cup Asia 2023
+6
+uk0Аватар «Blitz Summer Cup, Азія 2023»
+2
+ja,アバター「Blitz Summer Cup Asia 2023」
 -
 ru'Аватар Blitz Summer Cup Asia 2023.webp
 �
@@ -365,13 +365,9 @@ $
 
 enEye of the Dragon Avatar
 
-plEye of the Dragon Avatar
-
 zhEye of the Dragon Avatar
-!
-jaアバター「竜の目」
-,
-uk&Аватар «Око дракона»
+
+plEye of the Dragon Avatar
 
 ptEye of the Dragon Avatar
 
@@ -379,19 +375,19 @@ $
 
 frAvatar d'œil de dragon
 ,
+uk&Аватар «Око дракона»
+!
+jaアバター「竜の目」
+,
 ru&Аватар «Око дракона».png
 �
 avatar_2026_april_orange�
 
 enBrainrot Avatar
 
-plBrainrot Avatar
-
 zhBrainrot Avatar
-'
-ja!アバター「腐敗する脳」
-'
-uk!Аватар «Брейнрот»
+
+plBrainrot Avatar
 
 ptBrainrot Avatar
 
@@ -399,25 +395,29 @@ $
 
 frAvatar Cerveau putréfié
 '
+uk!Аватар «Брейнрот»
+'
+ja!アバター「腐敗する脳」
+'
 ru!Аватар «Брейнрот».webp
 �
 avatar_progressive_kolobanov_5�
 
 enWorthy Avatar
 
-plWorthy Avatar
-
 zhWorthy Avatar
-*
-ja$アバター「正当な継承者」
-<
-uk6Аватар «Зухвалий переможець»
+
+plWorthy Avatar
 
 ptWorthy Avatar
 
 esWorthy Avatar
 
 frAvatar de mérite
+<
+uk6Аватар «Зухвалий переможець»
+*
+ja$アバター「正当な継承者」
 :
 ru4Аватар «Дерзкий победитель».png
 �
@@ -425,19 +425,19 @@ $
 
 en5 Victorious Years Avatar
 
-pl5 Victorious Years Avatar
-
 zh5 Victorious Years Avatar
-)
-ja#アバター「誇らしい 5年」
-2
-uk,Аватар «5 років перемог»
+
+pl5 Victorious Years Avatar
 
 pt5 Victorious Years Avatar
 
 es5 Victorious Years Avatar
 &
 fr Avatar de 5 années victorieuses
+2
+uk,Аватар «5 років перемог»
+)
+ja#アバター「誇らしい 5年」
 *
 ru$Аватар «5 лет побед».webp
 �
@@ -445,19 +445,19 @@ $
 
 enWorthy Avatar
 
-plWorthy Avatar
-
 zhWorthy Avatar
-*
-ja$アバター「正当な継承者」
-<
-uk6Аватар «Зухвалий переможець»
+
+plWorthy Avatar
 
 ptWorthy Avatar
 
 esWorthy Avatar
 
 frAvatar de mérite
+<
+uk6Аватар «Зухвалий переможець»
+*
+ja$アバター「正当な継承者」
 :
 ru4Аватар «Дерзкий победитель».png
 �
@@ -465,19 +465,19 @@ $
 
 enWorthy Avatar
 
-plWorthy Avatar
-
 zhWorthy Avatar
-*
-ja$アバター「正当な継承者」
-<
-uk6Аватар «Зухвалий переможець»
+
+plWorthy Avatar
 
 ptWorthy Avatar
 
 esWorthy Avatar
 
 frAvatar de mérite
+<
+uk6Аватар «Зухвалий переможець»
+*
+ja$アバター「正当な継承者」
 :
 ru4Аватар «Дерзкий победитель».png
 �
@@ -485,19 +485,19 @@ $
 
 enWorthy Avatar
 
-plWorthy Avatar
-
 zhWorthy Avatar
-*
-ja$アバター「正当な継承者」
-<
-uk6Аватар «Зухвалий переможець»
+
+plWorthy Avatar
 
 ptWorthy Avatar
 
 esWorthy Avatar
 
 frAvatar de mérite
+<
+uk6Аватар «Зухвалий переможець»
+*
+ja$アバター「正当な継承者」
 :
 ru4Аватар «Дерзкий победитель».png
 �
@@ -505,19 +505,19 @@ $
 
 enBauble Avatar
 
-plBauble Avatar
-
 zhBauble Avatar
-
-jaアバター「宝石」
-0
-uk*Аватар «Ялинкова куля»
+
+plBauble Avatar
 
 ptBauble Avatar
 
 esBauble Avatar
 
 frAvatar boule de neige
+0
+uk*Аватар «Ялинкова куля»
+
+jaアバター「宝石」
 ,
 ru&Аватар «Ёлочный шар».png
 �
@@ -525,13 +525,9 @@ $
 
 enElectric Shock Avatar
 
-plElectric Shock Avatar
-
 zhElectric Shock Avatar
-0
-ja*アバター「ビリビリショック」
-+
-uk%Аватар «Електрошок»
+
+plElectric Shock Avatar
 
 ptElectric Shock Avatar
 
@@ -539,25 +535,29 @@ $
 
 frAvatar Choc électrique
 +
+uk%Аватар «Електрошок»
+0
+ja*アバター「ビリビリショック」
++
 ru%Аватар «Электрошок».webp
 �
 avatar_progressive_bp_53_paid_1�
 
 enSteamdragon Avatar
 
-plSteamdragon Avatar
-
 zhSteamdragon Avatar
-6
-ja0アバター「ストリーム・ドラゴン」
-2
-uk,Аватар «Паровий дракон»
+
+plSteamdragon Avatar
 
 ptSteamdragon Avatar
 
 esSteamdragon Avatar
 
 frAvatar Dragon de vapeur
+2
+uk,Аватар «Паровий дракон»
+6
+ja0アバター「ストリーム・ドラゴン」
 D
 ru>Аватар «Паромеханический дракон».webp
 �
@@ -565,19 +565,19 @@ D
 
 enSteamdragon Avatar
 
-plSteamdragon Avatar
-
 zhSteamdragon Avatar
-6
-ja0アバター「ストリーム・ドラゴン」
-2
-uk,Аватар «Паровий дракон»
+
+plSteamdragon Avatar
 
 ptSteamdragon Avatar
 
 esSteamdragon Avatar
 
 frAvatar Dragon de vapeur
+2
+uk,Аватар «Паровий дракон»
+6
+ja0アバター「ストリーム・ドラゴン」
 D
 ru>Аватар «Паромеханический дракон».webp
 �
@@ -585,19 +585,19 @@ D
 &
 en The Walking Dead Animated Avatar
 &
-pl The Walking Dead Animated Avatar
-&
 zh The Walking Dead Animated Avatar
-Q
-jaKアニメーション付きアバター「ウォーキング・デッド」
-C
-uk=Анімований аватар «Ходячі мерці»
+&
+pl The Walking Dead Animated Avatar
 &
 pt The Walking Dead Animated Avatar
 &
 es The Walking Dead Animated Avatar
 $
 frAvatar animé The Walking Dead
+C
+uk=Анімований аватар «Ходячі мерці»
+Q
+jaKアニメーション付きアバター「ウォーキング・デッド」
 Q
 ruKАнимированный аватар «Ходячие мертвецы».webp
 �
@@ -605,19 +605,19 @@ Q
 
 enSteamdragon Avatar
 
-plSteamdragon Avatar
-
 zhSteamdragon Avatar
-6
-ja0アバター「ストリーム・ドラゴン」
-2
-uk,Аватар «Паровий дракон»
+
+plSteamdragon Avatar
 
 ptSteamdragon Avatar
 
 esSteamdragon Avatar
 
 frAvatar Dragon de vapeur
+2
+uk,Аватар «Паровий дракон»
+6
+ja0アバター「ストリーム・ドラゴン」
 D
 ru>Аватар «Паромеханический дракон».webp
 �
@@ -625,13 +625,9 @@ D
 
 enVizard of Guile Avatar
 
-plVizard of Guile Avatar
-
 zhVizard of Guile Avatar
-'
-ja!アバター「狡猾な仮面」
-0
-uk*Аватар «Маска хитруна»
+
+plVizard of Guile Avatar
 
 ptVizard of Guile Avatar
 
@@ -639,25 +635,29 @@ D
 &
 fr Avatar du masque de la fourberie
 0
+uk*Аватар «Маска хитруна»
+'
+ja!アバター「狡猾な仮面」
+0
 ru*Аватар «Маска хитреца».png
 �
 avatar_10years_legendary�
  
 en10 Victorious Years Avatar
  
-pl10 Victorious Years Avatar
- 
 zh10 Victorious Years Avatar
-*
-ja$アバター「誇らしい 10年」
-4
-uk.Аватар «10 років перемог»
+ 
+pl10 Victorious Years Avatar
  
 pt10 Victorious Years Avatar
  
 es10 Victorious Years Avatar
 '
 fr!Avatar de 10 années victorieuses
+4
+uk.Аватар «10 років перемог»
+*
+ja$アバター「誇らしい 10年」
 +
 ru%Аватар «10 лет побед».webp
 �
@@ -665,19 +665,19 @@ D
 
 enAtmospheric Entry Avatar
 
-plAtmospheric Entry Avatar
-
 zhAtmospheric Entry Avatar
-0
-ja*アバター「宇宙からの飛来物」
-4
-uk.Аватар «Крізь атмосферу»
+
+plAtmospheric Entry Avatar
 
 ptAtmospheric Entry Avatar
 
 esAtmospheric Entry Avatar
 '
 fr!Avatar Entrée dans l'atmosphère
+4
+uk.Аватар «Крізь атмосферу»
+0
+ja*アバター「宇宙からの飛来物」
 6
 ru0Аватар «Сквозь атмосферу».webp
 �
@@ -685,13 +685,9 @@ D
 
 enULTIMATE FEAST Avatar
 
-plULTIMATE FEAST Avatar
-
 zhULTIMATE FEAST Avatar
-&
-ja アバター「ULTIMATE FEAST」
-!
-ukАватар Ultimate FEAST
+
+plULTIMATE FEAST Avatar
 
 ptULTIMATE FEAST Avatar
 
@@ -699,19 +695,19 @@ D
 
 frAvatar de ULTIMATE FEAST
 !
+ukАватар Ultimate FEAST
+&
+ja アバター「ULTIMATE FEAST」
+!
 ruАватар ULTIMATE FEAST.png
 �
 avatar_shuriken1_unique�
 
 enNinja's Shuriken Avatar
 
-plNinja's Shuriken Avatar
-
 zhNinja's Shuriken Avatar
-!
-jaアバター「手裏剣」
-2
-uk,Аватар «Сюрикен ніндзя»
+
+plNinja's Shuriken Avatar
 
 ptNinja's Shuriken Avatar
 
@@ -719,25 +715,29 @@ D
 
 frAvatar shuriken du ninja
 2
+uk,Аватар «Сюрикен ніндзя»
+!
+jaアバター「手裏剣」
+2
 ru,Аватар «Сюрикен ниндзя».webp
 �
 avatar_bp_52_bundle�
 
 enPoinsettia Avatar
 
-plPoinsettia Avatar
-
 zhPoinsettia Avatar
-"
-jaアバター「Poinsettia」
-8
-uk2Аватар «Молочай-різдвяник»
+
+plPoinsettia Avatar
 
 ptPoinsettia Avatar
 
 esPoinsettia Avatar
 
 frAvatar Poinsettia
+8
+uk2Аватар «Молочай-різдвяник»
+"
+jaアバター「Poinsettia」
 
 ruАватар Poinsettia.webp
 �
@@ -745,19 +745,19 @@ D
 
 enHeroic Kangaroo Avatar
 
-plHeroic Kangaroo Avatar
-
 zhHeroic Kangaroo Avatar
-0
-ja*アバター「英雄的カンガルー」
-B
-uk<Аватар «Австралійський стрибок»
+
+plHeroic Kangaroo Avatar
 
 ptHeroic Kangaroo Avatar
 
 esHeroic Kangaroo Avatar
 $
 frAvatar du kangourou héroïque
+B
+uk<Аватар «Австралійський стрибок»
+0
+ja*アバター「英雄的カンガルー」
 >
 ru8Аватар «Австралийский прыжок».png
 �
@@ -765,19 +765,19 @@ $
 
 enWho Are You? Avatar
 
-plWho Are You? Avatar
-
 zhWho Are You? Avatar
-+
-ja%アバター「今日の主役は?」
-6
-uk0Аватар «Який ти сьогодні?»
+
+plWho Are You? Avatar
 
 ptWho Are You? Avatar
 
 esWho Are You? Avatar
 
 frAvatar Qui êtes-vous ?
+6
+uk0Аватар «Який ти сьогодні?»
++
+ja%アバター「今日の主役は?」
 6
 ru0Аватар «Какой ты сегодня?».webp
 �
@@ -785,13 +785,9 @@ $
 
 enDeep Track Avatar
 
-plDeep Track Avatar
-
 zhDeep Track Avatar
-'
-ja!アバター「深い車輪跡」
-
-ukАватар «Слід»
+
+plDeep Track Avatar
 
 ptDeep Track Avatar
 
@@ -799,25 +795,29 @@ $
 -
 fr'Avatar de traces de chenilles profondes
 
+ukАватар «Слід»
+'
+ja!アバター「深い車輪跡」
+
 ruАватар «След».png
 �
 avatar_progressive_bp_23_free_3�
 
 enWho Are You? Avatar
 
-plWho Are You? Avatar
-
 zhWho Are You? Avatar
-+
-ja%アバター「今日の主役は?」
-6
-uk0Аватар «Який ти сьогодні?»
+
+plWho Are You? Avatar
 
 ptWho Are You? Avatar
 
 esWho Are You? Avatar
 
 frAvatar Qui êtes-vous ?
+6
+uk0Аватар «Який ти сьогодні?»
++
+ja%アバター「今日の主役は?」
 6
 ru0Аватар «Какой ты сегодня?».webp
 �
@@ -825,19 +825,19 @@ $
 
 enSecret Element Avatar
 
-plSecret Element Avatar
-
 zhSecret Element Avatar
-0
-ja*アバター「秘密のエレメント」
-<
-uk6Аватар «Секретний компонент»
+
+plSecret Element Avatar
 
 ptSecret Element Avatar
 
 esSecret Element Avatar
 
 frAvatar Élément secret
+<
+uk6Аватар «Секретний компонент»
+0
+ja*アバター「秘密のエレメント」
 <
 ru6Аватар «Секретный компонент».webp
 �
@@ -845,19 +845,19 @@ $
 
 enSecret Element Avatar
 
-plSecret Element Avatar
-
 zhSecret Element Avatar
-0
-ja*アバター「秘密のエレメント」
-<
-uk6Аватар «Секретний компонент»
+
+plSecret Element Avatar
 
 ptSecret Element Avatar
 
 esSecret Element Avatar
 
 frAvatar Élément secret
+<
+uk6Аватар «Секретний компонент»
+0
+ja*アバター「秘密のエレメント」
 <
 ru6Аватар «Секретный компонент».webp
 �
@@ -865,19 +865,19 @@ $
 
 enPoisoned Rose Avatar
 
-plPoisoned Rose Avatar
-
 zhPoisoned Rose Avatar
-%
-jaアバター「Poisoned Rose」
-4
-uk.Аватар «Отруйна троянда»
+
+plPoisoned Rose Avatar
 
 ptPoisoned Rose Avatar
 
 esPoisoned Rose Avatar
 
 frAvatar Rose empoisonnée
+4
+uk.Аватар «Отруйна троянда»
+%
+jaアバター「Poisoned Rose」
 0
 ru*Аватар «Ядовитая роза».webp
 �
@@ -885,19 +885,19 @@ $
 
 enOrbiter Avatar
 
-plOrbiter Avatar
-
 zhOrbiter Avatar
-'
-ja!アバター「オービター」
-%
-ukАватар «Орбітер»
+
+plOrbiter Avatar
 
 ptOrbiter Avatar
 
 esOrbiter Avatar
 
 frAvatar Orbiteur
+%
+ukАватар «Орбітер»
+'
+ja!アバター「オービター」
 -
 ru'Аватар «Орбитальный».webp
 �
@@ -905,19 +905,19 @@ $
 
 enSecret Element Avatar
 
-plSecret Element Avatar
-
 zhSecret Element Avatar
-0
-ja*アバター「秘密のエレメント」
-<
-uk6Аватар «Секретний компонент»
+
+plSecret Element Avatar
 
 ptSecret Element Avatar
 
 esSecret Element Avatar
 
 frAvatar Élément secret
+<
+uk6Аватар «Секретний компонент»
+0
+ja*アバター「秘密のエレメント」
 <
 ru6Аватар «Секретный компонент».webp
 �
@@ -925,19 +925,19 @@ $
 
 enWho Are You? Avatar
 
-plWho Are You? Avatar
-
 zhWho Are You? Avatar
-+
-ja%アバター「今日の主役は?」
-6
-uk0Аватар «Який ти сьогодні?»
+
+plWho Are You? Avatar
 
 ptWho Are You? Avatar
 
 esWho Are You? Avatar
 
 frAvatar Qui êtes-vous ?
+6
+uk0Аватар «Який ти сьогодні?»
++
+ja%アバター「今日の主役は?」
 6
 ru0Аватар «Какой ты сегодня?».webp
 �
@@ -945,13 +945,9 @@ $
 
 enHD Android Gaming Avatar
 
-plHD Android Gaming Avatar
-
 zhHD Android Gaming Avatar
-)
-ja#アバター「HD Android Gaming」
-$
-ukАватар HD Android Gaming
+
+plHD Android Gaming Avatar
 
 ptHD Android Gaming Avatar
 
@@ -959,19 +955,19 @@ $
 
 frAvatar HD Android Gaming
 $
+ukАватар HD Android Gaming
+)
+ja#アバター「HD Android Gaming」
+$
 ruАватар HD Android Gaming.webp
 �
 avatar_progressive_bp_14_free_4�
 
 enSecret Element Avatar
 
-plSecret Element Avatar
-
 zhSecret Element Avatar
-0
-ja*アバター「秘密のエレメント」
-<
-uk6Аватар «Секретний компонент»
+
+plSecret Element Avatar
 
 ptSecret Element Avatar
 
@@ -979,19 +975,19 @@ $
 
 frAvatar Élément secret
 <
+uk6Аватар «Секретний компонент»
+0
+ja*アバター「秘密のエレメント」
+<
 ru6Аватар «Секретный компонент».webp
 �
 avatar_progressive_bp_23_free_4�
 
 enWho Are You? Avatar
 
-plWho Are You? Avatar
-
 zhWho Are You? Avatar
-+
-ja%アバター「今日の主役は?」
-6
-uk0Аватар «Який ти сьогодні?»
+
+plWho Are You? Avatar
 
 ptWho Are You? Avatar
 
@@ -999,19 +995,19 @@ $
 
 frAvatar Qui êtes-vous ?
 6
+uk0Аватар «Який ти сьогодні?»
++
+ja%アバター「今日の主役は?」
+6
 ru0Аватар «Какой ты сегодня?».webp
 �
 avatar_IS_Pravda_legendary�
 
 enNonna Avatar
 
-plNonna Avatar
-
 zhNonna Avatar
-!
-jaアバター「ノンナ」
-
-ukАватар Nonna
+
+plNonna Avatar
 
 ptNonna Avatar
 
@@ -1019,25 +1015,29 @@ $
 
 frAvatar de Nonna
 
+ukАватар Nonna
+!
+jaアバター「ノンナ」
+
 ruАватар Nonna.png
 �
 avatar_progressive_bp_53_paid_3�
 
 enSteamdragon Avatar
 
-plSteamdragon Avatar
-
 zhSteamdragon Avatar
-6
-ja0アバター「ストリーム・ドラゴン」
-2
-uk,Аватар «Паровий дракон»
+
+plSteamdragon Avatar
 
 ptSteamdragon Avatar
 
 esSteamdragon Avatar
 
 frAvatar Dragon de vapeur
+2
+uk,Аватар «Паровий дракон»
+6
+ja0アバター「ストリーム・ドラゴン」
 D
 ru>Аватар «Паромеханический дракон».webp
 �
@@ -1045,13 +1045,9 @@ $avatar_Burning_Blitzriders_legendary�
  
 enBurning Blitzriders Avatar
  
-plBurning Blitzriders Avatar
- 
 zhBurning Blitzriders Avatar
  
-jaBurning Blitzriders Avatar
- 
-ukBurning Blitzriders Avatar
+plBurning Blitzriders Avatar
  
 ptBurning Blitzriders Avatar
  
@@ -1059,19 +1055,19 @@ $avatar_Burning_Blitzriders_legendary�
  
 frBurning Blitzriders Avatar
  
+ukBurning Blitzriders Avatar
+ 
+jaBurning Blitzriders Avatar
+ 
 ruBurning Blitzriders Avatar.webp
 �
 avatar_blitz_04_common_72h�
 
 enBlitz Avatar
 
-plBlitz Avatar
-
 zhBlitz Avatar
-
-jaアバター「Blitz」
-
-ukАватар Blitz
+
+plBlitz Avatar
 
 ptBlitz Avatar
 
@@ -1079,19 +1075,19 @@ $avatar_Burning_Blitzriders_legendary�
 
 frAvatar de Blitz
 
+ukАватар Blitz
+
+jaアバター「Blitz」
+
 ruАватар Blitz.png
 �
 avatar_top4_10_legendary_31d�
 
 enTop Rating Avatar
 
-plTop Rating Avatar
-
 zhTop Rating Avatar
-3
-ja-アバター「レーティングトップ」
-.
-uk(Аватар «Топ рейтингу»
+
+plTop Rating Avatar
 
 ptTop Rating Avatar
 
@@ -1099,25 +1095,29 @@ $avatar_Burning_Blitzriders_legendary�
 
 frAvatar Top des cotées
 .
+uk(Аватар «Топ рейтингу»
+3
+ja-アバター「レーティングトップ」
+.
 ru(Аватар «Топ рейтинга».webp
 �
 avatar_independence_rare_14d�
 
 enFlame of Liberty Avatar
 
-plFlame of Liberty Avatar
-
 zhFlame of Liberty Avatar
-$
-jaアバター「自由の炎」
-3
-uk-Аватар «Полум'я свободи»
+
+plFlame of Liberty Avatar
 
 ptFlame of Liberty Avatar
 
 esFlame of Liberty Avatar
 (
 fr"Avatar de la Flamme de la Liberté
+3
+uk-Аватар «Полум'я свободи»
+$
+jaアバター「自由の炎」
 0
 ru*Аватар «Пламя свободы».png
 �
@@ -1125,13 +1125,9 @@ $
 
 enCrouching Tiger Avatar
 
-plCrouching Tiger Avatar
-
 zhCrouching Tiger Avatar
--
-ja'アバター「身をかがめた虎」
-4
-uk.Аватар «Скрадливий тигр»
+
+plCrouching Tiger Avatar
 
 ptCrouching Tiger Avatar
 
@@ -1139,25 +1135,29 @@ $
 
 frAvatar du Tigre tapi
 4
+uk.Аватар «Скрадливий тигр»
+-
+ja'アバター「身をかがめた虎」
+4
 ru.Аватар «Крадущийся тигр».webp
 �
 $avatar_BlitzCup25_NA_TEAM1_legendary�
 "
 enkRoKoDiLillYz Diamond Avatar
 "
-plkRoKoDiLillYz Diamond Avatar
-"
 zhkRoKoDiLillYz Diamond Avatar
-8
-ja2アバター「kRoKoDiLillYz ダイヤモンド」
-F
-uk@Діамантовий аватар команди kRoKoDiLillYz
+"
+plkRoKoDiLillYz Diamond Avatar
 "
 ptkRoKoDiLillYz Diamond Avatar
 "
 eskRoKoDiLillYz Diamond Avatar
 (
 fr"Avatar de kRoKoDiLillYz de diamant
+F
+uk@Діамантовий аватар команди kRoKoDiLillYz
+8
+ja2アバター「kRoKoDiLillYz ダイヤモンド」
 J
 ruDБриллиантовый аватар команды kRoKoDiLillYz.webp
 �
@@ -1165,19 +1165,19 @@ J
 
 enTrueShadows Fan Avatar
 
-plTrueShadows Fan Avatar
-
 zhTrueShadows Fan Avatar
--
-ja'アバター「TrueShadows ファン」
-;
-uk5Аватар «Вболівальник TrueShadows»
+
+plTrueShadows Fan Avatar
 
 ptTrueShadows Fan Avatar
 
 esTrueShadows Fan Avatar
 )
 fr#Avatar du passionné de TrueShadows
+;
+uk5Аватар «Вболівальник TrueShadows»
+-
+ja'アバター「TrueShadows ファン」
 5
 ru/Аватар «Болельщик TrueShadows».webp
 �
@@ -1185,19 +1185,19 @@ J
 
 enInevitable Gadgets Avatar
 
-plInevitable Gadgets Avatar
-
 zhInevitable Gadgets Avatar
-0
-ja*アバター「マスト・アイテム」
-8
-uk2Аватар «Неодмінні гаджети»
+
+plInevitable Gadgets Avatar
 
 ptInevitable Gadgets Avatar
 
 esInevitable Gadgets Avatar
 !
 frAvatar Gadgets inévitables
+8
+uk2Аватар «Неодмінні гаджети»
+0
+ja*アバター「マスト・アイテム」
 >
 ru8Аватар «Неотвратимые гаджеты».webp
 �
@@ -1205,19 +1205,19 @@ J
 
 enInevitable Gadgets Avatar
 
-plInevitable Gadgets Avatar
-
 zhInevitable Gadgets Avatar
-0
-ja*アバター「マスト・アイテム」
-8
-uk2Аватар «Неодмінні гаджети»
+
+plInevitable Gadgets Avatar
 
 ptInevitable Gadgets Avatar
 
 esInevitable Gadgets Avatar
 !
 frAvatar Gadgets inévitables
+8
+uk2Аватар «Неодмінні гаджети»
+0
+ja*アバター「マスト・アイテム」
 >
 ru8Аватар «Неотвратимые гаджеты».webp
 �
@@ -1225,19 +1225,19 @@ J
 
 enFrosty Tangerine Avatar
 
-plFrosty Tangerine Avatar
-
 zhFrosty Tangerine Avatar
-'
-ja!アバター「冷凍みかん」
-6
-uk0Аватар «Новорічні ласощі»
+
+plFrosty Tangerine Avatar
 
 ptFrosty Tangerine Avatar
 
 esFrosty Tangerine Avatar
  
 frAvatar de mandarine gelée
+6
+uk0Аватар «Новорічні ласощі»
+'
+ja!アバター「冷凍みかん」
 >
 ru8Аватар «Новогоднее лакомство».png
 �
@@ -1245,19 +1245,19 @@ J
 
 enUnderwater Menace Avatar
 
-plUnderwater Menace Avatar
-
 zhUnderwater Menace Avatar
-'
-ja!アバター「水中の脅威」
-6
-uk0Аватар «Підводна загроза»
+
+plUnderwater Menace Avatar
 
 ptUnderwater Menace Avatar
 
 esUnderwater Menace Avatar
 %
 frAvatar de la menace sous-marine
+6
+uk0Аватар «Підводна загроза»
+'
+ja!アバター「水中の脅威」
 6
 ru0Аватар «Подводная угроза».png
 �
@@ -1265,19 +1265,19 @@ J
 
 enRainfield Avatar
 
-plRainfield Avatar
-
 zhRainfield Avatar
-0
-ja*アバター「レインフィールド」
-!
-ukАватар «Злива»
+
+plRainfield Avatar
 
 ptRainfield Avatar
 
 esRainfield Avatar
 
 frAvatar Pluie battante
+!
+ukАватар «Злива»
+0
+ja*アバター「レインフィールド」
 0
 ru*Аватар «Влажная земля».webp
 �
@@ -1285,19 +1285,19 @@ J
 
 enInevitable Gadgets Avatar
 
-plInevitable Gadgets Avatar
-
 zhInevitable Gadgets Avatar
-0
-ja*アバター「マスト・アイテム」
-8
-uk2Аватар «Неодмінні гаджети»
+
+plInevitable Gadgets Avatar
 
 ptInevitable Gadgets Avatar
 
 esInevitable Gadgets Avatar
 !
 frAvatar Gadgets inévitables
+8
+uk2Аватар «Неодмінні гаджети»
+0
+ja*アバター「マスト・アイテム」
 >
 ru8Аватар «Неотвратимые гаджеты».webp
 �
@@ -1305,19 +1305,19 @@ J
 
 enCrystal Heart Avatar
 
-plCrystal Heart Avatar
-
 zhCrystal Heart Avatar
-3
-ja-アバター「ハートのクリスタル」
-6
-uk0Аватар «Кришталеве серце»
+
+plCrystal Heart Avatar
 
 ptCrystal Heart Avatar
 
 esCrystal Heart Avatar
  
 frAvatar du Cœur de cristal
+6
+uk0Аватар «Кришталеве серце»
+3
+ja-アバター「ハートのクリスタル」
 :
 ru4Аватар «Хрустальное сердце».webp
 �
@@ -1325,19 +1325,19 @@ J
 
 enLightning Bolt Avatar
 
-plLightning Bolt Avatar
-
 zhLightning Bolt Avatar
-
-jaアバター「稲妻」
-2
-uk,Аватар «Удар блискавки»
+
+plLightning Bolt Avatar
 
 ptLightning Bolt Avatar
 
 esLightning Bolt Avatar
 
 frAvatar de l'éclair
+2
+uk,Аватар «Удар блискавки»
+
+jaアバター「稲妻」
 ,
 ru&Аватар «Удар молнии».png
 �
@@ -1345,19 +1345,19 @@ J
 
 enThe Snippet Avatar
 
-plThe Snippet Avatar
-
 zhThe Snippet Avatar
-$
-jaアバター「コア断片」
-'
-uk!Аватар «Фрагмент»
+
+plThe Snippet Avatar
 
 ptThe Snippet Avatar
 
 esThe Snippet Avatar
 
 frAvatar de l'Extrait
+'
+uk!Аватар «Фрагмент»
+$
+jaアバター「コア断片」
 %
 ruАватар «Сниппет».webp
 �
@@ -1365,19 +1365,19 @@ $
 
 enAtmospheric Entry Avatar
 
-plAtmospheric Entry Avatar
-
 zhAtmospheric Entry Avatar
-0
-ja*アバター「宇宙からの飛来物」
-4
-uk.Аватар «Крізь атмосферу»
+
+plAtmospheric Entry Avatar
 
 ptAtmospheric Entry Avatar
 
 esAtmospheric Entry Avatar
 '
 fr!Avatar Entrée dans l'atmosphère
+4
+uk.Аватар «Крізь атмосферу»
+0
+ja*アバター「宇宙からの飛来物」
 6
 ru0Аватар «Сквозь атмосферу».webp
 �
@@ -1385,19 +1385,19 @@ $
 
 enThe Snippet Avatar
 
-plThe Snippet Avatar
-
 zhThe Snippet Avatar
-$
-jaアバター「コア断片」
-'
-uk!Аватар «Фрагмент»
+
+plThe Snippet Avatar
 
 ptThe Snippet Avatar
 
 esThe Snippet Avatar
 
 frAvatar de l'Extrait
+'
+uk!Аватар «Фрагмент»
+$
+jaアバター「コア断片」
 %
 ruАватар «Сниппет».webp
 �
@@ -1405,13 +1405,9 @@ $
 
 enAnimalPlanet Avatar
 
-plAnimalPlanet Avatar
-
 zhAnimalPlanet Avatar
-$
-jaアバター「AnimalPlanet」
-
-ukАватар AnimalPlanet
+
+plAnimalPlanet Avatar
 
 ptAnimalPlanet Avatar
 
@@ -1419,19 +1415,19 @@ $
 
 frAvatar de AnimalPlanet
 
+ukАватар AnimalPlanet
+$
+jaアバター「AnimalPlanet」
+
 ruАватар AnimalPlanet.png
 �
 !avatar_NA_BattleBuddies_legendary�
 
 enBattle Buddies Avatar
 
-plBattle Buddies Avatar
-
 zhBattle Buddies Avatar
-&
-ja アバター「Battle Buddies」
-!
-ukАватар Battle Buddies
+
+plBattle Buddies Avatar
 
 ptBattle Buddies Avatar
 
@@ -1439,25 +1435,29 @@ $
 
 frAvatar de Battle Buddies
 !
+ukАватар Battle Buddies
+&
+ja アバター「Battle Buddies」
+!
 ruАватар Battle Buddies.webp
 �
 avatar_progressive_bp_18_paid_3�
 
 enAtmospheric Entry Avatar
 
-plAtmospheric Entry Avatar
-
 zhAtmospheric Entry Avatar
-0
-ja*アバター「宇宙からの飛来物」
-4
-uk.Аватар «Крізь атмосферу»
+
+plAtmospheric Entry Avatar
 
 ptAtmospheric Entry Avatar
 
 esAtmospheric Entry Avatar
 '
 fr!Avatar Entrée dans l'atmosphère
+4
+uk.Аватар «Крізь атмосферу»
+0
+ja*アバター「宇宙からの飛来物」
 6
 ru0Аватар «Сквозь атмосферу».webp
 �
@@ -1465,13 +1465,9 @@ $
 
 enVengeance Avatar
 
-plVengeance Avatar
-
 zhVengeance Avatar
-!
-jaアバター「Vengeance」
-
-ukАватар Vengeance
+
+plVengeance Avatar
 
 ptVengeance Avatar
 
@@ -1479,25 +1475,29 @@ $
 
 frAvatar de Vengeance
 
+ukАватар Vengeance
+!
+jaアバター「Vengeance」
+
 ruАватар Vengeance.webp
 �
 (avatar_progressive_rb_diamond_eu_wins_10�
 
 enDiamond Victor Avatar
 
-plDiamond Victor Avatar
-
 zhDiamond Victor Avatar
-3
-ja-アバター「ダイアモンドの勝者」
-B
-uk<Аватар «Діамантовий переможець»
+
+plDiamond Victor Avatar
 
 ptDiamond Victor Avatar
 
 esDiamond Victor Avatar
 !
 frAvatar Vainqueur de diamant
+B
+uk<Аватар «Діамантовий переможець»
+3
+ja-アバター「ダイアモンドの勝者」
 F
 ru@Аватар «Бриллиантовый победитель».webp
 �
@@ -1505,19 +1505,19 @@ F
 
 enLightning Bolt Avatar
 
-plLightning Bolt Avatar
-
 zhLightning Bolt Avatar
-
-jaアバター「稲妻」
-2
-uk,Аватар «Удар блискавки»
+
+plLightning Bolt Avatar
 
 ptLightning Bolt Avatar
 
 esLightning Bolt Avatar
 
 frAvatar de l'éclair
+2
+uk,Аватар «Удар блискавки»
+
+jaアバター「稲妻」
 ,
 ru&Аватар «Удар молнии».png
 �
@@ -1525,19 +1525,19 @@ F
 
 enThe Snippet Avatar
 
-plThe Snippet Avatar
-
 zhThe Snippet Avatar
-$
-jaアバター「コア断片」
-'
-uk!Аватар «Фрагмент»
+
+plThe Snippet Avatar
 
 ptThe Snippet Avatar
 
 esThe Snippet Avatar
 
 frAvatar de l'Extrait
+'
+uk!Аватар «Фрагмент»
+$
+jaアバター「コア断片」
 %
 ruАватар «Сниппет».webp
 �
@@ -1545,19 +1545,19 @@ $
 
 en"I'm Staying Home" Avatar
 
-pl"I'm Staying Home" Avatar
-
 zh"I'm Staying Home" Avatar
-(
-ja"アバター「I'm Staying Home」
-7
-uk1Аватар «Я залишаюся вдома»
+
+pl"I'm Staying Home" Avatar
 
 pt"I'm Staying Home" Avatar
 
 es"I'm Staying Home" Avatar
 %
 frAvatar « I'm Staying Home »
+7
+uk1Аватар «Я залишаюся вдома»
+(
+ja"アバター「I'm Staying Home」
 1
 ru+Аватар «Я остаюсь дома».png
 �
@@ -1565,19 +1565,19 @@ $
 
 enRaven's Realm Avatar
 
-plRaven's Realm Avatar
-
 zhRaven's Realm Avatar
-$
-jaアバター「鴉の領分」
-6
-uk0Аватар «Вороняче царство»
+
+plRaven's Realm Avatar
 
 ptRaven's Realm Avatar
 
 esRaven's Realm Avatar
 
 frAvatar Royaume du corbeau
+6
+uk0Аватар «Вороняче царство»
+$
+jaアバター「鴉の領分」
 2
 ru,Аватар «Царство ворона».webp
 �
@@ -1585,19 +1585,19 @@ $
 
 enRaven's Realm Avatar
 
-plRaven's Realm Avatar
-
 zhRaven's Realm Avatar
-$
-jaアバター「鴉の領分」
-6
-uk0Аватар «Вороняче царство»
+
+plRaven's Realm Avatar
 
 ptRaven's Realm Avatar
 
 esRaven's Realm Avatar
 
 frAvatar Royaume du corbeau
+6
+uk0Аватар «Вороняче царство»
+$
+jaアバター「鴉の領分」
 2
 ru,Аватар «Царство ворона».webp
 �
@@ -1605,19 +1605,19 @@ $
 
 enRaven's Realm Avatar
 
-plRaven's Realm Avatar
-
 zhRaven's Realm Avatar
-$
-jaアバター「鴉の領分」
-6
-uk0Аватар «Вороняче царство»
+
+plRaven's Realm Avatar
 
 ptRaven's Realm Avatar
 
 esRaven's Realm Avatar
 
 frAvatar Royaume du corbeau
+6
+uk0Аватар «Вороняче царство»
+$
+jaアバター「鴉の領分」
 2
 ru,Аватар «Царство ворона».webp
 �
@@ -1625,19 +1625,19 @@ $
 
 enRaven's Realm Avatar
 
-plRaven's Realm Avatar
-
 zhRaven's Realm Avatar
-$
-jaアバター「鴉の領分」
-6
-uk0Аватар «Вороняче царство»
+
+plRaven's Realm Avatar
 
 ptRaven's Realm Avatar
 
 esRaven's Realm Avatar
 
 frAvatar Royaume du corbeau
+6
+uk0Аватар «Вороняче царство»
+$
+jaアバター「鴉の領分」
 2
 ru,Аватар «Царство ворона».webp
 �
@@ -1645,19 +1645,19 @@ $
 
 enGold Gem Avatar
 
-plGold Gem Avatar
-
 zhGold Gem Avatar
-$
-jaアバター「金の宝石」
-4
-uk.Аватар «Золотий кристал»
+
+plGold Gem Avatar
 
 ptGold Gem Avatar
 
 esGold Gem Avatar
 
 frAvatar de joyau en or
+4
+uk.Аватар «Золотий кристал»
+$
+jaアバター「金の宝石」
 6
 ru0Аватар «Золотой кристалл».png
 �
@@ -1665,13 +1665,9 @@ $
 =
 en7Анимированный аватар GUCCI GANG TEAM
 =
-pl7Анимированный аватар GUCCI GANG TEAM
-=
 zh7Анимированный аватар GUCCI GANG TEAM
 =
-ja7Анимированный аватар GUCCI GANG TEAM
-=
-uk7Анимированный аватар GUCCI GANG TEAM
+pl7Анимированный аватар GUCCI GANG TEAM
 =
 pt7Анимированный аватар GUCCI GANG TEAM
 =
@@ -1679,19 +1675,19 @@ $
 =
 fr7Анимированный аватар GUCCI GANG TEAM
 =
+uk7Анимированный аватар GUCCI GANG TEAM
+=
+ja7Анимированный аватар GUCCI GANG TEAM
+=
 ru7Анимированный аватар GUCCI GANG TEAM.webp
 �
 avatar_blitz_point_true�
 
 enАватар «Тру»
 
-plАватар «Тру»
-
 zhАватар «Тру»
 
-jaАватар «Тру»
-
-ukАватар «Тру»
+plАватар «Тру»
 
 ptАватар «Тру»
 
@@ -1699,25 +1695,29 @@ $
 
 frАватар «Тру»
 
+ukАватар «Тру»
+
+jaАватар «Тру»
+
 ruАватар «Тру».webp
 �
 avatar_harley_queen_legendary�
 
 enSMAAAASHIN' Avatar
 
-plSMAAAASHIN' Avatar
-
 zhSMAAAASHIN' Avatar
-*
-ja$アバター「バッテン木槌」
-'
-uk!Аватар «Калатало»
+
+plSMAAAASHIN' Avatar
 
 ptSMAAAASHIN' Avatar
 
 esSMAAAASHIN' Avatar
 
 frAvatar du SPROUTCH
+'
+uk!Аватар «Калатало»
+*
+ja$アバター「バッテン木槌」
 )
 ru#Аватар «Колотушка».png
 �
@@ -1725,19 +1725,19 @@ $
 
 enMatey Shark Avatar
 
-plMatey Shark Avatar
-
 zhMatey Shark Avatar
-6
-ja0アバター「メイティー・シャーク」
-0
-uk*Аватар «Акула-друзяка»
+
+plMatey Shark Avatar
 
 ptMatey Shark Avatar
 
 esMatey Shark Avatar
 
 frAvatar Requin-moussaillon
+0
+uk*Аватар «Акула-друзяка»
+6
+ja0アバター「メイティー・シャーク」
 %
 ruАватар «Акулёша».webp
 �
@@ -1745,19 +1745,19 @@ $
 "
 enLiving Flame Animated Avatar
 "
-plLiving Flame Animated Avatar
-"
 zhLiving Flame Animated Avatar
-<
-ja6アニメーション付きアバター「踊る焔」
-B
-uk<Анімований аватар «Живе полум'я»
+"
+plLiving Flame Animated Avatar
 "
 ptLiving Flame Animated Avatar
 "
 esLiving Flame Animated Avatar
 "
 frAvatar animé Flamme vivante
+B
+uk<Анімований аватар «Живе полум'я»
+<
+ja6アニメーション付きアバター「踊る焔」
 G
 ruAАнимированный аватар «Живое пламя».webp
 �
@@ -1765,19 +1765,19 @@ G
 
 enThe Snippet Avatar
 
-plThe Snippet Avatar
-
 zhThe Snippet Avatar
-$
-jaアバター「コア断片」
-'
-uk!Аватар «Фрагмент»
+
+plThe Snippet Avatar
 
 ptThe Snippet Avatar
 
 esThe Snippet Avatar
 
 frAvatar de l'Extrait
+'
+uk!Аватар «Фрагмент»
+$
+jaアバター「コア断片」
 %
 ruАватар «Сниппет».webp
 �
@@ -1785,13 +1785,9 @@ $
 
 enJokers Avatar
 
-plJokers Avatar
-
 zhJokers Avatar
-
-jaアバター「Jokers」
-
-ukАватар Jokers
+
+plJokers Avatar
 
 ptJokers Avatar
 
@@ -1799,19 +1795,19 @@ $
 
 frAvatar de Jokers
 
+ukАватар Jokers
+
+jaアバター「Jokers」
+
 ruАватар Jokers.webp
 �
 avatar_bear_2_rare�
 
 enFerocious Predator Avatar
 
-plFerocious Predator Avatar
-
 zhFerocious Predator Avatar
-*
-ja$アバター「獰猛な肉食獣」
-4
-uk.Аватар «Жорстокий хижак»
+
+plFerocious Predator Avatar
 
 ptFerocious Predator Avatar
 
@@ -1819,25 +1815,29 @@ $
 "
 frAvatar du prédateur féroce
 4
+uk.Аватар «Жорстокий хижак»
+*
+ja$アバター「獰猛な肉食獣」
+4
 ru.Аватар «Свирепый хищник».png
 �
 avatar_APAC_Uprising_rare_14d�
 
 enUprising Fan Avatar
 
-plUprising Fan Avatar
-
 zhUprising Fan Avatar
-*
-ja$アバター「Uprising ファン」
-8
-uk2Аватар «Вболівальник Uprising»
+
+plUprising Fan Avatar
 
 ptUprising Fan Avatar
 
 esUprising Fan Avatar
 &
 fr Avatar du passionné de Uprising
+8
+uk2Аватар «Вболівальник Uprising»
+*
+ja$アバター「Uprising ファン」
 2
 ru,Аватар «Болельщик Uprising».webp
 �
@@ -1845,19 +1845,19 @@ $
 
 enThe Snippet Avatar
 
-plThe Snippet Avatar
-
 zhThe Snippet Avatar
-$
-jaアバター「コア断片」
-'
-uk!Аватар «Фрагмент»
+
+plThe Snippet Avatar
 
 ptThe Snippet Avatar
 
 esThe Snippet Avatar
 
 frAvatar de l'Extrait
+'
+uk!Аватар «Фрагмент»
+$
+jaアバター「コア断片」
 %
 ruАватар «Сниппет».webp
 �
@@ -1865,19 +1865,19 @@ $
 
 enApathy Fan Avatar
 
-plApathy Fan Avatar
-
 zhApathy Fan Avatar
-(
-ja"アバター「Apathy ファン」
-6
-uk0Аватар «Вболівальник Apathy»
+
+plApathy Fan Avatar
 
 ptApathy Fan Avatar
 
 esApathy Fan Avatar
 #
 frAvatar du passionné d'Apathy
+6
+uk0Аватар «Вболівальник Apathy»
+(
+ja"アバター「Apathy ファン」
 0
 ru*Аватар «Болельщик Apathy».webp
 �
@@ -1885,19 +1885,19 @@ $
 
 enUnpacker Avatar
 
-plUnpacker Avatar
-
 zhUnpacker Avatar
-$
-jaアバター「開封の儀」
-/
-uk)Аватар «Розпаковувач»
+
+plUnpacker Avatar
 
 ptUnpacker Avatar
 
 esUnpacker Avatar
 
 frAvatar Déballeur
+/
+uk)Аватар «Розпаковувач»
+$
+jaアバター「開封の儀」
 +
 ru%Аватар «Распаковка».webp
 �
@@ -1905,19 +1905,19 @@ $
 
 enThe Snippet Avatar
 
-plThe Snippet Avatar
-
 zhThe Snippet Avatar
-$
-jaアバター「コア断片」
-'
-uk!Аватар «Фрагмент»
+
+plThe Snippet Avatar
 
 ptThe Snippet Avatar
 
 esThe Snippet Avatar
 
 frAvatar de l'Extrait
+'
+uk!Аватар «Фрагмент»
+$
+jaアバター「コア断片」
 %
 ruАватар «Сниппет».webp
 �
@@ -1925,19 +1925,19 @@ $
 
 enSavage Beast Avatar
 
-plSavage Beast Avatar
-
 zhSavage Beast Avatar
-$
-jaアバター「獰猛な獣」
-*
-uk$Аватар «Лютий звір»
+
+plSavage Beast Avatar
 
 ptSavage Beast Avatar
 
 esSavage Beast Avatar
  
 frAvatar de la bête sauvage
+*
+uk$Аватар «Лютий звір»
+$
+jaアバター「獰猛な獣」
 ,
 ru&Аватар «Лютый зверь».png
 �
@@ -1945,19 +1945,19 @@ $
 
 enCarrot Nose Avatar
 
-plCarrot Nose Avatar
-
 zhCarrot Nose Avatar
--
-ja'アバター「ニンジンのお鼻」
-0
-uk*Аватар «Ніс-морквинка»
+
+plCarrot Nose Avatar
 
 ptCarrot Nose Avatar
 
 esCarrot Nose Avatar
 
 frAvatar Nez en carotte
+0
+uk*Аватар «Ніс-морквинка»
+-
+ja'アバター「ニンジンのお鼻」
 .
 ru(Аватар «Нос-морковка».webp
 �
@@ -1965,19 +1965,19 @@ $
 &
 en Ichigo Shinohara Animated Avatar
 &
-pl Ichigo Shinohara Animated Avatar
-&
 zh Ichigo Shinohara Animated Avatar
-B
-ja<アニメーション付きアバター「篠原いちご」
-8
-uk2Анімований аватар Ichigo Shinohara
+&
+pl Ichigo Shinohara Animated Avatar
 &
 pt Ichigo Shinohara Animated Avatar
 &
 es Ichigo Shinohara Animated Avatar
 $
 frAvatar animé Ichigo Shinohara
+8
+uk2Анімований аватар Ichigo Shinohara
+B
+ja<アニメーション付きアバター「篠原いちご」
 >
 ru8Анимированный аватар Ichigo Shinohara.webp
 �
@@ -1985,19 +1985,19 @@ $
 
 enGingerbread Man Avatar
 
-plGingerbread Man Avatar
-
 zhGingerbread Man Avatar
-9
-ja3アバター「ジンジャーブレッドマン」
-:
-uk4Аватар «Імбирний чоловічок»
+
+plGingerbread Man Avatar
 
 ptGingerbread Man Avatar
 
 esGingerbread Man Avatar
 )
 fr#Avatar du Bonhomme en pain d'épice
+:
+uk4Аватар «Імбирний чоловічок»
+9
+ja3アバター「ジンジャーブレッドマン」
 :
 ru4Аватар «Имбирный человечек».png
 �
@@ -2005,13 +2005,9 @@ $
 
 enIntergalactic Avatar
 
-plIntergalactic Avatar
-
 zhIntergalactic Avatar
-<
-ja6アバター「インターギャラクティック」
-1
-uk+Аватар «Інтергалактик»
+
+plIntergalactic Avatar
 
 ptIntergalactic Avatar
 
@@ -2019,19 +2015,19 @@ $
 
 frAvatar intergalactique
 1
+uk+Аватар «Інтергалактик»
+<
+ja6アバター「インターギャラクティック」
+1
 ru+Аватар «Интергалактик».webp
 �
 avatar_china4years_legendary�
 
 en4-Year Celebration Avatar
 
-pl4-Year Celebration Avatar
-
 zh4-Year Celebration Avatar
 
-ja4-Year Celebration Avatar
-
-uk4-Year Celebration Avatar
+pl4-Year Celebration Avatar
 
 pt4-Year Celebration Avatar
 
@@ -2039,25 +2035,29 @@ $
 
 fr4-Year Celebration Avatar
 
+uk4-Year Celebration Avatar
+
+ja4-Year Celebration Avatar
+
 ru4-Year Celebration Avatar.webp
 �
 avatar_summer_globe_2025_anim_3�
 &
 en Natasha Sokolova Animated Avatar
 &
-pl Natasha Sokolova Animated Avatar
-&
 zh Natasha Sokolova Animated Avatar
-W
-jaQアニメーション付きアバター「ナターシャ・ソコローヴァ」
-8
-uk2Анімований аватар Natasha Sokolova
+&
+pl Natasha Sokolova Animated Avatar
 &
 pt Natasha Sokolova Animated Avatar
 &
 es Natasha Sokolova Animated Avatar
 $
 frAvatar animé Natasha Sokolova
+8
+uk2Анімований аватар Natasha Sokolova
+W
+jaQアニメーション付きアバター「ナターシャ・ソコローヴァ」
 O
 ruIАнимированный аватар «Наташа Соколова».webp
 �
@@ -2065,13 +2065,9 @@ O
 
 enUnderwater Menace Avatar
 
-plUnderwater Menace Avatar
-
 zhUnderwater Menace Avatar
-'
-ja!アバター「水中の脅威」
-6
-uk0Аватар «Підводна загроза»
+
+plUnderwater Menace Avatar
 
 ptUnderwater Menace Avatar
 
@@ -2079,25 +2075,29 @@ O
 %
 frAvatar de la menace sous-marine
 6
+uk0Аватар «Підводна загроза»
+'
+ja!アバター「水中の脅威」
+6
 ru0Аватар «Подводная угроза».png
 �
 avatar_progressive_2025_un_4�
 
 enUnpacker Avatar
 
-plUnpacker Avatar
-
 zhUnpacker Avatar
-$
-jaアバター「開封の儀」
-/
-uk)Аватар «Розпаковувач»
+
+plUnpacker Avatar
 
 ptUnpacker Avatar
 
 esUnpacker Avatar
 
 frAvatar Déballeur
+/
+uk)Аватар «Розпаковувач»
+$
+jaアバター「開封の儀」
 +
 ru%Аватар «Распаковка».webp
 �
@@ -2105,19 +2105,19 @@ $
 
 enHardcore Fan Avatar
 
-plHardcore Fan Avatar
-
 zhHardcore Fan Avatar
-*
-ja$アバター「根強いファン」
-/
-uk)Аватар «Вболівальник»
+
+plHardcore Fan Avatar
 
 ptHardcore Fan Avatar
 
 esHardcore Fan Avatar
 )
 fr#Avatar du passionné inconditionnel
+/
+uk)Аватар «Вболівальник»
+*
+ja$アバター「根強いファン」
 )
 ru#Аватар «Болельщик».png
 �
@@ -2125,13 +2125,9 @@ $
 
 enRejects Avatar
 
-plRejects Avatar
-
 zhRejects Avatar
-
-jaアバター「Rejects」
-
-ukАватар Rejects
+
+plRejects Avatar
 
 ptRejects Avatar
 
@@ -2139,19 +2135,19 @@ $
 
 frAvatar de Rejects
 
+ukАватар Rejects
+
+jaアバター「Rejects」
+
 ruАватар Rejects.webp
 �
 avatar_ra1d_2020_legendary�
 
 enRA1D Avatar
 
-plRA1D Avatar
-
 zhRA1D Avatar
-
-jaアバター「RA1D」
-
-ukАватар RA1D
+
+plRA1D Avatar
 
 ptRA1D Avatar
 
@@ -2159,19 +2155,19 @@ $
 
 frAvatar de RA1D
 
+ukАватар RA1D
+
+jaアバター「RA1D」
+
 ruАватар RA1D.png
 �
 avatar_bp_24_bundle�
 
 enRover Avatar
 
-plRover Avatar
-
 zhRover Avatar
-
-jaアバター「Rover」
-
-ukАватар Rover
+
+plRover Avatar
 
 ptRover Avatar
 
@@ -2179,25 +2175,29 @@ $
 
 frAvatar du Rover
 
+ukАватар Rover
+
+jaアバター「Rover」
+
 ruАватар Rover.webp
 �
 avatar_progressive_bp_4_paid_4�
 
 enGingerbread Man Avatar
 
-plGingerbread Man Avatar
-
 zhGingerbread Man Avatar
-9
-ja3アバター「ジンジャーブレッドマン」
-:
-uk4Аватар «Імбирний чоловічок»
+
+plGingerbread Man Avatar
 
 ptGingerbread Man Avatar
 
 esGingerbread Man Avatar
 )
 fr#Avatar du Bonhomme en pain d'épice
+:
+uk4Аватар «Імбирний чоловічок»
+9
+ja3アバター「ジンジャーブレッドマン」
 :
 ru4Аватар «Имбирный человечек».png
 �
@@ -2205,19 +2205,19 @@ $
 
 enGingerbread Man Avatar
 
-plGingerbread Man Avatar
-
 zhGingerbread Man Avatar
-9
-ja3アバター「ジンジャーブレッドマン」
-:
-uk4Аватар «Імбирний чоловічок»
+
+plGingerbread Man Avatar
 
 ptGingerbread Man Avatar
 
 esGingerbread Man Avatar
 )
 fr#Avatar du Bonhomme en pain d'épice
+:
+uk4Аватар «Імбирний чоловічок»
+9
+ja3アバター「ジンジャーブレッドマン」
 :
 ru4Аватар «Имбирный человечек».png
 �
@@ -2225,19 +2225,19 @@ $
 
 enGingerbread Man Avatar
 
-plGingerbread Man Avatar
-
 zhGingerbread Man Avatar
-9
-ja3アバター「ジンジャーブレッドマン」
-:
-uk4Аватар «Імбирний чоловічок»
+
+plGingerbread Man Avatar
 
 ptGingerbread Man Avatar
 
 esGingerbread Man Avatar
 )
 fr#Avatar du Bonhomme en pain d'épice
+:
+uk4Аватар «Імбирний чоловічок»
+9
+ja3アバター「ジンジャーブレッドマン」
 :
 ru4Аватар «Имбирный человечек».png
 �
@@ -2247,15 +2247,10 @@ $avatar_progressive_bp_29_ruby_free_1�
 entest
 
 
-pltest
-
-
 zhtest
 
 
-jatest
-*
-uk$avatar_progressive_bp_29_ruby_free_1
+pltest
 
 
 pttest
@@ -2265,6 +2260,11 @@ $avatar_progressive_bp_29_ruby_free_1�
 
 
 frtest
+*
+uk$avatar_progressive_bp_29_ruby_free_1
+
+
+jatest
 2
 ru,Аватар «Упорная борьба».webp
 �
@@ -2272,19 +2272,19 @@ $avatar_progressive_bp_29_ruby_free_1�
 
 enSpace Duck Avatar
 
-plSpace Duck Avatar
-
 zhSpace Duck Avatar
-0
-ja*アバター「スペース・アヒル」
-4
-uk.Аватар «Космічне каченя»
+
+plSpace Duck Avatar
 
 ptSpace Duck Avatar
 
 esSpace Duck Avatar
 
 frAvatar Canard de l'espace
+4
+uk.Аватар «Космічне каченя»
+0
+ja*アバター「スペース・アヒル」
 :
 ru4Аватар «Космическая уточка».webp
 �
@@ -2292,19 +2292,19 @@ $avatar_progressive_bp_29_ruby_free_1�
 "
 enAsuka Enjoji Animated Avatar
 "
-plAsuka Enjoji Animated Avatar
-"
 zhAsuka Enjoji Animated Avatar
-E
-ja?アニメーション付きアバター「円城寺アスカ」
-4
-uk.Анімований аватар Asuka Enjoji
+"
+plAsuka Enjoji Animated Avatar
 "
 ptAsuka Enjoji Animated Avatar
 "
 esAsuka Enjoji Animated Avatar
  
 frAvatar animé Asuka Enjoji
+4
+uk.Анімований аватар Asuka Enjoji
+E
+ja?アニメーション付きアバター「円城寺アスカ」
 :
 ru4Анимированный аватар Asuka Enjoji.webp
 �
@@ -2314,15 +2314,10 @@ $avatar_progressive_bp_29_ruby_free_3�
 entest
 
 
-pltest
-
-
 zhtest
 
 
-jatest
-*
-uk$avatar_progressive_bp_29_ruby_free_3
+pltest
 
 
 pttest
@@ -2332,6 +2327,11 @@ $avatar_progressive_bp_29_ruby_free_3�
 
 
 frtest
+*
+uk$avatar_progressive_bp_29_ruby_free_3
+
+
+jatest
 2
 ru,Аватар «Упорная борьба».webp
 �
@@ -2339,19 +2339,19 @@ $avatar_progressive_bp_29_ruby_free_3�
 :
 en4Аватар «Поворот реальности»
 :
-pl4Аватар «Поворот реальности»
-:
 zh4Аватар «Поворот реальности»
 :
-ja4Аватар «Поворот реальности»
-:
-uk4Аватар «Поворот реальности»
+pl4Аватар «Поворот реальности»
 :
 pt4Аватар «Поворот реальности»
 :
 es4Аватар «Поворот реальности»
 :
 fr4Аватар «Поворот реальности»
+:
+uk4Аватар «Поворот реальности»
+:
+ja4Аватар «Поворот реальности»
 4
 ru.Аватар «Немой проводник».webp
 �
@@ -2361,15 +2361,10 @@ $avatar_progressive_bp_29_ruby_free_4�
 entest
 
 
-pltest
-
-
 zhtest
 
 
-jatest
-*
-uk$avatar_progressive_bp_29_ruby_free_4
+pltest
 
 
 pttest
@@ -2379,6 +2374,11 @@ $avatar_progressive_bp_29_ruby_free_4�
 
 
 frtest
+*
+uk$avatar_progressive_bp_29_ruby_free_4
+
+
+jatest
 2
 ru,Аватар «Упорная борьба».webp
 �
@@ -2386,13 +2386,9 @@ $avatar_progressive_bp_29_ruby_free_4�
 
 enLos JON3S Avatar
 
-plLos JON3S Avatar
-
 zhLos JON3S Avatar
-!
-jaアバター「Los JON3S」
-
-ukАватар Los JON3S
+
+plLos JON3S Avatar
 
 ptLos JON3S Avatar
 
@@ -2400,19 +2396,19 @@ $avatar_progressive_bp_29_ruby_free_4�
 
 frAvatar de Los JON3S
 
+ukАватар Los JON3S
+!
+jaアバター「Los JON3S」
+
 ruАватар Los JON3S.webp
 �
 avatar_topup_may2021_rare�
 
 enTriumphant Avatar
 
-plTriumphant Avatar
-
 zhTriumphant Avatar
-
-jaアバター「勝利」
 
-ukTriumphant Avatar
+plTriumphant Avatar
 
 ptTriumphant Avatar
 
@@ -2420,25 +2416,29 @@ $avatar_progressive_bp_29_ruby_free_4�
 
 frAvatar triomphant
 
+ukTriumphant Avatar
+
+jaアバター「勝利」
+
 ruTriumphant Avatar.webp
 �
 avatar_progressive_bp_33_free_2�
 
 en"Treasure hunt!" Avatar
 
-pl"Treasure hunt!" Avatar
-
 zh"Treasure hunt!" Avatar
-*
-ja$アバター「お宝を求めて」
-?
-uk9Аватар «Полювання за скарбами»
+
+pl"Treasure hunt!" Avatar
 
 pt"Treasure hunt!" Avatar
 
 es"Treasure hunt!" Avatar
 )
 fr#Avatar « Chasse au trésor ! »
+?
+uk9Аватар «Полювання за скарбами»
+*
+ja$アバター「お宝を求めて」
 9
 ru3Аватар «В поисках сокровищ».webp
 �
@@ -2446,13 +2446,9 @@ $avatar_progressive_bp_29_ruby_free_4�
 
 enGingerbread Man Avatar
 
-plGingerbread Man Avatar
-
 zhGingerbread Man Avatar
-9
-ja3アバター「ジンジャーブレッドマン」
-:
-uk4Аватар «Імбирний чоловічок»
+
+plGingerbread Man Avatar
 
 ptGingerbread Man Avatar
 
@@ -2460,25 +2456,29 @@ $avatar_progressive_bp_29_ruby_free_4�
 )
 fr#Avatar du Bonhomme en pain d'épice
 :
+uk4Аватар «Імбирний чоловічок»
+9
+ja3アバター「ジンジャーブレッドマン」
+:
 ru4Аватар «Имбирный человечек».png
 �
 avatar_progressive_bp_63_free_1�
 
 enOlde Messenger Avatar
 
-plOlde Messenger Avatar
-
 zhOlde Messenger Avatar
-0
-ja*アバター「旧き刻からの使者」
-?
-uk9Аватар «Посланець із минулого»
+
+plOlde Messenger Avatar
 
 ptOlde Messenger Avatar
 
 esOlde Messenger Avatar
 
 frAvatar Messager antique
+?
+uk9Аватар «Посланець із минулого»
+0
+ja*アバター「旧き刻からの使者」
 %
 ruАватар «Вестник».webp
 �
@@ -2487,15 +2487,11 @@ $avatar_progressive_bp_29_ruby_free_4�
 en
 Dab Avatar
 
-pl
-Dab Avatar
-
 zh
 Dab Avatar
-
-jaアバター「Dab」
-
-ukАватар Dab
+
+pl
+Dab Avatar
 
 pt
 Dab Avatar
@@ -2505,6 +2501,10 @@ Dab Avatar
 
 fr
 Avatar Dab
+
+ukАватар Dab
+
+jaアバター「Dab」
 
 ruАватар Dab.webp
 �
@@ -2513,15 +2513,11 @@ Avatar Dab
 en
 Dab Avatar
 
-pl
-Dab Avatar
-
 zh
 Dab Avatar
-
-jaアバター「Dab」
-
-ukАватар Dab
+
+pl
+Dab Avatar
 
 pt
 Dab Avatar
@@ -2532,25 +2528,29 @@ Dab Avatar
 fr
 Avatar Dab
 
+ukАватар Dab
+
+jaアバター「Dab」
+
 ruАватар Dab.webp
 �
 avatar_progressive_bp_63_free_3�
 
 enOlde Messenger Avatar
 
-plOlde Messenger Avatar
-
 zhOlde Messenger Avatar
-0
-ja*アバター「旧き刻からの使者」
-?
-uk9Аватар «Посланець із минулого»
+
+plOlde Messenger Avatar
 
 ptOlde Messenger Avatar
 
 esOlde Messenger Avatar
 
 frAvatar Messager antique
+?
+uk9Аватар «Посланець із минулого»
+0
+ja*アバター「旧き刻からの使者」
 %
 ruАватар «Вестник».webp
 �
@@ -2558,19 +2558,19 @@ Avatar Dab
 
 enOlde Messenger Avatar
 
-plOlde Messenger Avatar
-
 zhOlde Messenger Avatar
-0
-ja*アバター「旧き刻からの使者」
-?
-uk9Аватар «Посланець із минулого»
+
+plOlde Messenger Avatar
 
 ptOlde Messenger Avatar
 
 esOlde Messenger Avatar
 
 frAvatar Messager antique
+?
+uk9Аватар «Посланець із минулого»
+0
+ja*アバター「旧き刻からの使者」
 %
 ruАватар «Вестник».webp
 �
@@ -2578,13 +2578,9 @@ Avatar Dab
 
 en行动的头像1
 
-pl行动的头像1
-
 zh行动的头像1
 
-ja行动的头像1
-
-uk行动的头像1
+pl行动的头像1
 
 pt行动的头像1
 
@@ -2592,19 +2588,19 @@ Avatar Dab
 
 fr行动的头像1
 
+uk行动的头像1
+
+ja行动的头像1
+
 ru行动的头像1.webp
 �
 avatar_bp_14_bundle�
 
 enTitan Avatar
 
-plTitan Avatar
-
 zhTitan Avatar
-
-jaアバター「Titan」
-
-ukАватар Titan
+
+plTitan Avatar
 
 ptTitan Avatar
 
@@ -2612,19 +2608,19 @@ Avatar Dab
 
 frAvatar Titan
 
+ukАватар Titan
+
+jaアバター「Titan」
+
 ruАватар Titan.webp
 �
 $avatar_progressive_bp_38_ruby_free_2�
 <
 en6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
-pl6storage/Items/avatar_progressive_bp_38_ruby_free/Title
-<
 zh6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
-ja6storage/Items/avatar_progressive_bp_38_ruby_free/Title
-<
-uk6storage/Items/avatar_progressive_bp_38_ruby_free/Title
+pl6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
 pt6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
@@ -2632,19 +2628,19 @@ $avatar_progressive_bp_38_ruby_free_2�
 <
 fr6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
+uk6storage/Items/avatar_progressive_bp_38_ruby_free/Title
+<
+ja6storage/Items/avatar_progressive_bp_38_ruby_free/Title
+<
 ru6storage/Items/avatar_progressive_bp_38_ruby_free/Title.webp
 �
 "avatar_EU_SEREN1TYUNITED_legendary�
 
 enSEREN1TY UNITED Avatar
 
-plSEREN1TY UNITED Avatar
-
 zhSEREN1TY UNITED Avatar
-'
-ja!アバター「SEREN1TY UNITED」
-"
-ukАватар SEREN1TY UNITED
+
+plSEREN1TY UNITED Avatar
 
 ptSEREN1TY UNITED Avatar
 
@@ -2652,19 +2648,19 @@ $avatar_progressive_bp_38_ruby_free_2�
 
 frAvatar de SEREN1TY UNITED
 "
+ukАватар SEREN1TY UNITED
+'
+ja!アバター「SEREN1TY UNITED」
+"
 ruАватар SEREN1TY UNITED.webp
 �
 $avatar_progressive_bp_39_ruby_paid_6�
 >
 en8storage/Items/avatar_progressive_bp_39_ruby_paid_6/Title
 >
-pl8storage/Items/avatar_progressive_bp_39_ruby_paid_6/Title
->
 zh8storage/Items/avatar_progressive_bp_39_ruby_paid_6/Title
 >
-ja8storage/Items/avatar_progressive_bp_39_ruby_paid_6/Title
->
-uk8storage/Items/avatar_progressive_bp_39_ruby_paid_6/Title
+pl8storage/Items/avatar_progressive_bp_39_ruby_paid_6/Title
 >
 pt8storage/Items/avatar_progressive_bp_39_ruby_paid_6/Title
 >
@@ -2672,25 +2668,29 @@ $avatar_progressive_bp_39_ruby_paid_6�
 >
 fr8storage/Items/avatar_progressive_bp_39_ruby_paid_6/Title
 >
+uk8storage/Items/avatar_progressive_bp_39_ruby_paid_6/Title
+>
+ja8storage/Items/avatar_progressive_bp_39_ruby_paid_6/Title
+>
 ru8storage/Items/avatar_progressive_bp_39_ruby_paid_6/Title.webp
 �
 avatar_ny_mini_anim�
 !
 enIce Compass Animated Avatar
 !
-plIce Compass Animated Avatar
-!
 zhIce Compass Animated Avatar
-B
-ja<アニメーション付きアバター「氷の羅針盤」
-I
-ukCАнімований аватар «Крижаний компас»
+!
+plIce Compass Animated Avatar
 !
 ptIce Compass Animated Avatar
 !
 esIce Compass Animated Avatar
 %
 frAvatar animé Boussole de glace
+I
+ukCАнімований аватар «Крижаний компас»
+B
+ja<アニメーション付きアバター「氷の羅針盤」
 M
 ruGАнимированный аватар «Ледяной компас».webp
 �
@@ -2698,13 +2698,9 @@ $avatar_progressive_bp_39_ruby_paid_5�
 >
 en8storage/Items/avatar_progressive_bp_39_ruby_paid_5/Title
 >
-pl8storage/Items/avatar_progressive_bp_39_ruby_paid_5/Title
->
 zh8storage/Items/avatar_progressive_bp_39_ruby_paid_5/Title
 >
-ja8storage/Items/avatar_progressive_bp_39_ruby_paid_5/Title
->
-uk8storage/Items/avatar_progressive_bp_39_ruby_paid_5/Title
+pl8storage/Items/avatar_progressive_bp_39_ruby_paid_5/Title
 >
 pt8storage/Items/avatar_progressive_bp_39_ruby_paid_5/Title
 >
@@ -2712,25 +2708,29 @@ $avatar_progressive_bp_39_ruby_paid_5�
 >
 fr8storage/Items/avatar_progressive_bp_39_ruby_paid_5/Title
 >
+uk8storage/Items/avatar_progressive_bp_39_ruby_paid_5/Title
+>
+ja8storage/Items/avatar_progressive_bp_39_ruby_paid_5/Title
+>
 ru8storage/Items/avatar_progressive_bp_39_ruby_paid_5/Title.webp
 �
 avatar_progressive_bp_66_paid_6�
 
 enOverdrive Avatar
 
-plOverdrive Avatar
-
 zhOverdrive Avatar
-0
-ja*アバター「オーバードライブ」
-#
-ukАватар «Форсаж»
+
+plOverdrive Avatar
 
 ptOverdrive Avatar
 
 esOverdrive Avatar
 
 frAvatar Surmultiplication
+#
+ukАватар «Форсаж»
+0
+ja*アバター「オーバードライブ」
 )
 ru#Аватар «Овердрайв».webp
 �
@@ -2738,13 +2738,9 @@ $avatar_progressive_bp_39_ruby_paid_1�
 >
 en8storage/Items/avatar_progressive_bp_39_ruby_paid_1/Title
 >
-pl8storage/Items/avatar_progressive_bp_39_ruby_paid_1/Title
->
 zh8storage/Items/avatar_progressive_bp_39_ruby_paid_1/Title
 >
-ja8storage/Items/avatar_progressive_bp_39_ruby_paid_1/Title
->
-uk8storage/Items/avatar_progressive_bp_39_ruby_paid_1/Title
+pl8storage/Items/avatar_progressive_bp_39_ruby_paid_1/Title
 >
 pt8storage/Items/avatar_progressive_bp_39_ruby_paid_1/Title
 >
@@ -2752,25 +2748,29 @@ $avatar_progressive_bp_39_ruby_paid_1�
 >
 fr8storage/Items/avatar_progressive_bp_39_ruby_paid_1/Title
 >
+uk8storage/Items/avatar_progressive_bp_39_ruby_paid_1/Title
+>
+ja8storage/Items/avatar_progressive_bp_39_ruby_paid_1/Title
+>
 ru8storage/Items/avatar_progressive_bp_39_ruby_paid_1/Title.webp
 �
 avatar_progressive_bp_66_paid_4�
 
 enOverdrive Avatar
 
-plOverdrive Avatar
-
 zhOverdrive Avatar
-0
-ja*アバター「オーバードライブ」
-#
-ukАватар «Форсаж»
+
+plOverdrive Avatar
 
 ptOverdrive Avatar
 
 esOverdrive Avatar
 
 frAvatar Surmultiplication
+#
+ukАватар «Форсаж»
+0
+ja*アバター「オーバードライブ」
 )
 ru#Аватар «Овердрайв».webp
 �
@@ -2778,13 +2778,9 @@ $avatar_progressive_bp_39_ruby_paid_1�
 4
 en.Анимированный аватар 7STARS
 4
-pl.Анимированный аватар 7STARS
-4
 zh.Анимированный аватар 7STARS
 4
-ja.Анимированный аватар 7STARS
-4
-uk.Анимированный аватар 7STARS
+pl.Анимированный аватар 7STARS
 4
 pt.Анимированный аватар 7STARS
 4
@@ -2792,25 +2788,29 @@ $avatar_progressive_bp_39_ruby_paid_1�
 4
 fr.Анимированный аватар 7STARS
 4
+uk.Анимированный аватар 7STARS
+4
+ja.Анимированный аватар 7STARS
+4
 ru.Анимированный аватар 7STARS.webp
 �
 avatar_progressive_bp_66_paid_3�
 
 enOverdrive Avatar
 
-plOverdrive Avatar
-
 zhOverdrive Avatar
-0
-ja*アバター「オーバードライブ」
-#
-ukАватар «Форсаж»
+
+plOverdrive Avatar
 
 ptOverdrive Avatar
 
 esOverdrive Avatar
 
 frAvatar Surmultiplication
+#
+ukАватар «Форсаж»
+0
+ja*アバター「オーバードライブ」
 )
 ru#Аватар «Овердрайв».webp
 �
@@ -2818,19 +2818,19 @@ $avatar_progressive_bp_39_ruby_paid_1�
 
 enNeon Lynx Avatar
 
-plNeon Lynx Avatar
-
 zhNeon Lynx Avatar
--
-ja'アバター「ネオンヤマネコ」
-.
-uk(Аватар «Неонова рись»
+
+plNeon Lynx Avatar
 
 ptNeon Lynx Avatar
 
 esNeon Lynx Avatar
 
 frAvatar Neon Lynx
+.
+uk(Аватар «Неонова рись»
+-
+ja'アバター「ネオンヤマネコ」
 0
 ru*Аватар «Неоновая рысь».webp
 �
@@ -2838,19 +2838,19 @@ $avatar_progressive_bp_39_ruby_paid_1�
 
 enIrish Luck Avatar
 
-plIrish Luck Avatar
-
 zhIrish Luck Avatar
-3
-ja-アバター「アイルランドの幸運」
-)
-uk#Аватар «Щасливчик»
+
+plIrish Luck Avatar
 
 ptIrish Luck Avatar
 
 esIrish Luck Avatar
 (
 fr"Avatar de la chance de l'Irlandais
+)
+uk#Аватар «Щасливчик»
+3
+ja-アバター「アイルランドの幸運」
 -
 ru'Аватар «Счастливчик».png
 �
@@ -2858,19 +2858,19 @@ $avatar_progressive_bp_39_ruby_paid_4�
 >
 en8storage/Items/avatar_progressive_bp_39_ruby_paid_4/Title
 >
-pl8storage/Items/avatar_progressive_bp_39_ruby_paid_4/Title
->
 zh8storage/Items/avatar_progressive_bp_39_ruby_paid_4/Title
 >
-ja8storage/Items/avatar_progressive_bp_39_ruby_paid_4/Title
->
-uk8storage/Items/avatar_progressive_bp_39_ruby_paid_4/Title
+pl8storage/Items/avatar_progressive_bp_39_ruby_paid_4/Title
 >
 pt8storage/Items/avatar_progressive_bp_39_ruby_paid_4/Title
 >
 es8storage/Items/avatar_progressive_bp_39_ruby_paid_4/Title
 >
 fr8storage/Items/avatar_progressive_bp_39_ruby_paid_4/Title
+>
+uk8storage/Items/avatar_progressive_bp_39_ruby_paid_4/Title
+>
+ja8storage/Items/avatar_progressive_bp_39_ruby_paid_4/Title
 >
 ru8storage/Items/avatar_progressive_bp_39_ruby_paid_4/Title.webp
 �
@@ -2880,15 +2880,10 @@ $avatar_progressive_bp_29_ruby_paid_1�
 entest
 
 
-pltest
-
-
 zhtest
 
 
-jatest
-*
-uk$avatar_progressive_bp_29_ruby_paid_1
+pltest
 
 
 pttest
@@ -2898,6 +2893,11 @@ $avatar_progressive_bp_29_ruby_paid_1�
 
 
 frtest
+*
+uk$avatar_progressive_bp_29_ruby_paid_1
+
+
+jatest
 -
 ru'Аватар «Наблюдатель».webp
 �
@@ -2905,19 +2905,19 @@ $avatar_progressive_bp_29_ruby_paid_1�
 
 enTeam ICFC Fan Avatar
 
-plTeam ICFC Fan Avatar
-
 zhTeam ICFC Fan Avatar
-+
-ja%アバター「Team ICFC ファン」
-9
-uk3Аватар «Вболівальник Team ICFC»
+
+plTeam ICFC Fan Avatar
 
 ptTeam ICFC Fan Avatar
 
 esTeam ICFC Fan Avatar
 '
 fr!Avatar du passionné de Team ICFC
+9
+uk3Аватар «Вболівальник Team ICFC»
++
+ja%アバター「Team ICFC ファン」
 3
 ru-Аватар «Болельщик Team ICFC».webp
 �
@@ -2925,19 +2925,19 @@ $avatar_progressive_bp_29_ruby_paid_1�
 
 enShort Fuse Avatar
 
-plShort Fuse Avatar
-
 zhShort Fuse Avatar
-$
-jaアバター「一触即発」
-6
-uk0Аватар «Вибуховий снаряд»
+
+plShort Fuse Avatar
 
 ptShort Fuse Avatar
 
 esShort Fuse Avatar
 
 frAvatar de soupe au lait
+6
+uk0Аватар «Вибуховий снаряд»
+$
+jaアバター「一触即発」
 4
 ru.Аватар «Взрывной снаряд».png
 �
@@ -2945,19 +2945,19 @@ $
 
 enOverdrive Avatar
 
-plOverdrive Avatar
-
 zhOverdrive Avatar
-0
-ja*アバター「オーバードライブ」
-#
-ukАватар «Форсаж»
+
+plOverdrive Avatar
 
 ptOverdrive Avatar
 
 esOverdrive Avatar
 
 frAvatar Surmultiplication
+#
+ukАватар «Форсаж»
+0
+ja*アバター「オーバードライブ」
 )
 ru#Аватар «Овердрайв».webp
 �
@@ -2965,13 +2965,9 @@ $
 
 enReign Avatar
 
-plReign Avatar
-
 zhReign Avatar
-
-jaアバター「Reign」
-
-ukАватар REIGN
+
+plReign Avatar
 
 ptReign Avatar
 
@@ -2979,25 +2975,29 @@ $
 
 frAvatar de Reign
 
+ukАватар REIGN
+
+jaアバター「Reign」
+
 ruАватар Reign.webp
 �
 avatar_progressive_bp_64_paid_5�
 
 enSquad Essentials Avatar
 
-plSquad Essentials Avatar
-
 zhSquad Essentials Avatar
-*
-ja$アバター「部隊の必需品」
-0
-uk*Аватар «Усе необхідне»
+
+plSquad Essentials Avatar
 
 ptSquad Essentials Avatar
 
 esSquad Essentials Avatar
 
 frAvatar Besoins du groupe
+0
+uk*Аватар «Усе необхідне»
+*
+ja$アバター「部隊の必需品」
 :
 ru4Аватар «Базовое снаряжение».webp
 �
@@ -3005,19 +3005,19 @@ $
 
 enSecret Ingredient Avatar
 
-plSecret Ingredient Avatar
-
 zhSecret Ingredient Avatar
-*
-ja$アバター「おいしい秘訣」
->
-uk8Аватар «Секретний інгредієнт»
+
+plSecret Ingredient Avatar
 
 ptSecret Ingredient Avatar
 
 esSecret Ingredient Avatar
 
 frAvatar Ingrédient secret
+>
+uk8Аватар «Секретний інгредієнт»
+*
+ja$アバター「おいしい秘訣」
 >
 ru8Аватар «Секретный ингредиент».webp
 �
@@ -3025,19 +3025,19 @@ $
 
 enSecret Ingredient Avatar
 
-plSecret Ingredient Avatar
-
 zhSecret Ingredient Avatar
-*
-ja$アバター「おいしい秘訣」
->
-uk8Аватар «Секретний інгредієнт»
+
+plSecret Ingredient Avatar
 
 ptSecret Ingredient Avatar
 
 esSecret Ingredient Avatar
 
 frAvatar Ingrédient secret
+>
+uk8Аватар «Секретний інгредієнт»
+*
+ja$アバター「おいしい秘訣」
 >
 ru8Аватар «Секретный ингредиент».webp
 �
@@ -3045,19 +3045,19 @@ $
 
 enSecret Ingredient Avatar
 
-plSecret Ingredient Avatar
-
 zhSecret Ingredient Avatar
-*
-ja$アバター「おいしい秘訣」
->
-uk8Аватар «Секретний інгредієнт»
+
+plSecret Ingredient Avatar
 
 ptSecret Ingredient Avatar
 
 esSecret Ingredient Avatar
 
 frAvatar Ingrédient secret
+>
+uk8Аватар «Секретний інгредієнт»
+*
+ja$アバター「おいしい秘訣」
 >
 ru8Аватар «Секретный ингредиент».webp
 �
@@ -3065,13 +3065,9 @@ $
 
 enSecret Ingredient Avatar
 
-plSecret Ingredient Avatar
-
 zhSecret Ingredient Avatar
-*
-ja$アバター「おいしい秘訣」
->
-uk8Аватар «Секретний інгредієнт»
+
+plSecret Ingredient Avatar
 
 ptSecret Ingredient Avatar
 
@@ -3079,19 +3075,19 @@ $
 
 frAvatar Ingrédient secret
 >
+uk8Аватар «Секретний інгредієнт»
+*
+ja$アバター「おいしい秘訣」
+>
 ru8Аватар «Секретный ингредиент».webp
 �
 avatar_strawberry_common_168h�
 
 enBerry Crush Avatar
 
-plBerry Crush Avatar
-
 zhBerry Crush Avatar
-0
-ja*アバター「ベリークラッシュ」
-0
-uk*Аватар «Ягідний вибух»
+
+plBerry Crush Avatar
 
 ptBerry Crush Avatar
 
@@ -3099,25 +3095,29 @@ $
 #
 frAvatar de la fraise écrasée
 0
+uk*Аватар «Ягідний вибух»
+0
+ja*アバター「ベリークラッシュ」
+0
 ru*Аватар «Ягодный взрыв».png
 �
 avatar_possum_rare_14d�
 
 enOpossum Fatale Avatar
 
-plOpossum Fatale Avatar
-
 zhOpossum Fatale Avatar
-0
-ja*アバター「宿命のオポッサム」
-,
-uk&Аватар «Опосум долі»
+
+plOpossum Fatale Avatar
 
 ptOpossum Fatale Avatar
 
 esOpossum Fatale Avatar
 
 frAvatar Opossum branché
+,
+uk&Аватар «Опосум долі»
+0
+ja*アバター「宿命のオポッサム」
 2
 ru,Аватар «Опоссум судьбы».webp
 �
@@ -3125,19 +3125,19 @@ $
 
 enGood Night Avatar
 
-plGood Night Avatar
-
 zhGood Night Avatar
-'
-ja!アバター「良い夢を…」
-,
-uk&Аватар «На добраніч»
+
+plGood Night Avatar
 
 ptGood Night Avatar
 
 esGood Night Avatar
 
 frAvatar Bonne nuit
+,
+uk&Аватар «На добраніч»
+'
+ja!アバター「良い夢を…」
 2
 ru,Аватар «Спокойной ночи».webp
 �
@@ -3145,19 +3145,19 @@ $
 
 enGood Night Avatar
 
-plGood Night Avatar
-
 zhGood Night Avatar
-'
-ja!アバター「良い夢を…」
-,
-uk&Аватар «На добраніч»
+
+plGood Night Avatar
 
 ptGood Night Avatar
 
 esGood Night Avatar
 
 frAvatar Bonne nuit
+,
+uk&Аватар «На добраніч»
+'
+ja!アバター「良い夢を…」
 2
 ru,Аватар «Спокойной ночи».webp
 �
@@ -3165,19 +3165,19 @@ $
 
 enGood Night Avatar
 
-plGood Night Avatar
-
 zhGood Night Avatar
-'
-ja!アバター「良い夢を…」
-,
-uk&Аватар «На добраніч»
+
+plGood Night Avatar
 
 ptGood Night Avatar
 
 esGood Night Avatar
 
 frAvatar Bonne nuit
+,
+uk&Аватар «На добраніч»
+'
+ja!アバター「良い夢を…」
 2
 ru,Аватар «Спокойной ночи».webp
 �
@@ -3185,19 +3185,19 @@ $
 
 enGood Night Avatar
 
-plGood Night Avatar
-
 zhGood Night Avatar
-'
-ja!アバター「良い夢を…」
-,
-uk&Аватар «На добраніч»
+
+plGood Night Avatar
 
 ptGood Night Avatar
 
 esGood Night Avatar
 
 frAvatar Bonne nuit
+,
+uk&Аватар «На добраніч»
+'
+ja!アバター「良い夢を…」
 2
 ru,Аватар «Спокойной ночи».webp
 �
@@ -3205,19 +3205,19 @@ $
 
 enNeon Lynx Avatar
 
-plNeon Lynx Avatar
-
 zhNeon Lynx Avatar
--
-ja'アバター「ネオンヤマネコ」
-.
-uk(Аватар «Неонова рись»
+
+plNeon Lynx Avatar
 
 ptNeon Lynx Avatar
 
 esNeon Lynx Avatar
 
 frAvatar Neon Lynx
+.
+uk(Аватар «Неонова рись»
+-
+ja'アバター「ネオンヤマネコ」
 0
 ru*Аватар «Неоновая рысь».webp
 �
@@ -3225,19 +3225,19 @@ $
 
 enGood Night Avatar
 
-plGood Night Avatar
-
 zhGood Night Avatar
-'
-ja!アバター「良い夢を…」
-,
-uk&Аватар «На добраніч»
+
+plGood Night Avatar
 
 ptGood Night Avatar
 
 esGood Night Avatar
 
 frAvatar Bonne nuit
+,
+uk&Аватар «На добраніч»
+'
+ja!アバター「良い夢を…」
 2
 ru,Аватар «Спокойной ночи».webp
 �
@@ -3245,19 +3245,19 @@ $
 
 enPro Player Avatar
 
-plPro Player Avatar
-
 zhPro Player Avatar
--
-ja'アバター「プロプレイヤー」
--
-uk'Аватар «Професіонал»
+
+plPro Player Avatar
 
 ptPro Player Avatar
 
 esPro Player Avatar
 $
 frAvatar du joueur professionnel
+-
+uk'Аватар «Професіонал»
+-
+ja'アバター「プロプレイヤー」
 /
 ru)Аватар «Профессионал».webp
 �
@@ -3265,13 +3265,9 @@ $
 
 en行动的头像1
 
-pl行动的头像1
-
 zh行动的头像1
 
-ja行动的头像1
-
-uk行动的头像1
+pl行动的头像1
 
 pt行动的头像1
 
@@ -3279,19 +3275,19 @@ $
 
 fr行动的头像1
 
+uk行动的头像1
+
+ja行动的头像1
+
 ru行动的头像1.webp
 �
 $avatar_progressive_bp_38_ruby_free_1�
 <
 en6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
-pl6storage/Items/avatar_progressive_bp_38_ruby_free/Title
-<
 zh6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
-ja6storage/Items/avatar_progressive_bp_38_ruby_free/Title
-<
-uk6storage/Items/avatar_progressive_bp_38_ruby_free/Title
+pl6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
 pt6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
@@ -3299,25 +3295,29 @@ $avatar_progressive_bp_38_ruby_free_1�
 <
 fr6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
+uk6storage/Items/avatar_progressive_bp_38_ruby_free/Title
+<
+ja6storage/Items/avatar_progressive_bp_38_ruby_free/Title
+<
 ru6storage/Items/avatar_progressive_bp_38_ruby_free/Title.webp
 �
 avatar_2024_villa_1_anim�
 "
 enKoseki Bijou Animated Avatar
 "
-plKoseki Bijou Animated Avatar
-"
 zhKoseki Bijou Animated Avatar
-E
-ja?アニメーション付きアバター「古石ビジュー」
-4
-uk.Анімований аватар Koseki Bijou
+"
+plKoseki Bijou Animated Avatar
 "
 ptKoseki Bijou Animated Avatar
 "
 esKoseki Bijou Animated Avatar
  
 frAvatar animé Koseki Bijou
+4
+uk.Анімований аватар Koseki Bijou
+E
+ja?アニメーション付きアバター「古石ビジュー」
 :
 ru4Анимированный аватар Koseki Bijou.webp
 �
@@ -3325,19 +3325,19 @@ E
 
 enPro Player Avatar
 
-plPro Player Avatar
-
 zhPro Player Avatar
--
-ja'アバター「プロプレイヤー」
--
-uk'Аватар «Професіонал»
+
+plPro Player Avatar
 
 ptPro Player Avatar
 
 esPro Player Avatar
 $
 frAvatar du joueur professionnel
+-
+uk'Аватар «Професіонал»
+-
+ja'アバター「プロプレイヤー」
 /
 ru)Аватар «Профессионал».webp
 �
@@ -3345,19 +3345,19 @@ $
 
 enCaesar Avatar
 
-plCaesar Avatar
-
 zhCaesar Avatar
-$
-jaアバター「カエサル」
-!
-ukАватар «Цезар»
+
+plCaesar Avatar
 
 ptCaesar Avatar
 
 esCaesar Avatar
 
 frAvatar de César
+!
+ukАватар «Цезар»
+$
+jaアバター「カエサル」
 #
 ruАватар «Цезарь».png
 �
@@ -3365,19 +3365,19 @@ $
 
 enSquad Essentials Avatar
 
-plSquad Essentials Avatar
-
 zhSquad Essentials Avatar
-*
-ja$アバター「部隊の必需品」
-0
-uk*Аватар «Усе необхідне»
+
+plSquad Essentials Avatar
 
 ptSquad Essentials Avatar
 
 esSquad Essentials Avatar
 
 frAvatar Besoins du groupe
+0
+uk*Аватар «Усе необхідне»
+*
+ja$アバター「部隊の必需品」
 :
 ru4Аватар «Базовое снаряжение».webp
 �
@@ -3385,19 +3385,19 @@ $
 !
 enLet's Get Mechanical Avatar
 !
-plLet's Get Mechanical Avatar
-!
 zhLet's Get Mechanical Avatar
-0
-ja*アバター「メカニックの出番」
-G
-ukAАватар «Візьмімося за інструменти»
+!
+plLet's Get Mechanical Avatar
 !
 ptLet's Get Mechanical Avatar
 !
 esLet's Get Mechanical Avatar
 %
 frAvatar Faisons de la mécanique
+G
+ukAАватар «Візьмімося за інструменти»
+0
+ja*アバター「メカニックの出番」
 @
 ru:Аватар «Пора механизироваться».webp
 �
@@ -3405,13 +3405,9 @@ G
 *
 en$Аватар «6 лет побед»
 *
-pl$Аватар «6 лет побед»
-*
 zh$Аватар «6 лет побед»
 *
-ja$Аватар «6 лет побед»
-*
-uk$Аватар «6 лет побед»
+pl$Аватар «6 лет побед»
 *
 pt$Аватар «6 лет побед»
 *
@@ -3419,25 +3415,29 @@ G
 *
 fr$Аватар «6 лет побед»
 *
+uk$Аватар «6 лет побед»
+*
+ja$Аватар «6 лет побед»
+*
 ru$Аватар «6 лет побед».webp
 �
 avatar_bp_48_bundle�
 
 enSpeedfire Avatar
 
-plSpeedfire Avatar
-
 zhSpeedfire Avatar
-!
-jaアバター「Speedfire」
-8
-uk2Аватар «Швидкісний вогонь»
+
+plSpeedfire Avatar
 
 ptSpeedfire Avatar
 
 esSpeedfire Avatar
 
 frAvatar Speedfire
+8
+uk2Аватар «Швидкісний вогонь»
+!
+jaアバター「Speedfire」
 
 ruАватар Speedfire.webp
 �
@@ -3445,13 +3445,9 @@ G
 
 enBard Avatar
 
-plBard Avatar
-
 zhBard Avatar
-
-jaアバター「Bard」
-
-ukАватар «Бард»
+
+plBard Avatar
 
 ptBard Avatar
 
@@ -3459,25 +3455,29 @@ G
 
 frAvatar Barde
 
+ukАватар «Бард»
+
+jaアバター「Bard」
+
 ruАватар «Бард».webp
 �
 avatar_sky_lantern_ver1�
 
 enLantern Avatar
 
-plLantern Avatar
-
 zhLantern Avatar
-
-jaアバター「提灯」
-#
-ukАватар «Ліхтар»
+
+plLantern Avatar
 
 ptLantern Avatar
 
 esLantern Avatar
 
 frAvatar Lanterne
+#
+ukАватар «Ліхтар»
+
+jaアバター「提灯」
 %
 ruАватар «Фонарик».png
 �
@@ -3485,19 +3485,19 @@ G
 
 enFriendship Avatar
 
-plFriendship Avatar
-
 zhFriendship Avatar
-
-jaアバター「友情」
-1
-uk+Аватар «На знак дружби»
+
+plFriendship Avatar
 
 ptFriendship Avatar
 
 esFriendship Avatar
 
 frAvatar de l'amitié
+1
+uk+Аватар «На знак дружби»
+
+jaアバター「友情」
 /
 ru)Аватар «В знак дружбы».png
 �
@@ -3505,19 +3505,19 @@ G
 
 enSnowman Avatar
 
-plSnowman Avatar
-
 zhSnowman Avatar
-$
-jaアバター「ゆきまる」
-+
-uk%Аватар «Сніговичок»
+
+plSnowman Avatar
 
 ptSnowman Avatar
 
 esSnowman Avatar
 !
 frAvatar de bonhomme de neige
++
+uk%Аватар «Сніговичок»
+$
+jaアバター「ゆきまる」
 +
 ru%Аватар «Снеговичок».webp
 �
@@ -3525,13 +3525,9 @@ $
 
 enSnowman Avatar
 
-plSnowman Avatar
-
 zhSnowman Avatar
-$
-jaアバター「ゆきまる」
-+
-uk%Аватар «Сніговичок»
+
+plSnowman Avatar
 
 ptSnowman Avatar
 
@@ -3539,19 +3535,19 @@ $
 !
 frAvatar de bonhomme de neige
 +
+uk%Аватар «Сніговичок»
+$
+jaアバター「ゆきまる」
++
 ru%Аватар «Снеговичок».webp
 �
 avatar_BlitzXCup24_SG_RISQ_leg�
 
 enx X x Avatar
 
-plx X x Avatar
-
 zhx X x Avatar
-
-jaアバター「x X x」
-
-ukАватар x X x
+
+plx X x Avatar
 
 ptx X x Avatar
 
@@ -3559,25 +3555,29 @@ $
 
 frAvatar de x X x
 
+ukАватар x X x
+
+jaアバター「x X x」
+
 ruАватар x X x.webp
 �
 avatar_progressive_bp_70_free_1�
 
 enPsifidota Zoa Avatar
 
-plPsifidota Zoa Avatar
-
 zhPsifidota Zoa Avatar
-6
-ja0アバター「プシフィドータ・ゾア」
- 
-ukАватар Psifidota Zoa
+
+plPsifidota Zoa Avatar
 
 ptPsifidota Zoa Avatar
 
 esPsifidota Zoa Avatar
 
 frAvatar Psifidota Zoa
+ 
+ukАватар Psifidota Zoa
+6
+ja0アバター「プシフィドータ・ゾア」
 +
 ru%Аватар «Зоомозаика».webp
 �
@@ -3585,19 +3585,19 @@ $
 
 enPsifidota Zoa Avatar
 
-plPsifidota Zoa Avatar
-
 zhPsifidota Zoa Avatar
-6
-ja0アバター「プシフィドータ・ゾア」
- 
-ukАватар Psifidota Zoa
+
+plPsifidota Zoa Avatar
 
 ptPsifidota Zoa Avatar
 
 esPsifidota Zoa Avatar
 
 frAvatar Psifidota Zoa
+ 
+ukАватар Psifidota Zoa
+6
+ja0アバター「プシフィドータ・ゾア」
 +
 ru%Аватар «Зоомозаика».webp
 �
@@ -3605,19 +3605,19 @@ $
 
 enForged in Battle Avatar
 
-plForged in Battle Avatar
-
 zhForged in Battle Avatar
-$
-jaアバター「百戦錬磨」
-<
-uk6Аватар «Бойове загартування»
+
+plForged in Battle Avatar
 
 ptForged in Battle Avatar
 
 esForged in Battle Avatar
 
 frAvatar Forgé au combat
+<
+uk6Аватар «Бойове загартування»
+$
+jaアバター「百戦錬磨」
 2
 ru,Аватар «Боевая закалка».png
 �
@@ -3625,19 +3625,19 @@ $
 
 enForged in Battle Avatar
 
-plForged in Battle Avatar
-
 zhForged in Battle Avatar
-$
-jaアバター「百戦錬磨」
-<
-uk6Аватар «Бойове загартування»
+
+plForged in Battle Avatar
 
 ptForged in Battle Avatar
 
 esForged in Battle Avatar
 
 frAvatar Forgé au combat
+<
+uk6Аватар «Бойове загартування»
+$
+jaアバター「百戦錬磨」
 2
 ru,Аватар «Боевая закалка».png
 �
@@ -3645,19 +3645,19 @@ $
 
 enForged in Battle Avatar
 
-plForged in Battle Avatar
-
 zhForged in Battle Avatar
-$
-jaアバター「百戦錬磨」
-<
-uk6Аватар «Бойове загартування»
+
+plForged in Battle Avatar
 
 ptForged in Battle Avatar
 
 esForged in Battle Avatar
 
 frAvatar Forgé au combat
+<
+uk6Аватар «Бойове загартування»
+$
+jaアバター「百戦錬磨」
 2
 ru,Аватар «Боевая закалка».png
 �
@@ -3665,19 +3665,19 @@ $
 
 enRobert Kitt Avatar
 
-plRobert Kitt Avatar
-
 zhRobert Kitt Avatar
-0
-ja*アバター「ロバート・キット」
-,
-uk&Аватар «Роберт Кітт»
+
+plRobert Kitt Avatar
 
 ptRobert Kitt Avatar
 
 esRobert Kitt Avatar
 
 frAvatar Robert Kitt
+,
+uk&Аватар «Роберт Кітт»
+0
+ja*アバター「ロバート・キット」
 ,
 ru&Аватар «Роберт Китт».webp
 �
@@ -3685,13 +3685,9 @@ $
 
 en#RBYT22 Winner
 
-pl#RBYT22 Winner
-
 zh#RBYT22 Winner
 
-ja#RBYT22 Winner
-"
-ukПереможець #RBYT22
+pl#RBYT22 Winner
 
 pt#RBYT22 Winner
 
@@ -3699,25 +3695,29 @@ $
 
 frVainqueur du #RBYT22
 "
+ukПереможець #RBYT22
+
+ja#RBYT22 Winner
+"
 ruПобедитель #RBYT22.webp
 �
 %avatar_progressive_tournament_wins_10�
 
 enCompetitive Spirit Avatar
 
-plCompetitive Spirit Avatar
-
 zhCompetitive Spirit Avatar
-0
-ja*アバター「トーナメント精神」
-.
-uk(Аватар «Дух змагання»
+
+plCompetitive Spirit Avatar
 
 ptCompetitive Spirit Avatar
 
 esCompetitive Spirit Avatar
 (
 fr"Avatar de l'Esprit de compétition
+.
+uk(Аватар «Дух змагання»
+0
+ja*アバター「トーナメント精神」
 6
 ru0Аватар «Дух соревнования».webp
 �
@@ -3725,19 +3725,19 @@ $
 
 en"To the Moon!" Avatar
 
-pl"To the Moon!" Avatar
-
 zh"To the Moon!" Avatar
-.
-ja(アバター「月まで全速前進!」
-)
-uk#Аватар «На Місяць!»
+
+pl"To the Moon!" Avatar
 
 pt"To the Moon!" Avatar
 
 es"To the Moon!" Avatar
 $
 frAvatar « Vers la Lune ! »
+)
+uk#Аватар «На Місяць!»
+.
+ja(アバター「月まで全速前進!」
 /
 ru)Аватар «Полёт на Луну».webp
 �
@@ -3745,13 +3745,9 @@ $
 
 enRobert Kitt Avatar
 
-plRobert Kitt Avatar
-
 zhRobert Kitt Avatar
-0
-ja*アバター「ロバート・キット」
-,
-uk&Аватар «Роберт Кітт»
+
+plRobert Kitt Avatar
 
 ptRobert Kitt Avatar
 
@@ -3759,19 +3755,19 @@ $
 
 frAvatar Robert Kitt
 ,
+uk&Аватар «Роберт Кітт»
+0
+ja*アバター「ロバート・キット」
+,
 ru&Аватар «Роберт Китт».webp
 �
 avatar_cy77_legendary�
 
 enavatar_cy77_legendary
 
-plavatar_cy77_legendary
-
 zhavatar_cy77_legendary
 
-jaavatar_cy77_legendary
-
-ukavatar_cy77_legendary
+plavatar_cy77_legendary
 
 ptavatar_cy77_legendary
 
@@ -3779,25 +3775,29 @@ $
 
 fravatar_cy77_legendary
 
+ukavatar_cy77_legendary
+
+jaavatar_cy77_legendary
+
 ruavatar_cy77_legendary.png
 �
 avatar_bp_45_bundle�
 "
 enP.44 Pantera Shredder Avatar
 "
-plP.44 Pantera Shredder Avatar
-"
 zhP.44 Pantera Shredder Avatar
--
-ja'アバター「P.44 Pantera Shredder」
-3
-uk-Аватар «P.44 Pantera Шреддер»
+"
+plP.44 Pantera Shredder Avatar
 "
 ptP.44 Pantera Shredder Avatar
 "
 esP.44 Pantera Shredder Avatar
 #
 frAvatar P.44 Pantera Shredder
+3
+uk-Аватар «P.44 Pantera Шреддер»
+-
+ja'アバター「P.44 Pantera Shredder」
 3
 ru-Аватар «P.44 Pantera Шреддер».webp
 �
@@ -3807,16 +3807,10 @@ $
 enTEST
 
 
-plTEST
-
-
 zhTEST
 
 
-jaTEST
-
-
-ukTEST
+plTEST
 
 
 ptTEST
@@ -3828,25 +3822,31 @@ $
 frTEST
 
 
+ukTEST
+
+
+jaTEST
+
+
 ruTEST.webp
 �
 avatar_progressive_bp_52_paid_2�
 
 enHoliday Warmth Avatar
 
-plHoliday Warmth Avatar
-
 zhHoliday Warmth Avatar
-*
-ja$アバター「ホリデー日和」
-8
-uk2Аватар «Святковий затишок»
+
+plHoliday Warmth Avatar
 
 ptHoliday Warmth Avatar
 
 esHoliday Warmth Avatar
  
 frAvatar Fêtes chaleureuses
+8
+uk2Аватар «Святковий затишок»
+*
+ja$アバター「ホリデー日和」
 2
 ru,Аватар «Новогодний уют».webp
 �
@@ -3854,19 +3854,19 @@ $
 
 enHoliday Warmth Avatar
 
-plHoliday Warmth Avatar
-
 zhHoliday Warmth Avatar
-*
-ja$アバター「ホリデー日和」
-8
-uk2Аватар «Святковий затишок»
+
+plHoliday Warmth Avatar
 
 ptHoliday Warmth Avatar
 
 esHoliday Warmth Avatar
  
 frAvatar Fêtes chaleureuses
+8
+uk2Аватар «Святковий затишок»
+*
+ja$アバター「ホリデー日和」
 2
 ru,Аватар «Новогодний уют».webp
 �
@@ -3874,19 +3874,19 @@ $
 
 enFighting Spirit Avatar
 
-plFighting Spirit Avatar
-
 zhFighting Spirit Avatar
-$
-jaアバター「闘争精神」
-,
-uk&Аватар «Бойовий дух»
+
+plFighting Spirit Avatar
 
 ptFighting Spirit Avatar
 
 esFighting Spirit Avatar
 !
 frAvatar de l'esprit combatif
+,
+uk&Аватар «Бойовий дух»
+$
+jaアバター「闘争精神」
 *
 ru$Аватар «Боевой дух».png
 �
@@ -3894,19 +3894,19 @@ $
 
 enHoliday Warmth Avatar
 
-plHoliday Warmth Avatar
-
 zhHoliday Warmth Avatar
-*
-ja$アバター「ホリデー日和」
-8
-uk2Аватар «Святковий затишок»
+
+plHoliday Warmth Avatar
 
 ptHoliday Warmth Avatar
 
 esHoliday Warmth Avatar
  
 frAvatar Fêtes chaleureuses
+8
+uk2Аватар «Святковий затишок»
+*
+ja$アバター「ホリデー日和」
 2
 ru,Аватар «Новогодний уют».webp
 �
@@ -3914,19 +3914,19 @@ $
 "
 enSoul Lantern Animated Avatar
 "
-plSoul Lantern Animated Avatar
-"
 zhSoul Lantern Animated Avatar
-Q
-jaKアニメーション付きアバター「ソウルを抱くランタン」
-?
-uk9Анімований аватар «Ліхтар душ»
+"
+plSoul Lantern Animated Avatar
 "
 ptSoul Lantern Animated Avatar
 "
 esSoul Lantern Animated Avatar
 #
 frAvatar animé Lanterne d'âme
+?
+uk9Анімований аватар «Ліхтар душ»
+Q
+jaKアニメーション付きアバター「ソウルを抱くランタン」
 E
 ru?Анимированный аватар «Фонарь душ».webp
 �
@@ -3934,19 +3934,19 @@ E
 
 enSavage Beast Avatar
 
-plSavage Beast Avatar
-
 zhSavage Beast Avatar
-$
-jaアバター「獰猛な獣」
-*
-uk$Аватар «Лютий звір»
+
+plSavage Beast Avatar
 
 ptSavage Beast Avatar
 
 esSavage Beast Avatar
  
 frAvatar de la bête sauvage
+*
+uk$Аватар «Лютий звір»
+$
+jaアバター「獰猛な獣」
 ,
 ru&Аватар «Лютый зверь».png
 �
@@ -3954,19 +3954,19 @@ $
 
 en"Who's the Boss?" Avatar
 
-pl"Who's the Boss?" Avatar
-
 zh"Who's the Boss?" Avatar
-)
-ja#アバター「我こそが BOSS」
-,
-uk&Аватар «Хто тут Бос?»
+
+pl"Who's the Boss?" Avatar
 
 pt"Who's the Boss?" Avatar
 
 es"Who's the Boss?" Avatar
 
 frAvatar Qui est le boss ?
+,
+uk&Аватар «Хто тут Бос?»
+)
+ja#アバター「我こそが BOSS」
 .
 ru(Аватар «Кто тут Босс?».webp
 �
@@ -3974,13 +3974,9 @@ $
 
 enEye of Horus Avatar
 
-plEye of Horus Avatar
-
 zhEye of Horus Avatar
--
-ja'アバター「ウアジェトの目」
-#
-ukАватар «Ваджет»
+
+plEye of Horus Avatar
 
 ptEye of Horus Avatar
 
@@ -3988,19 +3984,19 @@ $
 
 frAvatar de l'œil d'Horus
 #
+ukАватар «Ваджет»
+-
+ja'アバター「ウアジェトの目」
+#
 ruАватар «Уаджет».webp
 �
 avatar_progressive_bp_45_paid_5�
 
 enMichelangelo Avatar
 
-plMichelangelo Avatar
-
 zhMichelangelo Avatar
--
-ja'アバター「ミケランジェロ」
-/
-uk)Аватар «Мікеланджело»
+
+plMichelangelo Avatar
 
 ptMichelangelo Avatar
 
@@ -4008,19 +4004,19 @@ $
 
 frAvatar Michelangelo
 /
+uk)Аватар «Мікеланджело»
+-
+ja'アバター「ミケランジェロ」
+/
 ru)Аватар «Микеланджело».webp
 �
 avatar_progressive_bp_45_paid_4�
 
 enDonatello Avatar
 
-plDonatello Avatar
-
 zhDonatello Avatar
-$
-jaアバター「ドナテロ」
-)
-uk#Аватар «Донателло»
+
+plDonatello Avatar
 
 ptDonatello Avatar
 
@@ -4028,19 +4024,19 @@ $
 
 frAvatar Donatello
 )
+uk#Аватар «Донателло»
+$
+jaアバター「ドナテロ」
+)
 ru#Аватар «Донателло».webp
 �
 avatar_lny2022_topup_unique�
 
 enSteel Tiger Avatar
 
-plSteel Tiger Avatar
-
 zhSteel Tiger Avatar
-$
-jaアバター「鋼鉄の虎」
-0
-uk*Аватар «Сталевий тигр»
+
+plSteel Tiger Avatar
 
 ptSteel Tiger Avatar
 
@@ -4048,19 +4044,19 @@ $
 
 frAvatar Tigre d'acier
 0
+uk*Аватар «Сталевий тигр»
+$
+jaアバター「鋼鉄の虎」
+0
 ru*Аватар «Стальной тигр».webp
 �
 avatar_blitzstaff_legendary�
 
 en"Go Blitz!" Avatar
 
-pl"Go Blitz!" Avatar
-
 zh"Go Blitz!" Avatar
-!
-jaアバター「Go Blitz!」
-
-ukАватар Go Blitz!
+
+pl"Go Blitz!" Avatar
 
 pt"Go Blitz!" Avatar
 
@@ -4068,25 +4064,29 @@ $
 #
 frAvatar « Allez Blitz ! »
 
+ukАватар Go Blitz!
+!
+jaアバター「Go Blitz!」
+
 ruАватар Go Blitz!.png
 �
 avatar_defender_mk_unique�
 
 enSecret Service Avatar
 
-plSecret Service Avatar
-
 zhSecret Service Avatar
-6
-ja0アバター「シークレットサービス」
-4
-uk.Аватар «Секретна служба»
+
+plSecret Service Avatar
 
 ptSecret Service Avatar
 
 esSecret Service Avatar
 
 frAvatar Services secrets
+4
+uk.Аватар «Секретна служба»
+6
+ja0アバター「シークレットサービス」
 6
 ru0Аватар «Секретная служба».webp
 �
@@ -4094,13 +4094,9 @@ $
 
 enShredder Avatar
 
-plShredder Avatar
-
 zhShredder Avatar
-*
-ja$アバター「シュレッダー」
-%
-ukАватар «Шреддер»
+
+plShredder Avatar
 
 ptShredder Avatar
 
@@ -4108,19 +4104,19 @@ $
 
 frAvatar Shredder
 %
+ukАватар «Шреддер»
+*
+ja$アバター「シュレッダー」
+%
 ruАватар «Шреддер».webp
 �
 avatar_progressive_bp_45_paid_3�
 
 enLeonardo Avatar
 
-plLeonardo Avatar
-
 zhLeonardo Avatar
-'
-ja!アバター「レオナルド」
-'
-uk!Аватар «Леонардо»
+
+plLeonardo Avatar
 
 ptLeonardo Avatar
 
@@ -4128,19 +4124,19 @@ $
 
 frAvatar Leonardo
 '
+uk!Аватар «Леонардо»
+'
+ja!アバター「レオナルド」
+'
 ru!Аватар «Леонардо».webp
 �
 avatar_progressive_bp_45_paid_2�
 
 enRaphael Avatar
 
-plRaphael Avatar
-
 zhRaphael Avatar
-'
-ja!アバター「ラファエロ」
-%
-ukАватар «Рафаель»
+
+plRaphael Avatar
 
 ptRaphael Avatar
 
@@ -4148,25 +4144,29 @@ $
 
 frAvatar Raphael
 %
+ukАватар «Рафаель»
+'
+ja!アバター「ラファエロ」
+%
 ruАватар «Рафаэль».webp
 �
 avatar_progressive_bp_60_paid_1�
 
 enKingpin Avatar
 
-plKingpin Avatar
-
 zhKingpin Avatar
-
-jaアバター「Kingpin」
-
-ukАватар Kingpin
+
+plKingpin Avatar
 
 ptKingpin Avatar
 
 esKingpin Avatar
 
 frAvatar Kingpin
+
+ukАватар Kingpin
+
+jaアバター「Kingpin」
 
 ruАватар Kingpin.webp
 �
@@ -4174,19 +4174,19 @@ $
 
 enTropical Drink Avatar
 
-plTropical Drink Avatar
-
 zhTropical Drink Avatar
-6
-ja0アバター「トロピカル・ドリンク」
-:
-uk4Аватар «Тропічний коктейль»
+
+plTropical Drink Avatar
 
 ptTropical Drink Avatar
 
 esTropical Drink Avatar
 
 frAvatar Boisson tropicale
+:
+uk4Аватар «Тропічний коктейль»
+6
+ja0アバター「トロピカル・ドリンク」
 >
 ru8Аватар «Тропический коктейль».webp
 �
@@ -4194,13 +4194,9 @@ $
 
 enBrainrot Avatar
 
-plBrainrot Avatar
-
 zhBrainrot Avatar
-'
-ja!アバター「腐敗する脳」
-'
-uk!Аватар «Брейнрот»
+
+plBrainrot Avatar
 
 ptBrainrot Avatar
 
@@ -4208,25 +4204,29 @@ $
 
 frAvatar Cerveau putréfié
 '
+uk!Аватар «Брейнрот»
+'
+ja!アバター「腐敗する脳」
+'
 ru!Аватар «Брейнрот».webp
 �
 avatar_progressive_bp_48_free_1�
 
 enStinky Cat Avatar
 
-plStinky Cat Avatar
-
 zhStinky Cat Avatar
-3
-ja-アバター「ネコのスティンキー」
-.
-uk(Аватар «Кіт-волоцюга»
+
+plStinky Cat Avatar
 
 ptStinky Cat Avatar
 
 esStinky Cat Avatar
 
 frAvatar Chat puant
+.
+uk(Аватар «Кіт-волоцюга»
+3
+ja-アバター「ネコのスティンキー」
 *
 ru$Аватар «Драный кот».webp
 �
@@ -4234,13 +4234,9 @@ $
 
 enKingpin Avatar
 
-plKingpin Avatar
-
 zhKingpin Avatar
-
-jaアバター「Kingpin」
-
-ukАватар Kingpin
+
+plKingpin Avatar
 
 ptKingpin Avatar
 
@@ -4248,25 +4244,29 @@ $
 
 frAvatar Kingpin
 
+ukАватар Kingpin
+
+jaアバター「Kingpin」
+
 ruАватар Kingpin.webp
 �
 $avatar_progressive_bp_38_ruby_paid_6�
 <
 en6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
-pl6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
-<
 zh6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
-ja6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
-<
-uk6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+pl6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
 pt6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
 es6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
 fr6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+<
+uk6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+<
+ja6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
 ru6storage/Items/avatar_progressive_bp_38_ruby_paid/Title.webp
 �
@@ -4274,13 +4274,9 @@ $avatar_progressive_bp_38_ruby_paid_4�
 <
 en6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
-pl6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
-<
 zh6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
-ja6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
-<
-uk6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+pl6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
 pt6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
@@ -4288,19 +4284,19 @@ $avatar_progressive_bp_38_ruby_paid_4�
 <
 fr6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
+uk6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+<
+ja6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+<
 ru6storage/Items/avatar_progressive_bp_38_ruby_paid/Title.webp
 �
 avatar_wh_imper_fists_legendary�
 
 enImperial Fists Avatar
 
-plImperial Fists Avatar
-
 zhImperial Fists Avatar
-6
-ja0アバター「インペリアルフィスト」
-!
-ukАватар Imperial Fists
+
+plImperial Fists Avatar
 
 ptImperial Fists Avatar
 
@@ -4308,25 +4304,29 @@ $avatar_progressive_bp_38_ruby_paid_4�
 
 frAvatar Imperial Fists
 !
+ukАватар Imperial Fists
+6
+ja0アバター「インペリアルフィスト」
+!
 ruАватар Imperial Fists.webp
 �
 avatar_Duck_unique�
 
 enNaval Maneuvers Avatar
 
-plNaval Maneuvers Avatar
-
 zhNaval Maneuvers Avatar
-*
-ja$アバター「アヒルの水兵」
-4
-uk.Аватар «Водні процедури»
+
+plNaval Maneuvers Avatar
 
 ptNaval Maneuvers Avatar
 
 esNaval Maneuvers Avatar
 
 frAvatar Manœuvres navales
+4
+uk.Аватар «Водні процедури»
+*
+ja$アバター「アヒルの水兵」
 6
 ru0Аватар «Водные процедуры».webp
 �
@@ -4334,19 +4334,19 @@ $avatar_progressive_bp_38_ruby_paid_4�
 
 enMad Games Avatar
 
-plMad Games Avatar
-
 zhMad Games Avatar
-!
-jaアバター「Mad Games」
-,
-uk&Аватар «Шалені ігри»
+
+plMad Games Avatar
 
 ptMad Games Avatar
 
 esMad Games Avatar
 
 frAvatar des Mad Games
+,
+uk&Аватар «Шалені ігри»
+!
+jaアバター「Mad Games」
 0
 ru*Аватар «Безумные игры».png
 �
@@ -4354,13 +4354,9 @@ $avatar_progressive_bp_38_ruby_paid_4�
 
 enT-800 Avatar
 
-plT-800 Avatar
-
 zhT-800 Avatar
-
-jaアバター「T-800」
-
-ukАватар «Т-800»
+
+plT-800 Avatar
 
 ptT-800 Avatar
 
@@ -4368,19 +4364,19 @@ $avatar_progressive_bp_38_ruby_paid_4�
 
 frAvatar du T-800
 
+ukАватар «Т-800»
+
+jaアバター「T-800」
+
 ruАватар «Т-800».webp
 �
 avatar_progressive_bp_29_paid_4�
 
 enT-1000 Avatar
 
-plT-1000 Avatar
-
 zhT-1000 Avatar
-
-jaアバター「T-1000」
-
-ukАватар «Т-1000»
+
+plT-1000 Avatar
 
 ptT-1000 Avatar
 
@@ -4388,25 +4384,29 @@ $avatar_progressive_bp_38_ruby_paid_4�
 
 frAvatar du T-1000
 
+ukАватар «Т-1000»
+
+jaアバター「T-1000」
+
 ruАватар «Т-1000».webp
 �
 avatar_mace_legendary�
 #
 enCavalier's Morningstar Avatar
 #
-plCavalier's Morningstar Avatar
-#
 zhCavalier's Morningstar Avatar
-9
-ja3アバター「騎士のモーニングスター」
--
-uk'Аватар «Моргенштерн»
+#
+plCavalier's Morningstar Avatar
 #
 ptCavalier's Morningstar Avatar
 #
 esCavalier's Morningstar Avatar
 $
 frAvatar morgenstern de cavalier
+-
+uk'Аватар «Моргенштерн»
+9
+ja3アバター「騎士のモーニングスター」
 -
 ru'Аватар «Моргенштерн».png
 �
@@ -4414,13 +4414,9 @@ $
 
 enDr Disrespect Avatar
 
-plDr Disrespect Avatar
-
 zhDr Disrespect Avatar
-%
-jaアバター「Dr Disrespect」
- 
-ukАватар Dr Disrespect
+
+plDr Disrespect Avatar
 
 ptDr Disrespect Avatar
 
@@ -4428,25 +4424,29 @@ $
 
 frAvatar Dr Disrespect
  
+ukАватар Dr Disrespect
+%
+jaアバター「Dr Disrespect」
+ 
 ruАватар Dr Disrespect.webp
 �
 avatar_progressive_bp_65_paid_6�
 
 enBlitz Ornaments Avatar
 
-plBlitz Ornaments Avatar
-
 zhBlitz Ornaments Avatar
-0
-ja*アバター「Blitz オーナメント」
--
-uk'Аватар «Прикраси Blitz»
+
+plBlitz Ornaments Avatar
 
 ptBlitz Ornaments Avatar
 
 esBlitz Ornaments Avatar
 
 frAvatar Ornements de Blitz
+-
+uk'Аватар «Прикраси Blitz»
+0
+ja*アバター「Blitz オーナメント」
 /
 ru)Аватар «Украшения Blitz».webp
 �
@@ -4454,19 +4454,19 @@ $
 
 enParabox Avatar
 
-plParabox Avatar
-
 zhParabox Avatar
-*
-ja$アバター「パラボックス」
-'
-uk!Аватар «Парабокс»
+
+plParabox Avatar
 
 ptParabox Avatar
 
 esParabox Avatar
 
 frAvatar Parabox
+'
+uk!Аватар «Парабокс»
+*
+ja$アバター「パラボックス」
 '
 ru!Аватар «Парабокс».webp
 �
@@ -4474,19 +4474,19 @@ $
 
 enExtreme Hazard Avatar
 
-plExtreme Hazard Avatar
-
 zhExtreme Hazard Avatar
-*
-ja$アバター「最大の危険物」
->
-uk8Аватар «Особливо небезпечний»
+
+plExtreme Hazard Avatar
 
 ptExtreme Hazard Avatar
 
 esExtreme Hazard Avatar
 
 frAvatar du danger extrême
+>
+uk8Аватар «Особливо небезпечний»
+*
+ja$アバター「最大の危険物」
 .
 ru(Аватар «Особо опасен».png
 �
@@ -4494,13 +4494,9 @@ $
 
 enMiho Nishizumi Avatar
 
-plMiho Nishizumi Avatar
-
 zhMiho Nishizumi Avatar
-$
-jaアバター「西住みほ」
-!
-ukАватар Miho Nishizumi
+
+plMiho Nishizumi Avatar
 
 ptMiho Nishizumi Avatar
 
@@ -4508,25 +4504,29 @@ $
 
 frAvatar de Miho Nishizumi
 !
+ukАватар Miho Nishizumi
+$
+jaアバター「西住みほ」
+!
 ruАватар Miho Nishizumi.png
 �
 avatar_progressive_bp_55_free_2�
 
 enParabox Avatar
 
-plParabox Avatar
-
 zhParabox Avatar
-*
-ja$アバター「パラボックス」
-'
-uk!Аватар «Парабокс»
+
+plParabox Avatar
 
 ptParabox Avatar
 
 esParabox Avatar
 
 frAvatar Parabox
+'
+uk!Аватар «Парабокс»
+*
+ja$アバター「パラボックス」
 '
 ru!Аватар «Парабокс».webp
 �
@@ -4534,13 +4534,9 @@ $
 
 enParabox Avatar
 
-plParabox Avatar
-
 zhParabox Avatar
-*
-ja$アバター「パラボックス」
-'
-uk!Аватар «Парабокс»
+
+plParabox Avatar
 
 ptParabox Avatar
 
@@ -4548,25 +4544,29 @@ $
 
 frAvatar Parabox
 '
+uk!Аватар «Парабокс»
+*
+ja$アバター「パラボックス」
+'
 ru!Аватар «Парабокс».webp
 �
 avatar_accuracy_legendary�
 
 enCrack Shot Avatar
 
-plCrack Shot Avatar
-
 zhCrack Shot Avatar
-'
-ja!アバター「射撃の名手」
-6
-uk0Аватар «Влучний стрілець»
+
+plCrack Shot Avatar
 
 ptCrack Shot Avatar
 
 esCrack Shot Avatar
 
 frAvatar du coup de maître
+6
+uk0Аватар «Влучний стрілець»
+'
+ja!アバター「射撃の名手」
 2
 ru,Аватар «Меткий стрелок».png
 �
@@ -4574,13 +4574,9 @@ $
 
 enSeason 4 Avatar
 
-plSeason 4 Avatar
-
 zhSeason 4 Avatar
-&
-ja アバター「シーズン 4」
-#
-ukАватар «Сезон 4»
+
+plSeason 4 Avatar
 
 ptSeason 4 Avatar
 
@@ -4588,25 +4584,29 @@ $
 
 frAvatar Saison 4
 #
+ukАватар «Сезон 4»
+&
+ja アバター「シーズン 4」
+#
 ruАватар «Сезон 4».webp
 �
 avatar_progressive_bp_51_paid_1�
 %
 enIvory and Ebony Panthers Avatar
 %
-plIvory and Ebony Panthers Avatar
-%
 zhIvory and Ebony Panthers Avatar
-6
-ja0アバター「アイボリー＆エボニー」
-r
-uklАватар «Пантери кольору слонової кістки й чорного дерева»
+%
+plIvory and Ebony Panthers Avatar
 %
 ptIvory and Ebony Panthers Avatar
 %
 esIvory and Ebony Panthers Avatar
 -
 fr'Avatar Panthères d'ivoire et d'ébène
+r
+uklАватар «Пантери кольору слонової кістки й чорного дерева»
+6
+ja0アバター「アイボリー＆エボニー」
 @
 ru:Аватар «Белая и чёрная пантеры».webp
 �
@@ -4614,19 +4614,19 @@ r
 
 enOrigin Fan Avatar
 
-plOrigin Fan Avatar
-
 zhOrigin Fan Avatar
-(
-ja"アバター「Origin ファン」
-6
-uk0Аватар «Вболівальник Origin»
+
+plOrigin Fan Avatar
 
 ptOrigin Fan Avatar
 
 esOrigin Fan Avatar
 #
 frAvatar du passionné d'Origin
+6
+uk0Аватар «Вболівальник Origin»
+(
+ja"アバター「Origin ファン」
 0
 ru*Аватар «Болельщик Origin».webp
 �
@@ -4634,19 +4634,19 @@ r
 
 enGladiator Avatar
 
-plGladiator Avatar
-
 zhGladiator Avatar
-!
-jaアバター「剣闘士」
-)
-uk#Аватар «Гладіатор»
+
+plGladiator Avatar
 
 ptGladiator Avatar
 
 esGladiator Avatar
 
 frAvatar du gladiateur
+)
+uk#Аватар «Гладіатор»
+!
+jaアバター「剣闘士」
 )
 ru#Аватар «Гладиатор».png
 �
@@ -4654,13 +4654,9 @@ r
 
 enThe Defenders Avatar
 
-plThe Defenders Avatar
-
 zhThe Defenders Avatar
-%
-jaアバター「The Defenders」
- 
-ukАватар The Defenders
+
+plThe Defenders Avatar
 
 ptThe Defenders Avatar
 
@@ -4668,25 +4664,29 @@ r
 
 frAvatars des Défenseurs
  
+ukАватар The Defenders
+%
+jaアバター「The Defenders」
+ 
 ruАватар The Defenders.webp
 �
 avatar_bomb_common_72h�
 
 enBig Bang Avatar
 
-plBig Bang Avatar
-
 zhBig Bang Avatar
-'
-ja!アバター「ビッグバン」
-)
-uk#Аватар «Вибуховий»
+
+plBig Bang Avatar
 
 ptBig Bang Avatar
 
 esBig Bang Avatar
 
 frAvatar du Big Bang
+)
+uk#Аватар «Вибуховий»
+'
+ja!アバター「ビッグバン」
 '
 ru!Аватар «Взрывной».png
 �
@@ -4694,19 +4694,19 @@ r
 
 enNeon Lynx Avatar
 
-plNeon Lynx Avatar
-
 zhNeon Lynx Avatar
--
-ja'アバター「ネオンヤマネコ」
-.
-uk(Аватар «Неонова рись»
+
+plNeon Lynx Avatar
 
 ptNeon Lynx Avatar
 
 esNeon Lynx Avatar
 
 frAvatar Neon Lynx
+.
+uk(Аватар «Неонова рись»
+-
+ja'アバター「ネオンヤマネコ」
 0
 ru*Аватар «Неоновая рысь».webp
 �
@@ -4714,19 +4714,19 @@ r
 
 enMoon Rabbit Avatar
 
-plMoon Rabbit Avatar
-
 zhMoon Rabbit Avatar
-!
-jaアバター「朧月兎」
-2
-uk,Аватар «Місячний заєць»
+
+plMoon Rabbit Avatar
 
 ptMoon Rabbit Avatar
 
 esMoon Rabbit Avatar
 
 frAvatar du Lapin lunaire
+2
+uk,Аватар «Місячний заєць»
+!
+jaアバター「朧月兎」
 ,
 ru&Аватар «Лунный заяц».webp
 �
@@ -4734,13 +4734,9 @@ r
 
 enChallenger Avatar
 
-plChallenger Avatar
-
 zhChallenger Avatar
-!
-jaアバター「挑戦者」
-+
-uk%Аватар «Претендент»
+
+plChallenger Avatar
 
 ptChallenger Avatar
 
@@ -4748,19 +4744,19 @@ r
 
 frAvatar du challenger
 +
+uk%Аватар «Претендент»
+!
+jaアバター「挑戦者」
++
 ru%Аватар «Претендент».webp
 �
 avatar_2024_villa_3�
 
 enUdin Avatar
 
-plUdin Avatar
-
 zhUdin Avatar
-$
-jaアバター「ウディン」
-
-ukАватар Udin
+
+plUdin Avatar
 
 ptUdin Avatar
 
@@ -4768,25 +4764,29 @@ $
 
 frAvatar Udin
 
+ukАватар Udin
+$
+jaアバター「ウディン」
+
 ruАватар Udin.webp
 �
 avatar_2024_villa_6_anim�
 "
 enUsada Pekora Animated Avatar
 "
-plUsada Pekora Animated Avatar
-"
 zhUsada Pekora Animated Avatar
-B
-ja<アニメーション付きアバター「兎田ぺこら」
-4
-uk.Анімований аватар Usada Pekora
+"
+plUsada Pekora Animated Avatar
 "
 ptUsada Pekora Animated Avatar
 "
 esUsada Pekora Animated Avatar
  
 frAvatar animé Usada Pekora
+4
+uk.Анімований аватар Usada Pekora
+B
+ja<アニメーション付きアバター「兎田ぺこら」
 :
 ru4Анимированный аватар Usada Pekora.webp
 �
@@ -4794,19 +4794,19 @@ B
 
 enWelkin Gunther Avatar
 
-plWelkin Gunther Avatar
-
 zhWelkin Gunther Avatar
-9
-ja3アバター「ウェルキン・ギュンター」
-!
-ukАватар Welkin Gunther
+
+plWelkin Gunther Avatar
 
 ptWelkin Gunther Avatar
 
 esWelkin Gunther Avatar
 
 frAvatar de Welkin Gunter
+!
+ukАватар Welkin Gunther
+9
+ja3アバター「ウェルキン・ギュンター」
 %
 ruАватар «Welkin Gunther».png
 �
@@ -4814,19 +4814,19 @@ B
 
 enBig Bang Avatar
 
-plBig Bang Avatar
-
 zhBig Bang Avatar
-'
-ja!アバター「ビッグバン」
-)
-uk#Аватар «Вибуховий»
+
+plBig Bang Avatar
 
 ptBig Bang Avatar
 
 esBig Bang Avatar
 
 frAvatar du Big Bang
+)
+uk#Аватар «Вибуховий»
+'
+ja!アバター「ビッグバン」
 '
 ru!Аватар «Взрывной».png
 �
@@ -4834,13 +4834,9 @@ B
 *
 en$Аватар «7 лет побед»
 *
-pl$Аватар «7 лет побед»
-*
 zh$Аватар «7 лет побед»
 *
-ja$Аватар «7 лет побед»
-*
-uk$Аватар «7 лет побед»
+pl$Аватар «7 лет побед»
 *
 pt$Аватар «7 лет побед»
 *
@@ -4848,25 +4844,29 @@ B
 *
 fr$Аватар «7 лет побед»
 *
+uk$Аватар «7 лет побед»
+*
+ja$Аватар «7 лет побед»
+*
 ru$Аватар «7 лет побед».webp
 �
 avatar_defender_mk_legendary�
 
 enSecret Service Avatar
 
-plSecret Service Avatar
-
 zhSecret Service Avatar
-6
-ja0アバター「シークレットサービス」
-4
-uk.Аватар «Секретна служба»
+
+plSecret Service Avatar
 
 ptSecret Service Avatar
 
 esSecret Service Avatar
 
 frAvatar Services secrets
+4
+uk.Аватар «Секретна служба»
+6
+ja0アバター「シークレットサービス」
 6
 ru0Аватар «Секретная служба».webp
 �
@@ -4874,19 +4874,19 @@ B
 
 enVictory Chevron Avatar
 
-plVictory Chevron Avatar
-
 zhVictory Chevron Avatar
--
-ja'アバター「勝利の山形袖章」
-8
-uk2Аватар «Переможний шеврон»
+
+plVictory Chevron Avatar
 
 ptVictory Chevron Avatar
 
 esVictory Chevron Avatar
 &
 fr Avatar du Chevron de la victoire
+8
+uk2Аватар «Переможний шеврон»
+-
+ja'アバター「勝利の山形袖章」
 4
 ru.Аватар «Победный шеврон».png
 �
@@ -4894,19 +4894,19 @@ B
 
 enGolden Tiger Avatar
 
-plGolden Tiger Avatar
-
 zhGolden Tiger Avatar
-!
-jaアバター「金獅子」
-/
-uk)Аватар «Золотий тигр».
+
+plGolden Tiger Avatar
 
 ptGolden Tiger Avatar
 
 esGolden Tiger Avatar
 
 frAvatar Tigre en or
+/
+uk)Аватар «Золотий тигр».
+!
+jaアバター「金獅子」
 .
 ru(Аватар «Золотой тигр».webp
 �
@@ -4914,19 +4914,19 @@ B
 
 enQuadrant Prototype Avatar
 
-plQuadrant Prototype Avatar
-
 zhQuadrant Prototype Avatar
-6
-ja0アバター「四分円のプロトタイプ」
-B
-uk<Аватар «Поквадрантний прототип»
+
+plQuadrant Prototype Avatar
 
 ptQuadrant Prototype Avatar
 
 esQuadrant Prototype Avatar
  
 frAvatar Prototype de cadran
+B
+uk<Аватар «Поквадрантний прототип»
+6
+ja0アバター「四分円のプロトタイプ」
 :
 ru4Аватар «Прототип квадранта».webp
 �
@@ -4934,13 +4934,9 @@ B
 
 enRuffians Avatar
 
-plRuffians Avatar
-
 zhRuffians Avatar
-*
-ja$アバター「ラフィアンズ」
-
-ukАватар Ruffians
+
+plRuffians Avatar
 
 ptRuffians Avatar
 
@@ -4948,25 +4944,29 @@ B
 
 frAvatar Ruffians
 
+ukАватар Ruffians
+*
+ja$アバター「ラフィアンズ」
+
 ruАватар Ruffians.webp
 �
 avatar_progressive_bp_1_free_2�
 
 enVictory Chevron Avatar
 
-plVictory Chevron Avatar
-
 zhVictory Chevron Avatar
--
-ja'アバター「勝利の山形袖章」
-8
-uk2Аватар «Переможний шеврон»
+
+plVictory Chevron Avatar
 
 ptVictory Chevron Avatar
 
 esVictory Chevron Avatar
 &
 fr Avatar du Chevron de la victoire
+8
+uk2Аватар «Переможний шеврон»
+-
+ja'アバター「勝利の山形袖章」
 4
 ru.Аватар «Победный шеврон».png
 �
@@ -4974,13 +4974,9 @@ B
 
 enSSRB Avatar
 
-plSSRB Avatar
-
 zhSSRB Avatar
-
-jaアバター「SSRB」
-
-ukАватар SSRB
+
+plSSRB Avatar
 
 ptSSRB Avatar
 
@@ -4988,25 +4984,29 @@ B
 
 frAvatar SSRB
 
+ukАватар SSRB
+
+jaアバター「SSRB」
+
 ruАватар SSRB.webp
 �
 avatar_progressive_bp_1_free_3�
 
 enVictory Chevron Avatar
 
-plVictory Chevron Avatar
-
 zhVictory Chevron Avatar
--
-ja'アバター「勝利の山形袖章」
-8
-uk2Аватар «Переможний шеврон»
+
+plVictory Chevron Avatar
 
 ptVictory Chevron Avatar
 
 esVictory Chevron Avatar
 &
 fr Avatar du Chevron de la victoire
+8
+uk2Аватар «Переможний шеврон»
+-
+ja'アバター「勝利の山形袖章」
 4
 ru.Аватар «Победный шеврон».png
 �
@@ -5014,13 +5014,9 @@ B
 #
 enCavalier's Morningstar Avatar
 #
-plCavalier's Morningstar Avatar
-#
 zhCavalier's Morningstar Avatar
-9
-ja3アバター「騎士のモーニングスター」
--
-uk'Аватар «Моргенштерн»
+#
+plCavalier's Morningstar Avatar
 #
 ptCavalier's Morningstar Avatar
 #
@@ -5028,19 +5024,19 @@ B
 $
 frAvatar morgenstern de cavalier
 -
+uk'Аватар «Моргенштерн»
+9
+ja3アバター「騎士のモーニングスター」
+-
 ru'Аватар «Моргенштерн».png
 �
 avatar_wh_Garadon_legendary�
 
 enTor Garadon Avatar
 
-plTor Garadon Avatar
-
 zhTor Garadon Avatar
-0
-ja*アバター「トール・ガラドン」
-
-ukАватар Tor Garadon
+
+plTor Garadon Avatar
 
 ptTor Garadon Avatar
 
@@ -5048,25 +5044,29 @@ $
 
 frAvatar Tor Garadon
 
+ukАватар Tor Garadon
+0
+ja*アバター「トール・ガラドン」
+
 ruАватар Tor Garadon.webp
 �
 avatar_progressive_oliver2021_2�
 
 enLife Goes On Avatar
 
-plLife Goes On Avatar
-
 zhLife Goes On Avatar
-$
-jaアバター「Life Goes On」
-4
-uk.Аватар «Де твій капелюх?»
+
+plLife Goes On Avatar
 
 ptLife Goes On Avatar
 
 esLife Goes On Avatar
 
 frAvatar La vie continue
+4
+uk.Аватар «Де твій капелюх?»
+$
+jaアバター「Life Goes On」
 2
 ru,Аватар «Где твоя шляпа?».webp
 �
@@ -5074,19 +5074,19 @@ $
 
 enVictory Chevron Avatar
 
-plVictory Chevron Avatar
-
 zhVictory Chevron Avatar
--
-ja'アバター「勝利の山形袖章」
-8
-uk2Аватар «Переможний шеврон»
+
+plVictory Chevron Avatar
 
 ptVictory Chevron Avatar
 
 esVictory Chevron Avatar
 &
 fr Avatar du Chevron de la victoire
+8
+uk2Аватар «Переможний шеврон»
+-
+ja'アバター「勝利の山形袖章」
 4
 ru.Аватар «Победный шеврон».png
 �
@@ -5094,13 +5094,9 @@ $
 
 en[APA] Apathy Clan Avatar
 
-pl[APA] Apathy Clan Avatar
-
 zh[APA] Apathy Clan Avatar
-.
-ja(アバター「クラン [APA] Apathy」
-,
-uk&Аватар «Клан [APA] Apathy»
+
+pl[APA] Apathy Clan Avatar
 
 pt[APA] Apathy Clan Avatar
 
@@ -5108,19 +5104,19 @@ $
 !
 frAvatar du clan [APA] Apathy
 ,
+uk&Аватар «Клан [APA] Apathy»
+.
+ja(アバター「クラン [APA] Apathy」
+,
 ru&Аватар «Клан [APA] Apathy».webp
 �
 avatar_NA_Leverage1_legendary�
 
 enLeverage Avatar
 
-plLeverage Avatar
-
 zhLeverage Avatar
- 
-jaアバター「Leverage」
-
-ukАватар Leverage
+
+plLeverage Avatar
 
 ptLeverage Avatar
 
@@ -5128,25 +5124,29 @@ $
 
 frAvatar de Leverage
 
+ukАватар Leverage
+ 
+jaアバター「Leverage」
+
 ruАватар Leverage.webp
 �
 avatar_progressive_oliver2021_4�
 
 enLife Goes On Avatar
 
-plLife Goes On Avatar
-
 zhLife Goes On Avatar
-$
-jaアバター「Life Goes On」
-4
-uk.Аватар «Де твій капелюх?»
+
+plLife Goes On Avatar
 
 ptLife Goes On Avatar
 
 esLife Goes On Avatar
 
 frAvatar La vie continue
+4
+uk.Аватар «Де твій капелюх?»
+$
+jaアバター「Life Goes On」
 2
 ru,Аватар «Где твоя шляпа?».webp
 �
@@ -5154,19 +5154,19 @@ $
 
 enImmortal Feat Avatar
 
-plImmortal Feat Avatar
-
 zhImmortal Feat Avatar
 
-jaImmortal Feat Avatar
-
-ukImmortal Feat Avatar
+plImmortal Feat Avatar
 
 ptImmortal Feat Avatar
 
 esImmortal Feat Avatar
 
 frImmortal Feat Avatar
+
+ukImmortal Feat Avatar
+
+jaImmortal Feat Avatar
 :
 ru4Аватар «Бессмертный подвиг».png
 �
@@ -5174,19 +5174,19 @@ $
 
 enAlex Pereira Avatar
 
-plAlex Pereira Avatar
-
 zhAlex Pereira Avatar
-$
-jaアバター「Alex Pereira」
-
-ukАватар Alex Pereira
+
+plAlex Pereira Avatar
 
 ptAlex Pereira Avatar
 
 esAlex Pereira Avatar
 
 frAvatar d'Alex Pereira
+
+ukАватар Alex Pereira
+$
+jaアバター「Alex Pereira」
 0
 ru*Аватар «Алекс Перейра».webp
 �
@@ -5194,19 +5194,19 @@ $
 
 enMad Games Avatar
 
-plMad Games Avatar
-
 zhMad Games Avatar
-!
-jaアバター「Mad Games」
-,
-uk&Аватар «Шалені ігри»
+
+plMad Games Avatar
 
 ptMad Games Avatar
 
 esMad Games Avatar
 
 frAvatar des Mad Games
+,
+uk&Аватар «Шалені ігри»
+!
+jaアバター「Mad Games」
 0
 ru*Аватар «Безумные игры».webp
 �
@@ -5214,13 +5214,9 @@ $
 /
 en)avatars/Items/avatar_bb2022_world_3/Title
 /
-pl)avatars/Items/avatar_bb2022_world_3/Title
-/
 zh)avatars/Items/avatar_bb2022_world_3/Title
 /
-ja)avatars/Items/avatar_bb2022_world_3/Title
-/
-uk)avatars/Items/avatar_bb2022_world_3/Title
+pl)avatars/Items/avatar_bb2022_world_3/Title
 /
 pt)avatars/Items/avatar_bb2022_world_3/Title
 /
@@ -5228,19 +5224,19 @@ $
 /
 fr)avatars/Items/avatar_bb2022_world_3/Title
 /
+uk)avatars/Items/avatar_bb2022_world_3/Title
+/
+ja)avatars/Items/avatar_bb2022_world_3/Title
+/
 ru)avatars/Items/avatar_bb2022_world_3/Title.webp
 �
 avatar_weapon_rare�
 
 enHarsh Ultimatum Avatar
 
-plHarsh Ultimatum Avatar
-
 zhHarsh Ultimatum Avatar
--
-ja'アバター「厳しい最後通告」
-+
-uk%Аватар «Ультиматум»
+
+plHarsh Ultimatum Avatar
 
 ptHarsh Ultimatum Avatar
 
@@ -5248,25 +5244,29 @@ $
 #
 frAvatar de l'ultimatum hostile
 +
+uk%Аватар «Ультиматум»
+-
+ja'アバター「厳しい最後通告」
++
 ru%Аватар «Ультиматум».png
 �
 avatar_ST_anim_legendary_temp�
 '
 en!U.S.S. Enterprise Animated Avatar
 '
-pl!U.S.S. Enterprise Animated Avatar
-'
 zh!U.S.S. Enterprise Animated Avatar
-R
-jaLアニメーション付きアバター「U.S.S. エンタープライズ」
-Q
-ukKАнімований аватар «Зореліт "Ентерпрайз"»
+'
+pl!U.S.S. Enterprise Animated Avatar
 '
 pt!U.S.S. Enterprise Animated Avatar
 '
 es!U.S.S. Enterprise Animated Avatar
 %
 frAvatar animé U.S.S. Enterprise
+Q
+ukKАнімований аватар «Зореліт "Ентерпрайз"»
+R
+jaLアニメーション付きアバター「U.S.S. エンタープライズ」
 M
 ruGАнимированный аватар U.S.S. «Энтерпрайз».webp
 �
@@ -5274,13 +5274,9 @@ M
 
 enGladiator Avatar
 
-plGladiator Avatar
-
 zhGladiator Avatar
-!
-jaアバター「剣闘士」
-)
-uk#Аватар «Гладіатор»
+
+plGladiator Avatar
 
 ptGladiator Avatar
 
@@ -5288,19 +5284,19 @@ M
 
 frAvatar du gladiateur
 )
+uk#Аватар «Гладіатор»
+!
+jaアバター「剣闘士」
+)
 ru#Аватар «Гладиатор».png
 �
 avatar_neskromny_legendary�
 +
 en%Аватар «Нескромный»
 +
-pl%Аватар «Нескромный»
-+
 zh%Аватар «Нескромный»
 +
-ja%Аватар «Нескромный»
-+
-uk%Аватар «Нескромный»
+pl%Аватар «Нескромный»
 +
 pt%Аватар «Нескромный»
 +
@@ -5308,25 +5304,29 @@ M
 +
 fr%Аватар «Нескромный»
 +
+uk%Аватар «Нескромный»
++
+ja%Аватар «Нескромный»
++
 ru%Аватар «Нескромный».webp
 �
 avatar_2025_topup_gw_anim�
 
 enAMX M4 54 Girl Avatar
 
-plAMX M4 54 Girl Avatar
-
 zhAMX M4 54 Girl Avatar
-+
-ja%アバター「AMX M4 54 ガール」
-$
-ukАватар AMX M4 54 Girl
+
+plAMX M4 54 Girl Avatar
 
 ptAMX M4 54 Girl Avatar
 
 esAMX M4 54 Girl Avatar
 
 frAvatar AMX M4 54 Girl
+$
+ukАватар AMX M4 54 Girl
++
+ja%アバター「AMX M4 54 ガール」
 !
 ruАватар AMX M4 54 Girl.webp
 �
@@ -5334,13 +5334,9 @@ $
 
 enBig Boss Avatar
 
-plBig Boss Avatar
-
 zhBig Boss Avatar
- 
-jaアバター「BIG BOSS」
-
-ukАватар Big Boss
+
+plBig Boss Avatar
 
 ptBig Boss Avatar
 
@@ -5348,25 +5344,29 @@ $
 
 frAvatar Big Boss
 
+ukАватар Big Boss
+ 
+jaアバター「BIG BOSS」
+
 ruАватар Big Boss.webp
 �
 !avatar_BlitzCup25_EU_TEAM3_common�
 !
 enVaporize Fan Diamond Avatar
 !
-plVaporize Fan Diamond Avatar
-!
 zhVaporize Fan Diamond Avatar
-?
-ja9アバター「Vaporize ファン・ダイヤモンド」
-\
-ukVДіамантовий аватар уболівальника команди Vaporize
+!
+plVaporize Fan Diamond Avatar
 !
 ptVaporize Fan Diamond Avatar
 !
 esVaporize Fan Diamond Avatar
 1
 fr+Avatar du passionné de Vaporize de diamant
+\
+ukVДіамантовий аватар уболівальника команди Vaporize
+?
+ja9アバター「Vaporize ファン・ダイヤモンド」
 Z
 ruTБриллиантовый аватар болельщика команды Vaporize.webp
 �
@@ -5374,19 +5374,19 @@ Z
 
 enInterceptor Frankie
 
-plInterceptor Frankie
-
 zhInterceptor Frankie
-
-ja迎撃者フランキー
-+
-uk%Перехоплювач Френкі
+
+plInterceptor Frankie
 
 ptInterceptor Frankie
 
 esInterceptor Frankie
 
 frFranckie l'intercepteur
++
+uk%Перехоплювач Френкі
+
+ja迎撃者フランキー
 )
 ru#Перехватчик Френки.png
 �
@@ -5394,13 +5394,9 @@ Z
 
 enBlitz Avatar
 
-plBlitz Avatar
-
 zhBlitz Avatar
-
-jaアバター「Blitz」
-
-ukАватар Blitz
+
+plBlitz Avatar
 
 ptBlitz Avatar
 
@@ -5408,25 +5404,29 @@ Z
 
 frAvatar de Blitz
 
+ukАватар Blitz
+
+jaアバター「Blitz」
+
 ruАватар Blitz.png
 �
 #avatar_2024_oct_hall_treat_animated�
 $
 enJack-o'-Bucket Animated Avatar
 $
-plJack-o'-Bucket Animated Avatar
-$
 zhJack-o'-Bucket Animated Avatar
-K
-jaEアニメーション付きアバター「ジャックオバケツ」
-P
-ukJАнімований аватар «Гарбуз із цукерками»
+$
+plJack-o'-Bucket Animated Avatar
 $
 ptJack-o'-Bucket Animated Avatar
 $
 esJack-o'-Bucket Animated Avatar
 $
 frAvatar animé Citrouille-sceau
+P
+ukJАнімований аватар «Гарбуз із цукерками»
+K
+jaEアニメーション付きアバター「ジャックオバケツ」
 T
 ruNАнимированный аватар «Тыква с конфетками».webp
 �
@@ -5434,19 +5434,19 @@ T
 
 en"Like a Boss" Avatar
 
-pl"Like a Boss" Avatar
-
 zh"Like a Boss" Avatar
-*
-ja$アバター「ボスのように」
-
-ukАватар Like a boss
+
+pl"Like a Boss" Avatar
 
 pt"Like a Boss" Avatar
 
 es"Like a Boss" Avatar
 #
 frAvatar « Trop la classe »
+
+ukАватар Like a boss
+*
+ja$アバター「ボスのように」
 "
 ruАватар «Like a boss».png
 �
@@ -5454,13 +5454,9 @@ $avatar_progressive_bp_38_ruby_free_4�
 <
 en6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
-pl6storage/Items/avatar_progressive_bp_38_ruby_free/Title
-<
 zh6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
-ja6storage/Items/avatar_progressive_bp_38_ruby_free/Title
-<
-uk6storage/Items/avatar_progressive_bp_38_ruby_free/Title
+pl6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
 pt6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
@@ -5468,25 +5464,29 @@ $avatar_progressive_bp_38_ruby_free_4�
 <
 fr6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
+uk6storage/Items/avatar_progressive_bp_38_ruby_free/Title
+<
+ja6storage/Items/avatar_progressive_bp_38_ruby_free/Title
+<
 ru6storage/Items/avatar_progressive_bp_38_ruby_free/Title.webp
 �
 avatar_md_hand_anim�
 "
 en"Hell Yeah!" Animated Avatar
 "
-pl"Hell Yeah!" Animated Avatar
-"
 zh"Hell Yeah!" Animated Avatar
-=
-ja7アニメーション付きアバター「Hell Yeah!」
-6
-uk0Анімований аватар «Hell Yeah!»
+"
+pl"Hell Yeah!" Animated Avatar
 "
 pt"Hell Yeah!" Animated Avatar
 "
 es"Hell Yeah!" Animated Avatar
  
 frAvatar animé Hell Yeah !
+6
+uk0Анімований аватар «Hell Yeah!»
+=
+ja7アニメーション付きアバター「Hell Yeah!」
 8
 ru2Анимированный аватар Hell Yeah!.webp
 �
@@ -5494,19 +5494,19 @@ $avatar_progressive_bp_38_ruby_free_4�
 
 enWoodland Spirit Avatar
 
-plWoodland Spirit Avatar
-
 zhWoodland Spirit Avatar
-'
-ja!アバター「森林の息吹」
-&
-uk Аватар «Дух лісу»
+
+plWoodland Spirit Avatar
 
 ptWoodland Spirit Avatar
 
 esWoodland Spirit Avatar
 
 frAvatar Esprit des bois
+&
+uk Аватар «Дух лісу»
+'
+ja!アバター「森林の息吹」
 *
 ru$Аватар «Лесной дух».webp
 �
@@ -5514,13 +5514,9 @@ $avatar_progressive_bp_38_ruby_free_4�
 '
 en!Blitz Europe Cup 2021 Fan Avatar
 '
-pl!Blitz Europe Cup 2021 Fan Avatar
-'
 zh!Blitz Europe Cup 2021 Fan Avatar
-8
-ja2アバター「Blitz Europe Cup 2021 ファン」
-8
-uk2Аватар «Фанат Blitz Europe Cup 2021»
+'
+pl!Blitz Europe Cup 2021 Fan Avatar
 '
 pt!Blitz Europe Cup 2021 Fan Avatar
 '
@@ -5528,25 +5524,29 @@ $avatar_progressive_bp_38_ruby_free_4�
 7
 fr1Avatar du Passionné de la Blitz Europe Cup 2021
 8
+uk2Аватар «Фанат Blitz Europe Cup 2021»
+8
+ja2アバター「Blitz Europe Cup 2021 ファン」
+8
 ru2Аватар «Фанат Blitz Europe Cup 2021».webp
 �
 !avatar_EU_QU1CK_BSC_fans_rare_31d�
 
 enQU1CK Fan Avatar
 
-plQU1CK Fan Avatar
-
 zhQU1CK Fan Avatar
-'
-ja!アバター「QU1CK ファン」
-5
-uk/Аватар «Вболівальник QU1CK»
+
+plQU1CK Fan Avatar
 
 ptQU1CK Fan Avatar
 
 esQU1CK Fan Avatar
 #
 frAvatar du passionné de QU1CK
+5
+uk/Аватар «Вболівальник QU1CK»
+'
+ja!アバター「QU1CK ファン」
 /
 ru)Аватар «Болельщик QU1CK».webp
 �
@@ -5554,13 +5554,9 @@ $avatar_progressive_bp_38_ruby_free_4�
 !
 enPrimaris Intercessor Avatar
 !
-plPrimaris Intercessor Avatar
-!
 zhPrimaris Intercessor Avatar
-E
-ja?アバター「プライマリス・インターセッサー」
-
-ukАватар Intercessor
+!
+plPrimaris Intercessor Avatar
 !
 ptPrimaris Intercessor Avatar
 !
@@ -5568,25 +5564,29 @@ E
 #
 frAvatar du Médiateur Primaris
 
+ukАватар Intercessor
+E
+ja?アバター「プライマリス・インターセッサー」
+
 ruАватар Intercessor.webp
 �
 avatar_progressive_bp_9_paid_8�
 
 enBadge of Victory Avatar
 
-plBadge of Victory Avatar
-
 zhBadge of Victory Avatar
-*
-ja$アバター「勝利のバッジ」
-6
-uk0Аватар «Тріумф переможця»
+
+plBadge of Victory Avatar
 
 ptBadge of Victory Avatar
 
 esBadge of Victory Avatar
 #
 frAvatar Insigne de la victoire
+6
+uk0Аватар «Тріумф переможця»
+*
+ja$アバター「勝利のバッジ」
 8
 ru2Аватар «Триумф победителя».webp
 �
@@ -5594,19 +5594,19 @@ E
 
 enApathy Fan Avatar
 
-plApathy Fan Avatar
-
 zhApathy Fan Avatar
-(
-ja"アバター「Apathy ファン」
-6
-uk0Аватар «Вболівальник Apathy»
+
+plApathy Fan Avatar
 
 ptApathy Fan Avatar
 
 esApathy Fan Avatar
 #
 frAvatar du passionné d'Apathy
+6
+uk0Аватар «Вболівальник Apathy»
+(
+ja"アバター「Apathy ファン」
 0
 ru*Аватар «Болельщик Apathy».webp
 �
@@ -5614,13 +5614,9 @@ E
 
 enWujiang Avatar
 
-plWujiang Avatar
-
 zhWujiang Avatar
-
-jaアバター「Wujiang」
-
-ukАватар Wujiang
+
+plWujiang Avatar
 
 ptWujiang Avatar
 
@@ -5628,25 +5624,29 @@ E
 
 frAvatar Wujiang
 
+ukАватар Wujiang
+
+jaアバター「Wujiang」
+
 ruАватар Wujiang.webp
 �
 avatar_EU_Bedbug_rare_31d�
 
 enBedbug Fan Avatar
 
-plBedbug Fan Avatar
-
 zhBedbug Fan Avatar
-(
-ja"アバター「Bedbug ファン」
-6
-uk0Аватар «Вболівальник Bedbug»
+
+plBedbug Fan Avatar
 
 ptBedbug Fan Avatar
 
 esBedbug Fan Avatar
 $
 frAvatar du passionné de Bedbug
+6
+uk0Аватар «Вболівальник Bedbug»
+(
+ja"アバター「Bedbug ファン」
 0
 ru*Аватар «Болельщик Bedbug».webp
 �
@@ -5654,19 +5654,19 @@ $
 
 enForgefire Avatar
 
-plForgefire Avatar
-
 zhForgefire Avatar
-0
-ja*アバター「フォージファイア」
->
-uk8Аватар «Відродження в полум'ї»
+
+plForgefire Avatar
 
 ptForgefire Avatar
 
 esForgefire Avatar
 
 frAvatar Feu de forge
+>
+uk8Аватар «Відродження в полум'ї»
+0
+ja*アバター「フォージファイア」
 4
 ru.Аватар «Обратный отсчёт».webp
 �
@@ -5674,13 +5674,9 @@ $
 
 enRudolph Avatar
 
-plRudolph Avatar
-
 zhRudolph Avatar
-$
-jaアバター「ルドルフ」
-%
-ukАватар «Рудольф»
+
+plRudolph Avatar
 
 ptRudolph Avatar
 
@@ -5688,25 +5684,29 @@ $
 
 frAvatar de Rudolph
 %
+ukАватар «Рудольф»
+$
+jaアバター「ルドルフ」
+%
 ruАватар «Рудольф».png
 �
 avatar_gold_tiger_legendary�
 
 enRoaring Tiger Avatar
 
-plRoaring Tiger Avatar
-
 zhRoaring Tiger Avatar
-$
-jaアバター「吼える虎」
-4
-uk.Аватар «Тигр, що гарчить»
+
+plRoaring Tiger Avatar
 
 ptRoaring Tiger Avatar
 
 esRoaring Tiger Avatar
 
 frAvatar de tigre rugissant
+4
+uk.Аватар «Тигр, що гарчить»
+$
+jaアバター「吼える虎」
 .
 ru(Аватар «Рычащий тигр».png
 �
@@ -5714,13 +5714,9 @@ $
 #
 enThree Years with Blitz Avatar
 #
-plThree Years with Blitz Avatar
-#
 zhThree Years with Blitz Avatar
 #
-jaThree Years with Blitz Avatar
-#
-ukThree Years with Blitz Avatar
+plThree Years with Blitz Avatar
 #
 ptThree Years with Blitz Avatar
 #
@@ -5728,25 +5724,29 @@ $
 #
 frThree Years with Blitz Avatar
 #
+ukThree Years with Blitz Avatar
+#
+jaThree Years with Blitz Avatar
+#
 ruThree Years with Blitz Avatar.png
 �
 avatar_bp_71_bundle�
 
 enTrench Raider Avatar
 
-plTrench Raider Avatar
-
 zhTrench Raider Avatar
--
-ja'アバター「塹壕への襲撃者」
-2
-uk,Аватар «Окопний рейдер»
+
+plTrench Raider Avatar
 
 ptTrench Raider Avatar
 
 esTrench Raider Avatar
 &
 fr Avatar Assaillant des tranchées
+2
+uk,Аватар «Окопний рейдер»
+-
+ja'アバター「塹壕への襲撃者」
 6
 ru0Аватар «Окопный налётчик».webp
 �
@@ -5754,19 +5754,19 @@ $
  
 enLucky Dice Animated Avatar
  
-plLucky Dice Animated Avatar
- 
 zhLucky Dice Animated Avatar
-H
-jaBアニメーション付きアバター「幸運のサイコロ」
-6
-uk0Анімований аватар «Талан»
+ 
+plLucky Dice Animated Avatar
  
 ptLucky Dice Animated Avatar
  
 esLucky Dice Animated Avatar
 $
 frAvatar animé Dès de chanceux
+6
+uk0Анімований аватар «Талан»
+H
+jaBアニメーション付きアバター「幸運のサイコロ」
 B
 ru<Анимированный аватар «Везунчик».webp
 �
@@ -5774,19 +5774,19 @@ B
 
 enSpace Duck Avatar
 
-plSpace Duck Avatar
-
 zhSpace Duck Avatar
-0
-ja*アバター「スペース・アヒル」
-4
-uk.Аватар «Космічне каченя»
+
+plSpace Duck Avatar
 
 ptSpace Duck Avatar
 
 esSpace Duck Avatar
 
 frAvatar Canard de l'espace
+4
+uk.Аватар «Космічне каченя»
+0
+ja*アバター「スペース・アヒル」
 :
 ru4Аватар «Космическая уточка».webp
 �
@@ -5794,19 +5794,19 @@ B
 
 enPredatory Gaze Avatar
 
-plPredatory Gaze Avatar
-
 zhPredatory Gaze Avatar
-$
-jaアバター「獣の凝視」
-.
-uk(Аватар «Хижий погляд»
+
+plPredatory Gaze Avatar
 
 ptPredatory Gaze Avatar
 
 esPredatory Gaze Avatar
 $
 frAvatar du regard de prédateur
+.
+uk(Аватар «Хижий погляд»
+$
+jaアバター「獣の凝視」
 0
 ru*Аватар «Хищный взгляд».png
 �
@@ -5814,19 +5814,19 @@ $
 
 en"Enemy Hit?!" Avatar
 
-pl"Enemy Hit?!" Avatar
-
 zh"Enemy Hit?!" Avatar
-&
-ja アバター「敵に命中!?」
-)
-uk#Аватар «Влучення?!»
+
+pl"Enemy Hit?!" Avatar
 
 pt"Enemy Hit?!" Avatar
 
 es"Enemy Hit?!" Avatar
 '
 fr!Avatar « Ennemi touché ?! »
+)
+uk#Аватар «Влучення?!»
+&
+ja アバター「敵に命中!?」
 +
 ru%Аватар «Попадание?!».png
 �
@@ -5834,13 +5834,9 @@ $
 
 enVizard of Guile Avatar
 
-plVizard of Guile Avatar
-
 zhVizard of Guile Avatar
-'
-ja!アバター「狡猾な仮面」
-0
-uk*Аватар «Маска хитруна»
+
+plVizard of Guile Avatar
 
 ptVizard of Guile Avatar
 
@@ -5848,25 +5844,29 @@ $
 &
 fr Avatar du masque de la fourberie
 0
+uk*Аватар «Маска хитруна»
+'
+ja!アバター「狡猾な仮面」
+0
 ru*Аватар «Маска хитреца».png
 �
 avatar_progressive_bp_6_paid_3�
 
 enHeavenly Niu Avatar
 
-plHeavenly Niu Avatar
-
 zhHeavenly Niu Avatar
-!
-jaアバター「牛大王」
-.
-uk(Аватар «Небесний Ніу»
+
+plHeavenly Niu Avatar
 
 ptHeavenly Niu Avatar
 
 esHeavenly Niu Avatar
 
 frAvatar du Niu céleste
+.
+uk(Аватар «Небесний Ніу»
+!
+jaアバター「牛大王」
 .
 ru(Аватар «Небесный Ниу».png
 �
@@ -5874,13 +5874,9 @@ $
 
 enBreach Avatar
 
-plBreach Avatar
-
 zhBreach Avatar
-!
-jaアバター「突破口」
-)
-uk#Аватар «Пробивний»
+
+plBreach Avatar
 
 ptBreach Avatar
 
@@ -5888,25 +5884,29 @@ $
 
 frAvatar de brèche
 )
+uk#Аватар «Пробивний»
+!
+jaアバター「突破口」
+)
 ru#Аватар «Пробивной».png
 �
 avatar_lupus_lehendary�
 
 enRadi Jaeger Avatar
 
-plRadi Jaeger Avatar
-
 zhRadi Jaeger Avatar
-3
-ja-アバター「ラディ・イェーガー」
-
-ukАватар Radi Jaeger
+
+plRadi Jaeger Avatar
 
 ptRadi Jaeger Avatar
 
 esRadi Jaeger Avatar
 
 frAvatar de Radi Jaeger
+
+ukАватар Radi Jaeger
+3
+ja-アバター「ラディ・イェーガー」
 "
 ruАватар «Radi Jaeger».png
 �
@@ -5914,19 +5914,19 @@ $
 
 enHeavenly Niu Avatar
 
-plHeavenly Niu Avatar
-
 zhHeavenly Niu Avatar
-!
-jaアバター「牛大王」
-.
-uk(Аватар «Небесний Ніу»
+
+plHeavenly Niu Avatar
 
 ptHeavenly Niu Avatar
 
 esHeavenly Niu Avatar
 
 frAvatar du Niu céleste
+.
+uk(Аватар «Небесний Ніу»
+!
+jaアバター「牛大王」
 .
 ru(Аватар «Небесный Ниу».png
 �
@@ -5934,13 +5934,9 @@ $
 
 enUltramarines Avatar
 
-plUltramarines Avatar
-
 zhUltramarines Avatar
-0
-ja*アバター「ウルトラマリーン」
-
-ukАватар Ultramarines
+
+plUltramarines Avatar
 
 ptUltramarines Avatar
 
@@ -5948,25 +5944,29 @@ $
 
 frAvatar Ultramarines
 
+ukАватар Ultramarines
+0
+ja*アバター「ウルトラマリーン」
+
 ruАватар Ultramarines.webp
 �
 avatar_progressive_Warrior_4�
 
 enCenturion Avatar
 
-plCenturion Avatar
-
 zhCenturion Avatar
-$
-jaアバター「百人隊長」
-!
-ukАватар «Лицар»
+
+plCenturion Avatar
 
 ptCenturion Avatar
 
 esCenturion Avatar
 
 frAvatar de centurion
+!
+ukАватар «Лицар»
+$
+jaアバター「百人隊長」
 #
 ruАватар «Рыцарь».png
 �
@@ -5974,19 +5974,19 @@ $
 
 enCenturion Avatar
 
-plCenturion Avatar
-
 zhCenturion Avatar
-$
-jaアバター「百人隊長」
-!
-ukАватар «Лицар»
+
+plCenturion Avatar
 
 ptCenturion Avatar
 
 esCenturion Avatar
 
 frAvatar de centurion
+!
+ukАватар «Лицар»
+$
+jaアバター「百人隊長」
 #
 ruАватар «Рыцарь».png
 �
@@ -5994,19 +5994,19 @@ $
 
 enHeavenly Niu Avatar
 
-plHeavenly Niu Avatar
-
 zhHeavenly Niu Avatar
-!
-jaアバター「牛大王」
-.
-uk(Аватар «Небесний Ніу»
+
+plHeavenly Niu Avatar
 
 ptHeavenly Niu Avatar
 
 esHeavenly Niu Avatar
 
 frAvatar du Niu céleste
+.
+uk(Аватар «Небесний Ніу»
+!
+jaアバター「牛大王」
 .
 ru(Аватар «Небесный Ниу».png
 �
@@ -6014,19 +6014,19 @@ $
 
 enCenturion Avatar
 
-plCenturion Avatar
-
 zhCenturion Avatar
-$
-jaアバター「百人隊長」
-!
-ukАватар «Лицар»
+
+plCenturion Avatar
 
 ptCenturion Avatar
 
 esCenturion Avatar
 
 frAvatar de centurion
+!
+ukАватар «Лицар»
+$
+jaアバター「百人隊長」
 #
 ruАватар «Рыцарь».png
 �
@@ -6034,19 +6034,19 @@ $
 
 enCenturion Avatar
 
-plCenturion Avatar
-
 zhCenturion Avatar
-$
-jaアバター「百人隊長」
-!
-ukАватар «Лицар»
+
+plCenturion Avatar
 
 ptCenturion Avatar
 
 esCenturion Avatar
 
 frAvatar de centurion
+!
+ukАватар «Лицар»
+$
+jaアバター「百人隊長」
 #
 ruАватар «Рыцарь».png
 �
@@ -6054,19 +6054,19 @@ $
 
 enHeavenly Niu Avatar
 
-plHeavenly Niu Avatar
-
 zhHeavenly Niu Avatar
-!
-jaアバター「牛大王」
-.
-uk(Аватар «Небесний Ніу»
+
+plHeavenly Niu Avatar
 
 ptHeavenly Niu Avatar
 
 esHeavenly Niu Avatar
 
 frAvatar du Niu céleste
+.
+uk(Аватар «Небесний Ніу»
+!
+jaアバター「牛大王」
 .
 ru(Аватар «Небесный Ниу».png
 �
@@ -6074,13 +6074,9 @@ $
 
 enSandworm Avatar
 
-plSandworm Avatar
-
 zhSandworm Avatar
-*
-ja$アバター「サンドワーム」
-2
-uk,Аватар «Піщаний хробак»
+
+plSandworm Avatar
 
 ptSandworm Avatar
 
@@ -6088,25 +6084,29 @@ $
 
 frAvatar Ver des sables
 2
+uk,Аватар «Піщаний хробак»
+*
+ja$アバター「サンドワーム」
+2
 ru,Аватар «Песчаный червь».webp
 �
 avatar_progressive_bp_6_paid_4�
 
 enHeavenly Niu Avatar
 
-plHeavenly Niu Avatar
-
 zhHeavenly Niu Avatar
-!
-jaアバター「牛大王」
-.
-uk(Аватар «Небесний Ніу»
+
+plHeavenly Niu Avatar
 
 ptHeavenly Niu Avatar
 
 esHeavenly Niu Avatar
 
 frAvatar du Niu céleste
+.
+uk(Аватар «Небесний Ніу»
+!
+jaアバター「牛大王」
 .
 ru(Аватар «Небесный Ниу».png
 �
@@ -6114,19 +6114,19 @@ $
  
 enTiger Girl Animated Avatar
  
-plTiger Girl Animated Avatar
- 
 zhTiger Girl Animated Avatar
-H
-jaBアニメーション付きアバター「たいがーがーる」
-2
-uk,Анімований аватар Tiger Girl
+ 
+plTiger Girl Animated Avatar
  
 ptTiger Girl Animated Avatar
  
 esTiger Girl Animated Avatar
 
 frAvatar animé Tiger Girl
+2
+uk,Анімований аватар Tiger Girl
+H
+jaBアニメーション付きアバター「たいがーがーる」
 8
 ru2Анимированный аватар Tiger Girl.webp
 �
@@ -6134,19 +6134,19 @@ H
 
 enCombat Helmet Avatar
 
-plCombat Helmet Avatar
-
 zhCombat Helmet Avatar
-0
-ja*アバター「戦闘用ヘルメット」
-0
-uk*Аватар «Захисна каска»
+
+plCombat Helmet Avatar
 
 ptCombat Helmet Avatar
 
 esCombat Helmet Avatar
  
 frAvatar de casque de combat
+0
+uk*Аватар «Захисна каска»
+0
+ja*アバター「戦闘用ヘルメット」
 2
 ru,Аватар «Защитная каска».png
 �
@@ -6154,13 +6154,9 @@ H
 +
 en%Blitz Ultimate Cup Europe 2022 Avatar
 +
-pl%Blitz Ultimate Cup Europe 2022 Avatar
-+
 zh%Blitz Ultimate Cup Europe 2022 Avatar
-6
-ja0アバター「Blitz Ultimate Cup Europe 2022」
-1
-uk+Аватар Blitz Ultimate Cup Europe 2022
++
+pl%Blitz Ultimate Cup Europe 2022 Avatar
 +
 pt%Blitz Ultimate Cup Europe 2022 Avatar
 +
@@ -6168,25 +6164,29 @@ H
 +
 fr%Avatar Blitz Ultimate Cup Europe 2022
 1
+uk+Аватар Blitz Ultimate Cup Europe 2022
+6
+ja0アバター「Blitz Ultimate Cup Europe 2022」
+1
 ru+Аватар Blitz Ultimate Cup Europe 2022.webp
 �
 avatar_progressive_Warrior_2�
 
 enCenturion Avatar
 
-plCenturion Avatar
-
 zhCenturion Avatar
-$
-jaアバター「百人隊長」
-!
-ukАватар «Лицар»
+
+plCenturion Avatar
 
 ptCenturion Avatar
 
 esCenturion Avatar
 
 frAvatar de centurion
+!
+ukАватар «Лицар»
+$
+jaアバター「百人隊長」
 #
 ruАватар «Рыцарь».png
 �
@@ -6194,13 +6194,9 @@ $
 
 enNeon Dragon Avatar
 
-plNeon Dragon Avatar
-
 zhNeon Dragon Avatar
-0
-ja*アバター「ネオン・ドラゴン」
-4
-uk.Аватар «Неоновий дракон»
+
+plNeon Dragon Avatar
 
 ptNeon Dragon Avatar
 
@@ -6208,19 +6204,19 @@ $
 
 frAvatar Dragon en néons
 4
+uk.Аватар «Неоновий дракон»
+0
+ja*アバター「ネオン・ドラゴン」
+4
 ru.Аватар «Неоновый дракон».webp
 �
 avatar_progressive_bp_6_paid_8�
 
 enHeavenly Niu Avatar
 
-plHeavenly Niu Avatar
-
 zhHeavenly Niu Avatar
-!
-jaアバター「牛大王」
-.
-uk(Аватар «Небесний Ніу»
+
+plHeavenly Niu Avatar
 
 ptHeavenly Niu Avatar
 
@@ -6228,25 +6224,29 @@ $
 
 frAvatar du Niu céleste
 .
+uk(Аватар «Небесний Ніу»
+!
+jaアバター「牛大王」
+.
 ru(Аватар «Небесный Ниу».png
 �
 avatar_smiley_face_palm_rare�
 
 en"Enemy Hit?!" Avatar
 
-pl"Enemy Hit?!" Avatar
-
 zh"Enemy Hit?!" Avatar
-&
-ja アバター「敵に命中!?」
-)
-uk#Аватар «Влучення?!»
+
+pl"Enemy Hit?!" Avatar
 
 pt"Enemy Hit?!" Avatar
 
 es"Enemy Hit?!" Avatar
 '
 fr!Avatar « Ennemi touché ?! »
+)
+uk#Аватар «Влучення?!»
+&
+ja アバター「敵に命中!?」
 +
 ru%Аватар «Попадание?!».png
 �
@@ -6254,19 +6254,19 @@ $
  
 enSpace Duck Animated Avatar
  
-plSpace Duck Animated Avatar
- 
 zhSpace Duck Animated Avatar
-K
-jaEアニメーション付きアバター「スペース・アヒル」
-I
-ukCАнімований аватар «Космічне каченя»
+ 
+plSpace Duck Animated Avatar
  
 ptSpace Duck Animated Avatar
  
 esSpace Duck Animated Avatar
 &
 fr Avatar animé Canard de l'espace
+I
+ukCАнімований аватар «Космічне каченя»
+K
+jaEアニメーション付きアバター「スペース・アヒル」
 U
 ruOАнимированный аватар «Космическая уточка».webp
 �
@@ -6274,19 +6274,19 @@ U
 
 enBlitz Ornaments Avatar
 
-plBlitz Ornaments Avatar
-
 zhBlitz Ornaments Avatar
-0
-ja*アバター「Blitz オーナメント」
--
-uk'Аватар «Прикраси Blitz»
+
+plBlitz Ornaments Avatar
 
 ptBlitz Ornaments Avatar
 
 esBlitz Ornaments Avatar
 
 frAvatar Ornements de Blitz
+-
+uk'Аватар «Прикраси Blitz»
+0
+ja*アバター「Blitz オーナメント」
 /
 ru)Аватар «Украшения Blitz».webp
 �
@@ -6294,19 +6294,19 @@ U
 
 enBattle Star Avatar
 
-plBattle Star Avatar
-
 zhBattle Star Avatar
-*
-ja$アバター「バトルスター」
-.
-uk(Аватар «Бойова зірка»
+
+plBattle Star Avatar
 
 ptBattle Star Avatar
 
 esBattle Star Avatar
 #
 frAvatar de l'étoile de guerre
+.
+uk(Аватар «Бойова зірка»
+*
+ja$アバター「バトルスター」
 0
 ru*Аватар «Боевая звезда».png
 �
@@ -6314,19 +6314,19 @@ $avatar_progressive_tournament_wins_9�
 
 enCompetitive Spirit Avatar
 
-plCompetitive Spirit Avatar
-
 zhCompetitive Spirit Avatar
-0
-ja*アバター「トーナメント精神」
-.
-uk(Аватар «Дух змагання»
+
+plCompetitive Spirit Avatar
 
 ptCompetitive Spirit Avatar
 
 esCompetitive Spirit Avatar
 (
 fr"Avatar de l'Esprit de compétition
+.
+uk(Аватар «Дух змагання»
+0
+ja*アバター「トーナメント精神」
 6
 ru0Аватар «Дух соревнования».webp
 �
@@ -6334,19 +6334,19 @@ $avatar_progressive_tournament_wins_9�
 
 enProud Peacock Avatar
 
-plProud Peacock Avatar
-
 zhProud Peacock Avatar
-*
-ja$アバター「誇り高き孔雀」
-.
-uk(Аватар «Гордий павич»
+
+plProud Peacock Avatar
 
 ptProud Peacock Avatar
 
 esProud Peacock Avatar
 
 frAvatar du paon fier
+.
+uk(Аватар «Гордий павич»
+*
+ja$アバター「誇り高き孔雀」
 0
 ru*Аватар «Гордый павлин».png
 �
@@ -6354,19 +6354,19 @@ $avatar_progressive_tournament_wins_9�
 
 enLos JON3S Fan Avatar
 
-plLos JON3S Fan Avatar
-
 zhLos JON3S Fan Avatar
-+
-ja%アバター「Los JON3S ファン」
-9
-uk3Аватар «Вболівальник Los JON3S»
+
+plLos JON3S Fan Avatar
 
 ptLos JON3S Fan Avatar
 
 esLos JON3S Fan Avatar
 '
 fr!Avatar du passionné de Los JON3S
+9
+uk3Аватар «Вболівальник Los JON3S»
++
+ja%アバター「Los JON3S ファン」
 3
 ru-Аватар «Болельщик Los JON3S».webp
 �
@@ -6374,19 +6374,19 @@ $avatar_progressive_tournament_wins_9�
 
 enCenturion Avatar
 
-plCenturion Avatar
-
 zhCenturion Avatar
-$
-jaアバター「百人隊長」
-!
-ukАватар «Лицар»
+
+plCenturion Avatar
 
 ptCenturion Avatar
 
 esCenturion Avatar
 
 frAvatar de centurion
+!
+ukАватар «Лицар»
+$
+jaアバター「百人隊長」
 #
 ruАватар «Рыцарь».png
 �
@@ -6394,19 +6394,19 @@ $
 
 enCombat Helmet Avatar
 
-plCombat Helmet Avatar
-
 zhCombat Helmet Avatar
-0
-ja*アバター「戦闘用ヘルメット」
-0
-uk*Аватар «Захисна каска»
+
+plCombat Helmet Avatar
 
 ptCombat Helmet Avatar
 
 esCombat Helmet Avatar
  
 frAvatar de casque de combat
+0
+uk*Аватар «Захисна каска»
+0
+ja*アバター「戦闘用ヘルメット」
 2
 ru,Аватар «Защитная каска».png
 �
@@ -6414,13 +6414,9 @@ $
 
 enMystical Moon Avatar
 
-plMystical Moon Avatar
-
 zhMystical Moon Avatar
-6
-ja0アバター「ミスティカル・ムーン」
-6
-uk0Аватар «Містичний місяць»
+
+plMystical Moon Avatar
 
 ptMystical Moon Avatar
 
@@ -6428,25 +6424,29 @@ $
 
 frAvatar Lune mystique
 6
+uk0Аватар «Містичний місяць»
+6
+ja0アバター「ミスティカル・ムーン」
+6
 ru0Аватар «Мистическая Луна».webp
 �
 #avatar_diamond_league_legendary_61d�
 
 enDiamond League Avatar
 
-plDiamond League Avatar
-
 zhDiamond League Avatar
-3
-ja-アバター「ダイヤモンドリーグ」
-4
-uk.Аватар «Діамантова Ліга»
+
+plDiamond League Avatar
 
 ptDiamond League Avatar
 
 esDiamond League Avatar
  
 frAvatar de la Ligue Diamant
+4
+uk.Аватар «Діамантова Ліга»
+3
+ja-アバター「ダイヤモンドリーグ」
 :
 ru4Аватар «Бриллиантовая Лига».png
 �
@@ -6454,19 +6454,19 @@ $
 
 enAdventurous Mole Avatar
 
-plAdventurous Mole Avatar
-
 zhAdventurous Mole Avatar
-3
-ja-アバター「冒険だいすきモグラ」
-4
-uk.Аватар «Мандрівний кріт»
+
+plAdventurous Mole Avatar
 
 ptAdventurous Mole Avatar
 
 esAdventurous Mole Avatar
 
 frAvatar Taupe aventureuse
+4
+uk.Аватар «Мандрівний кріт»
+3
+ja-アバター「冒険だいすきモグラ」
 0
 ru*Аватар «Отважный крот».webp
 �
@@ -6474,13 +6474,9 @@ $
 
 enАватар «Лайт»
 
-plАватар «Лайт»
-
 zhАватар «Лайт»
 
-jaАватар «Лайт»
-
-ukАватар «Лайт»
+plАватар «Лайт»
 
 ptАватар «Лайт»
 
@@ -6488,25 +6484,29 @@ $
 
 frАватар «Лайт»
 
+ukАватар «Лайт»
+
+jaАватар «Лайт»
+
 ruАватар «Лайт».webp
 �
 avatar_golden_gem_legendary�
 
 enGold Gem Avatar
 
-plGold Gem Avatar
-
 zhGold Gem Avatar
-$
-jaアバター「金の宝石」
-4
-uk.Аватар «Золотий кристал»
+
+plGold Gem Avatar
 
 ptGold Gem Avatar
 
 esGold Gem Avatar
 
 frAvatar de joyau en or
+4
+uk.Аватар «Золотий кристал»
+$
+jaアバター「金の宝石」
 6
 ru0Аватар «Золотой кристалл».png
 �
@@ -6514,19 +6514,19 @@ $
 
 en8 Victorious Years Avatar
 
-pl8 Victorious Years Avatar
-
 zh8 Victorious Years Avatar
-)
-ja#アバター「誇らしい 8年」
-2
-uk,Аватар «8 років перемог»
+
+pl8 Victorious Years Avatar
 
 pt8 Victorious Years Avatar
 
 es8 Victorious Years Avatar
 &
 fr Avatar de 8 années victorieuses
+2
+uk,Аватар «8 років перемог»
+)
+ja#アバター「誇らしい 8年」
 *
 ru$Аватар «8 лет побед».webp
 �
@@ -6534,19 +6534,19 @@ $
 
 enSweet Treat Avatar
 
-plSweet Treat Avatar
-
 zhSweet Treat Avatar
-'
-ja!アバター「甘いご馳走」
-)
-uk#Найсолодший аватар
+
+plSweet Treat Avatar
 
 ptSweet Treat Avatar
 
 esSweet Treat Avatar
 
 frAvatar Petite douceur
+)
+uk#Найсолодший аватар
+'
+ja!アバター「甘いご馳走」
 ,
 ru&Самый сладкий аватар.webp
 �
@@ -6554,13 +6554,9 @@ $
 
 enganteli Avatar
 
-plganteli Avatar
-
 zhganteli Avatar
-
-jaアバター「ganteli」
-
-ukАватар ganteli
+
+plganteli Avatar
 
 ptganteli Avatar
 
@@ -6568,19 +6564,19 @@ $
 
 frAvatar de ganteli
 
+ukАватар ganteli
+
+jaアバター「ganteli」
+
 ruАватар ganteli.webp
 �
 avatar_8th_birthday_2025�
 
 en同行相伴8周年头像
 
-pl同行相伴8周年头像
-
 zh同行相伴8周年头像
 
-ja同行相伴8周年头像
-
-uk同行相伴8周年头像
+pl同行相伴8周年头像
 
 pt同行相伴8周年头像
 
@@ -6588,19 +6584,19 @@ $
 
 fr同行相伴8周年头像
 
+uk同行相伴8周年头像
+
+ja同行相伴8周年头像
+
 ru同行相伴8周年头像.webp
 �
 $avatar_progressive_bp_39_ruby_free_1�
 >
 en8storage/Items/avatar_progressive_bp_39_ruby_free_1/Title
 >
-pl8storage/Items/avatar_progressive_bp_39_ruby_free_1/Title
->
 zh8storage/Items/avatar_progressive_bp_39_ruby_free_1/Title
 >
-ja8storage/Items/avatar_progressive_bp_39_ruby_free_1/Title
->
-uk8storage/Items/avatar_progressive_bp_39_ruby_free_1/Title
+pl8storage/Items/avatar_progressive_bp_39_ruby_free_1/Title
 >
 pt8storage/Items/avatar_progressive_bp_39_ruby_free_1/Title
 >
@@ -6608,19 +6604,19 @@ $avatar_progressive_bp_39_ruby_free_1�
 >
 fr8storage/Items/avatar_progressive_bp_39_ruby_free_1/Title
 >
+uk8storage/Items/avatar_progressive_bp_39_ruby_free_1/Title
+>
+ja8storage/Items/avatar_progressive_bp_39_ruby_free_1/Title
+>
 ru8storage/Items/avatar_progressive_bp_39_ruby_free_1/Title.webp
 �
 "avatar_PreSeasonQuest_S5_unique_cn�
 
 enSeason 5 Avatar
 
-plSeason 5 Avatar
-
 zhSeason 5 Avatar
-&
-ja アバター「シーズン 5」
-#
-ukАватар «Сезон 5»
+
+plSeason 5 Avatar
 
 ptSeason 5 Avatar
 
@@ -6628,25 +6624,29 @@ $avatar_progressive_bp_39_ruby_free_1�
 
 frAvatar Saison 5
 #
+ukАватар «Сезон 5»
+&
+ja アバター「シーズン 5」
+#
 ruАватар «Сезон 5».webp
 �
 !avatar_BlitzCup25_SG_TEAM4_common�
  
 enEndless Fan Diamond Avatar
  
-plEndless Fan Diamond Avatar
- 
 zhEndless Fan Diamond Avatar
->
-ja8アバター「Endless ファン・ダイヤモンド」
-[
-ukUДіамантовий аватар уболівальника команди Endless
+ 
+plEndless Fan Diamond Avatar
  
 ptEndless Fan Diamond Avatar
  
 esEndless Fan Diamond Avatar
 /
 fr)Avatar du passionné d'Endless de diamant
+[
+ukUДіамантовий аватар уболівальника команди Endless
+>
+ja8アバター「Endless ファン・ダイヤモンド」
 Y
 ruSБриллиантовый аватар болельщика команды Endless.webp
 �
@@ -6654,13 +6654,9 @@ Y
 
 enImperial Aquila Avatar
 
-plImperial Aquila Avatar
-
 zhImperial Aquila Avatar
-9
-ja3アバター「インペリアル・アクイラ」
-
-ukАватар Aquila
+
+plImperial Aquila Avatar
 
 ptImperial Aquila Avatar
 
@@ -6668,25 +6664,29 @@ Y
 "
 frAvatar de l'Aquila impérial
 
+ukАватар Aquila
+9
+ja3アバター「インペリアル・アクイラ」
+
 ruАватар Aquila.webp
 �
 avatar_easter3_legendary�
 
 enBasket of Wonders Avatar
 
-plBasket of Wonders Avatar
-
 zhBasket of Wonders Avatar
-3
-ja-アバター「ワンダーバスケット」
-3
-uk-Аватар «Кошик із дивами»
+
+plBasket of Wonders Avatar
 
 ptBasket of Wonders Avatar
 
 esBasket of Wonders Avatar
 "
 frAvatar Panier des merveilles
+3
+uk-Аватар «Кошик із дивами»
+3
+ja-アバター「ワンダーバスケット」
 2
 ru,Аватар «Корзинка чудес».webp
 �
@@ -6694,19 +6694,19 @@ Y
 
 enFairy Lights Avatar
 
-plFairy Lights Avatar
-
 zhFairy Lights Avatar
-'
-ja!アバター「妖精の灯り」
-D
-uk>Аватар «Різнокольорова гірлянда»
+
+plFairy Lights Avatar
 
 ptFairy Lights Avatar
 
 esFairy Lights Avatar
 #
 frAvatar de guirlande lumineuse
+D
+uk>Аватар «Різнокольорова гірлянда»
+'
+ja!アバター「妖精の灯り」
 @
 ru:Аватар «Разноцветная гирлянда».png
 �
@@ -6714,19 +6714,19 @@ D
 
 enShamrock Avatar
 
-plShamrock Avatar
-
 zhShamrock Avatar
-*
-ja$アバター「シャムロック」
-)
-uk#Аватар «Трилисник»
+
+plShamrock Avatar
 
 ptShamrock Avatar
 
 esShamrock Avatar
 
 frAvatar du trèfle
+)
+uk#Аватар «Трилисник»
+*
+ja$アバター「シャムロック」
 +
 ru%Аватар «Трилистник».png
 �
@@ -6734,19 +6734,19 @@ D
 
 enSpace Voyager Avatar
 
-plSpace Voyager Avatar
-
 zhSpace Voyager Avatar
--
-ja'アバター「星のさすらい人」
-?
-uk9Аватар «Космічний мандрівник».
+
+plSpace Voyager Avatar
 
 ptSpace Voyager Avatar
 
 esSpace Voyager Avatar
 $
 frAvatar du Voyageur de l'espace
+?
+uk9Аватар «Космічний мандрівник».
+-
+ja'アバター「星のさすらい人」
 >
 ru8Аватар «Космический странник».webp
 �
@@ -6754,19 +6754,19 @@ $
 
 enLucky Clover Avatar
 
-plLucky Clover Avatar
-
 zhLucky Clover Avatar
-0
-ja*アバター「幸運のクローバー」
-2
-uk,Аватар «Конюшина удачі»
+
+plLucky Clover Avatar
 
 ptLucky Clover Avatar
 
 esLucky Clover Avatar
 '
 fr!Avatar Trèfle à quatre feuilles
+2
+uk,Аватар «Конюшина удачі»
+0
+ja*アバター「幸運のクローバー」
 .
 ru(Аватар «Клевер удачи».png
 �
@@ -6774,13 +6774,9 @@ $
 
 en行动的头像1
 
-pl行动的头像1
-
 zh行动的头像1
 
-ja行动的头像1
-
-uk行动的头像1
+pl行动的头像1
 
 pt行动的头像1
 
@@ -6788,25 +6784,29 @@ $
 
 fr行动的头像1
 
+uk行动的头像1
+
+ja行动的头像1
+
 ru行动的头像1.webp
 �
 #avatar_progressive_tenvsten_wins_10�
 
 enChamp Avatar
 
-plChamp Avatar
-
 zhChamp Avatar
-$
-jaアバター「チャンプ」
-%
-ukАватар «Чемпіон»
+
+plChamp Avatar
 
 ptChamp Avatar
 
 esChamp Avatar
 
 frAvatar de Champion
+%
+ukАватар «Чемпіон»
+$
+jaアバター「チャンプ」
 
 ruАватар «Чамп».webp
 �
@@ -6814,19 +6814,19 @@ $
 
 enPancake Destroyers Avatar
 
-plPancake Destroyers Avatar
-
 zhPancake Destroyers Avatar
-3
-ja-アバター「パンケーキの破壊者」
-G
-ukAАватар «Командир млинцевих військ»
+
+plPancake Destroyers Avatar
 
 ptPancake Destroyers Avatar
 
 esPancake Destroyers Avatar
 "
 frAvatar pancakes destructeurs
+G
+ukAАватар «Командир млинцевих військ»
+3
+ja-アバター「パンケーキの破壊者」
 A
 ru;Аватар «Командир блинных войск».png
 �
@@ -6834,19 +6834,19 @@ A
 
 enChamp Avatar
 
-plChamp Avatar
-
 zhChamp Avatar
-$
-jaアバター「チャンプ」
-%
-ukАватар «Чемпіон»
+
+plChamp Avatar
 
 ptChamp Avatar
 
 esChamp Avatar
 
 frAvatar de Champion
+%
+ukАватар «Чемпіон»
+$
+jaアバター「チャンプ」
 
 ruАватар «Чамп».webp
 �
@@ -6854,13 +6854,9 @@ $
 
 enSylvan Avatar
 
-plSylvan Avatar
-
 zhSylvan Avatar
-
-jaアバター「Sylvan」
-
-ukАватар Sylvestre
+
+plSylvan Avatar
 
 ptSylvan Avatar
 
@@ -6868,19 +6864,19 @@ $
 
 frAvatar sylvestre
 
+ukАватар Sylvestre
+
+jaアバター「Sylvan」
+
 ruАватар Sylvestre.webp
 �
 avatar_BUGIwoman_unique�
 
 enB.U.G.I. Woman Avatar
 
-plB.U.G.I. Woman Avatar
-
 zhB.U.G.I. Woman Avatar
-&
-ja アバター「B.U.G.I. Woman」
-!
-ukАватар B.U.G.I. Woman
+
+plB.U.G.I. Woman Avatar
 
 ptB.U.G.I. Woman Avatar
 
@@ -6888,25 +6884,29 @@ $
 
 frAvatar B.U.G.I. Woman
 !
+ukАватар B.U.G.I. Woman
+&
+ja アバター「B.U.G.I. Woman」
+!
 ruАватар B.U.G.I. Woman.webp
 �
 avatar_progressive_bp_69_free_3�
 
 enRadar Detection Avatar
 
-plRadar Detection Avatar
-
 zhRadar Detection Avatar
-*
-ja$アバター「レーダー検知」
-F
-uk@Аватар «Радіолокаційне виявлення»
+
+plRadar Detection Avatar
 
 ptRadar Detection Avatar
 
 esRadar Detection Avatar
 
 frAvatar Détection radar
+F
+uk@Аватар «Радіолокаційне виявлення»
+*
+ja$アバター「レーダー検知」
 4
 ru.Аватар «Радарный захват».webp
 �
@@ -6914,13 +6914,9 @@ F
 
 enNunchuks Avatar
 
-plNunchuks Avatar
-
 zhNunchuks Avatar
-'
-ja!アバター「ヌンチャク」
-2
-uk,Аватар «Нунчаки сенсея»
+
+plNunchuks Avatar
 
 ptNunchuks Avatar
 
@@ -6928,25 +6924,29 @@ F
 
 frAvatar Nunchaku
 2
+uk,Аватар «Нунчаки сенсея»
+'
+ja!アバター「ヌンチャク」
+2
 ru,Аватар «Нунчаки сэнсэя».webp
 �
 avatar_progressive_bp_69_free_2�
 
 enRadar Detection Avatar
 
-plRadar Detection Avatar
-
 zhRadar Detection Avatar
-*
-ja$アバター「レーダー検知」
-F
-uk@Аватар «Радіолокаційне виявлення»
+
+plRadar Detection Avatar
 
 ptRadar Detection Avatar
 
 esRadar Detection Avatar
 
 frAvatar Détection radar
+F
+uk@Аватар «Радіолокаційне виявлення»
+*
+ja$アバター「レーダー検知」
 4
 ru.Аватар «Радарный захват».webp
 �
@@ -6954,19 +6954,19 @@ $avatar_BlitzCup25_NA_TEAM4_legendary�
 
 enRent Free Diamond Avatar
 
-plRent Free Diamond Avatar
-
 zhRent Free Diamond Avatar
-4
-ja.アバター「Rent Free ダイヤモンド」
-B
-uk<Діамантовий аватар команди Rent Free
+
+plRent Free Diamond Avatar
 
 ptRent Free Diamond Avatar
 
 esRent Free Diamond Avatar
 $
 frAvatar de Rent Free de diamant
+B
+uk<Діамантовий аватар команди Rent Free
+4
+ja.アバター「Rent Free ダイヤモンド」
 F
 ru@Бриллиантовый аватар команды Rent Free.webp
 �
@@ -6974,19 +6974,19 @@ F
 
 enFortium Source Avatar
 
-plFortium Source Avatar
-
 zhFortium Source Avatar
-$
-jaフォルティウムの原石
-6
-uk0Аватар «Джерело Фортіуму»
+
+plFortium Source Avatar
 
 ptFortium Source Avatar
 
 esFortium Source Avatar
 
 frAvatar Source de Fortium
+6
+uk0Аватар «Джерело Фортіуму»
+$
+jaフォルティウムの原石
 8
 ru2Аватар «Источник Фортиума».webp
 �
@@ -6994,19 +6994,19 @@ $
 
 enFortium Source Avatar
 
-plFortium Source Avatar
-
 zhFortium Source Avatar
-$
-jaフォルティウムの原石
-6
-uk0Аватар «Джерело Фортіуму»
+
+plFortium Source Avatar
 
 ptFortium Source Avatar
 
 esFortium Source Avatar
 
 frAvatar Source de Fortium
+6
+uk0Аватар «Джерело Фортіуму»
+$
+jaフォルティウムの原石
 8
 ru2Аватар «Источник Фортиума».webp
 �
@@ -7014,19 +7014,19 @@ $
 
 enEra of Prosperity Avatar
 
-plEra of Prosperity Avatar
-
 zhEra of Prosperity Avatar
-$
-jaアバター「栄華の時」
-8
-uk2Аватар «Епоха процвітання»
+
+plEra of Prosperity Avatar
 
 ptEra of Prosperity Avatar
 
 esEra of Prosperity Avatar
 $
 frAvatar Ère de la prospérité
+8
+uk2Аватар «Епоха процвітання»
+$
+jaアバター「栄華の時」
 .
 ru(Аватар «Эра расцвета».webp
 �
@@ -7034,13 +7034,9 @@ $
 &
 en Summer Season Participant Avatar
 &
-pl Summer Season Participant Avatar
-&
 zh Summer Season Participant Avatar
-6
-ja0アバター「サマーシーズン参加者」
-C
-uk=Аватар «Учасник Літнього сезону»
+&
+pl Summer Season Participant Avatar
 &
 pt Summer Season Participant Avatar
 &
@@ -7048,25 +7044,29 @@ C
 1
 fr+Avatar de participant de la Saison estivale
 C
+uk=Аватар «Учасник Літнього сезону»
+6
+ja0アバター「サマーシーズン参加者」
+C
 ru=Аватар «Участник Летнего сезона».png
 �
 $avatar_progressive_rb_gold_eu_wins_8�
 
 enGold Victor Avatar
 
-plGold Victor Avatar
-
 zhGold Victor Avatar
--
-ja'アバター「ゴールドの勝者」
-:
-uk4Аватар «Золотий переможець»
+
+plGold Victor Avatar
 
 ptGold Victor Avatar
 
 esGold Victor Avatar
 
 frAvatar Vainqueur d'or
+:
+uk4Аватар «Золотий переможець»
+-
+ja'アバター「ゴールドの勝者」
 :
 ru4Аватар «Золотой победитель».webp
 �
@@ -7076,15 +7076,10 @@ $avatar_progressive_bp_29_ruby_paid_5�
 entest
 
 
-pltest
-
-
 zhtest
 
 
-jatest
-*
-uk$avatar_progressive_bp_29_ruby_paid_5
+pltest
 
 
 pttest
@@ -7094,6 +7089,11 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 
 frtest
+*
+uk$avatar_progressive_bp_29_ruby_paid_5
+
+
+jatest
 -
 ru'Аватар «Наблюдатель».webp
 �
@@ -7101,19 +7101,19 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 enThe Light Side Avatar
 
-plThe Light Side Avatar
-
 zhThe Light Side Avatar
-*
-ja$アバター「ライトサイド」
-2
-uk,Аватар «Світла сторона»
+
+plThe Light Side Avatar
 
 ptThe Light Side Avatar
 
 esThe Light Side Avatar
 
 frAvatar du côté clair
+2
+uk,Аватар «Світла сторона»
+*
+ja$アバター「ライトサイド」
 4
 ru.Аватар «Светлая сторона».webp
 �
@@ -7121,19 +7121,19 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 enHawkeye Avatar
 
-plHawkeye Avatar
-
 zhHawkeye Avatar
-!
-jaアバター「鷹の目」
-*
-uk$Аватар «Пильне око»
+
+plHawkeye Avatar
 
 ptHawkeye Avatar
 
 esHawkeye Avatar
 
 frAvatar d'œil de lynx
+*
+uk$Аватар «Пильне око»
+!
+jaアバター「鷹の目」
 ,
 ru&Аватар «Зоркий глаз».png
 �
@@ -7141,19 +7141,19 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 en"Shell-Shocked" Avatar
 
-pl"Shell-Shocked" Avatar
-
 zh"Shell-Shocked" Avatar
-*
-ja$アバター「砲弾ショック」
-<
-uk6Аватар «Навідника контужено»
+
+pl"Shell-Shocked" Avatar
 
 pt"Shell-Shocked" Avatar
 
 es"Shell-Shocked" Avatar
 
 frAvatar « Pantois »
+<
+uk6Аватар «Навідника контужено»
+*
+ja$アバター「砲弾ショック」
 8
 ru2Аватар «Наводчик контужен».png
 �
@@ -7161,19 +7161,19 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 enJack-O'-Lantern Avatar
 
-plJack-O'-Lantern Avatar
-
 zhJack-O'-Lantern Avatar
-3
-ja-アバター「ジャックオランタン」
-.
-uk(Аватар «Ліхтар Джека»
+
+plJack-O'-Lantern Avatar
 
 ptJack-O'-Lantern Avatar
 
 esJack-O'-Lantern Avatar
  
 frAvatar Citrouille-lanterne
+.
+uk(Аватар «Ліхтар Джека»
+3
+ja-アバター「ジャックオランタン」
 6
 ru0Аватар «Светильник Джека».webp
 �
@@ -7181,19 +7181,19 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 enSnack Time Avatar
 
-plSnack Time Avatar
-
 zhSnack Time Avatar
-*
-ja$アバター「おやつの時間」
-<
-uk6Аватар «Солодкий чи солоний?»
+
+plSnack Time Avatar
 
 ptSnack Time Avatar
 
 esSnack Time Avatar
 (
 fr"Avatar de l'heure du casse-croûte
+<
+uk6Аватар «Солодкий чи солоний?»
+*
+ja$アバター「おやつの時間」
 <
 ru6Аватар «Сладкий или солёный?».webp
 �
@@ -7201,19 +7201,19 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 enGas Mask Avatar
 
-plGas Mask Avatar
-
 zhGas Mask Avatar
-'
-ja!アバター「ガスマスク」
-4
-uk.Аватар «Хімічний захист»
+
+plGas Mask Avatar
 
 ptGas Mask Avatar
 
 esGas Mask Avatar
 
 frAvatar du Masque à gaz
+4
+uk.Аватар «Хімічний захист»
+'
+ja!アバター「ガスマスク」
 8
 ru2Аватар «Химическая защита».webp
 �
@@ -7221,19 +7221,19 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 enGas Mask Avatar
 
-plGas Mask Avatar
-
 zhGas Mask Avatar
-'
-ja!アバター「ガスマスク」
-4
-uk.Аватар «Хімічний захист»
+
+plGas Mask Avatar
 
 ptGas Mask Avatar
 
 esGas Mask Avatar
 
 frAvatar du Masque à gaz
+4
+uk.Аватар «Хімічний захист»
+'
+ja!アバター「ガスマスク」
 8
 ru2Аватар «Химическая защита».webp
 �
@@ -7241,19 +7241,19 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 enFrosty Tangerine Avatar
 
-plFrosty Tangerine Avatar
-
 zhFrosty Tangerine Avatar
-'
-ja!アバター「冷凍みかん」
-6
-uk0Аватар «Новорічні ласощі»
+
+plFrosty Tangerine Avatar
 
 ptFrosty Tangerine Avatar
 
 esFrosty Tangerine Avatar
  
 frAvatar de mandarine gelée
+6
+uk0Аватар «Новорічні ласощі»
+'
+ja!アバター「冷凍みかん」
 >
 ru8Аватар «Новогоднее лакомство».png
 �
@@ -7261,19 +7261,19 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 enGas Mask Avatar
 
-plGas Mask Avatar
-
 zhGas Mask Avatar
-'
-ja!アバター「ガスマスク」
-4
-uk.Аватар «Хімічний захист»
+
+plGas Mask Avatar
 
 ptGas Mask Avatar
 
 esGas Mask Avatar
 
 frAvatar du Masque à gaz
+4
+uk.Аватар «Хімічний захист»
+'
+ja!アバター「ガスマスク」
 8
 ru2Аватар «Химическая защита».webp
 �
@@ -7281,19 +7281,19 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 enGas Mask Avatar
 
-plGas Mask Avatar
-
 zhGas Mask Avatar
-'
-ja!アバター「ガスマスク」
-4
-uk.Аватар «Хімічний захист»
+
+plGas Mask Avatar
 
 ptGas Mask Avatar
 
 esGas Mask Avatar
 
 frAvatar du Masque à gaz
+4
+uk.Аватар «Хімічний захист»
+'
+ja!アバター「ガスマスク」
 8
 ru2Аватар «Химическая защита».webp
 �
@@ -7301,19 +7301,19 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 enGolden Egg Avatar
 
-plGolden Egg Avatar
-
 zhGolden Egg Avatar
-*
-ja$アバター「黄金のエッグ」
-,
-uk&Аватар «Золоте яйце»
+
+plGolden Egg Avatar
 
 ptGolden Egg Avatar
 
 esGolden Egg Avatar
 
 frAvatar Œuf en or
+,
+uk&Аватар «Золоте яйце»
+*
+ja$アバター「黄金のエッグ」
 .
 ru(Аватар «Золотое яйцо».webp
 �
@@ -7321,19 +7321,19 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 enGas Mask Avatar
 
-plGas Mask Avatar
-
 zhGas Mask Avatar
-'
-ja!アバター「ガスマスク」
-4
-uk.Аватар «Хімічний захист»
+
+plGas Mask Avatar
 
 ptGas Mask Avatar
 
 esGas Mask Avatar
 
 frAvatar du Masque à gaz
+4
+uk.Аватар «Хімічний захист»
+'
+ja!アバター「ガスマスク」
 8
 ru2Аватар «Химическая защита».webp
 �
@@ -7341,13 +7341,9 @@ $avatar_progressive_bp_29_ruby_paid_5�
 
 enOutcast Peacemaker Avatar
 
-plOutcast Peacemaker Avatar
-
 zhOutcast Peacemaker Avatar
-*
-ja$アバター「Outcast Peacemaker」
-%
-ukАватар Outcast Peacemaker
+
+plOutcast Peacemaker Avatar
 
 ptOutcast Peacemaker Avatar
 
@@ -7355,25 +7351,29 @@ $avatar_progressive_bp_29_ruby_paid_5�
  
 frAvatar Outcast Peacemaker
 %
+ukАватар Outcast Peacemaker
+*
+ja$アバター「Outcast Peacemaker」
+%
 ruАватар Outcast Peacemaker.webp
 �
 avatar_progressive_bp_13_paid_1�
 
 enGas Mask Avatar
 
-plGas Mask Avatar
-
 zhGas Mask Avatar
-'
-ja!アバター「ガスマスク」
-4
-uk.Аватар «Хімічний захист»
+
+plGas Mask Avatar
 
 ptGas Mask Avatar
 
 esGas Mask Avatar
 
 frAvatar du Masque à gaz
+4
+uk.Аватар «Хімічний захист»
+'
+ja!アバター「ガスマスク」
 8
 ru2Аватар «Химическая защита».webp
 �
@@ -7381,13 +7381,9 @@ $avatar_progressive_bp_29_ruby_paid_5�
 $
 en[1CT] Forever ICFC军团头像
 $
-pl[1CT] Forever ICFC军团头像
-$
 zh[1CT] Forever ICFC军团头像
 $
-ja[1CT] Forever ICFC军团头像
-$
-uk[1CT] Forever ICFC军团头像
+pl[1CT] Forever ICFC军团头像
 $
 pt[1CT] Forever ICFC军团头像
 $
@@ -7395,25 +7391,29 @@ $
 $
 fr[1CT] Forever ICFC军团头像
 $
+uk[1CT] Forever ICFC军团头像
+$
+ja[1CT] Forever ICFC军团头像
+$
 ru[1CT] Forever ICFC军团头像.webp
 �
 avatar_CIS_PinkTeam_rare_14d�
 
 enPinkTeam Fan Avatar
 
-plPinkTeam Fan Avatar
-
 zhPinkTeam Fan Avatar
-*
-ja$アバター「PinkTeam ファン」
-8
-uk2Аватар «Вболівальник PinkTeam»
+
+plPinkTeam Fan Avatar
 
 ptPinkTeam Fan Avatar
 
 esPinkTeam Fan Avatar
 &
 fr Avatar du passionné de PinkTeam
+8
+uk2Аватар «Вболівальник PinkTeam»
+*
+ja$アバター「PinkTeam ファン」
 2
 ru,Аватар «Болельщик PinkTeam».webp
 �
@@ -7421,19 +7421,19 @@ $
 
 enHeroes' Toolkit Avatar
 
-plHeroes' Toolkit Avatar
-
 zhHeroes' Toolkit Avatar
-*
-ja$アバター「英雄の装備品」
-@
-uk:Аватар «Інструментарій героїв»
+
+plHeroes' Toolkit Avatar
 
 ptHeroes' Toolkit Avatar
 
 esHeroes' Toolkit Avatar
 (
 fr"Avatar Boîte à outils des héros
+@
+uk:Аватар «Інструментарій героїв»
+*
+ja$アバター「英雄の装備品」
 F
 ru@Аватар «Геройский инструментарий».webp
 �
@@ -7441,19 +7441,19 @@ F
 
 enFireflake Avatar
 
-plFireflake Avatar
-
 zhFireflake Avatar
-0
-ja*アバター「ファイアフレイク」
-6
-uk0Аватар «Вогняна сніжинка»
+
+plFireflake Avatar
 
 ptFireflake Avatar
 
 esFireflake Avatar
 
 frAvatar Flocon de feu
+6
+uk0Аватар «Вогняна сніжинка»
+0
+ja*アバター「ファイアフレイク」
 8
 ru2Аватар «Огненная снежинка».webp
 �
@@ -7461,19 +7461,19 @@ F
 "
 enTop-3 Rating Animated Avatar
 "
-plTop-3 Rating Animated Avatar
-"
 zhTop-3 Rating Animated Avatar
-K
-jaEアニメーション付きアバター「レーティング Top-3」
-E
-uk?Анімований аватар «Топ-3 рейтингу»
+"
+plTop-3 Rating Animated Avatar
 "
 ptTop-3 Rating Animated Avatar
 "
 esTop-3 Rating Animated Avatar
 %
 frAvatar animé Top 3 des cotées
+E
+uk?Анімований аватар «Топ-3 рейтингу»
+K
+jaEアニメーション付きアバター「レーティング Top-3」
 K
 ruEАнимированный аватар «Топ-3 рейтинга».webp
 �
@@ -7481,19 +7481,19 @@ K
 
 enMoose Avatar
 
-plMoose Avatar
-
 zhMoose Avatar
-$
-jaアバター「ヘラジカ」
-
-ukАватар «Лось»
+
+plMoose Avatar
 
 ptMoose Avatar
 
 esMoose Avatar
 
 frAvatar Élan
+
+ukАватар «Лось»
+$
+jaアバター「ヘラジカ」
 %
 ruАватар «Сохатый».webp
 �
@@ -7501,13 +7501,9 @@ $
 
 enCrocodiles Avatar
 
-plCrocodiles Avatar
-
 zhCrocodiles Avatar
-"
-jaアバター「Crocodiles」
-
-ukАватар Crocodiles
+
+plCrocodiles Avatar
 
 ptCrocodiles Avatar
 
@@ -7515,19 +7511,19 @@ $
 
 frAvatar de Crocodiles
 
+ukАватар Crocodiles
+"
+jaアバター「Crocodiles」
+
 ruАватар Crocodiles.png
 �
 avatar_totem_legendary�
 
 enThunderbird Avatar
 
-plThunderbird Avatar
-
 zhThunderbird Avatar
--
-ja'アバター「サンダーバード」
-!
-ukАватар «Тотем»
+
+plThunderbird Avatar
 
 ptThunderbird Avatar
 
@@ -7535,25 +7531,29 @@ $
 
 frAvatar Oiseau-tonnerre
 !
+ukАватар «Тотем»
+-
+ja'アバター「サンダーバード」
+!
 ruАватар «Тотем».webp
 �
 avatar_sg2025_rare_1�
 
 enSteel Snake Avatar
 
-plSteel Snake Avatar
-
 zhSteel Snake Avatar
-$
-jaアバター「鋼鉄の蛇」
-1
-uk+Аватар «Сталева змія»‎
+
+plSteel Snake Avatar
 
 ptSteel Snake Avatar
 
 esSteel Snake Avatar
 
 frAvatar Serpent d'acier
+1
+uk+Аватар «Сталева змія»‎
+$
+jaアバター「鋼鉄の蛇」
 0
 ru*Аватар «Стальная змея».webp
 �
@@ -7561,19 +7561,19 @@ $
 
 enFighter Avatar
 
-plFighter Avatar
-
 zhFighter Avatar
-'
-ja!アバター「不屈の兵士」
-!
-ukАватар «Боєць»
+
+plFighter Avatar
 
 ptFighter Avatar
 
 esFighter Avatar
 
 frAvatar de combattant
+!
+ukАватар «Боєць»
+'
+ja!アバター「不屈の兵士」
 
 ruАватар «Боец».png
 �
@@ -7581,19 +7581,19 @@ $
 
 enHolly Jolly Avatar
 
-plHolly Jolly Avatar
-
 zhHolly Jolly Avatar
-0
-ja*アバター「あったかルンルン」
-,
-uk&Аватар «Хвойний ліс»
+
+plHolly Jolly Avatar
 
 ptHolly Jolly Avatar
 
 esHolly Jolly Avatar
 
 frAvatar du Houx sacré
+,
+uk&Аватар «Хвойний ліс»
+0
+ja*アバター「あったかルンルン」
 3
 ru-Аватар «Время подарков».webp
 �
@@ -7601,13 +7601,9 @@ $
 
 enLight Bulb Avatar
 
-plLight Bulb Avatar
-
 zhLight Bulb Avatar
-
-jaアバター「電球」
-'
-uk!Аватар «Лампочка»
+
+plLight Bulb Avatar
 
 ptLight Bulb Avatar
 
@@ -7615,25 +7611,29 @@ $
 
 frAvatar de l'ampoule
 '
+uk!Аватар «Лампочка»
+
+jaアバター「電球」
+'
 ru!Аватар «Лампочка».png
 �
 $avatar_BlitzCup25_EU_TEAM2_legendary�
 
 enBedbug Diamond Avatar
 
-plBedbug Diamond Avatar
-
 zhBedbug Diamond Avatar
-1
-ja+アバター「Bedbug ダイヤモンド」
-?
-uk9Діамантовий аватар команди Bedbug
+
+plBedbug Diamond Avatar
 
 ptBedbug Diamond Avatar
 
 esBedbug Diamond Avatar
 !
 frAvatar de Bedbug de diamant
+?
+uk9Діамантовий аватар команди Bedbug
+1
+ja+アバター「Bedbug ダイヤモンド」
 C
 ru=Бриллиантовый аватар команды Bedbug.webp
 �
@@ -7641,19 +7641,19 @@ C
 
 enKvAqva Fan Avatar
 
-plKvAqva Fan Avatar
-
 zhKvAqva Fan Avatar
-(
-ja"アバター「KvAqva ファン」
-6
-uk0Аватар «Вболівальник KvAqva»
+
+plKvAqva Fan Avatar
 
 ptKvAqva Fan Avatar
 
 esKvAqva Fan Avatar
 $
 frAvatar du passionné de KvAqva
+6
+uk0Аватар «Вболівальник KvAqva»
+(
+ja"アバター「KvAqva ファン」
 0
 ru*Аватар «Болельщик KvAqva».webp
 �
@@ -7661,13 +7661,9 @@ $
 
 enSay CHEESE! Avatar
 
-plSay CHEESE! Avatar
-
 zhSay CHEESE! Avatar
-+
-ja%アバター「はい、チーズ!」
-.
-uk(Аватар «Скажіть: Сир!»
+
+plSay CHEESE! Avatar
 
 ptSay CHEESE! Avatar
 
@@ -7675,25 +7671,29 @@ $
 
 frAvatar Dites CHEESE !
 .
+uk(Аватар «Скажіть: Сир!»
++
+ja%アバター「はい、チーズ!」
+.
 ru(Аватар «Скажите: Сыр!».webp
 �
 avatar_progressive_bp_54_paid_6�
 
 enEye in the Sky Avatar
 
-plEye in the Sky Avatar
-
 zhEye in the Sky Avatar
-'
-ja!アバター「空からの目」
-)
-uk#Аватар «Очі в небі»
+
+plEye in the Sky Avatar
 
 ptEye in the Sky Avatar
 
 esEye in the Sky Avatar
 
 frAvatar Œil dans le ciel
+)
+uk#Аватар «Очі в небі»
+'
+ja!アバター「空からの目」
 +
 ru%Аватар «Глаз в небе».webp
 �
@@ -7701,13 +7701,9 @@ $
 
 enSilent Service Avatar
 
-plSilent Service Avatar
-
 zhSilent Service Avatar
-$
-jaアバター「極秘部隊」
-0
-uk*Аватар «Таємна служба»
+
+plSilent Service Avatar
 
 ptSilent Service Avatar
 
@@ -7715,19 +7711,19 @@ $
 "
 frAvatar du Service silencieux
 0
+uk*Аватар «Таємна служба»
+$
+jaアバター「極秘部隊」
+0
 ru*Аватар «Тайная служба».webp
 �
 avatar_springseason_challenger�
 
 enChallenger Avatar
 
-plChallenger Avatar
-
 zhChallenger Avatar
-!
-jaアバター「挑戦者」
-+
-uk%Аватар «Претендент»
+
+plChallenger Avatar
 
 ptChallenger Avatar
 
@@ -7735,19 +7731,19 @@ $
 
 frAvatar du challenger
 +
+uk%Аватар «Претендент»
+!
+jaアバター「挑戦者」
++
 ru%Аватар «Претендент».png
 �
 avatar_EU_QU1CK_BSC_legendary�
 
 enQU1CK Avatar
 
-plQU1CK Avatar
-
 zhQU1CK Avatar
-
-jaアバター「QU1CK」
-
-ukАватар QU1CK
+
+plQU1CK Avatar
 
 ptQU1CK Avatar
 
@@ -7755,19 +7751,19 @@ $
 
 frAvatar de QU1CK
 
+ukАватар QU1CK
+
+jaアバター「QU1CK」
+
 ruАватар QU1CK.webp
 �
 avatar_streamers_legendary�
 
 enInfluencer Avatar
 
-plInfluencer Avatar
-
 zhInfluencer Avatar
-0
-ja*アバター「インフルエンサー」
-+
-uk%Аватар «Інфлюенсер»
+
+plInfluencer Avatar
 
 ptInfluencer Avatar
 
@@ -7775,25 +7771,29 @@ $
 
 frAvatar de l'influenceur
 +
+uk%Аватар «Інфлюенсер»
+0
+ja*アバター「インフルエンサー」
++
 ru%Аватар «Инфлюенсер».png
 �
 avatar_progressive_bp_50_paid_4�
 
 enAdventurers Avatar
 
-plAdventurers Avatar
-
 zhAdventurers Avatar
-'
-ja!アバター「冒険者たち」
-0
-uk*Аватар «Шукачі пригод»
+
+plAdventurers Avatar
 
 ptAdventurers Avatar
 
 esAdventurers Avatar
 
 frAvatar Aventuriers
+0
+uk*Аватар «Шукачі пригод»
+'
+ja!アバター「冒険者たち」
 ;
 ru5Аватар «Отряд приключенцев».webp
 �
@@ -7801,19 +7801,19 @@ $
 
 enSilver Snowflake Avatar
 
-plSilver Snowflake Avatar
-
 zhSilver Snowflake Avatar
-$
-jaアバター「銀の雪片」
-5
-uk/Аватар «Срібна сніжинка».
+
+plSilver Snowflake Avatar
 
 ptSilver Snowflake Avatar
 
 esSilver Snowflake Avatar
 (
 fr"Avatar de flocon de neige argenté
+5
+uk/Аватар «Срібна сніжинка».
+$
+jaアバター「銀の雪片」
 <
 ru6Аватар «Серебряная снежинка».png
 �
@@ -7821,19 +7821,19 @@ $
 
 enPlatinum Victor Avatar
 
-plPlatinum Victor Avatar
-
 zhPlatinum Victor Avatar
--
-ja'アバター「プラチナの勝者」
-@
-uk:Аватар «Платиновий переможець»
+
+plPlatinum Victor Avatar
 
 ptPlatinum Victor Avatar
 
 esPlatinum Victor Avatar
 !
 frAvatar Vainqueur de platine
+@
+uk:Аватар «Платиновий переможець»
+-
+ja'アバター「プラチナの勝者」
 @
 ru:Аватар «Платиновый победитель».webp
 �
@@ -7841,19 +7841,19 @@ $
 
 enAdventurers Avatar
 
-plAdventurers Avatar
-
 zhAdventurers Avatar
-'
-ja!アバター「冒険者たち」
-0
-uk*Аватар «Шукачі пригод»
+
+plAdventurers Avatar
 
 ptAdventurers Avatar
 
 esAdventurers Avatar
 
 frAvatar Aventuriers
+0
+uk*Аватар «Шукачі пригод»
+'
+ja!アバター「冒険者たち」
 ;
 ru5Аватар «Отряд приключенцев».webp
 �
@@ -7861,19 +7861,19 @@ $
 
 enLucky Streak Avatar
 
-plLucky Streak Avatar
-
 zhLucky Streak Avatar
-$
-jaアバター「幸運続き」
-3
-uk-Аватар «Мені пощастить!»
+
+plLucky Streak Avatar
 
 ptLucky Streak Avatar
 
 esLucky Streak Avatar
 
 frAvatar de veinard
+3
+uk-Аватар «Мені пощастить!»
+$
+jaアバター「幸運続き」
 -
 ru'Аватар «Мне повезёт!».png
 �
@@ -7881,19 +7881,19 @@ $
 
 enWinged Avatar
 
-plWinged Avatar
-
 zhWinged Avatar
-$
-jaアバター「飛翔の翼」
-)
-uk#Аватар «Окрилений»
+
+plWinged Avatar
 
 ptWinged Avatar
 
 esWinged Avatar
 
 frAvatar Ailé
+)
+uk#Аватар «Окрилений»
+$
+jaアバター「飛翔の翼」
 +
 ru%Аватар «Окрылённый».webp
 �
@@ -7901,13 +7901,9 @@ $
 
 enArcade Cup Avatar
 
-plArcade Cup Avatar
-
 zhArcade Cup Avatar
-%
-jaアバター「Arcade Trophy」
-2
-uk,Аватар «Аркадний кубок»
+
+plArcade Cup Avatar
 
 ptArcade Cup Avatar
 
@@ -7915,25 +7911,29 @@ $
 
 frAvatar Coupe d'arcade
 2
+uk,Аватар «Аркадний кубок»
+%
+jaアバター「Arcade Trophy」
+2
 ru,Аватар «Аркадный кубок».webp
 �
 avatar_progressive_bp_65_paid_2�
 
 enBlitz Ornaments Avatar
 
-plBlitz Ornaments Avatar
-
 zhBlitz Ornaments Avatar
-0
-ja*アバター「Blitz オーナメント」
--
-uk'Аватар «Прикраси Blitz»
+
+plBlitz Ornaments Avatar
 
 ptBlitz Ornaments Avatar
 
 esBlitz Ornaments Avatar
 
 frAvatar Ornements de Blitz
+-
+uk'Аватар «Прикраси Blitz»
+0
+ja*アバター「Blitz オーナメント」
 /
 ru)Аватар «Украшения Blitz».webp
 �
@@ -7941,19 +7941,19 @@ $
 
 enHeroes' Toolkit Avatar
 
-plHeroes' Toolkit Avatar
-
 zhHeroes' Toolkit Avatar
-*
-ja$アバター「英雄の装備品」
-@
-uk:Аватар «Інструментарій героїв»
+
+plHeroes' Toolkit Avatar
 
 ptHeroes' Toolkit Avatar
 
 esHeroes' Toolkit Avatar
 (
 fr"Avatar Boîte à outils des héros
+@
+uk:Аватар «Інструментарій героїв»
+*
+ja$アバター「英雄の装備品」
 F
 ru@Аватар «Геройский инструментарий».webp
 �
@@ -7961,13 +7961,9 @@ F
 
 enWG Fest 2019 Fan Avatar
 
-plWG Fest 2019 Fan Avatar
-
 zhWG Fest 2019 Fan Avatar
-.
-ja(アバター「WG Fest 2019 ファン」
-.
-uk(Аватар «Фанат WG Fest 2019»
+
+plWG Fest 2019 Fan Avatar
 
 ptWG Fest 2019 Fan Avatar
 
@@ -7975,25 +7971,29 @@ F
 -
 fr'Avatar du passionné de la WG Fest 2019
 .
+uk(Аватар «Фанат WG Fest 2019»
+.
+ja(アバター「WG Fest 2019 ファン」
+.
 ru(Аватар «Фанат WG Fest 2019».png
 �
 avatar_progressive_bp_50_paid_2�
 
 enAdventurers Avatar
 
-plAdventurers Avatar
-
 zhAdventurers Avatar
-'
-ja!アバター「冒険者たち」
-0
-uk*Аватар «Шукачі пригод»
+
+plAdventurers Avatar
 
 ptAdventurers Avatar
 
 esAdventurers Avatar
 
 frAvatar Aventuriers
+0
+uk*Аватар «Шукачі пригод»
+'
+ja!アバター「冒険者たち」
 ;
 ru5Аватар «Отряд приключенцев».webp
 �
@@ -8001,19 +8001,19 @@ F
 
 enDiamond League Avatar
 
-plDiamond League Avatar
-
 zhDiamond League Avatar
--
-ja'ダイヤモンドリーグアバター
-4
-uk.Аватар «Діамантова Ліга»
+
+plDiamond League Avatar
 
 ptDiamond League Avatar
 
 esDiamond League Avatar
 
 frAvatar de Diamond League
+4
+uk.Аватар «Діамантова Ліга»
+-
+ja'ダイヤモンドリーグアバター
 :
 ru4Аватар «Бриллиантовая Лига».webp
 �
@@ -8021,13 +8021,9 @@ F
 
 enOverkill Animated Avatar
 
-plOverkill Animated Avatar
-
 zhOverkill Animated Avatar
-*
-ja$アバター「オーバーキル」
-
-ukАватар Overkill
+
+plOverkill Animated Avatar
 
 ptOverkill Animated Avatar
 
@@ -8035,25 +8031,29 @@ F
 
 frAvatar Surpuissance
 
+ukАватар Overkill
+*
+ja$アバター「オーバーキル」
+
 ruАватар Overkill.webp
 �
 avatar_BlitzSummerCup_EU_rare�
 )
 en#Blitz Summer Cup Europe 2023 Avatar
 )
-pl#Blitz Summer Cup Europe 2023 Avatar
-)
 zh#Blitz Summer Cup Europe 2023 Avatar
-4
-ja.アバター「Blitz Summer Cup Europe 2023」
-:
-uk4Аватар «Blitz Summer Cup, Європа 2023»
+)
+pl#Blitz Summer Cup Europe 2023 Avatar
 )
 pt#Blitz Summer Cup Europe 2023 Avatar
 )
 es#Blitz Summer Cup Europe 2023 Avatar
 /
 fr)Avatar de la Blitz Summer Cup Europe 2023
+:
+uk4Аватар «Blitz Summer Cup, Європа 2023»
+4
+ja.アバター「Blitz Summer Cup Europe 2023」
 /
 ru)Аватар Blitz Summer Cup Europe 2023.webp
 �
@@ -8061,19 +8061,19 @@ F
 
 enAdventurers Avatar
 
-plAdventurers Avatar
-
 zhAdventurers Avatar
-'
-ja!アバター「冒険者たち」
-0
-uk*Аватар «Шукачі пригод»
+
+plAdventurers Avatar
 
 ptAdventurers Avatar
 
 esAdventurers Avatar
 
 frAvatar Aventuriers
+0
+uk*Аватар «Шукачі пригод»
+'
+ja!アバター「冒険者たち」
 ;
 ru5Аватар «Отряд приключенцев».webp
 �
@@ -8081,19 +8081,19 @@ F
 
 enIce Axe Avatar
 
-plIce Axe Avatar
-
 zhIce Axe Avatar
-$
-jaアバター「ピッケル」
-'
-uk!Аватар «Кригоруб»
+
+plIce Axe Avatar
 
 ptIce Axe Avatar
 
 esIce Axe Avatar
 !
 frAvatar de la hache de glace
+'
+uk!Аватар «Кригоруб»
+$
+jaアバター「ピッケル」
 %
 ruАватар «Ледоруб».png
 �
@@ -8101,19 +8101,19 @@ $
 
 enLaurel of Victory Avatar
 
-plLaurel of Victory Avatar
-
 zhLaurel of Victory Avatar
-*
-ja$アバター「勝利の月桂樹」
-4
-uk.Аватар «Лаври переможця»
+
+plLaurel of Victory Avatar
 
 ptLaurel of Victory Avatar
 
 esLaurel of Victory Avatar
 $
 frAvatar Lauriers de la victoire
+4
+uk.Аватар «Лаври переможця»
+*
+ja$アバター「勝利の月桂樹」
 6
 ru0Аватар «Лавры победителя».webp
 �
@@ -8121,19 +8121,19 @@ $
 %
 enRating Champion Animated Avatar
 %
-plRating Champion Animated Avatar
-%
 zhRating Champion Animated Avatar
-W
-jaQアニメーション付きアバター「レーティングチャンピオン」
-K
-ukEАнімований аватар «Чемпіон рейтингу»
+%
+plRating Champion Animated Avatar
 %
 ptRating Champion Animated Avatar
 %
 esRating Champion Animated Avatar
 (
 fr"Avatar animé Champion des cotées
+K
+ukEАнімований аватар «Чемпіон рейтингу»
+W
+jaQアニメーション付きアバター「レーティングチャンピオン」
 Q
 ruKАнимированный аватар «Чемпион рейтинга».webp
 �
@@ -8141,13 +8141,9 @@ Q
 
 enPixel Tank Avatar
 
-plPixel Tank Avatar
-
 zhPixel Tank Avatar
-*
-ja$アバター「ピクセル戦車」
-4
-uk.Аватар «Піксельний танк»
+
+plPixel Tank Avatar
 
 ptPixel Tank Avatar
 
@@ -8155,19 +8151,19 @@ Q
 
 frAvatar de char pixelisé
 4
+uk.Аватар «Піксельний танк»
+*
+ja$アバター「ピクセル戦車」
+4
 ru.Аватар «Пиксельный танк».png
 �
 avatar_Shlorox�
 
 enShlorox Avatar
 
-plShlorox Avatar
-
 zhShlorox Avatar
 
-jaShlorox Avatar
-
-ukShlorox Avatar
+plShlorox Avatar
 
 ptShlorox Avatar
 
@@ -8175,19 +8171,19 @@ Q
 
 frShlorox Avatar
 
+ukShlorox Avatar
+
+jaShlorox Avatar
+
 ruShlorox Avatar.webp
 �
 avatar_Moonmen_legendary�
 
 en[-MM] Moonmen Clan Avatar
 
-pl[-MM] Moonmen Clan Avatar
-
 zh[-MM] Moonmen Clan Avatar
-/
-ja)アバター「クラン [-MM] Moonmen」
--
-uk'Аватар «Клан [-MM] Moonmen»
+
+pl[-MM] Moonmen Clan Avatar
 
 pt[-MM] Moonmen Clan Avatar
 
@@ -8195,25 +8191,29 @@ Q
 "
 frAvatar du clan [-MM] Moonmen
 -
+uk'Аватар «Клан [-MM] Moonmen»
+/
+ja)アバター「クラン [-MM] Moonmen」
+-
 ru'Аватар «Клан [-MM] Moonmen».webp
 �
 !avatar_platinum_league_unique_31d�
 
 enPlatinum League Avatar
 
-plPlatinum League Avatar
-
 zhPlatinum League Avatar
-'
-ja!プラチナリーグアバター
-2
-uk,Аватар «Платинова Ліга»
+
+plPlatinum League Avatar
 
 ptPlatinum League Avatar
 
 esPlatinum League Avatar
 
 frAvatar de Platinum League
+2
+uk,Аватар «Платинова Ліга»
+'
+ja!プラチナリーグアバター
 4
 ru.Аватар «Платиновая Лига».png
 �
@@ -8221,19 +8221,19 @@ Q
 
 enXenoEye Animated Avatar
 
-plXenoEye Animated Avatar
-
 zhXenoEye Animated Avatar
-B
-ja<アニメーション付きアバター「ゼノ・アイ」
-<
-uk6Анімований аватар «Ксенооко»
+
+plXenoEye Animated Avatar
 
 ptXenoEye Animated Avatar
 
 esXenoEye Animated Avatar
 
 frAvatar animé Xéno-yeux
+<
+uk6Анімований аватар «Ксенооко»
+B
+ja<アニメーション付きアバター「ゼノ・アイ」
 5
 ru/Анимированный аватар XenoEye.webp
 �
@@ -8241,19 +8241,19 @@ B
 $
 enFlaming Aquila Animated Avatar
 $
-plFlaming Aquila Animated Avatar
-$
 zhFlaming Aquila Animated Avatar
-T
-jaNアニメーション付きアバター「フレイミング・アクィラ」
-G
-ukAАнімований аватар «Палахка аквіла»
+$
+plFlaming Aquila Animated Avatar
 $
 ptFlaming Aquila Animated Avatar
 $
 esFlaming Aquila Animated Avatar
 )
 fr#Avatar animé de l'Aquila enflammé
+G
+ukAАнімований аватар «Палахка аквіла»
+T
+jaNアニメーション付きアバター「フレイミング・アクィラ」
 O
 ruIАнимированный аватар «Пылающая Аквила».webp
 �
@@ -8261,19 +8261,19 @@ O
 
 enInevitable Gadgets Avatar
 
-plInevitable Gadgets Avatar
-
 zhInevitable Gadgets Avatar
-0
-ja*アバター「マスト・アイテム」
-8
-uk2Аватар «Неодмінні гаджети»
+
+plInevitable Gadgets Avatar
 
 ptInevitable Gadgets Avatar
 
 esInevitable Gadgets Avatar
 !
 frAvatar Gadgets inévitables
+8
+uk2Аватар «Неодмінні гаджети»
+0
+ja*アバター「マスト・アイテム」
 >
 ru8Аватар «Неотвратимые гаджеты».webp
 �
@@ -8281,19 +8281,19 @@ O
 
 enInevitable Gadgets Avatar
 
-plInevitable Gadgets Avatar
-
 zhInevitable Gadgets Avatar
-0
-ja*アバター「マスト・アイテム」
-8
-uk2Аватар «Неодмінні гаджети»
+
+plInevitable Gadgets Avatar
 
 ptInevitable Gadgets Avatar
 
 esInevitable Gadgets Avatar
 !
 frAvatar Gadgets inévitables
+8
+uk2Аватар «Неодмінні гаджети»
+0
+ja*アバター「マスト・アイテム」
 >
 ru8Аватар «Неотвратимые гаджеты».webp
 �
@@ -8301,19 +8301,19 @@ O
 
 enShadowhunter Avatar
 
-plShadowhunter Avatar
-
 zhShadowhunter Avatar
-$
-jaアバター「Shadowhunter」
-/
-uk)Аватар «Морокоборець»
+
+plShadowhunter Avatar
 
 ptShadowhunter Avatar
 
 esShadowhunter Avatar
 
 frAvatar du Shadowhunter
+/
+uk)Аватар «Морокоборець»
+$
+jaアバター「Shadowhunter」
 +
 ru%Аватар «Мракоборец».webp
 �
@@ -8321,19 +8321,19 @@ $
 
 enSpirit of Unity Avatar
 
-plSpirit of Unity Avatar
-
 zhSpirit of Unity Avatar
-'
-ja!アバター「調和の精神」
-,
-uk&Аватар «Дух єдності»
+
+plSpirit of Unity Avatar
 
 ptSpirit of Unity Avatar
 
 esSpirit of Unity Avatar
 !
 frAvatar de l'esprit d'unité
+,
+uk&Аватар «Дух єдності»
+'
+ja!アバター「調和の精神」
 .
 ru(Аватар «Дух единства».png
 �
@@ -8341,19 +8341,19 @@ $
 !
 enLet's Get Mechanical Avatar
 !
-plLet's Get Mechanical Avatar
-!
 zhLet's Get Mechanical Avatar
-0
-ja*アバター「メカニックの出番」
-G
-ukAАватар «Візьмімося за інструменти»
+!
+plLet's Get Mechanical Avatar
 !
 ptLet's Get Mechanical Avatar
 !
 esLet's Get Mechanical Avatar
 %
 frAvatar Faisons de la mécanique
+G
+ukAАватар «Візьмімося за інструменти»
+0
+ja*アバター「メカニックの出番」
 @
 ru:Аватар «Пора механизироваться».webp
 �
@@ -8361,19 +8361,19 @@ G
 *
 en$Employee of the Year Animated Avatar
 *
-pl$Employee of the Year Animated Avatar
-*
 zh$Employee of the Year Animated Avatar
-K
-jaEアニメーション付きアバター「社員オブザイヤー」
-G
-ukAАнімований аватар «Працівник року»
+*
+pl$Employee of the Year Animated Avatar
 *
 pt$Employee of the Year Animated Avatar
 *
 es$Employee of the Year Animated Avatar
 (
 fr"Avatar animé Employé de l'année
+G
+ukAАнімований аватар «Працівник року»
+K
+jaEアニメーション付きアバター「社員オブザイヤー」
 K
 ruEАнимированный аватар «Работник года».webp
 �
@@ -8381,19 +8381,19 @@ K
 
 en"Like a Boss" Avatar
 
-pl"Like a Boss" Avatar
-
 zh"Like a Boss" Avatar
-*
-ja$アバター「ボスのように」
-
-ukАватар Like a boss
+
+pl"Like a Boss" Avatar
 
 pt"Like a Boss" Avatar
 
 es"Like a Boss" Avatar
 #
 frAvatar « Trop la classe »
+
+ukАватар Like a boss
+*
+ja$アバター「ボスのように」
 "
 ruАватар «Like a boss».png
 �
@@ -8401,19 +8401,19 @@ K
 
 enPolaris Avatar
 
-plPolaris Avatar
-
 zhPolaris Avatar
-$
-jaアバター「ポラリス」
-.
-uk(Аватар «Полярна зоря»
+
+plPolaris Avatar
 
 ptPolaris Avatar
 
 esPolaris Avatar
 
 frAvatar Polaris
+.
+uk(Аватар «Полярна зоря»
+$
+jaアバター「ポラリス」
 4
 ru.Аватар «Полярная звезда».webp
 �
@@ -8421,13 +8421,9 @@ $
 
 enAl Quackone Avatar
 
-plAl Quackone Avatar
-
 zhAl Quackone Avatar
-/
-ja)アバター「アル・"クヮ"ポネ」
-,
-uk&Аватар «Аль Кряконе»
+
+plAl Quackone Avatar
 
 ptAl Quackone Avatar
 
@@ -8435,25 +8431,29 @@ $
 
 frAvatar Al Coinpone
 ,
+uk&Аватар «Аль Кряконе»
+/
+ja)アバター「アル・"クヮ"ポネ」
+,
 ru&Аватар «Аль Кряконе».webp
 �
 avatar_progressive_bp_32_paid_3�
 
 enHelp-O-Tron 5000 Avatar
 
-plHelp-O-Tron 5000 Avatar
-
 zhHelp-O-Tron 5000 Avatar
-0
-ja*アバター「オービット・パル」
-9
-uk3Аватар «Помічник на орбіті»
+
+plHelp-O-Tron 5000 Avatar
 
 ptHelp-O-Tron 5000 Avatar
 
 esHelp-O-Tron 5000 Avatar
 $
 frAvatar du Robot-Assistant 5000
+9
+uk3Аватар «Помічник на орбіті»
+0
+ja*アバター「オービット・パル」
 1
 ru+Аватар «Друг на орбите».webp
 �
@@ -8461,13 +8461,9 @@ $
 
 enDebutant Avatar
 
-plDebutant Avatar
-
 zhDebutant Avatar
-!
-jaアバター「初舞台」
-'
-uk!Аватар «Дебютант»
+
+plDebutant Avatar
 
 ptDebutant Avatar
 
@@ -8475,25 +8471,29 @@ $
 
 frAvatar du débutant
 '
+uk!Аватар «Дебютант»
+!
+jaアバター「初舞台」
+'
 ru!Аватар «Дебютант».webp
 �
 avatar_progressive_bp_32_paid_2�
 
 enHelp-O-Tron 5000 Avatar
 
-plHelp-O-Tron 5000 Avatar
-
 zhHelp-O-Tron 5000 Avatar
-0
-ja*アバター「オービット・パル」
-9
-uk3Аватар «Помічник на орбіті»
+
+plHelp-O-Tron 5000 Avatar
 
 ptHelp-O-Tron 5000 Avatar
 
 esHelp-O-Tron 5000 Avatar
 $
 frAvatar du Robot-Assistant 5000
+9
+uk3Аватар «Помічник на орбіті»
+0
+ja*アバター「オービット・パル」
 1
 ru+Аватар «Друг на орбите».webp
 �
@@ -8501,19 +8501,19 @@ $
 
 enPolaris Avatar
 
-plPolaris Avatar
-
 zhPolaris Avatar
-$
-jaアバター「ポラリス」
-.
-uk(Аватар «Полярна зоря»
+
+plPolaris Avatar
 
 ptPolaris Avatar
 
 esPolaris Avatar
 
 frAvatar Polaris
+.
+uk(Аватар «Полярна зоря»
+$
+jaアバター「ポラリス」
 4
 ru.Аватар «Полярная звезда».webp
 �
@@ -8521,13 +8521,9 @@ $
 )
 en#Hunter's Moon Folio Animated Avatar
 )
-pl#Hunter's Moon Folio Animated Avatar
-)
 zh#Hunter's Moon Folio Animated Avatar
-H
-jaBアニメーション付きアバター「狩人の月の文書」
-V
-ukPАнімований аватар «Фоліант Повного Місяця»
+)
+pl#Hunter's Moon Folio Animated Avatar
 )
 pt#Hunter's Moon Folio Animated Avatar
 )
@@ -8535,25 +8531,29 @@ V
 0
 fr*Avatar animé Folio de la Lune du chasseur
 V
+ukPАнімований аватар «Фоліант Повного Місяця»
+H
+jaBアニメーション付きアバター「狩人の月の文書」
+V
 ruPАнимированный аватар «Фолиант полной луны».webp
 �
 !avatar_september24_legendary_anim�
 
 enNeon Lynx Animated Avatar
 
-plNeon Lynx Animated Avatar
-
 zhNeon Lynx Animated Avatar
-H
-jaBアニメーション付きアバター「ネオンヤマネコ」
-C
-uk=Анімований аватар «Неонова рись»
+
+plNeon Lynx Animated Avatar
 
 ptNeon Lynx Animated Avatar
 
 esNeon Lynx Animated Avatar
 
 frAvatar animé Neon Lynx
+C
+uk=Анімований аватар «Неонова рись»
+H
+jaBアニメーション付きアバター「ネオンヤマネコ」
 K
 ruEАнимированный аватар «Неоновая рысь».webp
 �
@@ -8561,19 +8561,19 @@ K
 
 enSteel Shield Avatar
 
-plSteel Shield Avatar
-
 zhSteel Shield Avatar
-$
-jaアバター「鋼鉄の盾」
-.
-uk(Аватар «Сталевий щит»
+
+plSteel Shield Avatar
 
 ptSteel Shield Avatar
 
 esSteel Shield Avatar
 
 frAvatar Bouclier d'acier
+.
+uk(Аватар «Сталевий щит»
+$
+jaアバター「鋼鉄の盾」
 .
 ru(Аватар «Стальной щит».webp
 �
@@ -8581,19 +8581,19 @@ $
 
 enHardcore Fan Avatar
 
-plHardcore Fan Avatar
-
 zhHardcore Fan Avatar
-*
-ja$アバター「根強いファン」
-/
-uk)Аватар «Вболівальник»
+
+plHardcore Fan Avatar
 
 ptHardcore Fan Avatar
 
 esHardcore Fan Avatar
 )
 fr#Avatar du passionné inconditionnel
+/
+uk)Аватар «Вболівальник»
+*
+ja$アバター「根強いファン」
 )
 ru#Аватар «Болельщик».webp
 �
@@ -8601,19 +8601,19 @@ $
 
 enResilient Avatar
 
-plResilient Avatar
-
 zhResilient Avatar
-!
-jaアバター「Resilient」
-'
-uk!Аватар «Курінний»
+
+plResilient Avatar
 
 ptResilient Avatar
 
 esResilient Avatar
 
 frAvatar Resilient
+'
+uk!Аватар «Курінний»
+!
+jaアバター「Resilient」
 
 ruАватар Resilient.webp
 �
@@ -8621,19 +8621,19 @@ $
 "
 enRent Free Fan Diamond Avatar
 "
-plRent Free Fan Diamond Avatar
-"
 zhRent Free Fan Diamond Avatar
-@
-ja:アバター「Rent Free ファン・ダイヤモンド」
-]
-ukWДіамантовий аватар уболівальника команди Rent Free
+"
+plRent Free Fan Diamond Avatar
 "
 ptRent Free Fan Diamond Avatar
 "
 esRent Free Fan Diamond Avatar
 2
 fr,Avatar du passionné de Rent Free de diamant
+]
+ukWДіамантовий аватар уболівальника команди Rent Free
+@
+ja:アバター「Rent Free ファン・ダイヤモンド」
 [
 ruUБриллиантовый аватар болельщика команды Rent Free.webp
 �
@@ -8641,19 +8641,19 @@ $
 
 enDriller Avatar
 
-plDriller Avatar
-
 zhDriller Avatar
-
-jaアバター「Driller」
-
-ukАватар Driller
+
+plDriller Avatar
 
 ptDriller Avatar
 
 esDriller Avatar
 
 frAvatar du Tunnelier
+
+ukАватар Driller
+
+jaアバター「Driller」
 
 ruАватар «Бур».webp
 �
@@ -8661,13 +8661,9 @@ $
 
 enImperial Aquila Avatar
 
-plImperial Aquila Avatar
-
 zhImperial Aquila Avatar
-9
-ja3アバター「インペリアル・アクイラ」
-
-ukАватар Aquila
+
+plImperial Aquila Avatar
 
 ptImperial Aquila Avatar
 
@@ -8675,25 +8671,29 @@ $
 "
 frAvatar de l'Aquila impérial
 
+ukАватар Aquila
+9
+ja3アバター「インペリアル・アクイラ」
+
 ruАватар Aquila.webp
 �
 avatar_defender_amx_legendary�
 
 enTime Messenger Avatar
 
-plTime Messenger Avatar
-
 zhTime Messenger Avatar
--
-ja'アバター「未来からの使者」
-E
-uk?Аватар «Посланець із майбутнього»
+
+plTime Messenger Avatar
 
 ptTime Messenger Avatar
 
 esTime Messenger Avatar
 
 frAvatar Messager du temps
+E
+uk?Аватар «Посланець із майбутнього»
+-
+ja'アバター「未来からの使者」
 ?
 ru9Аватар «Посланник из будущего».webp
 �
@@ -8701,19 +8701,19 @@ E
 
 enHolly Jolly Avatar
 
-plHolly Jolly Avatar
-
 zhHolly Jolly Avatar
-0
-ja*アバター「あったかルンルン」
-,
-uk&Аватар «Хвойний ліс»
+
+plHolly Jolly Avatar
 
 ptHolly Jolly Avatar
 
 esHolly Jolly Avatar
 
 frAvatar du Houx sacré
+,
+uk&Аватар «Хвойний ліс»
+0
+ja*アバター「あったかルンルン」
 3
 ru-Аватар «Время подарков».webp
 �
@@ -8721,19 +8721,19 @@ E
 
 enSSRB Tanker Avatar
 
-plSSRB Tanker Avatar
-
 zhSSRB Tanker Avatar
--
-ja'アバター「ししろぼ戦車団」
-*
-uk$Аватар «Танкіст SSRB»
+
+plSSRB Tanker Avatar
 
 ptSSRB Tanker Avatar
 
 esSSRB Tanker Avatar
 
 frAvatar tankiste SSRB
+*
+uk$Аватар «Танкіст SSRB»
+-
+ja'アバター「ししろぼ戦車団」
 .
 ru(Аватар «Танкуем с SSRB!».webp
 �
@@ -8741,19 +8741,19 @@ E
 
 enCold Light Avatar
 
-plCold Light Avatar
-
 zhCold Light Avatar
-'
-ja!アバター「凍てつく光」
-2
-uk,Аватар «Холодне світло»
+
+plCold Light Avatar
 
 ptCold Light Avatar
 
 esCold Light Avatar
 
 frAvatar Lumière froide
+2
+uk,Аватар «Холодне світло»
+'
+ja!アバター「凍てつく光」
 0
 ru*Аватар «Холодный свет».webp
 �
@@ -8761,19 +8761,19 @@ $avatar_BlitzCup25_SG_TEAM4_legendary�
 
 enEndless Diamond Avatar
 
-plEndless Diamond Avatar
-
 zhEndless Diamond Avatar
-2
-ja,アバター「Endless ダイヤモンド」
-@
-uk:Діамантовий аватар команди Endless
+
+plEndless Diamond Avatar
 
 ptEndless Diamond Avatar
 
 esEndless Diamond Avatar
 !
 frAvatar d'Endless de diamant
+@
+uk:Діамантовий аватар команди Endless
+2
+ja,アバター「Endless ダイヤモンド」
 D
 ru>Бриллиантовый аватар команды Endless.webp
 �
@@ -8781,19 +8781,19 @@ D
 
 enCold Light Avatar
 
-plCold Light Avatar
-
 zhCold Light Avatar
-'
-ja!アバター「凍てつく光」
-2
-uk,Аватар «Холодне світло»
+
+plCold Light Avatar
 
 ptCold Light Avatar
 
 esCold Light Avatar
 
 frAvatar Lumière froide
+2
+uk,Аватар «Холодне світло»
+'
+ja!アバター「凍てつく光」
 0
 ru*Аватар «Холодный свет».webp
 �
@@ -8801,19 +8801,19 @@ D
 
 enCold Light Avatar
 
-plCold Light Avatar
-
 zhCold Light Avatar
-'
-ja!アバター「凍てつく光」
-2
-uk,Аватар «Холодне світло»
+
+plCold Light Avatar
 
 ptCold Light Avatar
 
 esCold Light Avatar
 
 frAvatar Lumière froide
+2
+uk,Аватар «Холодне світло»
+'
+ja!アバター「凍てつく光」
 0
 ru*Аватар «Холодный свет».webp
 �
@@ -8821,19 +8821,19 @@ D
 
 enCold Light Avatar
 
-plCold Light Avatar
-
 zhCold Light Avatar
-'
-ja!アバター「凍てつく光」
-2
-uk,Аватар «Холодне світло»
+
+plCold Light Avatar
 
 ptCold Light Avatar
 
 esCold Light Avatar
 
 frAvatar Lumière froide
+2
+uk,Аватар «Холодне світло»
+'
+ja!アバター「凍てつく光」
 0
 ru*Аватар «Холодный свет».webp
 �
@@ -8841,19 +8841,19 @@ D
 
 enTurbo Avatar
 
-plTurbo Avatar
-
 zhTurbo Avatar
-!
-jaアバター「ターボ」
-
-ukАватар Turbo
+
+plTurbo Avatar
 
 ptTurbo Avatar
 
 esTurbo Avatar
 
 frAvatar du Turbo
+
+ukАватар Turbo
+!
+jaアバター「ターボ」
 
 ruАватар «Turbo».webp
 �
@@ -8861,19 +8861,19 @@ D
 
 enCold Light Avatar
 
-plCold Light Avatar
-
 zhCold Light Avatar
-'
-ja!アバター「凍てつく光」
-2
-uk,Аватар «Холодне світло»
+
+plCold Light Avatar
 
 ptCold Light Avatar
 
 esCold Light Avatar
 
 frAvatar Lumière froide
+2
+uk,Аватар «Холодне світло»
+'
+ja!アバター「凍てつく光」
 0
 ru*Аватар «Холодный свет».webp
 �
@@ -8881,13 +8881,9 @@ D
 
 enLascannon Avatar
 
-plLascannon Avatar
-
 zhLascannon Avatar
-'
-ja!アバター「レーザー砲」
-%
-ukАватар «Мініган»
+
+plLascannon Avatar
 
 ptLascannon Avatar
 
@@ -8895,25 +8891,29 @@ D
 
 frAvatar Lascannon
 %
+ukАватар «Мініган»
+'
+ja!アバター「レーザー砲」
+%
 ruАватар «Миниган».webp
 �
 avatar_progressive_bp_11_free_3�
 
 enWarm Embrace Avatar
 
-plWarm Embrace Avatar
-
 zhWarm Embrace Avatar
-'
-ja!アバター「温かい抱擁」
-9
-uk3Аватар «Полум’яні вітання»
+
+plWarm Embrace Avatar
 
 ptWarm Embrace Avatar
 
 esWarm Embrace Avatar
 
 frAvatar Accueil chaleureux
+9
+uk3Аватар «Полум’яні вітання»
+'
+ja!アバター「温かい抱擁」
 6
 ru0Аватар «Пламенный привет».webp
 �
@@ -8921,13 +8921,9 @@ D
 
 enWild Bull Avatar
 
-plWild Bull Avatar
-
 zhWild Bull Avatar
-*
-ja$アバター「気の荒い雄牛」
-.
-uk(Аватар «Дикий буйвіл»
+
+plWild Bull Avatar
 
 ptWild Bull Avatar
 
@@ -8935,19 +8931,19 @@ D
 
 frAvatar du taureau sauvage
 .
+uk(Аватар «Дикий буйвіл»
+*
+ja$アバター「気の荒い雄牛」
+.
 ru(Аватар «Дикий буйвол».png
 �
 avatar_BF24_legendary�
 
 enFiXX0rs Avatar
 
-plFiXX0rs Avatar
-
 zhFiXX0rs Avatar
-
-jaアバター「FiXX0rs」
-
-ukАватар FiXX0rs
+
+plFiXX0rs Avatar
 
 ptFiXX0rs Avatar
 
@@ -8955,25 +8951,29 @@ D
 
 frAvatar des FiXX0rs
 
+ukАватар FiXX0rs
+
+jaアバター「FiXX0rs」
+
 ruАватар FiXX0rs.webp
 �
 "avatar_xmas25_snowstrike_legendary�
 
 enSnowstrike Avatar
 
-plSnowstrike Avatar
-
 zhSnowstrike Avatar
-$
-jaアバター「大雪合戦」
--
-uk'Аватар «Лови сніжок!»
+
+plSnowstrike Avatar
 
 ptSnowstrike Avatar
 
 esSnowstrike Avatar
 
 frAvatar Frappe de neige
+-
+uk'Аватар «Лови сніжок!»
+$
+jaアバター「大雪合戦」
 3
 ru-Аватар «Получай снежок!».webp
 �
@@ -8981,13 +8981,9 @@ $
 
 en乖巧宝宝
 
-pl乖巧宝宝
-
 zh乖巧宝宝
 
-ja乖巧宝宝
-
-uk乖巧宝宝
+pl乖巧宝宝
 
 pt乖巧宝宝
 
@@ -8995,25 +8991,29 @@ $
 
 fr乖巧宝宝
 
+uk乖巧宝宝
+
+ja乖巧宝宝
+
 ru乖巧宝宝.webp
 �
 avatar_bth2019_cake_legendary�
 %
 en"Happy Birthday, Blitz!" Avatar
 %
-pl"Happy Birthday, Blitz!" Avatar
-%
 zh"Happy Birthday, Blitz!" Avatar
-=
-ja7アバター「ハッピーバースデー、Blitz !」
-?
-uk9Аватар «З днем народження, Blitz!»
+%
+pl"Happy Birthday, Blitz!" Avatar
 %
 pt"Happy Birthday, Blitz!" Avatar
 %
 es"Happy Birthday, Blitz!" Avatar
 2
 fr,Avatar « Joyeux anniversaire, Blitz ! »
+?
+uk9Аватар «З днем народження, Blitz!»
+=
+ja7アバター「ハッピーバースデー、Blitz !」
 ;
 ru5Аватар «С днём рождения, Blitz!».png
 �
@@ -9021,19 +9021,19 @@ $
 
 enPlatinum Victor Avatar
 
-plPlatinum Victor Avatar
-
 zhPlatinum Victor Avatar
--
-ja'アバター「プラチナの勝者」
-@
-uk:Аватар «Платиновий переможець»
+
+plPlatinum Victor Avatar
 
 ptPlatinum Victor Avatar
 
 esPlatinum Victor Avatar
 !
 frAvatar Vainqueur de platine
+@
+uk:Аватар «Платиновий переможець»
+-
+ja'アバター「プラチナの勝者」
 @
 ru:Аватар «Платиновый победитель».webp
 �
@@ -9041,19 +9041,19 @@ $
 
 enBrute Force Avatar
 
-plBrute Force Avatar
-
 zhBrute Force Avatar
-!
-jaアバター「馬鹿力」
-*
-uk$Аватар «Груба сила»
+
+plBrute Force Avatar
 
 ptBrute Force Avatar
 
 esBrute Force Avatar
 
 frAvatar de la force brute
+*
+uk$Аватар «Груба сила»
+!
+jaアバター「馬鹿力」
 ,
 ru&Аватар «Грубая сила».png
 �
@@ -9061,19 +9061,19 @@ $
 -
 en'avatars/Items/bp26/FreeBattlePass/Title
 -
-pl'avatars/Items/bp26/FreeBattlePass/Title
--
 zh'avatars/Items/bp26/FreeBattlePass/Title
 -
-ja'avatars/Items/bp26/FreeBattlePass/Title
-(
-uk"avatar_progressive_bp_26_free_1_RU
+pl'avatars/Items/bp26/FreeBattlePass/Title
 -
 pt'avatars/Items/bp26/FreeBattlePass/Title
 -
 es'avatars/Items/bp26/FreeBattlePass/Title
 -
 fr'avatars/Items/bp26/FreeBattlePass/Title
+(
+uk"avatar_progressive_bp_26_free_1_RU
+-
+ja'avatars/Items/bp26/FreeBattlePass/Title
 -
 ru'avatars/Items/bp26/FreeBattlePass/Title.webp
 �
@@ -9081,19 +9081,19 @@ $
 
 enNew Year's Gift Avatar
 
-plNew Year's Gift Avatar
-
 zhNew Year's Gift Avatar
-0
-ja*アバター「新年のプレゼント」
->
-uk8Аватар «Новорічний подарунок»
+
+plNew Year's Gift Avatar
 
 ptNew Year's Gift Avatar
 
 esNew Year's Gift Avatar
 #
 frAvatar de cadeau du Nouvel An
+>
+uk8Аватар «Новорічний подарунок»
+0
+ja*アバター「新年のプレゼント」
 :
 ru4Аватар «Новогодний подарок».png
 �
@@ -9101,19 +9101,19 @@ $
 
 enPlatinum Victor Avatar
 
-plPlatinum Victor Avatar
-
 zhPlatinum Victor Avatar
--
-ja'アバター「プラチナの勝者」
-@
-uk:Аватар «Платиновий переможець»
+
+plPlatinum Victor Avatar
 
 ptPlatinum Victor Avatar
 
 esPlatinum Victor Avatar
 !
 frAvatar Vainqueur de platine
+@
+uk:Аватар «Платиновий переможець»
+-
+ja'アバター「プラチナの勝者」
 @
 ru:Аватар «Платиновый победитель».webp
 �
@@ -9121,19 +9121,19 @@ $
 
 enAssassin's Dagger Avatar
 
-plAssassin's Dagger Avatar
-
 zhAssassin's Dagger Avatar
-'
-ja!アバター「刺客の短剣」
-6
-uk0Аватар «Кинджал найманця»
+
+plAssassin's Dagger Avatar
 
 ptAssassin's Dagger Avatar
 
 esAssassin's Dagger Avatar
  
 frAvatar dague de l'assassin
+6
+uk0Аватар «Кинджал найманця»
+'
+ja!アバター「刺客の短剣」
 4
 ru.Аватар «Кинжал наёмника».png
 �
@@ -9141,13 +9141,9 @@ $
 
 enPlatinum Victor Avatar
 
-plPlatinum Victor Avatar
-
 zhPlatinum Victor Avatar
--
-ja'アバター「プラチナの勝者」
-@
-uk:Аватар «Платиновий переможець»
+
+plPlatinum Victor Avatar
 
 ptPlatinum Victor Avatar
 
@@ -9155,25 +9151,29 @@ $
 !
 frAvatar Vainqueur de platine
 @
+uk:Аватар «Платиновий переможець»
+-
+ja'アバター「プラチナの勝者」
+@
 ru:Аватар «Платиновый победитель».webp
 �
 avatar_7star_2020_rare_30d�
 
 en7STAR Avatar
 
-pl7STAR Avatar
-
 zh7STAR Avatar
-
-jaアバター「7STAR」
-
-ukАватар 7STAR
+
+pl7STAR Avatar
 
 pt7STAR Avatar
 
 es7STAR Avatar
 
 frAvatar de 7STAR
+
+ukАватар 7STAR
+
+jaアバター「7STAR」
 
 ruАватар 7STAR.png
 �
@@ -9181,19 +9181,19 @@ $
 
 enUnforgettable 7 Avatar
 
-plUnforgettable 7 Avatar
-
 zhUnforgettable 7 Avatar
-0
-ja*アバター「忘れられない 7 年」
-1
-uk+Аватар «Пам'ятна Сімка»
+
+plUnforgettable 7 Avatar
 
 ptUnforgettable 7 Avatar
 
 esUnforgettable 7 Avatar
 '
 fr!Avatar des 7 années inoubliables
+1
+uk+Аватар «Пам'ятна Сімка»
+0
+ja*アバター「忘れられない 7 年」
 6
 ru0Аватар «Памятная Семёрка».webp
 �
@@ -9201,19 +9201,19 @@ $avatar_progressive_bp_37_ruby_paid_6�
 2
 en,Аватар «Куст крякающий»
 2
-pl,Аватар «Куст крякающий»
-2
 zh,Аватар «Куст крякающий»
 2
-ja,Аватар «Куст крякающий»
-2
-uk,Аватар «Куст крякающий»
+pl,Аватар «Куст крякающий»
 2
 pt,Аватар «Куст крякающий»
 2
 es,Аватар «Куст крякающий»
 2
 fr,Аватар «Куст крякающий»
+2
+uk,Аватар «Куст крякающий»
+2
+ja,Аватар «Куст крякающий»
 2
 ru,Аватар «Куст крякающий».webp
 �
@@ -9221,19 +9221,19 @@ $avatar_progressive_bp_37_ruby_paid_6�
 
 enBlitz Ornaments Avatar
 
-plBlitz Ornaments Avatar
-
 zhBlitz Ornaments Avatar
-0
-ja*アバター「Blitz オーナメント」
--
-uk'Аватар «Прикраси Blitz»
+
+plBlitz Ornaments Avatar
 
 ptBlitz Ornaments Avatar
 
 esBlitz Ornaments Avatar
 
 frAvatar Ornements de Blitz
+-
+uk'Аватар «Прикраси Blitz»
+0
+ja*アバター「Blitz オーナメント」
 /
 ru)Аватар «Украшения Blitz».webp
 �
@@ -9241,13 +9241,9 @@ $avatar_progressive_bp_37_ruby_paid_6�
 
 enSteam Element Avatar
 
-plSteam Element Avatar
-
 zhSteam Element Avatar
--
-ja'アバター「Steam エレメント」
-)
-uk#Аватар «Стихія Steam»
+
+plSteam Element Avatar
 
 ptSteam Element Avatar
 
@@ -9255,25 +9251,29 @@ $avatar_progressive_bp_37_ruby_paid_6�
 
 frAvatar Élément Steam
 )
+uk#Аватар «Стихія Steam»
+-
+ja'アバター「Steam エレメント」
+)
 ru#Аватар «Стихия Steam».webp
 �
 avatar_PreSeasonQuest_S1_unique�
 
 enHigh Hopes Avatar
 
-plHigh Hopes Avatar
-
 zhHigh Hopes Avatar
-*
-ja$アバター「希望高らかに」
-8
-uk2Аватар «Великі сподівання»
+
+plHigh Hopes Avatar
 
 ptHigh Hopes Avatar
 
 esHigh Hopes Avatar
 
 frAvatar Grands espoirs
+8
+uk2Аватар «Великі сподівання»
+*
+ja$アバター「希望高らかに」
 4
 ru.Аватар «Большие надежды».webp
 �
@@ -9281,19 +9281,19 @@ $avatar_progressive_bp_37_ruby_paid_6�
 
 enAccordion Avatar
 
-plAccordion Avatar
-
 zhAccordion Avatar
--
-ja'アバター「アコーディオン」
-'
-uk!Аватар «Акордеон»
+
+plAccordion Avatar
 
 ptAccordion Avatar
 
 esAccordion Avatar
 
 frAvatar Accordéon
+'
+uk!Аватар «Акордеон»
+-
+ja'アバター「アコーディオン」
 )
 ru#Аватар «Аккордеон».webp
 �
@@ -9301,19 +9301,19 @@ $avatar_progressive_bp_37_ruby_paid_6�
 
 enRose Avatar
 
-plRose Avatar
-
 zhRose Avatar
-
-jaアバター「Rose」
-%
-ukАватар «Троянда»
+
+plRose Avatar
 
 ptRose Avatar
 
 esRose Avatar
 
 frAvatar Rose
+%
+ukАватар «Троянда»
+
+jaアバター「Rose」
 
 ruАватар «Роза».webp
 �
@@ -9321,19 +9321,19 @@ $avatar_progressive_bp_37_ruby_paid_6�
 
 enFluffy Predator Avatar
 
-plFluffy Predator Avatar
-
 zhFluffy Predator Avatar
-'
-ja!アバター「フワフワ獣」
-A
-uk;Аватар «Пушистий і небезпечний»
+
+plFluffy Predator Avatar
 
 ptFluffy Predator Avatar
 
 esFluffy Predator Avatar
 $
 frAvatar de prédateur tout doux
+A
+uk;Аватар «Пушистий і небезпечний»
+'
+ja!アバター「フワフワ獣」
 3
 ru-Аватар «Пушист и опасен».png
 �
@@ -9341,19 +9341,19 @@ $
 
 enJokers Avatar
 
-plJokers Avatar
-
 zhJokers Avatar
-
-jaアバター「Jokers」
-
-ukАватар Jokers
+
+plJokers Avatar
 
 ptJokers Avatar
 
 esJokers Avatar
 
 frAvatar de Jokers
+
+ukАватар Jokers
+
+jaアバター「Jokers」
 
 ruАватар Jokers.webp
 �
@@ -9361,13 +9361,9 @@ $
 
 enTropical Getaway Avatar
 
-plTropical Getaway Avatar
-
 zhTropical Getaway Avatar
-*
-ja$アバター「南国への誘い」
->
-uk8Аватар «Тропічний відпочинок»
+
+plTropical Getaway Avatar
 
 ptTropical Getaway Avatar
 
@@ -9375,19 +9371,19 @@ $
  
 frAvatar Excursion tropicale
 >
+uk8Аватар «Тропічний відпочинок»
+*
+ja$アバター「南国への誘い」
+>
 ru8Аватар «Тропические каникулы».webp
 �
 avatar_lt_rare_14d�
 !
 enLight Tank Commander Avatar
 !
-plLight Tank Commander Avatar
-!
 zhLight Tank Commander Avatar
-$
-jaアバター「軽戦車長」
-,
-uk&Аватар «Командир ЛТ»
+!
+plLight Tank Commander Avatar
 !
 ptLight Tank Commander Avatar
 !
@@ -9395,19 +9391,19 @@ $
 &
 fr Avatar Commandant de char léger
 ,
+uk&Аватар «Командир ЛТ»
+$
+jaアバター「軽戦車長」
+,
 ru&Аватар «Командир ЛТ».webp
 �
 avatar_defender_is_unique�
 
 enSteel Shield Avatar
 
-plSteel Shield Avatar
-
 zhSteel Shield Avatar
-$
-jaアバター「鋼鉄の盾」
-.
-uk(Аватар «Сталевий щит»
+
+plSteel Shield Avatar
 
 ptSteel Shield Avatar
 
@@ -9415,19 +9411,19 @@ $
 
 frAvatar Bouclier d'acier
 .
+uk(Аватар «Сталевий щит»
+$
+jaアバター「鋼鉄の盾」
+.
 ru(Аватар «Стальной щит».webp
 �
 avatar_progressive_bp_2_free_4�
 
 enCryptic Cypher Avatar
 
-plCryptic Cypher Avatar
-
 zhCryptic Cypher Avatar
-$
-jaアバター「暗号の鍵」
-5
-uk/Аватар «Нейрокриптограф»
+
+plCryptic Cypher Avatar
 
 ptCryptic Cypher Avatar
 
@@ -9435,25 +9431,29 @@ $
 
 frAvatar du Code crypté
 5
+uk/Аватар «Нейрокриптограф»
+$
+jaアバター「暗号の鍵」
+5
 ru/Аватар «Нейрокриптограф».png
 �
 avatar_agility_unique�
 
 enDeft Ninja Avatar
 
-plDeft Ninja Avatar
-
 zhDeft Ninja Avatar
-'
-ja!アバター「巧みな忍者」
-4
-uk.Аватар «Спритний ніндзя»
+
+plDeft Ninja Avatar
 
 ptDeft Ninja Avatar
 
 esDeft Ninja Avatar
 
 frAvatar de Deft Ninja
+4
+uk.Аватар «Спритний ніндзя»
+'
+ja!アバター「巧みな忍者」
 0
 ru*Аватар «Ловкий ниндзя».png
 �
@@ -9461,19 +9461,19 @@ $
 $
 enShishiro Botan Animated Avatar
 $
-plShishiro Botan Animated Avatar
-$
 zhShishiro Botan Animated Avatar
-B
-ja<アニメーション付きアバター「獅白ぼたん」
-6
-uk0Анімований аватар Shishiro Botan
+$
+plShishiro Botan Animated Avatar
 $
 ptShishiro Botan Animated Avatar
 $
 esShishiro Botan Animated Avatar
 "
 frAvatar animé Shishiro Botan
+6
+uk0Анімований аватар Shishiro Botan
+B
+ja<アニメーション付きアバター「獅白ぼたん」
 <
 ru6Анимированный аватар Shishiro Botan.webp
 �
@@ -9481,19 +9481,19 @@ $
 
 enStellar Traveller Avatar
 
-plStellar Traveller Avatar
-
 zhStellar Traveller Avatar
-$
-jaアバター「星の旅人」
-:
-uk4Аватар «Зоряний мандрівник»
+
+plStellar Traveller Avatar
 
 ptStellar Traveller Avatar
 
 esStellar Traveller Avatar
 "
 frAvatar du voyageur stellaire
+:
+uk4Аватар «Зоряний мандрівник»
+$
+jaアバター「星の旅人」
 8
 ru2Аватар «Звёздный странник».png
 �
@@ -9501,13 +9501,9 @@ $
 
 enavatar_progressive_rank_6
 
-plavatar_progressive_rank_6
-
 zhavatar_progressive_rank_6
 
-jaavatar_progressive_rank_6
-
-ukavatar_progressive_rank_6
+plavatar_progressive_rank_6
 
 ptavatar_progressive_rank_6
 
@@ -9515,19 +9511,19 @@ $
 
 fravatar_progressive_rank_6
 
+ukavatar_progressive_rank_6
+
+jaavatar_progressive_rank_6
+
 ruavatar_progressive_rank_6.png
 �
 avatar_progressive_rank_7�
 
 enavatar_progressive_rank_7
 
-plavatar_progressive_rank_7
-
 zhavatar_progressive_rank_7
 
-jaavatar_progressive_rank_7
-
-ukavatar_progressive_rank_7
+plavatar_progressive_rank_7
 
 ptavatar_progressive_rank_7
 
@@ -9535,19 +9531,19 @@ $
 
 fravatar_progressive_rank_7
 
+ukavatar_progressive_rank_7
+
+jaavatar_progressive_rank_7
+
 ruavatar_progressive_rank_7.png
 �
 avatar_progressive_rank_8�
 
 enavatar_progressive_rank_8
 
-plavatar_progressive_rank_8
-
 zhavatar_progressive_rank_8
 
-jaavatar_progressive_rank_8
-
-ukavatar_progressive_rank_8
+plavatar_progressive_rank_8
 
 ptavatar_progressive_rank_8
 
@@ -9555,25 +9551,29 @@ $
 
 fravatar_progressive_rank_8
 
+ukavatar_progressive_rank_8
+
+jaavatar_progressive_rank_8
+
 ruavatar_progressive_rank_8.png
 �
 !avatar_BlitzCup25_EU_TEAM1_common�
 #
 enBlue World Fan Diamond Avatar
 #
-plBlue World Fan Diamond Avatar
-#
 zhBlue World Fan Diamond Avatar
-A
-ja;アバター「Blue World ファン・ダイヤモンド」
-^
-ukXДіамантовий аватар уболівальника команди Blue World
+#
+plBlue World Fan Diamond Avatar
 #
 ptBlue World Fan Diamond Avatar
 #
 esBlue World Fan Diamond Avatar
 3
 fr-Avatar du passionné de Blue World de diamant
+^
+ukXДіамантовий аватар уболівальника команди Blue World
+A
+ja;アバター「Blue World ファン・ダイヤモンド」
 \
 ruVБриллиантовый аватар болельщика команды Blue World.webp
 �
@@ -9581,19 +9581,19 @@ A
 
 enGenesis Avatar
 
-plGenesis Avatar
-
 zhGenesis Avatar
-
-jaアバター「Genesis」
-
-ukАватар Genesis
+
+plGenesis Avatar
 
 ptGenesis Avatar
 
 esGenesis Avatar
 
 frAvatar de Genesis
+
+ukАватар Genesis
+
+jaアバター「Genesis」
 
 ruАватар Genesis.png
 �
@@ -9601,19 +9601,19 @@ A
 
 enUltimate Destroyer Avatar
 
-plUltimate Destroyer Avatar
-
 zhUltimate Destroyer Avatar
-*
-ja$アバター「究極の破壊者」
->
-uk8Аватар «Абсолютний руйнівник»
+
+plUltimate Destroyer Avatar
 
 ptUltimate Destroyer Avatar
 
 esUltimate Destroyer Avatar
 "
 frAvatar du destructeur ultime
+>
+uk8Аватар «Абсолютний руйнівник»
+*
+ja$アバター「究極の破壊者」
 B
 ru<Аватар «Абсолютный разрушитель».png
 �
@@ -9621,19 +9621,19 @@ B
 
 enUltimate Destroyer Avatar
 
-plUltimate Destroyer Avatar
-
 zhUltimate Destroyer Avatar
-*
-ja$アバター「究極の破壊者」
->
-uk8Аватар «Абсолютний руйнівник»
+
+plUltimate Destroyer Avatar
 
 ptUltimate Destroyer Avatar
 
 esUltimate Destroyer Avatar
 "
 frAvatar du destructeur ultime
+>
+uk8Аватар «Абсолютний руйнівник»
+*
+ja$アバター「究極の破壊者」
 B
 ru<Аватар «Абсолютный разрушитель».png
 �
@@ -9641,19 +9641,19 @@ B
 
 enSpeedrun Avatar
 
-plSpeedrun Avatar
-
 zhSpeedrun Avatar
-*
-ja$アバター「スピードラン」
-
-ukАватар Speedrun
+
+plSpeedrun Avatar
 
 ptSpeedrun Avatar
 
 esSpeedrun Avatar
 
 frAvatar Speedrun
+
+ukАватар Speedrun
+*
+ja$アバター「スピードラン」
 
 ruАватар Speedrun.webp
 �
@@ -9661,19 +9661,19 @@ B
 
 enUltimate Destroyer Avatar
 
-plUltimate Destroyer Avatar
-
 zhUltimate Destroyer Avatar
-*
-ja$アバター「究極の破壊者」
->
-uk8Аватар «Абсолютний руйнівник»
+
+plUltimate Destroyer Avatar
 
 ptUltimate Destroyer Avatar
 
 esUltimate Destroyer Avatar
 "
 frAvatar du destructeur ultime
+>
+uk8Аватар «Абсолютний руйнівник»
+*
+ja$アバター「究極の破壊者」
 B
 ru<Аватар «Абсолютный разрушитель».png
 �
@@ -9681,13 +9681,9 @@ B
 
 enSpeedrun Avatar
 
-plSpeedrun Avatar
-
 zhSpeedrun Avatar
-*
-ja$アバター「スピードラン」
-
-ukАватар Speedrun
+
+plSpeedrun Avatar
 
 ptSpeedrun Avatar
 
@@ -9695,19 +9691,19 @@ B
 
 frAvatar Speedrun
 
+ukАватар Speedrun
+*
+ja$アバター「スピードラン」
+
 ruАватар Speedrun.webp
 �
 $avatar_progressive_bp_39_ruby_paid_2�
 >
 en8storage/Items/avatar_progressive_bp_39_ruby_paid_2/Title
 >
-pl8storage/Items/avatar_progressive_bp_39_ruby_paid_2/Title
->
 zh8storage/Items/avatar_progressive_bp_39_ruby_paid_2/Title
 >
-ja8storage/Items/avatar_progressive_bp_39_ruby_paid_2/Title
->
-uk8storage/Items/avatar_progressive_bp_39_ruby_paid_2/Title
+pl8storage/Items/avatar_progressive_bp_39_ruby_paid_2/Title
 >
 pt8storage/Items/avatar_progressive_bp_39_ruby_paid_2/Title
 >
@@ -9715,25 +9711,29 @@ $avatar_progressive_bp_39_ruby_paid_2�
 >
 fr8storage/Items/avatar_progressive_bp_39_ruby_paid_2/Title
 >
+uk8storage/Items/avatar_progressive_bp_39_ruby_paid_2/Title
+>
+ja8storage/Items/avatar_progressive_bp_39_ruby_paid_2/Title
+>
 ru8storage/Items/avatar_progressive_bp_39_ruby_paid_2/Title.webp
 �
 avatar_enigma_rare_14d�
 
 enDecryption Hint
 
-plDecryption Hint
-
 zhDecryption Hint
-
-ja暗号のヒント
-0
-uk*Підказка до Шифрування
+
+plDecryption Hint
 
 ptDecryption Hint
 
 esDecryption Hint
 
 frIndice de décryptage
+0
+uk*Підказка до Шифрування
+
+ja暗号のヒント
 ,
 ru&Подсказка к Шифровке.webp
 �
@@ -9741,19 +9741,19 @@ $avatar_progressive_bp_39_ruby_paid_2�
 
 enCold-Blooded Avatar
 
-plCold-Blooded Avatar
-
 zhCold-Blooded Avatar
-$
-jaアバター「変温動物」
-3
-uk-Аватар «Холоднокровний»
+
+plCold-Blooded Avatar
 
 ptCold-Blooded Avatar
 
 esCold-Blooded Avatar
 
 frAvatar À sang froid
+3
+uk-Аватар «Холоднокровний»
+$
+jaアバター「変温動物」
 '
 ru!Аватар «Хамелеон».webp
 �
@@ -9761,19 +9761,19 @@ $
 
 enSkywarden Avatar
 
-plSkywarden Avatar
-
 zhSkywarden Avatar
-'
-ja!アバター「空の監視者」
-0
-uk*Аватар «Нічна хижачка»
+
+plSkywarden Avatar
 
 ptSkywarden Avatar
 
 esSkywarden Avatar
 
 frAvatar Gardien du ciel
+0
+uk*Аватар «Нічна хижачка»
+'
+ja!アバター「空の監視者」
 
 ruАватар «Сова».webp
 �
@@ -9781,13 +9781,9 @@ $
 
 enWZ-132-1 Girl Avatar
 
-plWZ-132-1 Girl Avatar
-
 zhWZ-132-1 Girl Avatar
-*
-ja$アバター「WZ-132-1 ガール」
- 
-ukАватар WZ-132-1 Girl
+
+plWZ-132-1 Girl Avatar
 
 ptWZ-132-1 Girl Avatar
 
@@ -9795,19 +9791,19 @@ $
 
 frAvatar WZ-132-1 Girl
  
+ukАватар WZ-132-1 Girl
+*
+ja$アバター「WZ-132-1 ガール」
+ 
 ruАватар WZ-132-1 Girl.webp
 �
 avatar_bronze_warrior_legendary�
 
 enBronze Warrior Avatar
 
-plBronze Warrior Avatar
-
 zhBronze Warrior Avatar
-$
-jaアバター「銅の戦士」
-,
-uk&Аватар «Мідний воїн»
+
+plBronze Warrior Avatar
 
 ptBronze Warrior Avatar
 
@@ -9815,25 +9811,29 @@ $
 
 frAvatar Guerrier de bronze
 ,
+uk&Аватар «Мідний воїн»
+$
+jaアバター「銅の戦士」
+,
 ru&Аватар «Медный воин».webp
 �
 #avatar_ChineseDragon_anim_legendary�
 #
 enArcane Dragon Animated Avatar
 #
-plArcane Dragon Animated Avatar
-#
 zhArcane Dragon Animated Avatar
-E
-ja?アニメーション付きアバター「伝説の守護龍」
-.
-uk(Аватар «Володар неба»
+#
+plArcane Dragon Animated Avatar
 #
 ptArcane Dragon Animated Avatar
 #
 esArcane Dragon Animated Avatar
 &
 fr Avatar animé Dragon des arcanes
+.
+uk(Аватар «Володар неба»
+E
+ja?アニメーション付きアバター「伝説の守護龍」
 M
 ruGАнимированный аватар «Властелин неба».webp
 �
@@ -9841,13 +9841,9 @@ M
 
 enChief Avatar
 
-plChief Avatar
-
 zhChief Avatar
-!
-jaアバター「チーフ」
-
-ukАватар «Чіф»
+
+plChief Avatar
 
 ptChief Avatar
 
@@ -9855,19 +9851,19 @@ M
 
 frAvatar Chief
 
+ukАватар «Чіф»
+!
+jaアバター「チーフ」
+
 ruАватар «Чиф».webp
 �
 avatar_rbyt22_EUBear_unique_31d�
 
 en#RBYT22: Forest Sentinel
 
-pl#RBYT22: Forest Sentinel
-
 zh#RBYT22: Forest Sentinel
-!
-ja#RBYT22: 森林キーパー
-"
-uk#RBYT22: Страж лісу
+
+pl#RBYT22: Forest Sentinel
 
 pt#RBYT22: Forest Sentinel
 
@@ -9875,25 +9871,29 @@ M
 $
 fr#RBYT22 : Sentinelle des bois
 "
+uk#RBYT22: Страж лісу
+!
+ja#RBYT22: 森林キーパー
+"
 ru#RBYT22: Страж леса.webp
 �
 avatar_smiley_cry_common_168h�
 
 en"Happy Tears" Avatar
 
-pl"Happy Tears" Avatar
-
 zh"Happy Tears" Avatar
-$
-jaアバター「うれし涙」
-.
-uk(Аватар «Сльози щастя»
+
+pl"Happy Tears" Avatar
 
 pt"Happy Tears" Avatar
 
 es"Happy Tears" Avatar
 '
 fr!Avatar « Des larmes de joie »
+.
+uk(Аватар «Сльози щастя»
+$
+jaアバター「うれし涙」
 0
 ru*Аватар «Слёзы счастья».png
 �
@@ -9901,13 +9901,9 @@ $
 
 enSPEED Avatar
 
-plSPEED Avatar
-
 zhSPEED Avatar
-
-jaアバター「SPEED」
-
-ukАватар SPEED
+
+plSPEED Avatar
 
 ptSPEED Avatar
 
@@ -9915,19 +9911,19 @@ $
 
 frAvatar de SPEED
 
+ukАватар SPEED
+
+jaアバター「SPEED」
+
 ruАватар SPEED.png
 �
 $avatar_progressive_bp_38_ruby_free_3�
 <
 en6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
-pl6storage/Items/avatar_progressive_bp_38_ruby_free/Title
-<
 zh6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
-ja6storage/Items/avatar_progressive_bp_38_ruby_free/Title
-<
-uk6storage/Items/avatar_progressive_bp_38_ruby_free/Title
+pl6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
 pt6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
@@ -9935,25 +9931,29 @@ $avatar_progressive_bp_38_ruby_free_3�
 <
 fr6storage/Items/avatar_progressive_bp_38_ruby_free/Title
 <
+uk6storage/Items/avatar_progressive_bp_38_ruby_free/Title
+<
+ja6storage/Items/avatar_progressive_bp_38_ruby_free/Title
+<
 ru6storage/Items/avatar_progressive_bp_38_ruby_free/Title.webp
 �
 avatar_BlitzXCup24_NA__x_temp�
 
 enOrigin Fan Avatar
 
-plOrigin Fan Avatar
-
 zhOrigin Fan Avatar
-(
-ja"アバター「Origin ファン」
-6
-uk0Аватар «Вболівальник Origin»
+
+plOrigin Fan Avatar
 
 ptOrigin Fan Avatar
 
 esOrigin Fan Avatar
 #
 frAvatar du passionné d'Origin
+6
+uk0Аватар «Вболівальник Origin»
+(
+ja"アバター「Origin ファン」
 0
 ru*Аватар «Болельщик Origin».webp
 �
@@ -9961,19 +9961,19 @@ $avatar_progressive_bp_38_ruby_free_3�
 
 enCrown of Splendor Avatar
 
-plCrown of Splendor Avatar
-
 zhCrown of Splendor Avatar
 
-jaアバター「光彩」
-0
-uk*Аватар «Корона величі»
+plCrown of Splendor Avatar
 
 ptCrown of Splendor Avatar
 
 esCrown of Splendor Avatar
 %
 frAvatar de la Couronne splendide
+0
+uk*Аватар «Корона величі»
+
+jaアバター「光彩」
 2
 ru,Аватар «Корона величия».png
 �
@@ -9981,19 +9981,19 @@ $avatar_progressive_bp_38_ruby_free_3�
 
 enFighting Spirit Avatar
 
-plFighting Spirit Avatar
-
 zhFighting Spirit Avatar
-$
-jaアバター「闘争精神」
-,
-uk&Аватар «Бойовий дух»
+
+plFighting Spirit Avatar
 
 ptFighting Spirit Avatar
 
 esFighting Spirit Avatar
 !
 frAvatar de l'esprit combatif
+,
+uk&Аватар «Бойовий дух»
+$
+jaアバター「闘争精神」
 *
 ru$Аватар «Боевой дух».png
 �
@@ -10001,13 +10001,9 @@ $
 
 enSnack Time Avatar
 
-plSnack Time Avatar
-
 zhSnack Time Avatar
-*
-ja$アバター「おやつの時間」
-<
-uk6Аватар «Солодкий чи солоний?»
+
+plSnack Time Avatar
 
 ptSnack Time Avatar
 
@@ -10015,19 +10011,19 @@ $
 (
 fr"Avatar de l'heure du casse-croûte
 <
+uk6Аватар «Солодкий чи солоний?»
+*
+ja$アバター「おやつの時間」
+<
 ru6Аватар «Сладкий или солёный?».webp
 �
 avatar_genesis_2020_legendary�
 
 enGenesis Avatar
 
-plGenesis Avatar
-
 zhGenesis Avatar
-
-jaアバター「Genesis」
-
-ukАватар Genesis
+
+plGenesis Avatar
 
 ptGenesis Avatar
 
@@ -10035,25 +10031,29 @@ $
 
 frAvatar de Genesis
 
+ukАватар Genesis
+
+jaアバター「Genesis」
+
 ruАватар Genesis.png
 �
 avatar_phoenix_legendary_anim�
 
 enPhoenix Animated Avatar
 
-plPhoenix Animated Avatar
-
 zhPhoenix Animated Avatar
-E
-ja?アニメーション付きアバター「フェニックス」
-/
-uk)Анімований аватар Phoenix
+
+plPhoenix Animated Avatar
 
 ptPhoenix Animated Avatar
 
 esPhoenix Animated Avatar
 
 frAvatar animé Phénix
+/
+uk)Анімований аватар Phoenix
+E
+ja?アニメーション付きアバター「フェニックス」
 5
 ru/Анимированный аватар Phoenix.webp
 �
@@ -10061,19 +10061,19 @@ E
 
 enKing Cobra Avatar
 
-plKing Cobra Avatar
-
 zhKing Cobra Avatar
-*
-ja$アバター「キングコブラ」
-9
-uk3Аватар «Королівська кобра».
+
+plKing Cobra Avatar
 
 ptKing Cobra Avatar
 
 esKing Cobra Avatar
 
 frAvatar du cobra royal
+9
+uk3Аватар «Королівська кобра».
+*
+ja$アバター「キングコブラ」
 8
 ru2Аватар «Королевская кобра».png
 �
@@ -10081,19 +10081,19 @@ E
 
 enSanta Tower Avatar
 
-plSanta Tower Avatar
-
 zhSanta Tower Avatar
--
-ja'アバター「サンタ・タワー」
-5
-uk/Аватар «Під бій курантів»
+
+plSanta Tower Avatar
 
 ptSanta Tower Avatar
 
 esSanta Tower Avatar
  
 frAvatar Tour du Père Noël
+5
+uk/Аватар «Під бій курантів»
+-
+ja'アバター「サンタ・タワー」
 5
 ru/Аватар «Под бой курантов».webp
 �
@@ -10101,19 +10101,19 @@ E
 
 enBombastic Flame Avatar
 
-plBombastic Flame Avatar
-
 zhBombastic Flame Avatar
-$
-jaアバター「絢爛な炎」
-6
-uk0Аватар «Помпезний вогонь»
+
+plBombastic Flame Avatar
 
 ptBombastic Flame Avatar
 
 esBombastic Flame Avatar
 
 frAvatar Flamme explosive
+6
+uk0Аватар «Помпезний вогонь»
+$
+jaアバター「絢爛な炎」
 /
 ru)Аватар «Просто пушка!».webp
 �
@@ -10121,19 +10121,19 @@ $
 
 enPandamania Fan Avatar
 
-plPandamania Fan Avatar
-
 zhPandamania Fan Avatar
-,
-ja&アバター「Pandamania ファン」
-:
-uk4Аватар «Вболівальник Pandamania»
+
+plPandamania Fan Avatar
 
 ptPandamania Fan Avatar
 
 esPandamania Fan Avatar
 (
 fr"Avatar du passionné de Pandamania
+:
+uk4Аватар «Вболівальник Pandamania»
+,
+ja&アバター「Pandamania ファン」
 4
 ru.Аватар «Болельщик Pandamania».webp
 �
@@ -10141,19 +10141,19 @@ $
 -
 en'avatars/Items/bp26/FreeBattlePass/Title
 -
-pl'avatars/Items/bp26/FreeBattlePass/Title
--
 zh'avatars/Items/bp26/FreeBattlePass/Title
 -
-ja'avatars/Items/bp26/FreeBattlePass/Title
-(
-uk"avatar_progressive_bp_26_free_3_RU
+pl'avatars/Items/bp26/FreeBattlePass/Title
 -
 pt'avatars/Items/bp26/FreeBattlePass/Title
 -
 es'avatars/Items/bp26/FreeBattlePass/Title
 -
 fr'avatars/Items/bp26/FreeBattlePass/Title
+(
+uk"avatar_progressive_bp_26_free_3_RU
+-
+ja'avatars/Items/bp26/FreeBattlePass/Title
 -
 ru'avatars/Items/bp26/FreeBattlePass/Title.webp
 �
@@ -10161,13 +10161,9 @@ $
 
 enBlitz Wolf Avatar
 
-plBlitz Wolf Avatar
-
 zhBlitz Wolf Avatar
-'
-ja!アバター「Blitz ウルフ」
-%
-ukАватар «Вовк Blitz»
+
+plBlitz Wolf Avatar
 
 ptBlitz Wolf Avatar
 
@@ -10175,19 +10171,19 @@ $
 
 frAvatar Loup de Blitz
 %
+ukАватар «Вовк Blitz»
+'
+ja!アバター「Blitz ウルフ」
+%
 ruАватар «Волк Blitz».webp
 �
 $avatar_bm_newhorizons_reqm_legendary�
 
 enPrimacy Avatar
 
-plPrimacy Avatar
-
 zhPrimacy Avatar
-
-jaアバター「Primacy」
-
-ukАватар Primacy
+
+plPrimacy Avatar
 
 ptPrimacy Avatar
 
@@ -10195,25 +10191,29 @@ $avatar_bm_newhorizons_reqm_legendary�
 
 frAvatar de Primacy
 
+ukАватар Primacy
+
+jaアバター「Primacy」
+
 ruАватар Primacy.webp
 �
 avatar_rbmk_legendary�
 
 enRBmk-Energy Avatar
 
-plRBmk-Energy Avatar
-
 zhRBmk-Energy Avatar
-#
-jaアバター「RBmk-Energy」
-
-ukАватар RBmk-Energy
+
+plRBmk-Energy Avatar
 
 ptRBmk-Energy Avatar
 
 esRBmk-Energy Avatar
 
 frAvatar de RBmk-Energy
+
+ukАватар RBmk-Energy
+#
+jaアバター「RBmk-Energy」
 
 ruАватар RBmk-Energy.png
 �
@@ -10221,19 +10221,19 @@ $avatar_bm_newhorizons_reqm_legendary�
 !
 enLegacy Lower Echelon Avatar
 !
-plLegacy Lower Echelon Avatar
-!
 zhLegacy Lower Echelon Avatar
-4
-ja.アバター「Legacy 下位エシュロン」
-7
-uk1Аватар «Нижній ешелон Legacy»
+!
+plLegacy Lower Echelon Avatar
 !
 ptLegacy Lower Echelon Avatar
 !
 esLegacy Lower Echelon Avatar
 .
 fr(Avatar d'Échelon inférieur d'héritage
+7
+uk1Аватар «Нижній ешелон Legacy»
+4
+ja.アバター「Legacy 下位エシュロン」
 b
 ru\Аватар «Участник Чемпионата Нижнего эшелона: Legacy».webp
 �
@@ -10241,19 +10241,19 @@ b
 
 enSanta Tower Avatar
 
-plSanta Tower Avatar
-
 zhSanta Tower Avatar
--
-ja'アバター「サンタ・タワー」
-5
-uk/Аватар «Під бій курантів»
+
+plSanta Tower Avatar
 
 ptSanta Tower Avatar
 
 esSanta Tower Avatar
  
 frAvatar Tour du Père Noël
+5
+uk/Аватар «Під бій курантів»
+-
+ja'アバター「サンタ・タワー」
 5
 ru/Аватар «Под бой курантов».webp
 �
@@ -10261,19 +10261,19 @@ b
 -
 en'avatars/Items/bp26/FreeBattlePass/Title
 -
-pl'avatars/Items/bp26/FreeBattlePass/Title
--
 zh'avatars/Items/bp26/FreeBattlePass/Title
 -
-ja'avatars/Items/bp26/FreeBattlePass/Title
-(
-uk"avatar_progressive_bp_26_free_2_RU
+pl'avatars/Items/bp26/FreeBattlePass/Title
 -
 pt'avatars/Items/bp26/FreeBattlePass/Title
 -
 es'avatars/Items/bp26/FreeBattlePass/Title
 -
 fr'avatars/Items/bp26/FreeBattlePass/Title
+(
+uk"avatar_progressive_bp_26_free_2_RU
+-
+ja'avatars/Items/bp26/FreeBattlePass/Title
 -
 ru'avatars/Items/bp26/FreeBattlePass/Title.webp
 �
@@ -10281,19 +10281,19 @@ b
 
 enPeak Concealment Avatar
 
-plPeak Concealment Avatar
-
 zhPeak Concealment Avatar
-*
-ja$アバター「隠蔽性の頂点」
-<
-uk6Аватар «Відмінне маскування»
+
+plPeak Concealment Avatar
 
 ptPeak Concealment Avatar
 
 esPeak Concealment Avatar
 $
 frAvatar Dissimulation de pointe
+<
+uk6Аватар «Відмінне маскування»
+*
+ja$アバター「隠蔽性の頂点」
 5
 ru/Аватар «Камуфлированный».webp
 �
@@ -10301,19 +10301,19 @@ $
 
 enPeak Concealment Avatar
 
-plPeak Concealment Avatar
-
 zhPeak Concealment Avatar
-*
-ja$アバター「隠蔽性の頂点」
-<
-uk6Аватар «Відмінне маскування»
+
+plPeak Concealment Avatar
 
 ptPeak Concealment Avatar
 
 esPeak Concealment Avatar
 $
 frAvatar Dissimulation de pointe
+<
+uk6Аватар «Відмінне маскування»
+*
+ja$アバター「隠蔽性の頂点」
 5
 ru/Аватар «Камуфлированный».webp
 �
@@ -10321,19 +10321,19 @@ $
 
 enPeak Concealment Avatar
 
-plPeak Concealment Avatar
-
 zhPeak Concealment Avatar
-*
-ja$アバター「隠蔽性の頂点」
-<
-uk6Аватар «Відмінне маскування»
+
+plPeak Concealment Avatar
 
 ptPeak Concealment Avatar
 
 esPeak Concealment Avatar
 $
 frAvatar Dissimulation de pointe
+<
+uk6Аватар «Відмінне маскування»
+*
+ja$アバター「隠蔽性の頂点」
 5
 ru/Аватар «Камуфлированный».webp
 �
@@ -10341,13 +10341,9 @@ $
 
 enSanta Tower Avatar
 
-plSanta Tower Avatar
-
 zhSanta Tower Avatar
--
-ja'アバター「サンタ・タワー」
-5
-uk/Аватар «Під бій курантів»
+
+plSanta Tower Avatar
 
 ptSanta Tower Avatar
 
@@ -10355,19 +10351,19 @@ $
  
 frAvatar Tour du Père Noël
 5
+uk/Аватар «Під бій курантів»
+-
+ja'アバター「サンタ・タワー」
+5
 ru/Аватар «Под бой курантов».webp
 �
 avatar_gold_rhino_unique�
 
 enFerocious Rhino Avatar
 
-plFerocious Rhino Avatar
-
 zhFerocious Rhino Avatar
-'
-ja!アバター「凶暴なサイ」
-4
-uk.Аватар «Грізний носоріг»
+
+plFerocious Rhino Avatar
 
 ptFerocious Rhino Avatar
 
@@ -10375,25 +10371,29 @@ $
 
 frAvatar du rhino féroce
 4
+uk.Аватар «Грізний носоріг»
+'
+ja!アバター「凶暴なサイ」
+4
 ru.Аватар «Грозный носорог».png
 �
 avatar_beaver_unique�
 
 enLumbering Beaver Avatar
 
-plLumbering Beaver Avatar
-
 zhLumbering Beaver Avatar
-0
-ja*アバター「木こりのビーバー」
-4
-uk.Аватар «Бобер-трудівник»
+
+plLumbering Beaver Avatar
 
 ptLumbering Beaver Avatar
 
 esLumbering Beaver Avatar
 
 frAvatar Castor forestier
+4
+uk.Аватар «Бобер-трудівник»
+0
+ja*アバター「木こりのビーバー」
 8
 ru2Аватар «Трудолюбивый бобр».webp
 �
@@ -10401,19 +10401,19 @@ $
 
 enSilver Victor Avatar
 
-plSilver Victor Avatar
-
 zhSilver Victor Avatar
--
-ja'アバター「シルバーの勝者」
-:
-uk4Аватар «Срібний переможець»
+
+plSilver Victor Avatar
 
 ptSilver Victor Avatar
 
 esSilver Victor Avatar
 
 frAvatar Vainqueur d'argent
+:
+uk4Аватар «Срібний переможець»
+-
+ja'アバター「シルバーの勝者」
 @
 ru:Аватар «Серебряный победитель».webp
 �
@@ -10421,19 +10421,19 @@ $
 
 enWill of Steel Avatar
 
-plWill of Steel Avatar
-
 zhWill of Steel Avatar
-$
-jaアバター「鋼の意志」
-.
-uk(Аватар «Залізна воля»
+
+plWill of Steel Avatar
 
 ptWill of Steel Avatar
 
 esWill of Steel Avatar
 
 frAvatar Volonté d'acier
+.
+uk(Аватар «Залізна воля»
+$
+jaアバター「鋼の意志」
 0
 ru*Аватар «Железная воля».png
 �
@@ -10441,19 +10441,19 @@ $
 
 enNew Year Mood Avatar
 
-plNew Year Mood Avatar
-
 zhNew Year Mood Avatar
-'
-ja!アバター「シャンパン」
-:
-uk4Аватар «Новорічний настрій»
+
+plNew Year Mood Avatar
 
 ptNew Year Mood Avatar
 
 esNew Year Mood Avatar
 $
 frAvatar d'ambiance du Nouvel An
+:
+uk4Аватар «Новорічний настрій»
+'
+ja!アバター「シャンパン」
 @
 ru:Аватар «Новогоднее настроение».png
 �
@@ -10461,19 +10461,19 @@ $
  
 enWild Honey Animated Avatar
  
-plWild Honey Animated Avatar
- 
 zhWild Honey Animated Avatar
-K
-jaEアニメーション付きアバター「ワイルド・ハニー」
-
-ukavatar_test_RGB
+ 
+plWild Honey Animated Avatar
  
 ptWild Honey Animated Avatar
  
 esWild Honey Animated Avatar
  
 frAvatar animé Miel sauvage
+
+ukavatar_test_RGB
+K
+jaEアニメーション付きアバター「ワイルド・ハニー」
 C
 ru=Анимированный аватар «Дикий мёд».webp
 �
@@ -10481,19 +10481,19 @@ C
 
 enSilver Victor Avatar
 
-plSilver Victor Avatar
-
 zhSilver Victor Avatar
--
-ja'アバター「シルバーの勝者」
-:
-uk4Аватар «Срібний переможець»
+
+plSilver Victor Avatar
 
 ptSilver Victor Avatar
 
 esSilver Victor Avatar
 
 frAvatar Vainqueur d'argent
+:
+uk4Аватар «Срібний переможець»
+-
+ja'アバター「シルバーの勝者」
 @
 ru:Аватар «Серебряный победитель».webp
 �
@@ -10501,19 +10501,19 @@ C
 
 enSilver Victor Avatar
 
-plSilver Victor Avatar
-
 zhSilver Victor Avatar
--
-ja'アバター「シルバーの勝者」
-:
-uk4Аватар «Срібний переможець»
+
+plSilver Victor Avatar
 
 ptSilver Victor Avatar
 
 esSilver Victor Avatar
 
 frAvatar Vainqueur d'argent
+:
+uk4Аватар «Срібний переможець»
+-
+ja'アバター「シルバーの勝者」
 @
 ru:Аватар «Серебряный победитель».webp
 �
@@ -10521,19 +10521,19 @@ C
 
 enSecret Weapon Avatar
 
-plSecret Weapon Avatar
-
 zhSecret Weapon Avatar
-$
-jaアバター「秘密兵器」
-2
-uk,Аватар «Секретна зброя»
+
+plSecret Weapon Avatar
 
 ptSecret Weapon Avatar
 
 esSecret Weapon Avatar
 
 frAvatar Arme secrète
+2
+uk,Аватар «Секретна зброя»
+$
+jaアバター「秘密兵器」
 6
 ru0Аватар «Секретное оружие».webp
 �
@@ -10541,19 +10541,19 @@ $
 
 enSilver Victor Avatar
 
-plSilver Victor Avatar
-
 zhSilver Victor Avatar
--
-ja'アバター「シルバーの勝者」
-:
-uk4Аватар «Срібний переможець»
+
+plSilver Victor Avatar
 
 ptSilver Victor Avatar
 
 esSilver Victor Avatar
 
 frAvatar Vainqueur d'argent
+:
+uk4Аватар «Срібний переможець»
+-
+ja'アバター「シルバーの勝者」
 @
 ru:Аватар «Серебряный победитель».webp
 �
@@ -10561,19 +10561,19 @@ $
 
 enSilver Victor Avatar
 
-plSilver Victor Avatar
-
 zhSilver Victor Avatar
--
-ja'アバター「シルバーの勝者」
-:
-uk4Аватар «Срібний переможець»
+
+plSilver Victor Avatar
 
 ptSilver Victor Avatar
 
 esSilver Victor Avatar
 
 frAvatar Vainqueur d'argent
+:
+uk4Аватар «Срібний переможець»
+-
+ja'アバター「シルバーの勝者」
 @
 ru:Аватар «Серебряный победитель».webp
 �
@@ -10581,19 +10581,19 @@ $
 
 enA Claw-some Dude Avatar
 
-plA Claw-some Dude Avatar
-
 zhA Claw-some Dude Avatar
-0
-ja*アバター「ピースなトモダチ」
-*
-uk$Аватар «Розкрабся!»
+
+plA Claw-some Dude Avatar
 
 ptA Claw-some Dude Avatar
 
 esA Claw-some Dude Avatar
 %
 frAvatar J'en pince pour la fête
+*
+uk$Аватар «Розкрабся!»
+0
+ja*アバター「ピースなトモダチ」
 -
 ru'Аватар «Держи краба!».webp
 �
@@ -10601,19 +10601,19 @@ $
 
 enOrigin Fan Avatar
 
-plOrigin Fan Avatar
-
 zhOrigin Fan Avatar
-(
-ja"アバター「Origin ファン」
-6
-uk0Аватар «Вболівальник Origin»
+
+plOrigin Fan Avatar
 
 ptOrigin Fan Avatar
 
 esOrigin Fan Avatar
 #
 frAvatar du passionné d'Origin
+6
+uk0Аватар «Вболівальник Origin»
+(
+ja"アバター「Origin ファン」
 0
 ru*Аватар «Болельщик Origin».webp
 �
@@ -10621,19 +10621,19 @@ $
 
 enSilver Victor Avatar
 
-plSilver Victor Avatar
-
 zhSilver Victor Avatar
--
-ja'アバター「シルバーの勝者」
-:
-uk4Аватар «Срібний переможець»
+
+plSilver Victor Avatar
 
 ptSilver Victor Avatar
 
 esSilver Victor Avatar
 
 frAvatar Vainqueur d'argent
+:
+uk4Аватар «Срібний переможець»
+-
+ja'アバター「シルバーの勝者」
 @
 ru:Аватар «Серебряный победитель».webp
 �
@@ -10641,19 +10641,19 @@ $
 
 enLucky Dice Avatar
 
-plLucky Dice Avatar
-
 zhLucky Dice Avatar
--
-ja'アバター「幸運のサイコロ」
-!
-ukАватар «Талан»
+
+plLucky Dice Avatar
 
 ptLucky Dice Avatar
 
 esLucky Dice Avatar
 
 frAvatar Dès de chanceux
+!
+ukАватар «Талан»
+-
+ja'アバター「幸運のサイコロ」
 '
 ru!Аватар «Везунчик».webp
 �
@@ -10661,19 +10661,19 @@ $
 
 enSilver Victor Avatar
 
-plSilver Victor Avatar
-
 zhSilver Victor Avatar
--
-ja'アバター「シルバーの勝者」
-:
-uk4Аватар «Срібний переможець»
+
+plSilver Victor Avatar
 
 ptSilver Victor Avatar
 
 esSilver Victor Avatar
 
 frAvatar Vainqueur d'argent
+:
+uk4Аватар «Срібний переможець»
+-
+ja'アバター「シルバーの勝者」
 @
 ru:Аватар «Серебряный победитель».webp
 �
@@ -10681,19 +10681,19 @@ $
 
 enFully Submerged Avatar
 
-plFully Submerged Avatar
-
 zhFully Submerged Avatar
-'
-ja!アバター「深みに Dive!」
-4
-uk.Аватар «Повне занурення»
+
+plFully Submerged Avatar
 
 ptFully Submerged Avatar
 
 esFully Submerged Avatar
  
 frAvatar Totalement immergé
+4
+uk.Аватар «Повне занурення»
+'
+ja!アバター「深みに Dive!」
 8
 ru2Аватар «Полное погружение».webp
 �
@@ -10701,19 +10701,19 @@ $
 
 enThe Earl of Grey Avatar
 
-plThe Earl of Grey Avatar
-
 zhThe Earl of Grey Avatar
-/
-ja)アバター「ミルク or レモン?」
-=
-uk7Аватар «З молоком чи лимоном?»
+
+plThe Earl of Grey Avatar
 
 ptThe Earl of Grey Avatar
 
 esThe Earl of Grey Avatar
 
 frAvatar Earl Grey
+=
+uk7Аватар «З молоком чи лимоном?»
+/
+ja)アバター「ミルク or レモン?」
 ?
 ru9Аватар «С молоком или лимоном?».webp
 �
@@ -10721,19 +10721,19 @@ $
 
 enThe Earl of Grey Avatar
 
-plThe Earl of Grey Avatar
-
 zhThe Earl of Grey Avatar
-/
-ja)アバター「ミルク or レモン?」
-=
-uk7Аватар «З молоком чи лимоном?»
+
+plThe Earl of Grey Avatar
 
 ptThe Earl of Grey Avatar
 
 esThe Earl of Grey Avatar
 
 frAvatar Earl Grey
+=
+uk7Аватар «З молоком чи лимоном?»
+/
+ja)アバター「ミルク or レモン?」
 ?
 ru9Аватар «С молоком или лимоном?».webp
 �
@@ -10741,19 +10741,19 @@ $
 
 enWill of Steel Avatar
 
-plWill of Steel Avatar
-
 zhWill of Steel Avatar
-$
-jaアバター「鋼の意志」
-.
-uk(Аватар «Залізна воля»
+
+plWill of Steel Avatar
 
 ptWill of Steel Avatar
 
 esWill of Steel Avatar
 
 frAvatar Volonté d'acier
+.
+uk(Аватар «Залізна воля»
+$
+jaアバター「鋼の意志」
 0
 ru*Аватар «Железная воля».png
 �
@@ -10761,19 +10761,19 @@ $
 
 enCity is Ours! Avatar
 
-plCity is Ours! Avatar
-
 zhCity is Ours! Avatar
-$
-jaアバター「City's Ours!」
-+
-uk%Аватар «Місто наше!»
+
+plCity is Ours! Avatar
 
 ptCity is Ours! Avatar
 
 esCity is Ours! Avatar
 $
 frAvatar La ville est à nous !
++
+uk%Аватар «Місто наше!»
+$
+jaアバター「City's Ours!」
 )
 ru#Аватар «Город наш!».webp
 �
@@ -10781,13 +10781,9 @@ $
 
 enUltimate FEAST Avatar
 
-plUltimate FEAST Avatar
-
 zhUltimate FEAST Avatar
-&
-ja アバター「ULTIMATE FEAST」
-!
-ukАватар Ultimate FEAST
+
+plUltimate FEAST Avatar
 
 ptUltimate FEAST Avatar
 
@@ -10795,25 +10791,29 @@ $
 
 frAvatar de Ultimate FEAST
 !
+ukАватар Ultimate FEAST
+&
+ja アバター「ULTIMATE FEAST」
+!
 ruАватар Ultimate FEAST.png
 �
 #avatar_progressive_realistic_wins_7�
 
 enWill of Steel Avatar
 
-plWill of Steel Avatar
-
 zhWill of Steel Avatar
-$
-jaアバター「鋼の意志」
-.
-uk(Аватар «Залізна воля»
+
+plWill of Steel Avatar
 
 ptWill of Steel Avatar
 
 esWill of Steel Avatar
 
 frAvatar Volonté d'acier
+.
+uk(Аватар «Залізна воля»
+$
+jaアバター「鋼の意志」
 0
 ru*Аватар «Железная воля».png
 �
@@ -10821,19 +10821,19 @@ $
 
 enWill of Steel Avatar
 
-plWill of Steel Avatar
-
 zhWill of Steel Avatar
-$
-jaアバター「鋼の意志」
-.
-uk(Аватар «Залізна воля»
+
+plWill of Steel Avatar
 
 ptWill of Steel Avatar
 
 esWill of Steel Avatar
 
 frAvatar Volonté d'acier
+.
+uk(Аватар «Залізна воля»
+$
+jaアバター「鋼の意志」
 0
 ru*Аватар «Железная воля».png
 �
@@ -10841,19 +10841,19 @@ $
 
 enWill of Steel Avatar
 
-plWill of Steel Avatar
-
 zhWill of Steel Avatar
-$
-jaアバター「鋼の意志」
-.
-uk(Аватар «Залізна воля»
+
+plWill of Steel Avatar
 
 ptWill of Steel Avatar
 
 esWill of Steel Avatar
 
 frAvatar Volonté d'acier
+.
+uk(Аватар «Залізна воля»
+$
+jaアバター「鋼の意志」
 0
 ru*Аватар «Железная воля».png
 �
@@ -10861,19 +10861,19 @@ $
 
 enWill of Steel Avatar
 
-plWill of Steel Avatar
-
 zhWill of Steel Avatar
-$
-jaアバター「鋼の意志」
-.
-uk(Аватар «Залізна воля»
+
+plWill of Steel Avatar
 
 ptWill of Steel Avatar
 
 esWill of Steel Avatar
 
 frAvatar Volonté d'acier
+.
+uk(Аватар «Залізна воля»
+$
+jaアバター「鋼の意志」
 0
 ru*Аватар «Железная воля».png
 �
@@ -10881,19 +10881,19 @@ $
 
 enThe Earl of Grey Avatar
 
-plThe Earl of Grey Avatar
-
 zhThe Earl of Grey Avatar
-/
-ja)アバター「ミルク or レモン?」
-=
-uk7Аватар «З молоком чи лимоном?»
+
+plThe Earl of Grey Avatar
 
 ptThe Earl of Grey Avatar
 
 esThe Earl of Grey Avatar
 
 frAvatar Earl Grey
+=
+uk7Аватар «З молоком чи лимоном?»
+/
+ja)アバター「ミルク or レモン?」
 ?
 ru9Аватар «С молоком или лимоном?».webp
 �
@@ -10901,19 +10901,19 @@ $
 
 enHeadliner Avatar
 
-plHeadliner Avatar
-
 zhHeadliner Avatar
-$
-jaアバター「大スター」
-)
-uk#Аватар «Хедлайнер»
+
+plHeadliner Avatar
 
 ptHeadliner Avatar
 
 esHeadliner Avatar
 
 frAvatar de la vedette
+)
+uk#Аватар «Хедлайнер»
+$
+jaアバター「大スター」
 *
 ru$Аватар «Хедлайнер».png
 �
@@ -10921,19 +10921,19 @@ $
 
 enThe Earl of Grey Avatar
 
-plThe Earl of Grey Avatar
-
 zhThe Earl of Grey Avatar
-/
-ja)アバター「ミルク or レモン?」
-=
-uk7Аватар «З молоком чи лимоном?»
+
+plThe Earl of Grey Avatar
 
 ptThe Earl of Grey Avatar
 
 esThe Earl of Grey Avatar
 
 frAvatar Earl Grey
+=
+uk7Аватар «З молоком чи лимоном?»
+/
+ja)アバター「ミルク or レモン?」
 ?
 ru9Аватар «С молоком или лимоном?».webp
 �
@@ -10941,19 +10941,19 @@ $
 
 enHeadliner Avatar
 
-plHeadliner Avatar
-
 zhHeadliner Avatar
-$
-jaアバター「大スター」
-)
-uk#Аватар «Хедлайнер»
+
+plHeadliner Avatar
 
 ptHeadliner Avatar
 
 esHeadliner Avatar
 
 frAvatar de la vedette
+)
+uk#Аватар «Хедлайнер»
+$
+jaアバター「大スター」
 *
 ru$Аватар «Хедлайнер».png
 �
@@ -10961,19 +10961,19 @@ $
 
 enForged in Battle Avatar
 
-plForged in Battle Avatar
-
 zhForged in Battle Avatar
-$
-jaアバター「百戦錬磨」
-<
-uk6Аватар «Бойове загартування»
+
+plForged in Battle Avatar
 
 ptForged in Battle Avatar
 
 esForged in Battle Avatar
 
 frAvatar Forgé au combat
+<
+uk6Аватар «Бойове загартування»
+$
+jaアバター「百戦錬磨」
 2
 ru,Аватар «Боевая закалка».png
 �
@@ -10981,19 +10981,19 @@ $
 
 enHeadliner Avatar
 
-plHeadliner Avatar
-
 zhHeadliner Avatar
-$
-jaアバター「大スター」
-)
-uk#Аватар «Хедлайнер»
+
+plHeadliner Avatar
 
 ptHeadliner Avatar
 
 esHeadliner Avatar
 
 frAvatar de la vedette
+)
+uk#Аватар «Хедлайнер»
+$
+jaアバター「大スター」
 *
 ru$Аватар «Хедлайнер».png
 �
@@ -11001,19 +11001,19 @@ $
 
 enSea Monster Avatar
 
-plSea Monster Avatar
-
 zhSea Monster Avatar
--
-ja'アバター「海のモンスター」
-:
-uk4Аватар «Морське чудовисько»
+
+plSea Monster Avatar
 
 ptSea Monster Avatar
 
 esSea Monster Avatar
 
 frAvatar Monstre marin
+:
+uk4Аватар «Морське чудовисько»
+-
+ja'アバター「海のモンスター」
 2
 ru,Аватар «Морской монстр».webp
 �
@@ -11021,19 +11021,19 @@ $
 
 enWar Elephant Avatar
 
-plWar Elephant Avatar
-
 zhWar Elephant Avatar
-
-jaアバター「戦象」
-.
-uk(Аватар «Бойовий слон»
+
+plWar Elephant Avatar
 
 ptWar Elephant Avatar
 
 esWar Elephant Avatar
 &
 fr Avatar de l'éléphant de guerre
+.
+uk(Аватар «Бойовий слон»
+
+jaアバター「戦象」
 ,
 ru&Аватар «Боевой слон».png
 �
@@ -11041,19 +11041,19 @@ $
 
 enOpossum Fatale Avatar
 
-plOpossum Fatale Avatar
-
 zhOpossum Fatale Avatar
-0
-ja*アバター「宿命のオポッサム」
-,
-uk&Аватар «Опосум долі»
+
+plOpossum Fatale Avatar
 
 ptOpossum Fatale Avatar
 
 esOpossum Fatale Avatar
 
 frAvatar Opossum branché
+,
+uk&Аватар «Опосум долі»
+0
+ja*アバター「宿命のオポッサム」
 2
 ru,Аватар «Опоссум судьбы».webp
 �
@@ -11061,19 +11061,19 @@ $
 $
 en"Lucky Break!" Animated Avatar
 $
-pl"Lucky Break!" Animated Avatar
-$
 zh"Lucky Break!" Animated Avatar
-O
-jaIアニメーション付きアバター「ラッキー・ブレイク!」
-K
-ukEАнімований аватар «Посмішка фортуни»
+$
+pl"Lucky Break!" Animated Avatar
 $
 pt"Lucky Break!" Animated Avatar
 $
 es"Lucky Break!" Animated Avatar
 -
 fr'Avatar animé « Coup de chance ! »
+K
+ukEАнімований аватар «Посмішка фортуни»
+O
+jaIアニメーション付きアバター「ラッキー・ブレイク!」
 T
 ruNАнимированный аватар «Счастливый случай!».webp
 �
@@ -11081,19 +11081,19 @@ T
 $
 enElectric Shock Animated Avatar
 $
-plElectric Shock Animated Avatar
-$
 zhElectric Shock Animated Avatar
-K
-jaEアニメーション付きアバター「ビリビリショック」
-@
-uk:Анімований аватар «Електрошок»
+$
+plElectric Shock Animated Avatar
 $
 ptElectric Shock Animated Avatar
 $
 esElectric Shock Animated Avatar
 $
 frAvatar animé Choc électrique
+@
+uk:Анімований аватар «Електрошок»
+K
+jaEアニメーション付きアバター「ビリビリショック」
 F
 ru@Анимированный аватар «Электрошок».webp
 �
@@ -11101,13 +11101,9 @@ F
 .
 en(Blitz North America Cup 2021 Fan Avatar
 .
-pl(Blitz North America Cup 2021 Fan Avatar
-.
 zh(Blitz North America Cup 2021 Fan Avatar
-?
-ja9アバター「Blitz North America Cup 2021 ファン」
-?
-uk9Аватар «Фанат Blitz North America Cup 2021»
+.
+pl(Blitz North America Cup 2021 Fan Avatar
 .
 pt(Blitz North America Cup 2021 Fan Avatar
 .
@@ -11115,25 +11111,29 @@ F
 >
 fr8Avatar du Passionné de la Blitz North America Cup 2021
 ?
+uk9Аватар «Фанат Blitz North America Cup 2021»
+?
+ja9アバター「Blitz North America Cup 2021 ファン」
+?
 ru9Аватар «Фанат Blitz North America Cup 2021».webp
 �
 avatar_progressive_bp_35_paid_4�
 
 enOverexploited Avatar
 
-plOverexploited Avatar
-
 zhOverexploited Avatar
-6
-ja0アバター「ハーデスト・ワーカー」
- 
-ukАватар Overexploited
+
+plOverexploited Avatar
 
 ptOverexploited Avatar
 
 esOverexploited Avatar
 
 frAvatar Surexploité
+ 
+ukАватар Overexploited
+6
+ja0アバター「ハーデスト・ワーカー」
 *
 ru$Аватар «На пределе».webp
 �
@@ -11141,19 +11141,19 @@ F
 
 enSecret Weapon Avatar
 
-plSecret Weapon Avatar
-
 zhSecret Weapon Avatar
-$
-jaアバター「秘密兵器」
-2
-uk,Аватар «Секретна зброя»
+
+plSecret Weapon Avatar
 
 ptSecret Weapon Avatar
 
 esSecret Weapon Avatar
 
 frAvatar Arme secrète
+2
+uk,Аватар «Секретна зброя»
+$
+jaアバター「秘密兵器」
 6
 ru0Аватар «Секретное оружие».webp
 �
@@ -11161,13 +11161,9 @@ $
 
 enSeason 6 Avatar
 
-plSeason 6 Avatar
-
 zhSeason 6 Avatar
-&
-ja アバター「シーズン 6」
-#
-ukАватар «Сезон 6»
+
+plSeason 6 Avatar
 
 ptSeason 6 Avatar
 
@@ -11175,19 +11171,19 @@ $
 
 frAvatar Saison 6
 #
+ukАватар «Сезон 6»
+&
+ja アバター「シーズン 6」
+#
 ruАватар «Сезон 6».webp
 �
 avatar_tricky_unique�
 
 enVizard of Guile Avatar
 
-plVizard of Guile Avatar
-
 zhVizard of Guile Avatar
-'
-ja!アバター「狡猾な仮面」
-0
-uk*Аватар «Маска хитруна»
+
+plVizard of Guile Avatar
 
 ptVizard of Guile Avatar
 
@@ -11195,25 +11191,29 @@ $
 &
 fr Avatar du masque de la fourberie
 0
+uk*Аватар «Маска хитруна»
+'
+ja!アバター「狡猾な仮面」
+0
 ru*Аватар «Маска хитреца».png
 �
 avatar_axe_legendary�
 
 enBerserker's Axe Avatar
 
-plBerserker's Axe Avatar
-
 zhBerserker's Axe Avatar
-'
-ja!アバター「狂戦士の斧」
-2
-uk,Аватар «Сокира вікінга»
+
+plBerserker's Axe Avatar
 
 ptBerserker's Axe Avatar
 
 esBerserker's Axe Avatar
 
 frAvatar hache du berserker
+2
+uk,Аватар «Сокира вікінга»
+'
+ja!アバター「狂戦士の斧」
 0
 ru*Аватар «Топор викинга».png
 �
@@ -11221,19 +11221,19 @@ $
 <
 en6Ready to crush the enemy with a snap of their fingers.
 <
-pl6Ready to crush the enemy with a snap of their fingers.
-<
 zh6Ready to crush the enemy with a snap of their fingers.
 <
-ja6指をパチンと鳴らすだけで敵を潰せる。
-<
-uk6Ready to crush the enemy with a snap of their fingers.
+pl6Ready to crush the enemy with a snap of their fingers.
 <
 pt6Ready to crush the enemy with a snap of their fingers.
 <
 es6Ready to crush the enemy with a snap of their fingers.
 E
 fr?Préparez-vous à détruire l'ennemi d'un claquement de doigts.
+<
+uk6Ready to crush the enemy with a snap of their fingers.
+<
+ja6指をパチンと鳴らすだけで敵を潰せる。
 N
 ruHГотов крушить врагов по щелчку пальцев..png
 �
@@ -11241,19 +11241,19 @@ N
 
 enEND GAME Avatar
 
-plEND GAME Avatar
-
 zhEND GAME Avatar
- 
-jaアバター「END GAME」
-
-ukАватар END GAME
+
+plEND GAME Avatar
 
 ptEND GAME Avatar
 
 esEND GAME Avatar
 
 frAvatar de END GAME
+
+ukАватар END GAME
+ 
+jaアバター「END GAME」
 
 ruАватар END GAME.png
 �
@@ -11261,13 +11261,9 @@ N
 
 enSanta's Hat Avatar
 
-plSanta's Hat Avatar
-
 zhSanta's Hat Avatar
-*
-ja$アバター「サンタの帽子」
-,
-uk&Аватар «Шапка Санти»
+
+plSanta's Hat Avatar
 
 ptSanta's Hat Avatar
 
@@ -11275,25 +11271,29 @@ N
 &
 fr Avatar de chapeau du père Noël
 ,
+uk&Аватар «Шапка Санти»
+*
+ja$アバター「サンタの帽子」
+,
 ru&Аватар «Шапка Санты».png
 �
 $avatar_progressive_tournament_wins_7�
 
 enCompetitive Spirit Avatar
 
-plCompetitive Spirit Avatar
-
 zhCompetitive Spirit Avatar
-0
-ja*アバター「トーナメント精神」
-.
-uk(Аватар «Дух змагання»
+
+plCompetitive Spirit Avatar
 
 ptCompetitive Spirit Avatar
 
 esCompetitive Spirit Avatar
 (
 fr"Avatar de l'Esprit de compétition
+.
+uk(Аватар «Дух змагання»
+0
+ja*アバター「トーナメント精神」
 6
 ru0Аватар «Дух соревнования».webp
 �
@@ -11301,19 +11301,19 @@ $avatar_progressive_tournament_wins_7�
 %
 enMoonlight Night Animated Avatar
 %
-plMoonlight Night Animated Avatar
-%
 zhMoonlight Night Animated Avatar
-B
-ja<アニメーション付きアバター「月を望む夜」
-A
-uk;Анімований аватар «Місячна ніч»
+%
+plMoonlight Night Animated Avatar
 %
 ptMoonlight Night Animated Avatar
 %
 esMoonlight Night Animated Avatar
  
 frAvatar animé Nuit de lune
+A
+uk;Анімований аватар «Місячна ніч»
+B
+ja<アニメーション付きアバター「月を望む夜」
 G
 ruAАнимированный аватар «Лунная ночь».webp
 �
@@ -11321,19 +11321,19 @@ $avatar_progressive_tournament_wins_5�
 
 enCompetitive Spirit Avatar
 
-plCompetitive Spirit Avatar
-
 zhCompetitive Spirit Avatar
-0
-ja*アバター「トーナメント精神」
-.
-uk(Аватар «Дух змагання»
+
+plCompetitive Spirit Avatar
 
 ptCompetitive Spirit Avatar
 
 esCompetitive Spirit Avatar
 (
 fr"Avatar de l'Esprit de compétition
+.
+uk(Аватар «Дух змагання»
+0
+ja*アバター「トーナメント精神」
 6
 ru0Аватар «Дух соревнования».webp
 �
@@ -11341,19 +11341,19 @@ $avatar_progressive_tournament_wins_2�
 
 enCompetitive Spirit Avatar
 
-plCompetitive Spirit Avatar
-
 zhCompetitive Spirit Avatar
-0
-ja*アバター「トーナメント精神」
-.
-uk(Аватар «Дух змагання»
+
+plCompetitive Spirit Avatar
 
 ptCompetitive Spirit Avatar
 
 esCompetitive Spirit Avatar
 (
 fr"Avatar de l'Esprit de compétition
+.
+uk(Аватар «Дух змагання»
+0
+ja*アバター「トーナメント精神」
 6
 ru0Аватар «Дух соревнования».webp
 �
@@ -11361,13 +11361,9 @@ $avatar_progressive_tournament_wins_2�
 
 enGreat Viet Avatar
 
-plGreat Viet Avatar
-
 zhGreat Viet Avatar
-"
-jaアバター「Great Viet」
-
-ukАватар Great Viet
+
+plGreat Viet Avatar
 
 ptGreat Viet Avatar
 
@@ -11375,25 +11371,29 @@ $avatar_progressive_tournament_wins_2�
 
 frAvatar de Great Viet
 
+ukАватар Great Viet
+"
+jaアバター「Great Viet」
+
 ruАватар Great Viet.webp
 �
 avatar_NA_PONDAMONIUM_rare_31d�
 
 enPONDAMONIUM Fan Avatar
 
-plPONDAMONIUM Fan Avatar
-
 zhPONDAMONIUM Fan Avatar
--
-ja'アバター「PONDAMONIUM ファン」
-;
-uk5Аватар «Вболівальник PONDAMONIUM»
+
+plPONDAMONIUM Fan Avatar
 
 ptPONDAMONIUM Fan Avatar
 
 esPONDAMONIUM Fan Avatar
 )
 fr#Avatar du passionné de PONDAMONIUM
+;
+uk5Аватар «Вболівальник PONDAMONIUM»
+-
+ja'アバター「PONDAMONIUM ファン」
 5
 ru/Аватар «Болельщик PONDAMONIUM».webp
 �
@@ -11401,19 +11401,19 @@ $avatar_progressive_tournament_wins_3�
 
 enCompetitive Spirit Avatar
 
-plCompetitive Spirit Avatar
-
 zhCompetitive Spirit Avatar
-0
-ja*アバター「トーナメント精神」
-.
-uk(Аватар «Дух змагання»
+
+plCompetitive Spirit Avatar
 
 ptCompetitive Spirit Avatar
 
 esCompetitive Spirit Avatar
 (
 fr"Avatar de l'Esprit de compétition
+.
+uk(Аватар «Дух змагання»
+0
+ja*アバター「トーナメント精神」
 6
 ru0Аватар «Дух соревнования».webp
 �
@@ -11421,19 +11421,19 @@ $avatar_progressive_tournament_wins_1�
 
 enCompetitive Spirit Avatar
 
-plCompetitive Spirit Avatar
-
 zhCompetitive Spirit Avatar
-0
-ja*アバター「トーナメント精神」
-.
-uk(Аватар «Дух змагання»
+
+plCompetitive Spirit Avatar
 
 ptCompetitive Spirit Avatar
 
 esCompetitive Spirit Avatar
 (
 fr"Avatar de l'Esprit de compétition
+.
+uk(Аватар «Дух змагання»
+0
+ja*アバター「トーナメント精神」
 6
 ru0Аватар «Дух соревнования».webp
 �
@@ -11441,13 +11441,9 @@ $avatar_progressive_tournament_wins_1�
 
 en7STAR Avatar
 
-pl7STAR Avatar
-
 zh7STAR Avatar
-
-jaアバター「7STAR」
-
-ukАватар 7STAR
+
+pl7STAR Avatar
 
 pt7STAR Avatar
 
@@ -11455,19 +11451,19 @@ $avatar_progressive_tournament_wins_1�
 
 frAvatar de 7STAR
 
+ukАватар 7STAR
+
+jaアバター「7STAR」
+
 ruАватар 7STAR.webp
 �
 avatar_eg_rare_14d�
 
 enEND GAME Avatar
 
-plEND GAME Avatar
-
 zhEND GAME Avatar
- 
-jaアバター「END GAME」
-
-ukАватар END GAME
+
+plEND GAME Avatar
 
 ptEND GAME Avatar
 
@@ -11475,19 +11471,19 @@ $avatar_progressive_tournament_wins_1�
 
 frAvatar de END GAME
 
+ukАватар END GAME
+ 
+jaアバター「END GAME」
+
 ruАватар END GAME.png
 �
 avatar_cyberpunk2077_legendary�
 8
 en2avatars/Items/avatar_cyberpunk2077_legendary/Title
 8
-pl2avatars/Items/avatar_cyberpunk2077_legendary/Title
-8
 zh2avatars/Items/avatar_cyberpunk2077_legendary/Title
 8
-ja2avatars/Items/avatar_cyberpunk2077_legendary/Title
-8
-uk2avatars/Items/avatar_cyberpunk2077_legendary/Title
+pl2avatars/Items/avatar_cyberpunk2077_legendary/Title
 8
 pt2avatars/Items/avatar_cyberpunk2077_legendary/Title
 8
@@ -11495,25 +11491,29 @@ $avatar_progressive_tournament_wins_1�
 8
 fr2avatars/Items/avatar_cyberpunk2077_legendary/Title
 8
+uk2avatars/Items/avatar_cyberpunk2077_legendary/Title
+8
+ja2avatars/Items/avatar_cyberpunk2077_legendary/Title
+8
 ru2avatars/Items/avatar_cyberpunk2077_legendary/Title.png
 �
 avatar_springseason_member_90d�
 &
 en Spring Season Participant Avatar
 &
-pl Spring Season Participant Avatar
-&
 zh Spring Season Participant Avatar
-<
-ja6アバター「スプリングシーズン参加者」
-E
-uk?Аватар «Учасник Весняного сезону»
+&
+pl Spring Season Participant Avatar
 &
 pt Spring Season Participant Avatar
 &
 es Spring Season Participant Avatar
 5
 fr/Avatar de participant de la Saison printanière
+E
+uk?Аватар «Учасник Весняного сезону»
+<
+ja6アバター「スプリングシーズン参加者」
 G
 ruAАватар «Участник Весеннего сезона».png
 �
@@ -11521,13 +11521,9 @@ G
 
 enBlitz Cup Fan Avatar
 
-plBlitz Cup Fan Avatar
-
 zhBlitz Cup Fan Avatar
-+
-ja%アバター「Blitz Cup ファン」
-+
-uk%Аватар «Фанат Blitz Cup»
+
+plBlitz Cup Fan Avatar
 
 ptBlitz Cup Fan Avatar
 
@@ -11535,19 +11531,19 @@ G
 *
 fr$Avatar du Passionné de la Blitz Cup
 +
+uk%Аватар «Фанат Blitz Cup»
++
+ja%アバター「Blitz Cup ファン」
++
 ru%Аватар «Фанат Blitz Cup».png
 �
 #avatar_APAC_Vengeance_BSC_legendary�
 
 enVengeance Avatar
 
-plVengeance Avatar
-
 zhVengeance Avatar
-!
-jaアバター「Vengeance」
-
-ukАватар Vengeance
+
+plVengeance Avatar
 
 ptVengeance Avatar
 
@@ -11555,25 +11551,29 @@ G
 
 frAvatar de Vengeance
 
+ukАватар Vengeance
+!
+jaアバター「Vengeance」
+
 ruАватар Vengeance.webp
 �
 avatar_progressive_bp_47_free_2�
 
 enUncharted Realms Avatar
 
-plUncharted Realms Avatar
-
 zhUncharted Realms Avatar
-*
-ja$アバター「未知なる領域」
-4
-uk.Аватар «Незвідані світи»
+
+plUncharted Realms Avatar
 
 ptUncharted Realms Avatar
 
 esUncharted Realms Avatar
 !
 frAvatar Royaumes inexplorés
+4
+uk.Аватар «Незвідані світи»
+*
+ja$アバター「未知なる領域」
 8
 ru2Аватар «Неизведанные миры».webp
 �
@@ -11581,13 +11581,9 @@ G
 
 enCrossbow Avatar
 
-plCrossbow Avatar
-
 zhCrossbow Avatar
-'
-ja!アバター「クロスボウ」
-%
-ukАватар «Арбалет»
+
+plCrossbow Avatar
 
 ptCrossbow Avatar
 
@@ -11595,25 +11591,29 @@ G
 
 frAvatar de l'arbalète
 %
+ukАватар «Арбалет»
+'
+ja!アバター「クロスボウ」
+%
 ruАватар «Арбалет».webp
 �
 avatar_twister2019_legend�
 
 enTwister Fighter Avatar
 
-plTwister Fighter Avatar
-
 zhTwister Fighter Avatar
-0
-ja*アバター「ツイスターの戦士」
-)
-uk#Аватар «Twister-боєць»
+
+plTwister Fighter Avatar
 
 ptTwister Fighter Avatar
 
 esTwister Fighter Avatar
 "
 frAvatar du combattant Twister
+)
+uk#Аватар «Twister-боєць»
+0
+ja*アバター「ツイスターの戦士」
 '
 ru!Аватар «Twister-боец».png
 �
@@ -11621,13 +11621,9 @@ G
 
 enJokers Avatar
 
-plJokers Avatar
-
 zhJokers Avatar
-
-jaアバター「Jokers」
-
-ukАватар Jokers
+
+plJokers Avatar
 
 ptJokers Avatar
 
@@ -11635,25 +11631,29 @@ G
 
 frAvatar de Jokers
 
+ukАватар Jokers
+
+jaアバター「Jokers」
+
 ruАватар Jokers.webp
 �
 "avatar_progressive_vampiric_heal_1�
 
 enJaws of Life Avatar
 
-plJaws of Life Avatar
-
 zhJaws of Life Avatar
-$
-jaアバター「緊急援助」
-4
-uk.Аватар «Швидка допомога»
+
+plJaws of Life Avatar
 
 ptJaws of Life Avatar
 
 esJaws of Life Avatar
 
 frAvatar du soigneur
+4
+uk.Аватар «Швидка допомога»
+$
+jaアバター「緊急援助」
 0
 ru*Аватар «Скорая помощь».png
 �
@@ -11661,13 +11661,9 @@ $
 
 enHey lol Avatar
 
-plHey lol Avatar
-
 zhHey lol Avatar
-
-jaアバター「Hey lol」
-
-ukАватар Hey lol
+
+plHey lol Avatar
 
 ptHey lol Avatar
 
@@ -11675,19 +11671,19 @@ $
 
 frAvatar de Hey lol
 
+ukАватар Hey lol
+
+jaアバター「Hey lol」
+
 ruАватар Hey lol.webp
 �
 avatar_2years_legendary_ruby�
 ,
 en&Аватар «2 года побед»
 ,
-pl&Аватар «2 года побед»
-,
 zh&Аватар «2 года побед»
 ,
-ja&Аватар «2 года побед»
-,
-uk&Аватар «2 года побед»
+pl&Аватар «2 года побед»
 ,
 pt&Аватар «2 года побед»
 ,
@@ -11695,25 +11691,29 @@ $
 ,
 fr&Аватар «2 года побед»
 ,
+uk&Аватар «2 года побед»
+,
+ja&Аватар «2 года побед»
+,
 ru&Аватар «2 года побед».webp
 �
 $avatar_platinum_league_unique_61d_v2�
 
 enPlatinum League Avatar
 
-plPlatinum League Avatar
-
 zhPlatinum League Avatar
--
-ja'アバター「プラチナリーグ」
-2
-uk,Аватар «Платинова Ліга»
+
+plPlatinum League Avatar
 
 ptPlatinum League Avatar
 
 esPlatinum League Avatar
  
 frAvatar de la Ligue Platine
+2
+uk,Аватар «Платинова Ліга»
+-
+ja'アバター「プラチナリーグ」
 4
 ru.Аватар «Платиновая Лига».webp
 �
@@ -11721,19 +11721,19 @@ $avatar_platinum_league_unique_61d_v2�
 !
 enPikeosaurus Animated Avatar
 !
-plPikeosaurus Animated Avatar
-!
 zhPikeosaurus Animated Avatar
-K
-jaEアニメーション付きアバター「パイクオサウルス」
-'
-uk!Аватар «Щукозавр»
+!
+plPikeosaurus Animated Avatar
 !
 ptPikeosaurus Animated Avatar
 !
 esPikeosaurus Animated Avatar
 $
 frAvatar animé du Brochetosaure
+'
+uk!Аватар «Щукозавр»
+K
+jaEアニメーション付きアバター「パイクオサウルス」
 B
 ru<Анимированный аватар «Щукозавр».webp
 �
@@ -11741,19 +11741,19 @@ B
 
 enSpace Voyager Avatar
 
-plSpace Voyager Avatar
-
 zhSpace Voyager Avatar
--
-ja'アバター「星のさすらい人」
-?
-uk9Аватар «Космічний мандрівник».
+
+plSpace Voyager Avatar
 
 ptSpace Voyager Avatar
 
 esSpace Voyager Avatar
 $
 frAvatar du Voyageur de l'espace
+?
+uk9Аватар «Космічний мандрівник».
+-
+ja'アバター「星のさすらい人」
 >
 ru8Аватар «Космический странник».webp
 �
@@ -11761,19 +11761,19 @@ $
 
 enLeaves of the Glen Avatar
 
-plLeaves of the Glen Avatar
-
 zhLeaves of the Glen Avatar
-6
-ja0アバター「山間の谷にそよぐ草葉」
-0
-uk*Аватар «Листя ущелини»
+
+plLeaves of the Glen Avatar
 
 ptLeaves of the Glen Avatar
 
 esLeaves of the Glen Avatar
 
 frAvatar Feuilles du vallon
+0
+uk*Аватар «Листя ущелини»
+6
+ja0アバター「山間の谷にそよぐ草葉」
 +
 ru%Аватар «Трилистник».webp
 �
@@ -11781,13 +11781,9 @@ $
 
 enRBmk-Energy Avatar
 
-plRBmk-Energy Avatar
-
 zhRBmk-Energy Avatar
-#
-jaアバター「RBmk-Energy」
-
-ukАватар RBmk-Energy
+
+plRBmk-Energy Avatar
 
 ptRBmk-Energy Avatar
 
@@ -11795,19 +11791,19 @@ $
 
 frAvatar de RBmk-Energy
 
+ukАватар RBmk-Energy
+#
+jaアバター「RBmk-Energy」
+
 ruАватар RBmk-Energy.png
 �
 avatar_UFO_unique�
  
 enQuacky Ab"duck"tion Avatar
  
-plQuacky Ab"duck"tion Avatar
- 
 zhQuacky Ab"duck"tion Avatar
--
-ja'アバター「まさクヮの誘拐」
->
-uk8Аватар «Скаченіле викрадення»
+ 
+plQuacky Ab"duck"tion Avatar
  
 ptQuacky Ab"duck"tion Avatar
  
@@ -11815,19 +11811,19 @@ $
 "
 frAvatar Enlèvement de canard
 >
+uk8Аватар «Скаченіле викрадення»
+-
+ja'アバター「まさクヮの誘拐」
+>
 ru8Аватар «НешУТОЧНОЕ похищение».webp
 �
 $avatar_progressive_bp_37_ruby_paid_2�
 2
 en,Аватар «Куст крякающий»
 2
-pl,Аватар «Куст крякающий»
-2
 zh,Аватар «Куст крякающий»
 2
-ja,Аватар «Куст крякающий»
-2
-uk,Аватар «Куст крякающий»
+pl,Аватар «Куст крякающий»
 2
 pt,Аватар «Куст крякающий»
 2
@@ -11835,25 +11831,29 @@ $avatar_progressive_bp_37_ruby_paid_2�
 2
 fr,Аватар «Куст крякающий»
 2
+uk,Аватар «Куст крякающий»
+2
+ja,Аватар «Куст крякающий»
+2
 ru,Аватар «Куст крякающий».webp
 �
 avatar_progressive_bp_68_free_4�
 
 enLeaves of the Glen Avatar
 
-plLeaves of the Glen Avatar
-
 zhLeaves of the Glen Avatar
-6
-ja0アバター「山間の谷にそよぐ草葉」
-0
-uk*Аватар «Листя ущелини»
+
+plLeaves of the Glen Avatar
 
 ptLeaves of the Glen Avatar
 
 esLeaves of the Glen Avatar
 
 frAvatar Feuilles du vallon
+0
+uk*Аватар «Листя ущелини»
+6
+ja0アバター「山間の谷にそよぐ草葉」
 +
 ru%Аватар «Трилистник».webp
 �
@@ -11861,19 +11861,19 @@ $avatar_progressive_bp_37_ruby_paid_2�
 
 enBasket of Wonders Avatar
 
-plBasket of Wonders Avatar
-
 zhBasket of Wonders Avatar
-3
-ja-アバター「ワンダーバスケット」
-3
-uk-Аватар «Кошик із дивами»
+
+plBasket of Wonders Avatar
 
 ptBasket of Wonders Avatar
 
 esBasket of Wonders Avatar
 "
 frAvatar Panier des merveilles
+3
+uk-Аватар «Кошик із дивами»
+3
+ja-アバター「ワンダーバスケット」
 2
 ru,Аватар «Корзинка чудес».webp
 �
@@ -11881,13 +11881,9 @@ $avatar_progressive_bp_37_ruby_paid_2�
 
 enDroodles Blitz Avatar
 
-plDroodles Blitz Avatar
-
 zhDroodles Blitz Avatar
-&
-ja アバター「Droodles Blitz」
-!
-ukАватар Droodles Blitz
+
+plDroodles Blitz Avatar
 
 ptDroodles Blitz Avatar
 
@@ -11895,25 +11891,29 @@ $avatar_progressive_bp_37_ruby_paid_2�
 
 frAvatar Droodles Blitz
 !
+ukАватар Droodles Blitz
+&
+ja アバター「Droodles Blitz」
+!
 ruАватар Droodles Blitz.webp
 �
 avatar_gold_league_rare_31d�
 
 enGold League Avatar
 
-plGold League Avatar
-
 zhGold League Avatar
-'
-ja!ゴールドリーグアバター
-,
-uk&Аватар «Золота Ліга»
+
+plGold League Avatar
 
 ptGold League Avatar
 
 esGold League Avatar
 
 frAvatar de Gold League
+,
+uk&Аватар «Золота Ліга»
+'
+ja!ゴールドリーグアバター
 .
 ru(Аватар «Золотая Лига».png
 �
@@ -11921,19 +11921,19 @@ $avatar_progressive_bp_37_ruby_paid_2�
 )
 en#Teenage Mutant Ninja Turtles Avatar
 )
-pl#Teenage Mutant Ninja Turtles Avatar
-)
 zh#Teenage Mutant Ninja Turtles Avatar
-9
-ja3アバター「ミュータントタートルズ」
-6
-uk0Аватар «Черепашки-ніндзя»
+)
+pl#Teenage Mutant Ninja Turtles Avatar
 )
 pt#Teenage Mutant Ninja Turtles Avatar
 )
 es#Teenage Mutant Ninja Turtles Avatar
 
 frAvatar Tortues Ninja
+6
+uk0Аватар «Черепашки-ніндзя»
+9
+ja3アバター「ミュータントタートルズ」
 6
 ru0Аватар «Черепашки-ниндзя».webp
 �
@@ -11941,19 +11941,19 @@ $avatar_progressive_bp_37_ruby_paid_2�
 )
 en#Teenage Mutant Ninja Turtles Avatar
 )
-pl#Teenage Mutant Ninja Turtles Avatar
-)
 zh#Teenage Mutant Ninja Turtles Avatar
-9
-ja3アバター「ミュータントタートルズ」
-6
-uk0Аватар «Черепашки-ніндзя»
+)
+pl#Teenage Mutant Ninja Turtles Avatar
 )
 pt#Teenage Mutant Ninja Turtles Avatar
 )
 es#Teenage Mutant Ninja Turtles Avatar
 
 frAvatar Tortues Ninja
+6
+uk0Аватар «Черепашки-ніндзя»
+9
+ja3アバター「ミュータントタートルズ」
 6
 ru0Аватар «Черепашки-ниндзя».webp
 �
@@ -11961,19 +11961,19 @@ $avatar_progressive_bp_33_ruby_paid_1�
 4
 en.Аватар «Немой проводник»
 4
-pl.Аватар «Немой проводник»
-4
 zh.Аватар «Немой проводник»
 4
-ja.Аватар «Немой проводник»
-4
-uk.Аватар «Немой проводник»
+pl.Аватар «Немой проводник»
 4
 pt.Аватар «Немой проводник»
 4
 es.Аватар «Немой проводник»
 4
 fr.Аватар «Немой проводник»
+4
+uk.Аватар «Немой проводник»
+4
+ja.Аватар «Немой проводник»
 6
 ru0Аватар «Разбуженный маяк».webp
 �
@@ -11981,19 +11981,19 @@ $avatar_progressive_bp_33_ruby_paid_4�
 4
 en.Аватар «Немой проводник»
 4
-pl.Аватар «Немой проводник»
-4
 zh.Аватар «Немой проводник»
 4
-ja.Аватар «Немой проводник»
-4
-uk.Аватар «Немой проводник»
+pl.Аватар «Немой проводник»
 4
 pt.Аватар «Немой проводник»
 4
 es.Аватар «Немой проводник»
 4
 fr.Аватар «Немой проводник»
+4
+uk.Аватар «Немой проводник»
+4
+ja.Аватар «Немой проводник»
 6
 ru0Аватар «Разбуженный маяк».webp
 �
@@ -12001,19 +12001,19 @@ $avatar_progressive_bp_33_ruby_paid_4�
 
 enJaws of Life Avatar
 
-plJaws of Life Avatar
-
 zhJaws of Life Avatar
-$
-jaアバター「緊急援助」
-4
-uk.Аватар «Швидка допомога»
+
+plJaws of Life Avatar
 
 ptJaws of Life Avatar
 
 esJaws of Life Avatar
 
 frAvatar du soigneur
+4
+uk.Аватар «Швидка допомога»
+$
+jaアバター「緊急援助」
 0
 ru*Аватар «Скорая помощь».png
 �
@@ -12021,13 +12021,9 @@ $
 
 enOmnitron Avatar
 
-plOmnitron Avatar
-
 zhOmnitron Avatar
- 
-jaアバター「Omnitron」
-
-ukАватар Omnitron
+
+plOmnitron Avatar
 
 ptOmnitron Avatar
 
@@ -12035,19 +12031,19 @@ $
 
 frAvatar Omnitron
 
+ukАватар Omnitron
+ 
+jaアバター「Omnitron」
+
 ruАватар Omnitron.webp
 �
 avatar_progressive_bp_45_free_4�
 )
 en#Teenage Mutant Ninja Turtles Avatar
 )
-pl#Teenage Mutant Ninja Turtles Avatar
-)
 zh#Teenage Mutant Ninja Turtles Avatar
-9
-ja3アバター「ミュータントタートルズ」
-6
-uk0Аватар «Черепашки-ніндзя»
+)
+pl#Teenage Mutant Ninja Turtles Avatar
 )
 pt#Teenage Mutant Ninja Turtles Avatar
 )
@@ -12055,25 +12051,29 @@ $
 
 frAvatar Tortues Ninja
 6
+uk0Аватар «Черепашки-ніндзя»
+9
+ja3アバター「ミュータントタートルズ」
+6
 ru0Аватар «Черепашки-ниндзя».webp
 �
 avatar_Van_shop_legendary_anim�
 %
 enCook’s Camper Animated Avatar
 %
-plCook’s Camper Animated Avatar
-%
 zhCook’s Camper Animated Avatar
-H
-jaBアニメーション付きアバター「グルメなワゴン」
-K
-ukEАнімований аватар «Фургончик кухаря»
+%
+plCook’s Camper Animated Avatar
 %
 ptCook’s Camper Animated Avatar
 %
 esCook’s Camper Animated Avatar
 !
 frAvatar animé Labo ambulant
+K
+ukEАнімований аватар «Фургончик кухаря»
+H
+jaBアニメーション付きアバター「グルメなワゴン」
 Q
 ruKАнимированный аватар «Фургончик повара».webp
 �
@@ -12081,19 +12081,19 @@ $avatar_september24_legendary_anim_cn�
 
 enNeon Lynx Animated Avatar
 
-plNeon Lynx Animated Avatar
-
 zhNeon Lynx Animated Avatar
-H
-jaBアニメーション付きアバター「ネオンヤマネコ」
-C
-uk=Анімований аватар «Неонова рись»
+
+plNeon Lynx Animated Avatar
 
 ptNeon Lynx Animated Avatar
 
 esNeon Lynx Animated Avatar
 
 frAvatar animé Neon Lynx
+C
+uk=Анімований аватар «Неонова рись»
+H
+jaBアニメーション付きアバター「ネオンヤマネコ」
 K
 ruEАнимированный аватар «Неоновая рысь».webp
 �
@@ -12101,19 +12101,19 @@ K
 
 enRazor Avatar
 
-plRazor Avatar
-
 zhRazor Avatar
 
-jaRazor Avatar
-
-ukRazor Avatar
+plRazor Avatar
 
 ptRazor Avatar
 
 esRazor Avatar
 
 frRazor Avatar
+
+ukRazor Avatar
+
+jaRazor Avatar
 #
 ruАватар «Бритва».webp
 �
@@ -12121,19 +12121,19 @@ K
 
 enMind Eater Avatar
 
-plMind Eater Avatar
-
 zhMind Eater Avatar
-0
-ja*アバター「マインドイーター」
-2
-uk,Аватар «Пожирач розуму»
+
+plMind Eater Avatar
 
 ptMind Eater Avatar
 
 esMind Eater Avatar
 "
 frAvatar du dévoreur d'esprit
+2
+uk,Аватар «Пожирач розуму»
+0
+ja*アバター「マインドイーター」
 8
 ru2Аватар «Пожиратель разума».png
 �
@@ -12141,19 +12141,19 @@ K
 %
 enIvory and Ebony Panthers Avatar
 %
-plIvory and Ebony Panthers Avatar
-%
 zhIvory and Ebony Panthers Avatar
-6
-ja0アバター「アイボリー＆エボニー」
-r
-uklАватар «Пантери кольору слонової кістки й чорного дерева»
+%
+plIvory and Ebony Panthers Avatar
 %
 ptIvory and Ebony Panthers Avatar
 %
 esIvory and Ebony Panthers Avatar
 -
 fr'Avatar Panthères d'ivoire et d'ébène
+r
+uklАватар «Пантери кольору слонової кістки й чорного дерева»
+6
+ja0アバター「アイボリー＆エボニー」
 @
 ru:Аватар «Белая и чёрная пантеры».webp
 �
@@ -12161,19 +12161,19 @@ r
 "
 en5 Seconds to Midnight Avatar
 "
-pl5 Seconds to Midnight Avatar
-"
 zh5 Seconds to Midnight Avatar
-9
-ja3アバター「真夜中のカウントダウン」
-A
-uk;Аватар «П'ять хвилин до півночі»
+"
+pl5 Seconds to Midnight Avatar
 "
 pt5 Seconds to Midnight Avatar
 "
 es5 Seconds to Midnight Avatar
 $
 frAvatar 5 secondes avant minuit
+A
+uk;Аватар «П'ять хвилин до півночі»
+9
+ja3アバター「真夜中のカウントダウン」
 ;
 ru5Аватар «Без пяти двенадцать».webp
 �
@@ -12181,19 +12181,19 @@ $
 !
 enLegacy Professionals Avatar
 !
-plLegacy Professionals Avatar
-!
 zhLegacy Professionals Avatar
-:
-ja4アバター「Legacy プロフェッショナル」
-6
-uk0Аватар «Професіонали Legacy»
+!
+plLegacy Professionals Avatar
 !
 ptLegacy Professionals Avatar
 !
 esLegacy Professionals Avatar
 +
 fr%Avatar des Professionnels d'héritage
+6
+uk0Аватар «Професіонали Legacy»
+:
+ja4アバター「Legacy プロフェッショナル」
 7
 ru1Аватар «Профессионал: Legacy».webp
 �
@@ -12201,19 +12201,19 @@ $
 "
 en5 Seconds to Midnight Avatar
 "
-pl5 Seconds to Midnight Avatar
-"
 zh5 Seconds to Midnight Avatar
-9
-ja3アバター「真夜中のカウントダウン」
-A
-uk;Аватар «П'ять хвилин до півночі»
+"
+pl5 Seconds to Midnight Avatar
 "
 pt5 Seconds to Midnight Avatar
 "
 es5 Seconds to Midnight Avatar
 $
 frAvatar 5 secondes avant minuit
+A
+uk;Аватар «П'ять хвилин до півночі»
+9
+ja3アバター「真夜中のカウントダウン」
 ;
 ru5Аватар «Без пяти двенадцать».webp
 �
@@ -12221,19 +12221,19 @@ $
 "
 en5 Seconds to Midnight Avatar
 "
-pl5 Seconds to Midnight Avatar
-"
 zh5 Seconds to Midnight Avatar
-9
-ja3アバター「真夜中のカウントダウン」
-A
-uk;Аватар «П'ять хвилин до півночі»
+"
+pl5 Seconds to Midnight Avatar
 "
 pt5 Seconds to Midnight Avatar
 "
 es5 Seconds to Midnight Avatar
 $
 frAvatar 5 secondes avant minuit
+A
+uk;Аватар «П'ять хвилин до півночі»
+9
+ja3アバター「真夜中のカウントダウン」
 ;
 ru5Аватар «Без пяти двенадцать».webp
 �
@@ -12241,19 +12241,19 @@ $
 #
 enJames LoMenzo Animated Avatar
 #
-plJames LoMenzo Animated Avatar
-#
 zhJames LoMenzo Animated Avatar
-Q
-jaKアニメーション付きアバター「ジェイムズ・ロメンゾ」
-G
-ukAАнімований аватар «Джеймс Ломенцо»
+#
+plJames LoMenzo Animated Avatar
 #
 ptJames LoMenzo Animated Avatar
 #
 esJames LoMenzo Animated Avatar
 !
 frAvatar animé James LoMenzo
+G
+ukAАнімований аватар «Джеймс Ломенцо»
+Q
+jaKアニメーション付きアバター「ジェイムズ・ロメンゾ」
 M
 ruGАнимированный аватар «Джеймс Ломенцо».webp
 �
@@ -12261,19 +12261,19 @@ M
 "
 en5 Seconds to Midnight Avatar
 "
-pl5 Seconds to Midnight Avatar
-"
 zh5 Seconds to Midnight Avatar
-9
-ja3アバター「真夜中のカウントダウン」
-A
-uk;Аватар «П'ять хвилин до півночі»
+"
+pl5 Seconds to Midnight Avatar
 "
 pt5 Seconds to Midnight Avatar
 "
 es5 Seconds to Midnight Avatar
 $
 frAvatar 5 secondes avant minuit
+A
+uk;Аватар «П'ять хвилин до півночі»
+9
+ja3アバター「真夜中のカウントダウン」
 ;
 ru5Аватар «Без пяти двенадцать».webp
 �
@@ -12281,13 +12281,9 @@ $
 
 enREIGN Avatar
 
-plREIGN Avatar
-
 zhREIGN Avatar
-
-jaアバター「REIGN」
-
-ukАватар REIGN
+
+plREIGN Avatar
 
 ptREIGN Avatar
 
@@ -12295,25 +12291,29 @@ $
 
 frAvatar de REIGN
 
+ukАватар REIGN
+
+jaアバター「REIGN」
+
 ruАватар REIGN.png
 �
 avatar_progressive_win_1�
 
 enVictorious Avatar
 
-plVictorious Avatar
-
 zhVictorious Avatar
-!
-jaアバター「勝利者」
-+
-uk%Аватар «Переможець»
+
+plVictorious Avatar
 
 ptVictorious Avatar
 
 esVictorious Avatar
 
 frAvatar victorieux
++
+uk%Аватар «Переможець»
+!
+jaアバター「勝利者」
 +
 ru%Аватар «Победитель».png
 �
@@ -12321,13 +12321,9 @@ $
 "
 en2025战火杯预备赛选手
 "
-pl2025战火杯预备赛选手
-"
 zh2025战火杯预备赛选手
 "
-ja2025战火杯预备赛选手
-"
-uk2025战火杯预备赛选手
+pl2025战火杯预备赛选手
 "
 pt2025战火杯预备赛选手
 "
@@ -12335,19 +12331,19 @@ $
 "
 fr2025战火杯预备赛选手
 "
+uk2025战火杯预备赛选手
+"
+ja2025战火杯预备赛选手
+"
 ru2025战火杯预备赛选手.webp
 �
 avatar_DuneWorm_unique�
 
 enSandworm Avatar
 
-plSandworm Avatar
-
 zhSandworm Avatar
-*
-ja$アバター「サンドワーム」
-2
-uk,Аватар «Піщаний хробак»
+
+plSandworm Avatar
 
 ptSandworm Avatar
 
@@ -12355,25 +12351,29 @@ $
 
 frAvatar Ver des sables
 2
+uk,Аватар «Піщаний хробак»
+*
+ja$アバター「サンドワーム」
+2
 ru,Аватар «Песчаный червь».webp
 �
 avatar_dagger_legendary�
 
 enAssassin's Dagger Avatar
 
-plAssassin's Dagger Avatar
-
 zhAssassin's Dagger Avatar
-'
-ja!アバター「刺客の短剣」
-6
-uk0Аватар «Кинджал найманця»
+
+plAssassin's Dagger Avatar
 
 ptAssassin's Dagger Avatar
 
 esAssassin's Dagger Avatar
  
 frAvatar dague de l'assassin
+6
+uk0Аватар «Кинджал найманця»
+'
+ja!アバター「刺客の短剣」
 4
 ru.Аватар «Кинжал наёмника».png
 �
@@ -12381,19 +12381,19 @@ $
 
 enVictorious Avatar
 
-plVictorious Avatar
-
 zhVictorious Avatar
-!
-jaアバター「勝利者」
-+
-uk%Аватар «Переможець»
+
+plVictorious Avatar
 
 ptVictorious Avatar
 
 esVictorious Avatar
 
 frAvatar victorieux
++
+uk%Аватар «Переможець»
+!
+jaアバター「勝利者」
 +
 ru%Аватар «Победитель».png
 �
@@ -12401,19 +12401,19 @@ $
 
 enSnowman Avatar
 
-plSnowman Avatar
-
 zhSnowman Avatar
-$
-jaアバター「雪だるま」
-'
-uk!Аватар «Сніговик»
+
+plSnowman Avatar
 
 ptSnowman Avatar
 
 esSnowman Avatar
 !
 frAvatar de bonhomme de neige
+'
+uk!Аватар «Сніговик»
+$
+jaアバター「雪だるま」
 '
 ru!Аватар «Снеговик».png
 �
@@ -12421,13 +12421,9 @@ $
 "
 en[GG2EZ] Free Win Clan Avatar
 "
-pl[GG2EZ] Free Win Clan Avatar
-"
 zh[GG2EZ] Free Win Clan Avatar
-2
-ja,アバター「クラン [GG2EZ] Free Win」
-0
-uk*Аватар «Клан [GG2EZ] Free Win»
+"
+pl[GG2EZ] Free Win Clan Avatar
 "
 pt[GG2EZ] Free Win Clan Avatar
 "
@@ -12435,25 +12431,29 @@ $
 %
 frAvatar du clan [GG2EZ] Free Win
 0
+uk*Аватар «Клан [GG2EZ] Free Win»
+2
+ja,アバター「クラン [GG2EZ] Free Win」
+0
 ru*Аватар «Клан [GG2EZ] Free Win».webp
 �
 #avatar_S1_tourneys_participant_rare�
 -
 en'Season 1 Tournaments Participant Avatar
 -
-pl'Season 1 Tournaments Participant Avatar
--
 zh'Season 1 Tournaments Participant Avatar
-D
-ja>アバター「シーズン 1・トーナメント参加者」
-E
-uk?Аватар «Учасник турнірів Сезону 1»
+-
+pl'Season 1 Tournaments Participant Avatar
 -
 pt'Season 1 Tournaments Participant Avatar
 -
 es'Season 1 Tournaments Participant Avatar
 4
 fr.Avatar Participant aux tournois de la Saison 1
+E
+uk?Аватар «Учасник турнірів Сезону 1»
+D
+ja>アバター「シーズン 1・トーナメント参加者」
 G
 ruAАватар «Участник турниров Сезона 1».webp
 �
@@ -12461,19 +12461,19 @@ G
  
 enBAMBOOOOOOOZLED Fan Avatar
  
-plBAMBOOOOOOOZLED Fan Avatar
- 
 zhBAMBOOOOOOOZLED Fan Avatar
-1
-ja+アバター「BAMBOOOOOOOZLED ファン」
-?
-uk9Аватар «Вболівальник BAMBOOOOOOOZLED»
+ 
+plBAMBOOOOOOOZLED Fan Avatar
  
 ptBAMBOOOOOOOZLED Fan Avatar
  
 esBAMBOOOOOOOZLED Fan Avatar
 -
 fr'Avatar du passionné de BAMBOOOOOOOZLED
+?
+uk9Аватар «Вболівальник BAMBOOOOOOOZLED»
+1
+ja+アバター「BAMBOOOOOOOZLED ファン」
 9
 ru3Аватар «Болельщик BAMBOOOOOOOZLED».webp
 �
@@ -12481,19 +12481,19 @@ G
 
 enVictorious Avatar
 
-plVictorious Avatar
-
 zhVictorious Avatar
-!
-jaアバター「勝利者」
-+
-uk%Аватар «Переможець»
+
+plVictorious Avatar
 
 ptVictorious Avatar
 
 esVictorious Avatar
 
 frAvatar victorieux
++
+uk%Аватар «Переможець»
+!
+jaアバター「勝利者」
 +
 ru%Аватар «Победитель».png
 �
@@ -12501,13 +12501,9 @@ G
 
 enTEAM ID Avatar
 
-plTEAM ID Avatar
-
 zhTEAM ID Avatar
-
-jaアバター「TEAM ID」
-
-ukАватар TEAM ID
+
+plTEAM ID Avatar
 
 ptTEAM ID Avatar
 
@@ -12515,25 +12511,29 @@ G
 
 frAvatar de TEAM ID
 
+ukАватар TEAM ID
+
+jaアバター「TEAM ID」
+
 ruАватар TEAM ID.png
 �
 avatar_progressive_win_5�
 
 enVictorious Avatar
 
-plVictorious Avatar
-
 zhVictorious Avatar
-!
-jaアバター「勝利者」
-+
-uk%Аватар «Переможець»
+
+plVictorious Avatar
 
 ptVictorious Avatar
 
 esVictorious Avatar
 
 frAvatar victorieux
++
+uk%Аватар «Переможець»
+!
+jaアバター「勝利者」
 +
 ru%Аватар «Победитель».png
 �
@@ -12541,19 +12541,19 @@ G
 
 enKlaus Walz Avatar
 
-plKlaus Walz Avatar
-
 zhKlaus Walz Avatar
-3
-ja-アバター「クラウス・ヴォルツ」
-
-ukАватар Klaus Walz
+
+plKlaus Walz Avatar
 
 ptKlaus Walz Avatar
 
 esKlaus Walz Avatar
 
 frAvatar de Klaus Walz
+
+ukАватар Klaus Walz
+3
+ja-アバター「クラウス・ヴォルツ」
 !
 ruАватар «Klaus Walz».png
 �
@@ -12561,19 +12561,19 @@ G
 
 enVictorious Avatar
 
-plVictorious Avatar
-
 zhVictorious Avatar
-!
-jaアバター「勝利者」
-+
-uk%Аватар «Переможець»
+
+plVictorious Avatar
 
 ptVictorious Avatar
 
 esVictorious Avatar
 
 frAvatar victorieux
++
+uk%Аватар «Переможець»
+!
+jaアバター「勝利者」
 +
 ru%Аватар «Победитель».png
 �
@@ -12581,19 +12581,19 @@ G
 
 en"Blitz Turns 5!" Avatar
 
-pl"Blitz Turns 5!" Avatar
-
 zh"Blitz Turns 5!" Avatar
-+
-ja%アバター「Blitz が 5 周年!」
-*
-uk$Аватар «5 років Blitz!»
+
+pl"Blitz Turns 5!" Avatar
 
 pt"Blitz Turns 5!" Avatar
 
 es"Blitz Turns 5!" Avatar
 %
 frAvatar « Blitz a 5 ans ! »
+*
+uk$Аватар «5 років Blitz!»
++
+ja%アバター「Blitz が 5 周年!」
 &
 ru Аватар «5 лет Blitz!».png
 �
@@ -12601,19 +12601,19 @@ G
 
 enVictorious Avatar
 
-plVictorious Avatar
-
 zhVictorious Avatar
-!
-jaアバター「勝利者」
-+
-uk%Аватар «Переможець»
+
+plVictorious Avatar
 
 ptVictorious Avatar
 
 esVictorious Avatar
 
 frAvatar victorieux
++
+uk%Аватар «Переможець»
+!
+jaアバター「勝利者」
 +
 ru%Аватар «Победитель».png
 �
@@ -12621,19 +12621,19 @@ G
 
 enSilver Snowflake Avatar
 
-plSilver Snowflake Avatar
-
 zhSilver Snowflake Avatar
-$
-jaアバター「銀の雪片」
-5
-uk/Аватар «Срібна сніжинка».
+
+plSilver Snowflake Avatar
 
 ptSilver Snowflake Avatar
 
 esSilver Snowflake Avatar
 (
 fr"Avatar de flocon de neige argenté
+5
+uk/Аватар «Срібна сніжинка».
+$
+jaアバター「銀の雪片」
 <
 ru6Аватар «Серебряная снежинка».png
 �
@@ -12641,13 +12641,9 @@ $
 
 enSnowman Avatar
 
-plSnowman Avatar
-
 zhSnowman Avatar
-$
-jaアバター「雪だるま」
-'
-uk!Аватар «Сніговик»
+
+plSnowman Avatar
 
 ptSnowman Avatar
 
@@ -12655,19 +12651,19 @@ $
 !
 frAvatar de bonhomme de neige
 '
+uk!Аватар «Сніговик»
+$
+jaアバター「雪だるま」
+'
 ru!Аватар «Снеговик».png
 �
 avatar_progressive_win_6�
 
 enVictorious Avatar
 
-plVictorious Avatar
-
 zhVictorious Avatar
-!
-jaアバター「勝利者」
-+
-uk%Аватар «Переможець»
+
+plVictorious Avatar
 
 ptVictorious Avatar
 
@@ -12675,25 +12671,29 @@ $
 
 frAvatar victorieux
 +
+uk%Аватар «Переможець»
+!
+jaアバター「勝利者」
++
 ru%Аватар «Победитель».png
 �
 avatar_BlitzStellarCup_rare�
 #
 enBlitz Stellar Cup 2023 Avatar
 #
-plBlitz Stellar Cup 2023 Avatar
-#
 zhBlitz Stellar Cup 2023 Avatar
-.
-ja(アバター「Blitz Stellar Cup 2023」
-)
-uk#Аватар Blitz Stellar Cup 2023
+#
+plBlitz Stellar Cup 2023 Avatar
 #
 ptBlitz Stellar Cup 2023 Avatar
 #
 esBlitz Stellar Cup 2023 Avatar
 )
 fr#Avatar de la Blitz Stellar Cup 2023
+)
+uk#Аватар Blitz Stellar Cup 2023
+.
+ja(アバター「Blitz Stellar Cup 2023」
 )
 ru#Аватар Blitz Stellar Cup 2023.webp
 �
@@ -12703,15 +12703,10 @@ $avatar_progressive_bp_29_ruby_paid_3�
 entest
 
 
-pltest
-
-
 zhtest
 
 
-jatest
-*
-uk$avatar_progressive_bp_29_ruby_paid_3
+pltest
 
 
 pttest
@@ -12721,6 +12716,11 @@ $avatar_progressive_bp_29_ruby_paid_3�
 
 
 frtest
+*
+uk$avatar_progressive_bp_29_ruby_paid_3
+
+
+jatest
 -
 ru'Аватар «Наблюдатель».webp
 �
@@ -12728,19 +12728,19 @@ $avatar_progressive_bp_29_ruby_paid_3�
 
 en"Yo-ho-ho!" Avatar
 
-pl"Yo-ho-ho!" Avatar
-
 zh"Yo-ho-ho!" Avatar
-%
-jaアバター「ヨーホー!」
-&
-uk Аватар «Йо-хо-хо!»
+
+pl"Yo-ho-ho!" Avatar
 
 pt"Yo-ho-ho!" Avatar
 
 es"Yo-ho-ho!" Avatar
  
 frAvatar « Yo-ho-ho ! »
+&
+uk Аватар «Йо-хо-хо!»
+%
+jaアバター「ヨーホー!」
 &
 ru Аватар «Йо-хо-хо!».webp
 �
@@ -12750,15 +12750,10 @@ $avatar_progressive_bp_29_ruby_paid_2�
 entest
 
 
-pltest
-
-
 zhtest
 
 
-jatest
-*
-uk$avatar_progressive_bp_29_ruby_paid_2
+pltest
 
 
 pttest
@@ -12768,6 +12763,11 @@ $avatar_progressive_bp_29_ruby_paid_2�
 
 
 frtest
+*
+uk$avatar_progressive_bp_29_ruby_paid_2
+
+
+jatest
 -
 ru'Аватар «Наблюдатель».webp
 �
@@ -12775,19 +12775,19 @@ $avatar_progressive_bp_29_ruby_paid_2�
 
 enYeti Animated Avatar
 
-plYeti Animated Avatar
-
 zhYeti Animated Avatar
-?
-ja9アニメーション付きアバター「イエティ」
-2
-uk,Анімований аватар «Єті»
+
+plYeti Animated Avatar
 
 ptYeti Animated Avatar
 
 esYeti Animated Avatar
 
 frAvatar animé du Yéti
+2
+uk,Анімований аватар «Єті»
+?
+ja9アニメーション付きアバター「イエティ」
 :
 ru4Анимированный аватар «Йети».webp
 �
@@ -12795,19 +12795,19 @@ $avatar_progressive_bp_29_ruby_paid_2�
 
 en"Yo-ho-ho!" Avatar
 
-pl"Yo-ho-ho!" Avatar
-
 zh"Yo-ho-ho!" Avatar
-%
-jaアバター「ヨーホー!」
-&
-uk Аватар «Йо-хо-хо!»
+
+pl"Yo-ho-ho!" Avatar
 
 pt"Yo-ho-ho!" Avatar
 
 es"Yo-ho-ho!" Avatar
  
 frAvatar « Yo-ho-ho ! »
+&
+uk Аватар «Йо-хо-хо!»
+%
+jaアバター「ヨーホー!」
 &
 ru Аватар «Йо-хо-хо!».webp
 �
@@ -12815,19 +12815,19 @@ $avatar_progressive_bp_29_ruby_paid_2�
 
 en"Yo-ho-ho!" Avatar
 
-pl"Yo-ho-ho!" Avatar
-
 zh"Yo-ho-ho!" Avatar
-%
-jaアバター「ヨーホー!」
-&
-uk Аватар «Йо-хо-хо!»
+
+pl"Yo-ho-ho!" Avatar
 
 pt"Yo-ho-ho!" Avatar
 
 es"Yo-ho-ho!" Avatar
  
 frAvatar « Yo-ho-ho ! »
+&
+uk Аватар «Йо-хо-хо!»
+%
+jaアバター「ヨーホー!」
 &
 ru Аватар «Йо-хо-хо!».webp
 �
@@ -12835,19 +12835,19 @@ $avatar_progressive_bp_29_ruby_paid_2�
 
 en"Yo-ho-ho!" Avatar
 
-pl"Yo-ho-ho!" Avatar
-
 zh"Yo-ho-ho!" Avatar
-%
-jaアバター「ヨーホー!」
-&
-uk Аватар «Йо-хо-хо!»
+
+pl"Yo-ho-ho!" Avatar
 
 pt"Yo-ho-ho!" Avatar
 
 es"Yo-ho-ho!" Avatar
  
 frAvatar « Yo-ho-ho ! »
+&
+uk Аватар «Йо-хо-хо!»
+%
+jaアバター「ヨーホー!」
 &
 ru Аватар «Йо-хо-хо!».webp
 �
@@ -12855,19 +12855,19 @@ $avatar_progressive_bp_29_ruby_paid_2�
 
 en"Yo-ho-ho!" Avatar
 
-pl"Yo-ho-ho!" Avatar
-
 zh"Yo-ho-ho!" Avatar
-%
-jaアバター「ヨーホー!」
-&
-uk Аватар «Йо-хо-хо!»
+
+pl"Yo-ho-ho!" Avatar
 
 pt"Yo-ho-ho!" Avatar
 
 es"Yo-ho-ho!" Avatar
  
 frAvatar « Yo-ho-ho ! »
+&
+uk Аватар «Йо-хо-хо!»
+%
+jaアバター「ヨーホー!」
 &
 ru Аватар «Йо-хо-хо!».webp
 �
@@ -12875,13 +12875,9 @@ $avatar_progressive_bp_29_ruby_paid_2�
 
 enHeavenly Niu Avatar
 
-plHeavenly Niu Avatar
-
 zhHeavenly Niu Avatar
-!
-jaアバター「牛大王」
-.
-uk(Аватар «Небесний Ніу»
+
+plHeavenly Niu Avatar
 
 ptHeavenly Niu Avatar
 
@@ -12889,25 +12885,29 @@ $avatar_progressive_bp_29_ruby_paid_2�
 
 frAvatar du Niu céleste
 .
+uk(Аватар «Небесний Ніу»
+!
+jaアバター「牛大王」
+.
 ru(Аватар «Небесный Ниу».png
 �
 avatar_progressive_bp_47_paid_3�
 "
 enLeonard "Bones" McCoy Avatar
 "
-plLeonard "Bones" McCoy Avatar
-"
 zhLeonard "Bones" McCoy Avatar
->
-ja8アバター「レナード"ボーンズ"マッコイ」
-?
-uk9Аватар «Леонард "Боунз" Маккой»
+"
+plLeonard "Bones" McCoy Avatar
 "
 ptLeonard "Bones" McCoy Avatar
 "
 esLeonard "Bones" McCoy Avatar
 (
 fr"Avatar Leonard « Bones » McCoy
+?
+uk9Аватар «Леонард "Боунз" Маккой»
+>
+ja8アバター「レナード"ボーンズ"マッコイ」
 =
 ru7Аватар «Леонард Боунс Маккой».webp
 �
@@ -12915,13 +12915,9 @@ $avatar_progressive_bp_29_ruby_paid_2�
 
 en"Yo-ho-ho!" Avatar
 
-pl"Yo-ho-ho!" Avatar
-
 zh"Yo-ho-ho!" Avatar
-%
-jaアバター「ヨーホー!」
-&
-uk Аватар «Йо-хо-хо!»
+
+pl"Yo-ho-ho!" Avatar
 
 pt"Yo-ho-ho!" Avatar
 
@@ -12929,19 +12925,19 @@ $avatar_progressive_bp_29_ruby_paid_2�
  
 frAvatar « Yo-ho-ho ! »
 &
+uk Аватар «Йо-хо-хо!»
+%
+jaアバター「ヨーホー!」
+&
 ru Аватар «Йо-хо-хо!».webp
 �
 avatar_progressive_bp_53_free_3�
  
 enEvolution of Energy Avatar
  
-plEvolution of Energy Avatar
- 
 zhEvolution of Energy Avatar
-9
-ja3アバター「進化を遂げるエネルギー」
-6
-uk0Аватар «Еволюція енергії»
+ 
+plEvolution of Energy Avatar
  
 ptEvolution of Energy Avatar
  
@@ -12949,19 +12945,19 @@ $avatar_progressive_bp_29_ruby_paid_2�
 %
 frAvatar Évolution de l'énergie
 6
+uk0Аватар «Еволюція енергії»
+9
+ja3アバター「進化を遂げるエネルギー」
+6
 ru0Аватар «Эволюция энергии».webp
 �
 avatar_progressive_bp_47_paid_2�
 
 enHikaru Sulu Avatar
 
-plHikaru Sulu Avatar
-
 zhHikaru Sulu Avatar
-0
-ja*アバター「ヒカル・スールー」
-,
-uk&Аватар «Хікару Сулу»
+
+plHikaru Sulu Avatar
 
 ptHikaru Sulu Avatar
 
@@ -12969,19 +12965,19 @@ $avatar_progressive_bp_29_ruby_paid_2�
 
 frAvatar Hikaru Sulu
 ,
+uk&Аватар «Хікару Сулу»
+0
+ja*アバター「ヒカル・スールー」
+,
 ru&Аватар «Хикару Сулу».webp
 �
 avatar_progressive_bp_47_paid_1�
 
 enSpock Avatar
 
-plSpock Avatar
-
 zhSpock Avatar
-$
-jaアバター「スポック」
-
-ukАватар «Спок»
+
+plSpock Avatar
 
 ptSpock Avatar
 
@@ -12989,25 +12985,29 @@ $
 
 frAvatar Spock
 
+ukАватар «Спок»
+$
+jaアバター「スポック」
+
 ruАватар «Спок».webp
 �
 avatar_progressive_bp_51_paid_2�
 %
 enIvory and Ebony Panthers Avatar
 %
-plIvory and Ebony Panthers Avatar
-%
 zhIvory and Ebony Panthers Avatar
-6
-ja0アバター「アイボリー＆エボニー」
-r
-uklАватар «Пантери кольору слонової кістки й чорного дерева»
+%
+plIvory and Ebony Panthers Avatar
 %
 ptIvory and Ebony Panthers Avatar
 %
 esIvory and Ebony Panthers Avatar
 -
 fr'Avatar Panthères d'ivoire et d'ébène
+r
+uklАватар «Пантери кольору слонової кістки й чорного дерева»
+6
+ja0アバター「アイボリー＆エボニー」
 @
 ru:Аватар «Белая и чёрная пантеры».webp
 �
@@ -13015,19 +13015,19 @@ r
 %
 enIvory and Ebony Panthers Avatar
 %
-plIvory and Ebony Panthers Avatar
-%
 zhIvory and Ebony Panthers Avatar
-6
-ja0アバター「アイボリー＆エボニー」
-r
-uklАватар «Пантери кольору слонової кістки й чорного дерева»
+%
+plIvory and Ebony Panthers Avatar
 %
 ptIvory and Ebony Panthers Avatar
 %
 esIvory and Ebony Panthers Avatar
 -
 fr'Avatar Panthères d'ivoire et d'ébène
+r
+uklАватар «Пантери кольору слонової кістки й чорного дерева»
+6
+ja0アバター「アイボリー＆エボニー」
 @
 ru:Аватар «Белая и чёрная пантеры».webp
 �
@@ -13035,19 +13035,19 @@ r
 %
 enIvory and Ebony Panthers Avatar
 %
-plIvory and Ebony Panthers Avatar
-%
 zhIvory and Ebony Panthers Avatar
-6
-ja0アバター「アイボリー＆エボニー」
-r
-uklАватар «Пантери кольору слонової кістки й чорного дерева»
+%
+plIvory and Ebony Panthers Avatar
 %
 ptIvory and Ebony Panthers Avatar
 %
 esIvory and Ebony Panthers Avatar
 -
 fr'Avatar Panthères d'ivoire et d'ébène
+r
+uklАватар «Пантери кольору слонової кістки й чорного дерева»
+6
+ja0アバター「アイボリー＆エボニー」
 @
 ru:Аватар «Белая и чёрная пантеры».webp
 �
@@ -13055,19 +13055,19 @@ r
 
 enJames T. Kirk Avatar
 
-plJames T. Kirk Avatar
-
 zhJames T. Kirk Avatar
-7
-ja1アバター「ジェームズ・T・カーク」
-0
-uk*Аватар «Джеймс Т. Кірк»
+
+plJames T. Kirk Avatar
 
 ptJames T. Kirk Avatar
 
 esJames T. Kirk Avatar
 
 frAvatar James T. Kirk
+0
+uk*Аватар «Джеймс Т. Кірк»
+7
+ja1アバター「ジェームズ・T・カーク」
 0
 ru*Аватар «Джеймс Т. Кирк».webp
 �
@@ -13075,13 +13075,9 @@ r
  
 enavatar_progressive_rank_10
  
-plavatar_progressive_rank_10
- 
 zhavatar_progressive_rank_10
  
-jaavatar_progressive_rank_10
- 
-ukavatar_progressive_rank_10
+plavatar_progressive_rank_10
  
 ptavatar_progressive_rank_10
  
@@ -13089,19 +13085,19 @@ r
  
 fravatar_progressive_rank_10
  
+ukavatar_progressive_rank_10
+ 
+jaavatar_progressive_rank_10
+ 
 ruavatar_progressive_rank_10.png
 �
 !avatar_leaderbord_platinum_unique�
  
 enPlatinum Tournament Avatar
  
-plPlatinum Tournament Avatar
- 
 zhPlatinum Tournament Avatar
->
-ja8アバター「トーナメント記念: プラチナ」
->
-uk8Аватар «Турнірний Платиновий»
+ 
+plPlatinum Tournament Avatar
  
 ptPlatinum Tournament Avatar
  
@@ -13109,19 +13105,19 @@ r
 
 frAvatar Tournoi de platine
 >
+uk8Аватар «Турнірний Платиновий»
+>
+ja8アバター「トーナメント記念: プラチナ」
+>
 ru8Аватар «Турнирный Платиновый».webp
 �
 avatar_progressive_bp_47_paid_5�
 
 enJames T. Kirk Avatar
 
-plJames T. Kirk Avatar
-
 zhJames T. Kirk Avatar
-7
-ja1アバター「ジェームズ・T・カーク」
-0
-uk*Аватар «Джеймс Т. Кірк»
+
+plJames T. Kirk Avatar
 
 ptJames T. Kirk Avatar
 
@@ -13129,25 +13125,29 @@ r
 
 frAvatar James T. Kirk
 0
+uk*Аватар «Джеймс Т. Кірк»
+7
+ja1アバター「ジェームズ・T・カーク」
+0
 ru*Аватар «Джеймс Т. Кирк».webp
 �
 avatar_progressive_bp_51_paid_6�
 %
 enIvory and Ebony Panthers Avatar
 %
-plIvory and Ebony Panthers Avatar
-%
 zhIvory and Ebony Panthers Avatar
-6
-ja0アバター「アイボリー＆エボニー」
-r
-uklАватар «Пантери кольору слонової кістки й чорного дерева»
+%
+plIvory and Ebony Panthers Avatar
 %
 ptIvory and Ebony Panthers Avatar
 %
 esIvory and Ebony Panthers Avatar
 -
 fr'Avatar Panthères d'ivoire et d'ébène
+r
+uklАватар «Пантери кольору слонової кістки й чорного дерева»
+6
+ja0アバター「アイボリー＆エボニー」
 @
 ru:Аватар «Белая и чёрная пантеры».webp
 �
@@ -13157,15 +13157,10 @@ $avatar_progressive_bp_29_ruby_free_2�
 entest
 
 
-pltest
-
-
 zhtest
 
 
-jatest
-*
-uk$avatar_progressive_bp_29_ruby_free_2
+pltest
 
 
 pttest
@@ -13175,6 +13170,11 @@ $avatar_progressive_bp_29_ruby_free_2�
 
 
 frtest
+*
+uk$avatar_progressive_bp_29_ruby_free_2
+
+
+jatest
 2
 ru,Аватар «Упорная борьба».webp
 �
@@ -13182,19 +13182,19 @@ $avatar_progressive_bp_29_ruby_free_2�
 '
 en!Emily Löwenstein Animated Avatar
 '
-pl!Emily Löwenstein Animated Avatar
-'
 zh!Emily Löwenstein Animated Avatar
-`
-jaZアニメーション付きアバター「エミリー・レーヴェンシュタイン」
-9
-uk3Анімований аватар Emily Löwenstein
+'
+pl!Emily Löwenstein Animated Avatar
 '
 pt!Emily Löwenstein Animated Avatar
 '
 es!Emily Löwenstein Animated Avatar
 %
 frAvatar animé Emily Löwenstein
+9
+uk3Анімований аватар Emily Löwenstein
+`
+jaZアニメーション付きアバター「エミリー・レーヴェンシュタイン」
 ?
 ru9Анимированный аватар Emily Löwenstein.webp
 �
@@ -13202,13 +13202,9 @@ $avatar_progressive_bp_29_ruby_free_2�
 
 enNyota Uhura Avatar
 
-plNyota Uhura Avatar
-
 zhNyota Uhura Avatar
-3
-ja-アバター「ニヨータ・ウフーラ」
-.
-uk(Аватар «Нійота Ухура»
+
+plNyota Uhura Avatar
 
 ptNyota Uhura Avatar
 
@@ -13216,25 +13212,29 @@ $avatar_progressive_bp_29_ruby_free_2�
 
 frAvatar Nyota Uhura
 .
+uk(Аватар «Нійота Ухура»
+3
+ja-アバター「ニヨータ・ウフーラ」
+.
 ru(Аватар «Нийота Ухура».webp
 �
 avatar_progressive_bp_15_paid_1�
 
 enMedal Count Avatar
 
-plMedal Count Avatar
-
 zhMedal Count Avatar
-*
-ja$アバター「勝利のメダル」
-4
-uk.Аватар «Медальний залік»
+
+plMedal Count Avatar
 
 ptMedal Count Avatar
 
 esMedal Count Avatar
 &
 fr Avatar du Compteur de médailles
+4
+uk.Аватар «Медальний залік»
+*
+ja$アバター「勝利のメダル」
 4
 ru.Аватар «Медальный зачёт».webp
 �
@@ -13242,19 +13242,19 @@ $avatar_progressive_bp_29_ruby_free_2�
 
 enGusurg Avatar
 
-plGusurg Avatar
-
 zhGusurg Avatar
-$
-jaアバター「グスルグ」
-
-ukАватар Gusurg
+
+plGusurg Avatar
 
 ptGusurg Avatar
 
 esGusurg Avatar
 
 frAvatar de Gusurg
+
+ukАватар Gusurg
+$
+jaアバター「グスルグ」
 
 ruАватар «Gusurg».png
 �
@@ -13262,19 +13262,19 @@ $
 
 enCaravan Avatar
 
-plCaravan Avatar
-
 zhCaravan Avatar
-
-jaアバター「Caravan」
-#
-ukАватар «Причіп»
+
+plCaravan Avatar
 
 ptCaravan Avatar
 
 esCaravan Avatar
 
 frAvatar Caravane
+#
+ukАватар «Причіп»
+
+jaアバター「Caravan」
 %
 ruАватар «Трейлер».webp
 �
@@ -13282,13 +13282,9 @@ $
 "
 en2025战火杯挑战赛选手
 "
-pl2025战火杯挑战赛选手
-"
 zh2025战火杯挑战赛选手
 "
-ja2025战火杯挑战赛选手
-"
-uk2025战火杯挑战赛选手
+pl2025战火杯挑战赛选手
 "
 pt2025战火杯挑战赛选手
 "
@@ -13296,25 +13292,29 @@ $
 "
 fr2025战火杯挑战赛选手
 "
+uk2025战火杯挑战赛选手
+"
+ja2025战火杯挑战赛选手
+"
 ru2025战火杯挑战赛选手.webp
 �
 avatar_mandarin_common�
 
 enFrosty Tangerine Avatar
 
-plFrosty Tangerine Avatar
-
 zhFrosty Tangerine Avatar
-'
-ja!アバター「冷凍みかん」
-6
-uk0Аватар «Новорічні ласощі»
+
+plFrosty Tangerine Avatar
 
 ptFrosty Tangerine Avatar
 
 esFrosty Tangerine Avatar
  
 frAvatar de mandarine gelée
+6
+uk0Аватар «Новорічні ласощі»
+'
+ja!アバター「冷凍みかん」
 >
 ru8Аватар «Новогоднее лакомство».png
 �
@@ -13322,19 +13322,19 @@ $avatar_progressive_rb_gold_eu_wins_5�
 
 enGold Victor Avatar
 
-plGold Victor Avatar
-
 zhGold Victor Avatar
--
-ja'アバター「ゴールドの勝者」
-:
-uk4Аватар «Золотий переможець»
+
+plGold Victor Avatar
 
 ptGold Victor Avatar
 
 esGold Victor Avatar
 
 frAvatar Vainqueur d'or
+:
+uk4Аватар «Золотий переможець»
+-
+ja'アバター「ゴールドの勝者」
 :
 ru4Аватар «Золотой победитель».webp
 �
@@ -13342,19 +13342,19 @@ $avatar_progressive_rb_gold_eu_wins_4�
 
 enGold Victor Avatar
 
-plGold Victor Avatar
-
 zhGold Victor Avatar
--
-ja'アバター「ゴールドの勝者」
-:
-uk4Аватар «Золотий переможець»
+
+plGold Victor Avatar
 
 ptGold Victor Avatar
 
 esGold Victor Avatar
 
 frAvatar Vainqueur d'or
+:
+uk4Аватар «Золотий переможець»
+-
+ja'アバター「ゴールドの勝者」
 :
 ru4Аватар «Золотой победитель».webp
 �
@@ -13362,13 +13362,9 @@ $avatar_progressive_rb_gold_eu_wins_4�
 
 enMedal Count Avatar
 
-plMedal Count Avatar
-
 zhMedal Count Avatar
-*
-ja$アバター「勝利のメダル」
-4
-uk.Аватар «Медальний залік»
+
+plMedal Count Avatar
 
 ptMedal Count Avatar
 
@@ -13376,19 +13372,19 @@ $avatar_progressive_rb_gold_eu_wins_4�
 &
 fr Avatar du Compteur de médailles
 4
+uk.Аватар «Медальний залік»
+*
+ja$アバター「勝利のメダル」
+4
 ru.Аватар «Медальный зачёт».webp
 �
 avatar_platinum_league_unique�
 
 enPlatinum Trophy Avatar
 
-plPlatinum Trophy Avatar
-
 zhPlatinum Trophy Avatar
-6
-ja0アバター「プラチナ・トロフィー」
-8
-uk2Аватар «Платиновий трофей»
+
+plPlatinum Trophy Avatar
 
 ptPlatinum Trophy Avatar
 
@@ -13396,25 +13392,29 @@ $avatar_progressive_rb_gold_eu_wins_4�
 #
 frAvatar du Trophée de platine
 8
+uk2Аватар «Платиновий трофей»
+6
+ja0アバター「プラチナ・トロフィー」
+8
 ru2Аватар «Платиновый трофей».png
 �
 $avatar_progressive_rb_gold_eu_wins_2�
 
 enGold Victor Avatar
 
-plGold Victor Avatar
-
 zhGold Victor Avatar
--
-ja'アバター「ゴールドの勝者」
-:
-uk4Аватар «Золотий переможець»
+
+plGold Victor Avatar
 
 ptGold Victor Avatar
 
 esGold Victor Avatar
 
 frAvatar Vainqueur d'or
+:
+uk4Аватар «Золотий переможець»
+-
+ja'アバター「ゴールドの勝者」
 :
 ru4Аватар «Золотой победитель».webp
 �
@@ -13422,19 +13422,19 @@ $avatar_progressive_rb_gold_eu_wins_2�
 
 enAlpha Dog Avatar
 
-plAlpha Dog Avatar
-
 zhAlpha Dog Avatar
-'
-ja!アバター「リーダー犬」
-8
-uk2Аватар «Справжній ватажок»
+
+plAlpha Dog Avatar
 
 ptAlpha Dog Avatar
 
 esAlpha Dog Avatar
 
 frAvatar de chien alpha
+8
+uk2Аватар «Справжній ватажок»
+'
+ja!アバター「リーダー犬」
 4
 ru.Аватар «Настоящий вожак».png
 �
@@ -13442,19 +13442,19 @@ $avatar_progressive_rb_gold_eu_wins_2�
 
 en"Treasure hunt!" Avatar
 
-pl"Treasure hunt!" Avatar
-
 zh"Treasure hunt!" Avatar
-*
-ja$アバター「お宝を求めて」
-?
-uk9Аватар «Полювання за скарбами»
+
+pl"Treasure hunt!" Avatar
 
 pt"Treasure hunt!" Avatar
 
 es"Treasure hunt!" Avatar
 )
 fr#Avatar « Chasse au trésor ! »
+?
+uk9Аватар «Полювання за скарбами»
+*
+ja$アバター「お宝を求めて」
 9
 ru3Аватар «В поисках сокровищ».webp
 �
@@ -13462,19 +13462,19 @@ $avatar_progressive_rb_gold_eu_wins_2�
 
 en"Treasure hunt!" Avatar
 
-pl"Treasure hunt!" Avatar
-
 zh"Treasure hunt!" Avatar
-*
-ja$アバター「お宝を求めて」
-?
-uk9Аватар «Полювання за скарбами»
+
+pl"Treasure hunt!" Avatar
 
 pt"Treasure hunt!" Avatar
 
 es"Treasure hunt!" Avatar
 )
 fr#Avatar « Chasse au trésor ! »
+?
+uk9Аватар «Полювання за скарбами»
+*
+ja$アバター「お宝を求めて」
 9
 ru3Аватар «В поисках сокровищ».webp
 �
@@ -13482,19 +13482,19 @@ $avatar_progressive_rb_gold_eu_wins_1�
 
 enGold Victor Avatar
 
-plGold Victor Avatar
-
 zhGold Victor Avatar
--
-ja'アバター「ゴールドの勝者」
-:
-uk4Аватар «Золотий переможець»
+
+plGold Victor Avatar
 
 ptGold Victor Avatar
 
 esGold Victor Avatar
 
 frAvatar Vainqueur d'or
+:
+uk4Аватар «Золотий переможець»
+-
+ja'アバター「ゴールドの勝者」
 :
 ru4Аватар «Золотой победитель».webp
 �
@@ -13502,19 +13502,19 @@ $avatar_progressive_rb_gold_eu_wins_1�
 
 enInfinity Avatar
 
-plInfinity Avatar
-
 zhInfinity Avatar
--
-ja'アバター「インフィニティ」
-3
-uk-Аватар «Нескінченність»
+
+plInfinity Avatar
 
 ptInfinity Avatar
 
 esInfinity Avatar
 
 frAvatar Infini
+3
+uk-Аватар «Нескінченність»
+-
+ja'アバター「インフィニティ」
 1
 ru+Аватар «Бесконечность».webp
 �
@@ -13522,19 +13522,19 @@ $avatar_progressive_rb_gold_eu_wins_1�
 
 enBedbug Fan Diamond Avatar
 
-plBedbug Fan Diamond Avatar
-
 zhBedbug Fan Diamond Avatar
-=
-ja7アバター「Bedbug ファン・ダイヤモンド」
-Z
-ukTДіамантовий аватар уболівальника команди Bedbug
+
+plBedbug Fan Diamond Avatar
 
 ptBedbug Fan Diamond Avatar
 
 esBedbug Fan Diamond Avatar
 /
 fr)Avatar du passionné de Bedbug de diamant
+Z
+ukTДіамантовий аватар уболівальника команди Bedbug
+=
+ja7アバター「Bedbug ファン・ダイヤモンド」
 X
 ruRБриллиантовый аватар болельщика команды Bedbug.webp
 �
@@ -13542,13 +13542,9 @@ X
 *
 en$Аватар «9 лет побед»
 *
-pl$Аватар «9 лет побед»
-*
 zh$Аватар «9 лет побед»
 *
-ja$Аватар «9 лет побед»
-*
-uk$Аватар «9 лет побед»
+pl$Аватар «9 лет побед»
 *
 pt$Аватар «9 лет побед»
 *
@@ -13556,25 +13552,29 @@ X
 *
 fr$Аватар «9 лет побед»
 *
+uk$Аватар «9 лет побед»
+*
+ja$Аватар «9 лет побед»
+*
 ru$Аватар «9 лет побед».webp
 �
 avatar_progressive_bp_11_paid_4�
 
 enLascannon Avatar
 
-plLascannon Avatar
-
 zhLascannon Avatar
-'
-ja!アバター「レーザー砲」
-%
-ukАватар «Мініган»
+
+plLascannon Avatar
 
 ptLascannon Avatar
 
 esLascannon Avatar
 
 frAvatar Lascannon
+%
+ukАватар «Мініган»
+'
+ja!アバター「レーザー砲」
 %
 ruАватар «Миниган».webp
 �
@@ -13582,13 +13582,9 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 enGold Victor Avatar
 
-plGold Victor Avatar
-
 zhGold Victor Avatar
--
-ja'アバター「ゴールドの勝者」
-:
-uk4Аватар «Золотий переможець»
+
+plGold Victor Avatar
 
 ptGold Victor Avatar
 
@@ -13596,25 +13592,29 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 frAvatar Vainqueur d'or
 :
+uk4Аватар «Золотий переможець»
+-
+ja'アバター「ゴールドの勝者」
+:
 ru4Аватар «Золотой победитель».webp
 �
 avatar_progressive_bp_11_paid_5�
 
 enLascannon Avatar
 
-plLascannon Avatar
-
 zhLascannon Avatar
-'
-ja!アバター「レーザー砲」
-%
-ukАватар «Мініган»
+
+plLascannon Avatar
 
 ptLascannon Avatar
 
 esLascannon Avatar
 
 frAvatar Lascannon
+%
+ukАватар «Мініган»
+'
+ja!アバター「レーザー砲」
 %
 ruАватар «Миниган».webp
 �
@@ -13622,13 +13622,9 @@ $avatar_progressive_rb_gold_eu_wins_9�
 ,
 en&[•BSK•] TeamBloodSakua军团头像
 ,
-pl&[•BSK•] TeamBloodSakua军团头像
-,
 zh&[•BSK•] TeamBloodSakua军团头像
 ,
-ja&[•BSK•] TeamBloodSakua军团头像
-,
-uk&[•BSK•] TeamBloodSakua军团头像
+pl&[•BSK•] TeamBloodSakua军团头像
 ,
 pt&[•BSK•] TeamBloodSakua军团头像
 ,
@@ -13636,25 +13632,29 @@ $avatar_progressive_rb_gold_eu_wins_9�
 ,
 fr&[•BSK•] TeamBloodSakua军团头像
 ,
+uk&[•BSK•] TeamBloodSakua军团头像
+,
+ja&[•BSK•] TeamBloodSakua军团头像
+,
 ru&[•BSK•] TeamBloodSakua军团头像.webp
 �
 avatar_progressive_bp_11_paid_7�
 
 enLascannon Avatar
 
-plLascannon Avatar
-
 zhLascannon Avatar
-'
-ja!アバター「レーザー砲」
-%
-ukАватар «Мініган»
+
+plLascannon Avatar
 
 ptLascannon Avatar
 
 esLascannon Avatar
 
 frAvatar Lascannon
+%
+ukАватар «Мініган»
+'
+ja!アバター「レーザー砲」
 %
 ruАватар «Миниган».webp
 �
@@ -13662,19 +13662,19 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 enInfinity Avatar
 
-plInfinity Avatar
-
 zhInfinity Avatar
--
-ja'アバター「インフィニティ」
-3
-uk-Аватар «Нескінченність»
+
+plInfinity Avatar
 
 ptInfinity Avatar
 
 esInfinity Avatar
 
 frAvatar Infini
+3
+uk-Аватар «Нескінченність»
+-
+ja'アバター「インフィニティ」
 1
 ru+Аватар «Бесконечность».webp
 �
@@ -13682,19 +13682,19 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 enInfinity Avatar
 
-plInfinity Avatar
-
 zhInfinity Avatar
--
-ja'アバター「インフィニティ」
-3
-uk-Аватар «Нескінченність»
+
+plInfinity Avatar
 
 ptInfinity Avatar
 
 esInfinity Avatar
 
 frAvatar Infini
+3
+uk-Аватар «Нескінченність»
+-
+ja'アバター「インフィニティ」
 1
 ru+Аватар «Бесконечность».webp
 �
@@ -13702,19 +13702,19 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 enInfinity Avatar
 
-plInfinity Avatar
-
 zhInfinity Avatar
--
-ja'アバター「インフィニティ」
-3
-uk-Аватар «Нескінченність»
+
+plInfinity Avatar
 
 ptInfinity Avatar
 
 esInfinity Avatar
 
 frAvatar Infini
+3
+uk-Аватар «Нескінченність»
+-
+ja'アバター「インフィニティ」
 1
 ru+Аватар «Бесконечность».webp
 �
@@ -13722,19 +13722,19 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 enInfinity Avatar
 
-plInfinity Avatar
-
 zhInfinity Avatar
--
-ja'アバター「インフィニティ」
-3
-uk-Аватар «Нескінченність»
+
+plInfinity Avatar
 
 ptInfinity Avatar
 
 esInfinity Avatar
 
 frAvatar Infini
+3
+uk-Аватар «Нескінченність»
+-
+ja'アバター「インフィニティ」
 1
 ru+Аватар «Бесконечность».webp
 �
@@ -13742,19 +13742,19 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 enLascannon Avatar
 
-plLascannon Avatar
-
 zhLascannon Avatar
-'
-ja!アバター「レーザー砲」
-%
-ukАватар «Мініган»
+
+plLascannon Avatar
 
 ptLascannon Avatar
 
 esLascannon Avatar
 
 frAvatar Lascannon
+%
+ukАватар «Мініган»
+'
+ja!アバター「レーザー砲」
 %
 ruАватар «Миниган».webp
 �
@@ -13762,13 +13762,9 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 enLascannon Avatar
 
-plLascannon Avatar
-
 zhLascannon Avatar
-'
-ja!アバター「レーザー砲」
-%
-ukАватар «Мініган»
+
+plLascannon Avatar
 
 ptLascannon Avatar
 
@@ -13776,25 +13772,29 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 frAvatar Lascannon
 %
+ukАватар «Мініган»
+'
+ja!アバター「レーザー砲」
+%
 ruАватар «Миниган».webp
 �
 avatar_progressive_bp_24_paid_6�
 
 enInfinity Avatar
 
-plInfinity Avatar
-
 zhInfinity Avatar
--
-ja'アバター「インフィニティ」
-3
-uk-Аватар «Нескінченність»
+
+plInfinity Avatar
 
 ptInfinity Avatar
 
 esInfinity Avatar
 
 frAvatar Infini
+3
+uk-Аватар «Нескінченність»
+-
+ja'アバター「インフィニティ」
 1
 ru+Аватар «Бесконечность».webp
 �
@@ -13802,13 +13802,9 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 enLukas Podolski Avatar
 
-plLukas Podolski Avatar
-
 zhLukas Podolski Avatar
-6
-ja0アバター「ルーカス・ポドルスキ」
-4
-uk.Аватар «Лукас Подольскі»
+
+plLukas Podolski Avatar
 
 ptLukas Podolski Avatar
 
@@ -13816,19 +13812,19 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 frAvatar de Lukas Podolski
 4
+uk.Аватар «Лукас Подольскі»
+6
+ja0アバター「ルーカス・ポドルスキ」
+4
 ru.Аватар «Лукас Подольски».webp
 �
 avatar_NA_Jokers_legendary�
 
 enJokers Avatar
 
-plJokers Avatar
-
 zhJokers Avatar
-
-jaアバター「Jokers」
-
-ukАватар Jokers
+
+plJokers Avatar
 
 ptJokers Avatar
 
@@ -13836,19 +13832,19 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 frAvatar de Jokers
 
+ukАватар Jokers
+
+jaアバター「Jokers」
+
 ruАватар Jokers.webp
 �
 avatar_ZOMBI_2023_30d�
 
 enАватар ZOMBI
 
-plАватар ZOMBI
-
 zhАватар ZOMBI
 
-jaАватар ZOMBI
-
-ukАватар ZOMBI
+plАватар ZOMBI
 
 ptАватар ZOMBI
 
@@ -13856,19 +13852,19 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 frАватар ZOMBI
 
+ukАватар ZOMBI
+
+jaАватар ZOMBI
+
 ruАватар ZOMBI.webp
 �
 avatar_progressive_bp_42_free_1�
 
 enIngrid Lindholm Avatar
 
-plIngrid Lindholm Avatar
-
 zhIngrid Lindholm Avatar
-?
-ja9アバター「イングリッド・リンドホルム」
-6
-uk0Аватар «Інгрід Ліндхольм»
+
+plIngrid Lindholm Avatar
 
 ptIngrid Lindholm Avatar
 
@@ -13876,25 +13872,29 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 frAvatar Ingrid Lindholm
 6
+uk0Аватар «Інгрід Ліндхольм»
+?
+ja9アバター「イングリッド・リンドホルム」
+6
 ru0Аватар «Ингрид Линдхольм».webp
 �
 avatar_progressive_bp_63_free_4�
 
 enOlde Messenger Avatar
 
-plOlde Messenger Avatar
-
 zhOlde Messenger Avatar
-0
-ja*アバター「旧き刻からの使者」
-?
-uk9Аватар «Посланець із минулого»
+
+plOlde Messenger Avatar
 
 ptOlde Messenger Avatar
 
 esOlde Messenger Avatar
 
 frAvatar Messager antique
+?
+uk9Аватар «Посланець із минулого»
+0
+ja*アバター「旧き刻からの使者」
 %
 ruАватар «Вестник».webp
 �
@@ -13902,19 +13902,19 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 enPlatinum League Avatar
 
-plPlatinum League Avatar
-
 zhPlatinum League Avatar
--
-ja'アバター「プラチナリーグ」
-2
-uk,Аватар «Платинова Ліга»
+
+plPlatinum League Avatar
 
 ptPlatinum League Avatar
 
 esPlatinum League Avatar
  
 frAvatar de la Ligue Platine
+2
+uk,Аватар «Платинова Ліга»
+-
+ja'アバター「プラチナリーグ」
 4
 ru.Аватар «Платиновая Лига».png
 �
@@ -13922,13 +13922,9 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 enEagle Avatar
 
-plEagle Avatar
-
 zhEagle Avatar
-
-jaアバター「鷹」
-
-ukАватар «Орел»
+
+plEagle Avatar
 
 ptEagle Avatar
 
@@ -13936,25 +13932,29 @@ $avatar_progressive_rb_gold_eu_wins_9�
 
 frAvatar d'aigle
 
+ukАватар «Орел»
+
+jaアバター「鷹」
+
 ruАватар «Орёл».png
 �
 avatar_community_cat_legendary�
 
 enNaughty Cat Avatar
 
-plNaughty Cat Avatar
-
 zhNaughty Cat Avatar
--
-ja'アバター「小悪魔ニャンコ」
-*
-uk$Аватар «Кіт-пустун»
+
+plNaughty Cat Avatar
 
 ptNaughty Cat Avatar
 
 esNaughty Cat Avatar
 
 frAvatar Vilain chat
+*
+uk$Аватар «Кіт-пустун»
+-
+ja'アバター「小悪魔ニャンコ」
 0
 ru*Аватар «Шкодливый кот».webp
 �
@@ -13962,13 +13962,9 @@ $avatar_progressive_rb_gold_eu_wins_9�
 %
 en[ALTER] AlterNative Clan Avatar
 %
-pl[ALTER] AlterNative Clan Avatar
-%
 zh[ALTER] AlterNative Clan Avatar
-5
-ja/アバター「クラン [ALTER] AlterNative」
-3
-uk-Аватар «Клан [ALTER] AlterNative»
+%
+pl[ALTER] AlterNative Clan Avatar
 %
 pt[ALTER] AlterNative Clan Avatar
 %
@@ -13976,25 +13972,29 @@ $avatar_progressive_rb_gold_eu_wins_9�
 (
 fr"Avatar du clan [ALTER] AlterNative
 3
+uk-Аватар «Клан [ALTER] AlterNative»
+5
+ja/アバター「クラン [ALTER] AlterNative」
+3
 ru-Аватар «Клан [ALTER] AlterNative».webp
 �
 avatar_top2_legendary_anim_31d�
 "
 enTop-2 Rating Animated Avatar
 "
-plTop-2 Rating Animated Avatar
-"
 zhTop-2 Rating Animated Avatar
-K
-jaEアニメーション付きアバター「レーティング Top-2」
-E
-uk?Анімований аватар «Топ-2 рейтингу»
+"
+plTop-2 Rating Animated Avatar
 "
 ptTop-2 Rating Animated Avatar
 "
 esTop-2 Rating Animated Avatar
 %
 frAvatar animé Top 2 des cotées
+E
+uk?Анімований аватар «Топ-2 рейтингу»
+K
+jaEアニメーション付きアバター「レーティング Top-2」
 K
 ruEАнимированный аватар «Топ-2 рейтинга».webp
 �
@@ -14002,19 +14002,19 @@ K
 
 enSnack Time Avatar
 
-plSnack Time Avatar
-
 zhSnack Time Avatar
-*
-ja$アバター「おやつの時間」
-<
-uk6Аватар «Солодкий чи солоний?»
+
+plSnack Time Avatar
 
 ptSnack Time Avatar
 
 esSnack Time Avatar
 (
 fr"Avatar de l'heure du casse-croûte
+<
+uk6Аватар «Солодкий чи солоний?»
+*
+ja$アバター「おやつの時間」
 <
 ru6Аватар «Сладкий или солёный?».webp
 �
@@ -14022,19 +14022,19 @@ K
 
 enEvil Clown Avatar
 
-plEvil Clown Avatar
-
 zhEvil Clown Avatar
-*
-ja$アバター「邪悪なピエロ」
-4
-uk.Аватар «Зловісний клоун»
+
+plEvil Clown Avatar
 
 ptEvil Clown Avatar
 
 esEvil Clown Avatar
  
 frAvatar du clown diabolique
+4
+uk.Аватар «Зловісний клоун»
+*
+ja$アバター「邪悪なピエロ」
 2
 ru,Аватар «Зловещий клоун».png
 �
@@ -14042,19 +14042,19 @@ K
 %
 enRating Champion Animated Avatar
 %
-plRating Champion Animated Avatar
-%
 zhRating Champion Animated Avatar
-W
-jaQアニメーション付きアバター「レーティングチャンピオン」
-K
-ukEАнімований аватар «Чемпіон рейтингу»
+%
+plRating Champion Animated Avatar
 %
 ptRating Champion Animated Avatar
 %
 esRating Champion Animated Avatar
 (
 fr"Avatar animé Champion des cotées
+K
+ukEАнімований аватар «Чемпіон рейтингу»
+W
+jaQアニメーション付きアバター「レーティングチャンピオン」
 Q
 ruKАнимированный аватар «Чемпион рейтинга».webp
 �
@@ -14062,19 +14062,19 @@ Q
 
 enAtmospheric Entry Avatar
 
-plAtmospheric Entry Avatar
-
 zhAtmospheric Entry Avatar
-0
-ja*アバター「宇宙からの飛来物」
-4
-uk.Аватар «Крізь атмосферу»
+
+plAtmospheric Entry Avatar
 
 ptAtmospheric Entry Avatar
 
 esAtmospheric Entry Avatar
 '
 fr!Avatar Entrée dans l'atmosphère
+4
+uk.Аватар «Крізь атмосферу»
+0
+ja*アバター「宇宙からの飛来物」
 6
 ru0Аватар «Сквозь атмосферу».webp
 �
@@ -14082,19 +14082,19 @@ Q
 
 enHeroes' Toolkit Avatar
 
-plHeroes' Toolkit Avatar
-
 zhHeroes' Toolkit Avatar
-*
-ja$アバター「英雄の装備品」
-@
-uk:Аватар «Інструментарій героїв»
+
+plHeroes' Toolkit Avatar
 
 ptHeroes' Toolkit Avatar
 
 esHeroes' Toolkit Avatar
 (
 fr"Avatar Boîte à outils des héros
+@
+uk:Аватар «Інструментарій героїв»
+*
+ja$アバター「英雄の装備品」
 F
 ru@Аватар «Геройский инструментарий».webp
 �
@@ -14102,19 +14102,19 @@ F
 
 enAtmospheric Entry Avatar
 
-plAtmospheric Entry Avatar
-
 zhAtmospheric Entry Avatar
-0
-ja*アバター「宇宙からの飛来物」
-4
-uk.Аватар «Крізь атмосферу»
+
+plAtmospheric Entry Avatar
 
 ptAtmospheric Entry Avatar
 
 esAtmospheric Entry Avatar
 '
 fr!Avatar Entrée dans l'atmosphère
+4
+uk.Аватар «Крізь атмосферу»
+0
+ja*アバター「宇宙からの飛来物」
 6
 ru0Аватар «Сквозь атмосферу».webp
 �
@@ -14122,19 +14122,19 @@ F
 
 enHeroes' Toolkit Avatar
 
-plHeroes' Toolkit Avatar
-
 zhHeroes' Toolkit Avatar
-*
-ja$アバター「英雄の装備品」
-@
-uk:Аватар «Інструментарій героїв»
+
+plHeroes' Toolkit Avatar
 
 ptHeroes' Toolkit Avatar
 
 esHeroes' Toolkit Avatar
 (
 fr"Avatar Boîte à outils des héros
+@
+uk:Аватар «Інструментарій героїв»
+*
+ja$アバター「英雄の装備品」
 F
 ru@Аватар «Геройский инструментарий».webp
 �
@@ -14142,19 +14142,19 @@ F
  
 enUnder Investigation Avatar
  
-plUnder Investigation Avatar
- 
 zhUnder Investigation Avatar
-'
-ja!アバター「調査遂行中」
-1
-uk+Аватар «Розслідується»
+ 
+plUnder Investigation Avatar
  
 ptUnder Investigation Avatar
  
 esUnder Investigation Avatar
 
 frAvatar Enquête en cours
+1
+uk+Аватар «Розслідується»
+'
+ja!アバター「調査遂行中」
 4
 ru.Аватар «Под подозрением».webp
 �
@@ -14162,19 +14162,19 @@ F
  
 enUnder Investigation Avatar
  
-plUnder Investigation Avatar
- 
 zhUnder Investigation Avatar
-'
-ja!アバター「調査遂行中」
-1
-uk+Аватар «Розслідується»
+ 
+plUnder Investigation Avatar
  
 ptUnder Investigation Avatar
  
 esUnder Investigation Avatar
 
 frAvatar Enquête en cours
+1
+uk+Аватар «Розслідується»
+'
+ja!アバター「調査遂行中」
 4
 ru.Аватар «Под подозрением».webp
 �
@@ -14182,13 +14182,9 @@ F
 
 enSnack Time Avatar
 
-plSnack Time Avatar
-
 zhSnack Time Avatar
-*
-ja$アバター「おやつの時間」
-<
-uk6Аватар «Солодкий чи солоний?»
+
+plSnack Time Avatar
 
 ptSnack Time Avatar
 
@@ -14196,25 +14192,29 @@ F
 (
 fr"Avatar de l'heure du casse-croûte
 <
+uk6Аватар «Солодкий чи солоний?»
+*
+ja$アバター「おやつの時間」
+<
 ru6Аватар «Сладкий или солёный?».webp
 �
 avatar_progressive_bp_7_free_4�
 
 enVirtus Avatar
 
-plVirtus Avatar
-
 zhVirtus Avatar
-
-jaアバター「美徳」
-
-ukАватар Virtus
+
+plVirtus Avatar
 
 ptVirtus Avatar
 
 esVirtus Avatar
 
 frAvatar Virtus
+
+ukАватар Virtus
+
+jaアバター「美徳」
 
 ruАватар Virtus.png
 �
@@ -14222,19 +14222,19 @@ F
  
 enUnder Investigation Avatar
  
-plUnder Investigation Avatar
- 
 zhUnder Investigation Avatar
-'
-ja!アバター「調査遂行中」
-1
-uk+Аватар «Розслідується»
+ 
+plUnder Investigation Avatar
  
 ptUnder Investigation Avatar
  
 esUnder Investigation Avatar
 
 frAvatar Enquête en cours
+1
+uk+Аватар «Розслідується»
+'
+ja!アバター「調査遂行中」
 4
 ru.Аватар «Под подозрением».webp
 �
@@ -14242,13 +14242,9 @@ F
 !
 en行动的特殊礼包头像
 !
-pl行动的特殊礼包头像
-!
 zh行动的特殊礼包头像
 !
-ja行动的特殊礼包头像
-!
-uk行动的特殊礼包头像
+pl行动的特殊礼包头像
 !
 pt行动的特殊礼包头像
 !
@@ -14256,25 +14252,29 @@ F
 !
 fr行动的特殊礼包头像
 !
+uk行动的特殊礼包头像
+!
+ja行动的特殊礼包头像
+!
 ru行动的特殊礼包头像.webp
 �
 avatar_progressive_bp_19_paid_5�
 
 enRight Direction Avatar
 
-plRight Direction Avatar
-
 zhRight Direction Avatar
-*
-ja$アバター「確かな足取り」
-=
-uk7Аватар «На правильному шляху»
+
+plRight Direction Avatar
 
 ptRight Direction Avatar
 
 esRight Direction Avatar
 
 frAvatar La bonne direction
+=
+uk7Аватар «На правильному шляху»
+*
+ja$アバター「確かな足取り」
 1
 ru+Аватар «На верном пути».webp
 �
@@ -14282,19 +14282,19 @@ F
 
 enVirtus Avatar
 
-plVirtus Avatar
-
 zhVirtus Avatar
-
-jaアバター「美徳」
-
-ukАватар Virtus
+
+plVirtus Avatar
 
 ptVirtus Avatar
 
 esVirtus Avatar
 
 frAvatar Virtus
+
+ukАватар Virtus
+
+jaアバター「美徳」
 
 ruАватар Virtus.png
 �
@@ -14302,13 +14302,9 @@ F
 
 enIlaina Kitt Avatar
 
-plIlaina Kitt Avatar
-
 zhIlaina Kitt Avatar
-0
-ja*アバター「イライナ・キット」
-,
-uk&Аватар «Ілайна Кітт»
+
+plIlaina Kitt Avatar
 
 ptIlaina Kitt Avatar
 
@@ -14316,19 +14312,19 @@ F
 
 frAvatar Ilaina Kitt
 ,
+uk&Аватар «Ілайна Кітт»
+0
+ja*アバター「イライナ・キット」
+,
 ru&Аватар «Илайна Китт».webp
 �
 avatar_HotTOG_legendary�
 
 enHot-TOG Avatar
 
-plHot-TOG Avatar
-
 zhHot-TOG Avatar
-*
-ja$アバター「ホットトッグ」
-!
-ukАватар «Хот-TOG»
+
+plHot-TOG Avatar
 
 ptHot-TOG Avatar
 
@@ -14336,25 +14332,29 @@ F
 
 frAvatar Hot-TOG
 !
+ukАватар «Хот-TOG»
+*
+ja$アバター「ホットトッグ」
+!
 ruАватар «Хот-TOG».webp
 �
 avatar_isu_152_tankgirl�
 
 enISU-152 Girl Avatar
 
-plISU-152 Girl Avatar
-
 zhISU-152 Girl Avatar
-#
-jaアバター「ISU-152 嬢」
-
-ukАватар ISU-152 Girl
+
+plISU-152 Girl Avatar
 
 ptISU-152 Girl Avatar
 
 esISU-152 Girl Avatar
 
 frAvatar ISU-152 Girl
+
+ukАватар ISU-152 Girl
+#
+jaアバター「ISU-152 嬢」
 &
 ru Аватар «ИСУ-152 Girl».webp
 �
@@ -14362,19 +14362,19 @@ F
 
 enBrandenburger Tor Avatar
 
-plBrandenburger Tor Avatar
-
 zhBrandenburger Tor Avatar
 
-jaBrandenburger Tor Avatar
-@
-uk:Аватар «Бранденбурзькі ворота»
+plBrandenburger Tor Avatar
 
 ptBrandenburger Tor Avatar
 
 esBrandenburger Tor Avatar
 
 frAvatar Brandenburger Tor
+@
+uk:Аватар «Бранденбурзькі ворота»
+
+jaBrandenburger Tor Avatar
 
 ruBrandenburger Tor Avatar.webp
 �
@@ -14382,19 +14382,19 @@ F
 
 enVirtus Avatar
 
-plVirtus Avatar
-
 zhVirtus Avatar
-
-jaアバター「美徳」
-
-ukАватар Virtus
+
+plVirtus Avatar
 
 ptVirtus Avatar
 
 esVirtus Avatar
 
 frAvatar Virtus
+
+ukАватар Virtus
+
+jaアバター「美徳」
 
 ruАватар Virtus.png
 �
@@ -14402,19 +14402,19 @@ F
 
 enLightning Catcher Avatar
 
-plLightning Catcher Avatar
-
 zhLightning Catcher Avatar
-!
-jaアバター「雷の主」
-6
-uk0Аватар «Ловець блискавок»
+
+plLightning Catcher Avatar
 
 ptLightning Catcher Avatar
 
 esLightning Catcher Avatar
 &
 fr Avatar de l'attrapeur d'éclairs
+6
+uk0Аватар «Ловець блискавок»
+!
+jaアバター「雷の主」
 /
 ru)Аватар «Ловец молний».png
 �
@@ -14422,19 +14422,19 @@ F
 
 enPlace of Power Avatar
 
-plPlace of Power Avatar
-
 zhPlace of Power Avatar
-'
-ja!アバター「古伝の霊地」
-*
-uk$Аватар «Місце сили»
+
+plPlace of Power Avatar
 
 ptPlace of Power Avatar
 
 esPlace of Power Avatar
 !
 frAvatar du lieu de puissance
+*
+uk$Аватар «Місце сили»
+'
+ja!アバター「古伝の霊地」
 *
 ru$Аватар «Место силы».webp
 �
@@ -14442,13 +14442,9 @@ F
 9
 en3Анимированный аватар RBmk-Energy
 9
-pl3Анимированный аватар RBmk-Energy
-9
 zh3Анимированный аватар RBmk-Energy
 9
-ja3Анимированный аватар RBmk-Energy
-9
-uk3Анимированный аватар RBmk-Energy
+pl3Анимированный аватар RBmk-Energy
 9
 pt3Анимированный аватар RBmk-Energy
 9
@@ -14456,19 +14452,19 @@ F
 9
 fr3Анимированный аватар RBmk-Energy
 9
+uk3Анимированный аватар RBmk-Energy
+9
+ja3Анимированный аватар RBmk-Energy
+9
 ru3Анимированный аватар RBmk-Energy.webp
 �
 avatar_progressive_bp_7_free_3�
 
 enVirtus Avatar
 
-plVirtus Avatar
-
 zhVirtus Avatar
-
-jaアバター「美徳」
-
-ukАватар Virtus
+
+plVirtus Avatar
 
 ptVirtus Avatar
 
@@ -14476,19 +14472,19 @@ F
 
 frAvatar Virtus
 
+ukАватар Virtus
+
+jaアバター「美徳」
+
 ruАватар Virtus.png
 �
 avatar_angry_bunny_legendary�
 
 enBunnysher Avatar
 
-plBunnysher Avatar
-
 zhBunnysher Avatar
-6
-ja0アバター「残忍なバニーッシャー」
-1
-uk+Аватар «Кроліквідатор»
+
+plBunnysher Avatar
 
 ptBunnysher Avatar
 
@@ -14496,25 +14492,29 @@ F
 
 frAvatar Bunnysher
 1
+uk+Аватар «Кроліквідатор»
+6
+ja0アバター「残忍なバニーッシャー」
+1
 ru+Аватар «Кроликвидатор».webp
 �
 avatar_progressive_bp_42_paid_1�
 
 enSteel Buteo Avatar
 
-plSteel Buteo Avatar
-
 zhSteel Buteo Avatar
-0
-ja*アバター「スチール・ブテオ」
-2
-uk,Аватар «Сталевий канюк»
+
+plSteel Buteo Avatar
 
 ptSteel Buteo Avatar
 
 esSteel Buteo Avatar
 
 frAvatar Buteo d'acier
+2
+uk,Аватар «Сталевий канюк»
+0
+ja*アバター「スチール・ブテオ」
 2
 ru,Аватар «Стальная птица».webp
 �
@@ -14522,19 +14522,19 @@ F
 
 enSteel Buteo Avatar
 
-plSteel Buteo Avatar
-
 zhSteel Buteo Avatar
-0
-ja*アバター「スチール・ブテオ」
-2
-uk,Аватар «Сталевий канюк»
+
+plSteel Buteo Avatar
 
 ptSteel Buteo Avatar
 
 esSteel Buteo Avatar
 
 frAvatar Buteo d'acier
+2
+uk,Аватар «Сталевий канюк»
+0
+ja*アバター「スチール・ブテオ」
 2
 ru,Аватар «Стальная птица».webp
 �
@@ -14542,19 +14542,19 @@ F
 
 enSteel Buteo Avatar
 
-plSteel Buteo Avatar
-
 zhSteel Buteo Avatar
-0
-ja*アバター「スチール・ブテオ」
-2
-uk,Аватар «Сталевий канюк»
+
+plSteel Buteo Avatar
 
 ptSteel Buteo Avatar
 
 esSteel Buteo Avatar
 
 frAvatar Buteo d'acier
+2
+uk,Аватар «Сталевий канюк»
+0
+ja*アバター「スチール・ブテオ」
 2
 ru,Аватар «Стальная птица».webp
 �
@@ -14562,19 +14562,19 @@ F
 
 enSteel Buteo Avatar
 
-plSteel Buteo Avatar
-
 zhSteel Buteo Avatar
-0
-ja*アバター「スチール・ブテオ」
-2
-uk,Аватар «Сталевий канюк»
+
+plSteel Buteo Avatar
 
 ptSteel Buteo Avatar
 
 esSteel Buteo Avatar
 
 frAvatar Buteo d'acier
+2
+uk,Аватар «Сталевий канюк»
+0
+ja*アバター「スチール・ブテオ」
 2
 ru,Аватар «Стальная птица».webp
 �
@@ -14582,13 +14582,9 @@ F
 
 enSteel Buteo Avatar
 
-plSteel Buteo Avatar
-
 zhSteel Buteo Avatar
-0
-ja*アバター「スチール・ブテオ」
-2
-uk,Аватар «Сталевий канюк»
+
+plSteel Buteo Avatar
 
 ptSteel Buteo Avatar
 
@@ -14596,19 +14592,19 @@ F
 
 frAvatar Buteo d'acier
 2
+uk,Аватар «Сталевий канюк»
+0
+ja*アバター「スチール・ブテオ」
+2
 ru,Аватар «Стальная птица».webp
 �
 avatar_Midwinter_legendary�
 0
 en*[N0MAD] In the Bleak Midwinter Clan Avatar
 0
-pl*[N0MAD] In the Bleak Midwinter Clan Avatar
-0
 zh*[N0MAD] In the Bleak Midwinter Clan Avatar
-@
-ja:アバター「クラン [N0MAD] In the Bleak Midwinter」
->
-uk8Аватар «Клан [N0MAD] In the Bleak Midwinter»
+0
+pl*[N0MAD] In the Bleak Midwinter Clan Avatar
 0
 pt*[N0MAD] In the Bleak Midwinter Clan Avatar
 0
@@ -14616,25 +14612,29 @@ F
 3
 fr-Avatar du clan [N0MAD] In the Bleak Midwinter
 >
+uk8Аватар «Клан [N0MAD] In the Bleak Midwinter»
+@
+ja:アバター「クラン [N0MAD] In the Bleak Midwinter」
+>
 ru8Аватар «Клан [N0MAD] In the Bleak Midwinter».webp
 �
 avatar_progressive_bp_13_free_4�
 
 enStick Grenade Avatar
 
-plStick Grenade Avatar
-
 zhStick Grenade Avatar
-9
-ja3アバター「スティック・グレネード」
-0
-uk*Аватар «Ручна граната»
+
+plStick Grenade Avatar
 
 ptStick Grenade Avatar
 
 esStick Grenade Avatar
 
 frAvatar Grenade à manche
+0
+uk*Аватар «Ручна граната»
+9
+ja3アバター「スティック・グレネード」
 2
 ru,Аватар «Ручная граната».webp
 �
@@ -14642,19 +14642,19 @@ F
 $
 enDirk Verbeuren Animated Avatar
 $
-plDirk Verbeuren Animated Avatar
-$
 zhDirk Verbeuren Animated Avatar
-W
-jaQアニメーション付きアバター「ダーク・ヴェルビューレン」
-E
-uk?Анімований аватар «Дірк Вербурен»
+$
+plDirk Verbeuren Animated Avatar
 $
 ptDirk Verbeuren Animated Avatar
 $
 esDirk Verbeuren Animated Avatar
 "
 frAvatar animé Dirk Verbeuren
+E
+uk?Анімований аватар «Дірк Вербурен»
+W
+jaQアニメーション付きアバター「ダーク・ヴェルビューレン」
 K
 ruEАнимированный аватар «Дирк Вербурен».webp
 �
@@ -14662,19 +14662,19 @@ K
 
 enStick Grenade Avatar
 
-plStick Grenade Avatar
-
 zhStick Grenade Avatar
-9
-ja3アバター「スティック・グレネード」
-0
-uk*Аватар «Ручна граната»
+
+plStick Grenade Avatar
 
 ptStick Grenade Avatar
 
 esStick Grenade Avatar
 
 frAvatar Grenade à manche
+0
+uk*Аватар «Ручна граната»
+9
+ja3アバター「スティック・グレネード」
 2
 ru,Аватар «Ручная граната».webp
 �
@@ -14682,19 +14682,19 @@ K
 !
 enLet's Get Mechanical Avatar
 !
-plLet's Get Mechanical Avatar
-!
 zhLet's Get Mechanical Avatar
-0
-ja*アバター「メカニックの出番」
-G
-ukAАватар «Візьмімося за інструменти»
+!
+plLet's Get Mechanical Avatar
 !
 ptLet's Get Mechanical Avatar
 !
 esLet's Get Mechanical Avatar
 %
 frAvatar Faisons de la mécanique
+G
+ukAАватар «Візьмімося за інструменти»
+0
+ja*アバター「メカニックの出番」
 @
 ru:Аватар «Пора механизироваться».webp
 �
@@ -14702,13 +14702,9 @@ G
 
 enWinter Meister Avatar
 
-plWinter Meister Avatar
-
 zhWinter Meister Avatar
-0
-ja*アバター「クリスマスの悪魔」
-&
-uk Аватар «Дух зими»
+
+plWinter Meister Avatar
 
 ptWinter Meister Avatar
 
@@ -14716,25 +14712,29 @@ G
 
 frAvatar Meister de l'hiver
 &
+uk Аватар «Дух зими»
+0
+ja*アバター「クリスマスの悪魔」
+&
 ru Аватар «Дух зимы».webp
 �
 avatar_progressive_bp_31_paid_3�
 
 enPlace of Power Avatar
 
-plPlace of Power Avatar
-
 zhPlace of Power Avatar
-'
-ja!アバター「古伝の霊地」
-*
-uk$Аватар «Місце сили»
+
+plPlace of Power Avatar
 
 ptPlace of Power Avatar
 
 esPlace of Power Avatar
 !
 frAvatar du lieu de puissance
+*
+uk$Аватар «Місце сили»
+'
+ja!アバター「古伝の霊地」
 *
 ru$Аватар «Место силы».webp
 �
@@ -14742,19 +14742,19 @@ G
 
 enStick Grenade Avatar
 
-plStick Grenade Avatar
-
 zhStick Grenade Avatar
-9
-ja3アバター「スティック・グレネード」
-0
-uk*Аватар «Ручна граната»
+
+plStick Grenade Avatar
 
 ptStick Grenade Avatar
 
 esStick Grenade Avatar
 
 frAvatar Grenade à manche
+0
+uk*Аватар «Ручна граната»
+9
+ja3アバター「スティック・グレネード」
 2
 ru,Аватар «Ручная граната».webp
 �
@@ -14762,19 +14762,19 @@ G
 
 enStick Grenade Avatar
 
-plStick Grenade Avatar
-
 zhStick Grenade Avatar
-9
-ja3アバター「スティック・グレネード」
-0
-uk*Аватар «Ручна граната»
+
+plStick Grenade Avatar
 
 ptStick Grenade Avatar
 
 esStick Grenade Avatar
 
 frAvatar Grenade à manche
+0
+uk*Аватар «Ручна граната»
+9
+ja3アバター「スティック・グレネード」
 2
 ru,Аватар «Ручная граната».webp
 �
@@ -14782,19 +14782,19 @@ G
 
 enStick Grenade Avatar
 
-plStick Grenade Avatar
-
 zhStick Grenade Avatar
-9
-ja3アバター「スティック・グレネード」
-0
-uk*Аватар «Ручна граната»
+
+plStick Grenade Avatar
 
 ptStick Grenade Avatar
 
 esStick Grenade Avatar
 
 frAvatar Grenade à manche
+0
+uk*Аватар «Ручна граната»
+9
+ja3アバター「スティック・グレネード」
 2
 ru,Аватар «Ручная граната».webp
 �
@@ -14802,19 +14802,19 @@ G
 
 enPlace of Power Avatar
 
-plPlace of Power Avatar
-
 zhPlace of Power Avatar
-'
-ja!アバター「古伝の霊地」
-*
-uk$Аватар «Місце сили»
+
+plPlace of Power Avatar
 
 ptPlace of Power Avatar
 
 esPlace of Power Avatar
 !
 frAvatar du lieu de puissance
+*
+uk$Аватар «Місце сили»
+'
+ja!アバター「古伝の霊地」
 *
 ru$Аватар «Место силы».webp
 �
@@ -14822,19 +14822,19 @@ G
 
 enFiery Shell Avatar
 
-plFiery Shell Avatar
-
 zhFiery Shell Avatar
-'
-ja!アバター「燃える弾丸」
-6
-uk0Аватар «Очманілий снаряд»
+
+plFiery Shell Avatar
 
 ptFiery Shell Avatar
 
 esFiery Shell Avatar
 
 frAvatar de l'obus ardent
+6
+uk0Аватар «Очманілий снаряд»
+'
+ja!アバター「燃える弾丸」
 2
 ru,Аватар «Шальной снаряд».png
 �
@@ -14842,19 +14842,19 @@ G
 
 enPlace of Power Avatar
 
-plPlace of Power Avatar
-
 zhPlace of Power Avatar
-'
-ja!アバター「古伝の霊地」
-*
-uk$Аватар «Місце сили»
+
+plPlace of Power Avatar
 
 ptPlace of Power Avatar
 
 esPlace of Power Avatar
 !
 frAvatar du lieu de puissance
+*
+uk$Аватар «Місце сили»
+'
+ja!アバター「古伝の霊地」
 *
 ru$Аватар «Место силы».webp
 �
@@ -14862,19 +14862,19 @@ G
 
 enScarab Animated Avatar
 
-plScarab Animated Avatar
-
 zhScarab Animated Avatar
-H
-jaBアニメーション付きアバター「スカラベの護符」
-<
-uk6Анімований аватар «Скарабей»
+
+plScarab Animated Avatar
 
 ptScarab Animated Avatar
 
 esScarab Animated Avatar
 
 frAvatar animé Scarabée
+<
+uk6Анімований аватар «Скарабей»
+H
+jaBアニメーション付きアバター「スカラベの護符」
 B
 ru<Анимированный аватар «Скарабей».webp
 �
@@ -14882,19 +14882,19 @@ B
 
 enGingy Avatar
 
-plGingy Avatar
-
 zhGingy Avatar
-$
-jaアバター「ジンジー」
-%
-ukАватар «Прянько»
+
+plGingy Avatar
 
 ptGingy Avatar
 
 esGingy Avatar
 )
 fr#Avatar de bonhomme de pain d'épice
+%
+ukАватар «Прянько»
+$
+jaアバター「ジンジー」
 !
 ruАватар «Пряня».webp
 �
@@ -14902,13 +14902,9 @@ $
 
 enRobert Kitt Avatar
 
-plRobert Kitt Avatar
-
 zhRobert Kitt Avatar
-0
-ja*アバター「ロバート・キット」
-,
-uk&Аватар «Роберт Кітт»
+
+plRobert Kitt Avatar
 
 ptRobert Kitt Avatar
 
@@ -14916,25 +14912,29 @@ $
 
 frAvatar Robert Kitt
 ,
+uk&Аватар «Роберт Кітт»
+0
+ja*アバター「ロバート・キット」
+,
 ru&Аватар «Роберт Китт».webp
 �
 avatar_progressive_bp_28_paid_1�
 
 enGingy Avatar
 
-plGingy Avatar
-
 zhGingy Avatar
-$
-jaアバター「ジンジー」
-%
-ukАватар «Прянько»
+
+plGingy Avatar
 
 ptGingy Avatar
 
 esGingy Avatar
 )
 fr#Avatar de bonhomme de pain d'épice
+%
+ukАватар «Прянько»
+$
+jaアバター「ジンジー」
 !
 ruАватар «Пряня».webp
 �
@@ -14942,19 +14942,19 @@ $
 
 enPlace of Power Avatar
 
-plPlace of Power Avatar
-
 zhPlace of Power Avatar
-'
-ja!アバター「古伝の霊地」
-*
-uk$Аватар «Місце сили»
+
+plPlace of Power Avatar
 
 ptPlace of Power Avatar
 
 esPlace of Power Avatar
 !
 frAvatar du lieu de puissance
+*
+uk$Аватар «Місце сили»
+'
+ja!アバター「古伝の霊地」
 *
 ru$Аватар «Место силы».webp
 �
@@ -14962,13 +14962,9 @@ $
 
 enOrigin Avatar
 
-plOrigin Avatar
-
 zhOrigin Avatar
-
-jaアバター「Origin」
-
-ukАватар Origin
+
+plOrigin Avatar
 
 ptOrigin Avatar
 
@@ -14976,19 +14972,19 @@ $
 
 frAvatar d'Origin
 
+ukАватар Origin
+
+jaアバター「Origin」
+
 ruАватар Origin.webp
 �
 avatar_progressive_bp_31_paid_5�
 
 enPlace of Power Avatar
 
-plPlace of Power Avatar
-
 zhPlace of Power Avatar
-'
-ja!アバター「古伝の霊地」
-*
-uk$Аватар «Місце сили»
+
+plPlace of Power Avatar
 
 ptPlace of Power Avatar
 
@@ -14996,19 +14992,19 @@ $
 !
 frAvatar du lieu de puissance
 *
+uk$Аватар «Місце сили»
+'
+ja!アバター「古伝の霊地」
+*
 ru$Аватар «Место силы».webp
 �
 avatar_pot_of_gold_unique�
 
 enLeprechaun's Gold Avatar
 
-plLeprechaun's Gold Avatar
-
 zhLeprechaun's Gold Avatar
-9
-ja3アバター「レプラコーンのゴールド」
-6
-uk0Аватар «Золото лепрекона»
+
+plLeprechaun's Gold Avatar
 
 ptLeprechaun's Gold Avatar
 
@@ -15016,19 +15012,19 @@ $
 
 frAvatar Or du farfadet
 6
+uk0Аватар «Золото лепрекона»
+9
+ja3アバター「レプラコーンのゴールド」
+6
 ru0Аватар «Золото лепрекона».webp
 �
 avatar_shinobi_legendary�
 
 enNinja Avatar
 
-plNinja Avatar
-
 zhNinja Avatar
-
-jaアバター「忍者」
-#
-ukАватар «Ніндзя»
+
+plNinja Avatar
 
 ptNinja Avatar
 
@@ -15036,25 +15032,29 @@ $
 
 frAvatar du ninja
 #
+ukАватар «Ніндзя»
+
+jaアバター「忍者」
+#
 ruАватар «Ниндзя».png
 �
 avatar_progressive_bp_58_free_1�
 
 enQuadrant Prototype Avatar
 
-plQuadrant Prototype Avatar
-
 zhQuadrant Prototype Avatar
-6
-ja0アバター「四分円のプロトタイプ」
-B
-uk<Аватар «Поквадрантний прототип»
+
+plQuadrant Prototype Avatar
 
 ptQuadrant Prototype Avatar
 
 esQuadrant Prototype Avatar
  
 frAvatar Prototype de cadran
+B
+uk<Аватар «Поквадрантний прототип»
+6
+ja0アバター「四分円のプロトタイプ」
 :
 ru4Аватар «Прототип квадранта».webp
 �
@@ -15062,19 +15062,19 @@ B
 
 enTiger II Catboard Avatar
 
-plTiger II Catboard Avatar
-
 zhTiger II Catboard Avatar
-)
-ja#アバター「Tiger II Catboard」
-%
-ukАватар Tiger II Catboard
+
+plTiger II Catboard Avatar
 
 ptTiger II Catboard Avatar
 
 esTiger II Catboard Avatar
 
 frAvatar Chat-rton Tiger II
+%
+ukАватар Tiger II Catboard
+)
+ja#アバター「Tiger II Catboard」
 $
 ruАватар Tiger II Catboard.webp
 �
@@ -15082,19 +15082,19 @@ $
 
 enSuperpower Avatar
 
-plSuperpower Avatar
-
 zhSuperpower Avatar
--
-ja'アバター「スーパーパワー」
-)
-uk#Аватар «Суперсила»
+
+plSuperpower Avatar
 
 ptSuperpower Avatar
 
 esSuperpower Avatar
 
 frAvatar Superpuissance
+)
+uk#Аватар «Суперсила»
+-
+ja'アバター「スーパーパワー」
 )
 ru#Аватар «Суперсила».webp
 �
@@ -15103,15 +15103,11 @@ $
 en
 Spy Avatar
 
-pl
-Spy Avatar
-
 zh
 Spy Avatar
-!
-jaアバター「スパイ」
-0
-uk*Аватар «Таємний агент»
+
+pl
+Spy Avatar
 
 pt
 Spy Avatar
@@ -15120,6 +15116,10 @@ Spy Avatar
 Spy Avatar
 
 frAvatar de l'espion
+0
+uk*Аватар «Таємний агент»
+!
+jaアバター「スパイ」
 /
 ru)Аватар «Тайный агент».png
 �
@@ -15127,19 +15127,19 @@ Spy Avatar
 
 enSuperpower Avatar
 
-plSuperpower Avatar
-
 zhSuperpower Avatar
--
-ja'アバター「スーパーパワー」
-)
-uk#Аватар «Суперсила»
+
+plSuperpower Avatar
 
 ptSuperpower Avatar
 
 esSuperpower Avatar
 
 frAvatar Superpuissance
+)
+uk#Аватар «Суперсила»
+-
+ja'アバター「スーパーパワー」
 )
 ru#Аватар «Суперсила».webp
 �
@@ -15147,19 +15147,19 @@ Spy Avatar
 
 enSuperpower Avatar
 
-plSuperpower Avatar
-
 zhSuperpower Avatar
--
-ja'アバター「スーパーパワー」
-)
-uk#Аватар «Суперсила»
+
+plSuperpower Avatar
 
 ptSuperpower Avatar
 
 esSuperpower Avatar
 
 frAvatar Superpuissance
+)
+uk#Аватар «Суперсила»
+-
+ja'アバター「スーパーパワー」
 )
 ru#Аватар «Суперсила».webp
 �
@@ -15167,13 +15167,9 @@ Spy Avatar
 
 enSuperpower Avatar
 
-plSuperpower Avatar
-
 zhSuperpower Avatar
--
-ja'アバター「スーパーパワー」
-)
-uk#Аватар «Суперсила»
+
+plSuperpower Avatar
 
 ptSuperpower Avatar
 
@@ -15181,25 +15177,29 @@ Spy Avatar
 
 frAvatar Superpuissance
 )
+uk#Аватар «Суперсила»
+-
+ja'アバター「スーパーパワー」
+)
 ru#Аватар «Суперсила».webp
 �
 avatar_legacyparticipants_epic�
 $
 en"Blitz Masters: Legacy" Avatar
 $
-pl"Blitz Masters: Legacy" Avatar
-$
 zh"Blitz Masters: Legacy" Avatar
--
-ja'アバター「Blitz Masters: Legacy」
-(
-uk"Аватар Blitz Masters: Legacy
+$
+pl"Blitz Masters: Legacy" Avatar
 $
 pt"Blitz Masters: Legacy" Avatar
 $
 es"Blitz Masters: Legacy" Avatar
 +
 fr%Avatar Maîtres de Blitz : héritage
+(
+uk"Аватар Blitz Masters: Legacy
+-
+ja'アバター「Blitz Masters: Legacy」
 (
 ru"Аватар Blitz Masters: Legacy.webp
 �
@@ -15208,15 +15208,11 @@ $
 en
 Spy Avatar
 
-pl
-Spy Avatar
-
 zh
 Spy Avatar
-!
-jaアバター「スパイ」
-0
-uk*Аватар «Таємний агент»
+
+pl
+Spy Avatar
 
 pt
 Spy Avatar
@@ -15225,6 +15221,10 @@ Spy Avatar
 Spy Avatar
 
 frAvatar de l'espion
+0
+uk*Аватар «Таємний агент»
+!
+jaアバター「スパイ」
 /
 ru)Аватар «Тайный агент».png
 �
@@ -15232,19 +15232,19 @@ Spy Avatar
 
 enSnow Globe Avatar
 
-plSnow Globe Avatar
-
 zhSnow Globe Avatar
--
-ja'アバター「スノーグローブ」
-.
-uk(Аватар «Снігова куля»
+
+plSnow Globe Avatar
 
 ptSnow Globe Avatar
 
 esSnow Globe Avatar
 
 frAvatar Boule à neige
+.
+uk(Аватар «Снігова куля»
+-
+ja'アバター「スノーグローブ」
 ,
 ru&Аватар «Снежный шар».webp
 �
@@ -15252,13 +15252,9 @@ Spy Avatar
 
 enLaureatus Avatar
 
-plLaureatus Avatar
-
 zhLaureatus Avatar
-!
-jaアバター「Laureatus」
-
-ukАватар Laureatus
+
+plLaureatus Avatar
 
 ptLaureatus Avatar
 
@@ -15266,19 +15262,19 @@ Spy Avatar
 
 frAvatar Laureatus
 
+ukАватар Laureatus
+!
+jaアバター「Laureatus」
+
 ruАватар Laureatus.webp
 �
 avatar_winter_season_rare_90d�
 &
 en Winter Season Participant Avatar
 &
-pl Winter Season Participant Avatar
-&
 zh Winter Season Participant Avatar
-<
-ja6アバター「ウィンターシーズン参加者」
-C
-uk=Аватар «Учасник Зимового сезону»
+&
+pl Winter Season Participant Avatar
 &
 pt Winter Season Participant Avatar
 &
@@ -15286,19 +15282,19 @@ C
 2
 fr,Avatar de participant de la Saison hivernale
 C
+uk=Аватар «Учасник Зимового сезону»
+<
+ja6アバター「ウィンターシーズン参加者」
+C
 ru=Аватар «Участник Зимнего сезона».png
 �
 avatar_light_bulb_rare�
 
 enLight Bulb Avatar
 
-plLight Bulb Avatar
-
 zhLight Bulb Avatar
-
-jaアバター「電球」
-'
-uk!Аватар «Лампочка»
+
+plLight Bulb Avatar
 
 ptLight Bulb Avatar
 
@@ -15306,25 +15302,29 @@ C
 
 frAvatar de l'ampoule
 '
+uk!Аватар «Лампочка»
+
+jaアバター「電球」
+'
 ru!Аватар «Лампочка».png
 �
 avatar_scorpion_legendary�
 
 enVenomous Sting Avatar
 
-plVenomous Sting Avatar
-
 zhVenomous Sting Avatar
-$
-jaアバター「猛毒の針」
-.
-uk(Аватар «Отруйне жало»
+
+plVenomous Sting Avatar
 
 ptVenomous Sting Avatar
 
 esVenomous Sting Avatar
 
 frAvatar du dard venimeux
+.
+uk(Аватар «Отруйне жало»
+$
+jaアバター「猛毒の針」
 0
 ru*Аватар «Ядовитое жало».png
 �
@@ -15332,13 +15332,9 @@ $
 
 enTEAM ID Avatar
 
-plTEAM ID Avatar
-
 zhTEAM ID Avatar
-
-jaアバター「TEAM ID」
-
-ukАватар TEAM ID
+
+plTEAM ID Avatar
 
 ptTEAM ID Avatar
 
@@ -15346,19 +15342,19 @@ $
 
 frAvatar de TEAM ID
 
+ukАватар TEAM ID
+
+jaアバター「TEAM ID」
+
 ruАватар TEAM ID.webp
 �
 avatar_legion_2020_rare_30d�
 
 enLegion Avatar
 
-plLegion Avatar
-
 zhLegion Avatar
-
-jaアバター「Legion」
-
-ukАватар Legion
+
+plLegion Avatar
 
 ptLegion Avatar
 
@@ -15366,19 +15362,19 @@ $
 
 frAvatar de Legion
 
+ukАватар Legion
+
+jaアバター「Legion」
+
 ruАватар Legion.png
 �
 avatar_1year_legendary_ruby�
 *
 en$Аватар «1 год побед»
 *
-pl$Аватар «1 год побед»
-*
 zh$Аватар «1 год побед»
 *
-ja$Аватар «1 год побед»
-*
-uk$Аватар «1 год побед»
+pl$Аватар «1 год побед»
 *
 pt$Аватар «1 год побед»
 *
@@ -15386,25 +15382,29 @@ $
 *
 fr$Аватар «1 год побед»
 *
+uk$Аватар «1 год побед»
+*
+ja$Аватар «1 год побед»
+*
 ru$Аватар «1 год побед».webp
 �
 avatar_progressive_bp_25_free_4�
 
 enWatching Over Avatar
 
-plWatching Over Avatar
-
 zhWatching Over Avatar
-%
-jaアバター「Watching Over」
-5
-uk/Аватар «На варті порядку»
+
+plWatching Over Avatar
 
 ptWatching Over Avatar
 
 esWatching Over Avatar
 
 frAvatar Surveillance
+5
+uk/Аватар «На варті порядку»
+%
+jaアバター「Watching Over」
 7
 ru1Аватар «На страже порядка».webp
 �
@@ -15412,19 +15412,19 @@ $
 
 enGlowing Crescent Avatar
 
-plGlowing Crescent Avatar
-
 zhGlowing Crescent Avatar
-'
-ja!アバター「輝く三日月」
-6
-uk0Аватар «Сяйний півмісяць»
+
+plGlowing Crescent Avatar
 
 ptGlowing Crescent Avatar
 
 esGlowing Crescent Avatar
 
 frAvatar Croissant lumineux
+6
+uk0Аватар «Сяйний півмісяць»
+'
+ja!アバター「輝く三日月」
 >
 ru8Аватар «Лучезарный полумесяц».webp
 �
@@ -15432,19 +15432,19 @@ $
 
 enMoose Avatar
 
-plMoose Avatar
-
 zhMoose Avatar
-$
-jaアバター「ヘラジカ」
-
-ukАватар «Лось»
+
+plMoose Avatar
 
 ptMoose Avatar
 
 esMoose Avatar
 
 frAvatar Élan
+
+ukАватар «Лось»
+$
+jaアバター「ヘラジカ」
 %
 ruАватар «Сохатый».webp
 �
@@ -15452,13 +15452,9 @@ $
 
 enCrocodiles Avatar
 
-plCrocodiles Avatar
-
 zhCrocodiles Avatar
-"
-jaアバター「Crocodiles」
-
-ukАватар Crocodiles
+
+plCrocodiles Avatar
 
 ptCrocodiles Avatar
 
@@ -15466,25 +15462,29 @@ $
 
 frAvatar de Crocodiles
 
+ukАватар Crocodiles
+"
+jaアバター「Crocodiles」
+
 ruАватар Crocodiles.png
 �
 avatar_soldier_common_72h�
 
 enFighter Avatar
 
-plFighter Avatar
-
 zhFighter Avatar
-'
-ja!アバター「不屈の兵士」
-!
-ukАватар «Боєць»
+
+plFighter Avatar
 
 ptFighter Avatar
 
 esFighter Avatar
 
 frAvatar de combattant
+!
+ukАватар «Боєць»
+'
+ja!アバター「不屈の兵士」
 
 ruАватар «Боец».png
 �
@@ -15492,19 +15492,19 @@ $
 #
 enPoisoned Rose Animated Avatar
 #
-plPoisoned Rose Animated Avatar
-#
 zhPoisoned Rose Animated Avatar
-@
-ja:アニメーション付きアバター「Poisoned Rose」
-I
-ukCАнімований аватар «Отруйна троянда»
+#
+plPoisoned Rose Animated Avatar
 #
 ptPoisoned Rose Animated Avatar
 #
 esPoisoned Rose Animated Avatar
 %
 frAvatar animé Rose empoisonnée
+I
+ukCАнімований аватар «Отруйна троянда»
+@
+ja:アニメーション付きアバター「Poisoned Rose」
 K
 ruEАнимированный аватар «Ядовитая роза».webp
 �
@@ -15513,15 +15513,11 @@ K
 en
 Spy Avatar
 
-pl
-Spy Avatar
-
 zh
 Spy Avatar
-!
-jaアバター「スパイ」
-0
-uk*Аватар «Таємний агент»
+
+pl
+Spy Avatar
 
 pt
 Spy Avatar
@@ -15530,6 +15526,10 @@ Spy Avatar
 Spy Avatar
 
 frAvatar de l'espion
+0
+uk*Аватар «Таємний агент»
+!
+jaアバター「スパイ」
 /
 ru)Аватар «Тайный агент».png
 �
@@ -15537,13 +15537,9 @@ Spy Avatar
 
 enTEAM ID Avatar
 
-plTEAM ID Avatar
-
 zhTEAM ID Avatar
-
-jaアバター「TEAM ID」
-
-ukАватар TEAM ID
+
+plTEAM ID Avatar
 
 ptTEAM ID Avatar
 
@@ -15551,19 +15547,19 @@ Spy Avatar
 
 frAvatar de TEAM ID
 
+ukАватар TEAM ID
+
+jaアバター「TEAM ID」
+
 ruАватар TEAM ID.webp
 �
 avatar_patrick_legendary�
 
 enAngry Leprechaun Avatar
 
-plAngry Leprechaun Avatar
-
 zhAngry Leprechaun Avatar
-3
-ja-アバター「怒ったレプラカーン」
-6
-uk0Аватар «Гнівний лепрекон»
+
+plAngry Leprechaun Avatar
 
 ptAngry Leprechaun Avatar
 
@@ -15571,25 +15567,29 @@ Spy Avatar
 !
 frAvatar du farfadet remonté
 6
+uk0Аватар «Гнівний лепрекон»
+3
+ja-アバター「怒ったレプラカーン」
+6
 ru0Аватар «Гневный лепрекон».png
 �
 avatar_roll_the_dice_unique�
 
 enLucky Dice Avatar
 
-plLucky Dice Avatar
-
 zhLucky Dice Avatar
--
-ja'アバター「幸運のサイコロ」
-!
-ukАватар «Талан»
+
+plLucky Dice Avatar
 
 ptLucky Dice Avatar
 
 esLucky Dice Avatar
 
 frAvatar Dès de chanceux
+!
+ukАватар «Талан»
+-
+ja'アバター「幸運のサイコロ」
 '
 ru!Аватар «Везунчик».webp
 �
@@ -15599,15 +15599,10 @@ Spy Avatar
 enNeON
 
 
-plNeON
-
-
 zhNeON
-
-jaOn/Off
 
 
-ukNeON
+plNeON
 
 
 ptNeON
@@ -15616,6 +15611,11 @@ Spy Avatar
 esNeON
 
 frNéON
+
+
+ukNeON
+
+jaOn/Off
 
 ruOn/Off.webp
 �
@@ -15623,19 +15623,19 @@ Spy Avatar
 
 enLeverage Fan Avatar
 
-plLeverage Fan Avatar
-
 zhLeverage Fan Avatar
-*
-ja$アバター「Leverage ファン」
-8
-uk2Аватар «Вболівальник Leverage»
+
+plLeverage Fan Avatar
 
 ptLeverage Fan Avatar
 
 esLeverage Fan Avatar
 &
 fr Avatar du passionné de Leverage
+8
+uk2Аватар «Вболівальник Leverage»
+*
+ja$アバター「Leverage ファン」
 2
 ru,Аватар «Болельщик Leverage».webp
 �
@@ -15643,19 +15643,19 @@ Spy Avatar
 
 enMontanaBlack Avatar
 
-plMontanaBlack Avatar
-
 zhMontanaBlack Avatar
-$
-jaアバター「MontanaBlack」
-
-ukАватар MontanaBlack
+
+plMontanaBlack Avatar
 
 ptMontanaBlack Avatar
 
 esMontanaBlack Avatar
 
 frAvatar MontanaBlack
+
+ukАватар MontanaBlack
+$
+jaアバター「MontanaBlack」
 
 ruАватар MontanaBlack.webp
 �
@@ -15664,15 +15664,11 @@ $
 en
 Spy Avatar
 
-pl
-Spy Avatar
-
 zh
 Spy Avatar
-!
-jaアバター「スパイ」
-0
-uk*Аватар «Таємний агент»
+
+pl
+Spy Avatar
 
 pt
 Spy Avatar
@@ -15681,6 +15677,10 @@ Spy Avatar
 Spy Avatar
 
 frAvatar de l'espion
+0
+uk*Аватар «Таємний агент»
+!
+jaアバター「スパイ」
 /
 ru)Аватар «Тайный агент».png
 �
@@ -15688,19 +15688,19 @@ Spy Avatar
 
 enMagical Guardian Avatar
 
-plMagical Guardian Avatar
-
 zhMagical Guardian Avatar
-*
-ja$アバター「気高き守護者」
-0
-uk*Аватар «Зберігач дива»
+
+plMagical Guardian Avatar
 
 ptMagical Guardian Avatar
 
 esMagical Guardian Avatar
 
 frAvatar Gardien magique
+0
+uk*Аватар «Зберігач дива»
+*
+ja$アバター「気高き守護者」
 2
 ru,Аватар «Хранитель чуда».webp
 �
@@ -15708,13 +15708,9 @@ Spy Avatar
 
 enULTIMATE FEAST Avatar
 
-plULTIMATE FEAST Avatar
-
 zhULTIMATE FEAST Avatar
-&
-ja アバター「ULTIMATE FEAST」
-!
-ukАватар Ultimate FEAST
+
+plULTIMATE FEAST Avatar
 
 ptULTIMATE FEAST Avatar
 
@@ -15722,19 +15718,19 @@ Spy Avatar
 
 frAvatar de ULTIMATE FEAST
 !
+ukАватар Ultimate FEAST
+&
+ja アバター「ULTIMATE FEAST」
+!
 ruАватар ULTIMATE FEAST.png
 �
 avatar_BlitzXCup24_EU_APA_leg�
 
 enApathy Avatar
 
-plApathy Avatar
-
 zhApathy Avatar
-
-jaアバター「Apathy」
-
-ukАватар Apathy
+
+plApathy Avatar
 
 ptApathy Avatar
 
@@ -15742,25 +15738,29 @@ Spy Avatar
 
 frAvatar d'Apathy
 
+ukАватар Apathy
+
+jaアバター「Apathy」
+
 ruАватар Apathy.webp
 �
 avatar_christmas_ball_common�
 
 enBauble Avatar
 
-plBauble Avatar
-
 zhBauble Avatar
-
-jaアバター「宝石」
-0
-uk*Аватар «Ялинкова куля»
+
+plBauble Avatar
 
 ptBauble Avatar
 
 esBauble Avatar
 
 frAvatar boule de neige
+0
+uk*Аватар «Ялинкова куля»
+
+jaアバター「宝石」
 ,
 ru&Аватар «Ёлочный шар».png
 �
@@ -15768,19 +15768,19 @@ Spy Avatar
 
 enSquad Essentials Avatar
 
-plSquad Essentials Avatar
-
 zhSquad Essentials Avatar
-*
-ja$アバター「部隊の必需品」
-0
-uk*Аватар «Усе необхідне»
+
+plSquad Essentials Avatar
 
 ptSquad Essentials Avatar
 
 esSquad Essentials Avatar
 
 frAvatar Besoins du groupe
+0
+uk*Аватар «Усе необхідне»
+*
+ja$アバター「部隊の必需品」
 :
 ru4Аватар «Базовое снаряжение».webp
 �
@@ -15788,19 +15788,19 @@ Spy Avatar
 
 enSquad Essentials Avatar
 
-plSquad Essentials Avatar
-
 zhSquad Essentials Avatar
-*
-ja$アバター「部隊の必需品」
-0
-uk*Аватар «Усе необхідне»
+
+plSquad Essentials Avatar
 
 ptSquad Essentials Avatar
 
 esSquad Essentials Avatar
 
 frAvatar Besoins du groupe
+0
+uk*Аватар «Усе необхідне»
+*
+ja$アバター「部隊の必需品」
 :
 ru4Аватар «Базовое снаряжение».webp
 �
@@ -15808,13 +15808,9 @@ Spy Avatar
 
 enAyame Avatar
 
-plAyame Avatar
-
 zhAyame Avatar
-!
-jaアバター「あやめ」
-
-ukАватар «Аяме»
+
+plAyame Avatar
 
 ptAyame Avatar
 
@@ -15822,25 +15818,29 @@ Spy Avatar
 
 frAvatar Ayame
 
+ukАватар «Аяме»
+!
+jaアバター「あやめ」
+
 ruАватар «Аямэ».webp
 �
 avatar_progressive_bp_32_paid_1�
 
 enHelp-O-Tron 5000 Avatar
 
-plHelp-O-Tron 5000 Avatar
-
 zhHelp-O-Tron 5000 Avatar
-0
-ja*アバター「オービット・パル」
-9
-uk3Аватар «Помічник на орбіті»
+
+plHelp-O-Tron 5000 Avatar
 
 ptHelp-O-Tron 5000 Avatar
 
 esHelp-O-Tron 5000 Avatar
 $
 frAvatar du Robot-Assistant 5000
+9
+uk3Аватар «Помічник на орбіті»
+0
+ja*アバター「オービット・パル」
 1
 ru+Аватар «Друг на орбите».webp
 �
@@ -15848,13 +15848,9 @@ $
 -
 en'Participant of the Autumn Season Avatar
 -
-pl'Participant of the Autumn Season Avatar
--
 zh'Participant of the Autumn Season Avatar
-<
-ja6アバター「オータムシーズンの参加者」
-E
-uk?Аватар «Учасник Осіннього сезону»
+-
+pl'Participant of the Autumn Season Avatar
 -
 pt'Participant of the Autumn Season Avatar
 -
@@ -15862,25 +15858,29 @@ E
 2
 fr,Avatar du participant de la Saison automnale
 E
+uk?Аватар «Учасник Осіннього сезону»
+<
+ja6アバター「オータムシーズンの参加者」
+E
 ru?Аватар «Участник Осеннего сезона».png
 �
 avatar_9years_legendary�
 
 en9 Victorious Years Avatar
 
-pl9 Victorious Years Avatar
-
 zh9 Victorious Years Avatar
-)
-ja#アバター「誇らしい 9年」
-2
-uk,Аватар «9 років перемог»
+
+pl9 Victorious Years Avatar
 
 pt9 Victorious Years Avatar
 
 es9 Victorious Years Avatar
 &
 fr Avatar de 9 années victorieuses
+2
+uk,Аватар «9 років перемог»
+)
+ja#アバター「誇らしい 9年」
 *
 ru$Аватар «9 лет побед».webp
 �
@@ -15888,19 +15888,19 @@ E
 
 enHoliday Cheer Avatar
 
-plHoliday Cheer Avatar
-
 zhHoliday Cheer Avatar
-*
-ja$アバター「ホリデー気分」
-2
-uk,Аватар «Відчуття свята»
+
+plHoliday Cheer Avatar
 
 ptHoliday Cheer Avatar
 
 esHoliday Cheer Avatar
 "
 frAvatar de la joie des fêtes
+2
+uk,Аватар «Відчуття свята»
+*
+ja$アバター「ホリデー気分」
 8
 ru2Аватар «Чувство праздника».png
 �
@@ -15908,13 +15908,9 @@ E
 
 enIntergalactic Avatar
 
-plIntergalactic Avatar
-
 zhIntergalactic Avatar
-<
-ja6アバター「インターギャラクティック」
-1
-uk+Аватар «Інтергалактик»
+
+plIntergalactic Avatar
 
 ptIntergalactic Avatar
 
@@ -15922,25 +15918,29 @@ E
 
 frAvatar intergalactique
 1
+uk+Аватар «Інтергалактик»
+<
+ja6アバター「インターギャラクティック」
+1
 ru+Аватар «Интергалактик».webp
 �
 avatar_BlitzSummerCup_NA_rare�
 0
 en*Blitz Summer Cup North America 2023 Avatar
 0
-pl*Blitz Summer Cup North America 2023 Avatar
-0
 zh*Blitz Summer Cup North America 2023 Avatar
-;
-ja5アバター「Blitz Summer Cup North America 2023」
-M
-ukGАватар «Blitz Summer Cup, Північна Америка 2023»
+0
+pl*Blitz Summer Cup North America 2023 Avatar
 0
 pt*Blitz Summer Cup North America 2023 Avatar
 0
 es*Blitz Summer Cup North America 2023 Avatar
 6
 fr0Avatar de la Blitz Summer Cup North America 2023
+M
+ukGАватар «Blitz Summer Cup, Північна Америка 2023»
+;
+ja5アバター「Blitz Summer Cup North America 2023」
 6
 ru0Аватар Blitz Summer Cup North America 2023.webp
 �
@@ -15948,19 +15948,19 @@ M
 
 enUprising Fan Avatar
 
-plUprising Fan Avatar
-
 zhUprising Fan Avatar
-*
-ja$アバター「Uprising ファン」
-8
-uk2Аватар «Вболівальник Uprising»
+
+plUprising Fan Avatar
 
 ptUprising Fan Avatar
 
 esUprising Fan Avatar
 &
 fr Avatar du passionné de Uprising
+8
+uk2Аватар «Вболівальник Uprising»
+*
+ja$アバター「Uprising ファン」
 2
 ru,Аватар «Болельщик Uprising».webp
 �
@@ -15968,19 +15968,19 @@ M
 
 enIcebreaker Avatar
 
-plIcebreaker Avatar
-
 zhIcebreaker Avatar
-0
-ja*アバター「アイスブレーカー」
-'
-uk!Аватар «Криголам»
+
+plIcebreaker Avatar
 
 ptIcebreaker Avatar
 
 esIcebreaker Avatar
 
 frAvatar du brise-glace
+'
+uk!Аватар «Криголам»
+0
+ja*アバター「アイスブレーカー」
 %
 ruАватар «Ледокол».png
 �
@@ -15988,13 +15988,9 @@ M
 
 enTEAM ID Avatar
 
-plTEAM ID Avatar
-
 zhTEAM ID Avatar
-
-jaアバター「TEAM ID」
-
-ukАватар TEAM ID
+
+plTEAM ID Avatar
 
 ptTEAM ID Avatar
 
@@ -16002,25 +15998,29 @@ M
 
 frAvatar de TEAM ID
 
+ukАватар TEAM ID
+
+jaアバター「TEAM ID」
+
 ruАватар TEAM ID.webp
 �
 &avatar_APAC_RoteNova_BSC_fans_rare_31d�
 
 enRote Nova Fan Avatar
 
-plRote Nova Fan Avatar
-
 zhRote Nova Fan Avatar
-+
-ja%アバター「Rote Nova ファン」
-9
-uk3Аватар «Вболівальник Rote Nova»
+
+plRote Nova Fan Avatar
 
 ptRote Nova Fan Avatar
 
 esRote Nova Fan Avatar
 '
 fr!Avatar du passionné de Rote Nova
+9
+uk3Аватар «Вболівальник Rote Nova»
++
+ja%アバター「Rote Nova ファン」
 3
 ru-Аватар «Болельщик Rote Nova».webp
 �
@@ -16028,19 +16028,19 @@ M
 
 enGold Gem Avatar
 
-plGold Gem Avatar
-
 zhGold Gem Avatar
-$
-jaアバター「金の宝石」
-4
-uk.Аватар «Золотий кристал»
+
+plGold Gem Avatar
 
 ptGold Gem Avatar
 
 esGold Gem Avatar
 
 frAvatar de joyau en or
+4
+uk.Аватар «Золотий кристал»
+$
+jaアバター「金の宝石」
 6
 ru0Аватар «Золотой кристалл».png
 �
@@ -16049,15 +16049,11 @@ $
 en
 Spy Avatar
 
-pl
-Spy Avatar
-
 zh
 Spy Avatar
-!
-jaアバター「スパイ」
-0
-uk*Аватар «Таємний агент»
+
+pl
+Spy Avatar
 
 pt
 Spy Avatar
@@ -16066,6 +16062,10 @@ Spy Avatar
 Spy Avatar
 
 frAvatar de l'espion
+0
+uk*Аватар «Таємний агент»
+!
+jaアバター「スパイ」
 /
 ru)Аватар «Тайный агент».png
 �
@@ -16073,13 +16073,9 @@ Spy Avatar
 
 enFeels Like Home Avatar
 
-plFeels Like Home Avatar
-
 zhFeels Like Home Avatar
-$
-jaアバター「俺の季節」
-&
-uk Аватар «Як вдома»
+
+plFeels Like Home Avatar
 
 ptFeels Like Home Avatar
 
@@ -16087,25 +16083,29 @@ $
 
 frAvatar Comme à la maison
 &
+uk Аватар «Як вдома»
+$
+jaアバター「俺の季節」
+&
 ru Аватар «Как дома».png
 �
 avatar_progressive_bp_63_paid_5�
 
 enWoodland Spirit Avatar
 
-plWoodland Spirit Avatar
-
 zhWoodland Spirit Avatar
-'
-ja!アバター「森林の息吹」
-&
-uk Аватар «Дух лісу»
+
+plWoodland Spirit Avatar
 
 ptWoodland Spirit Avatar
 
 esWoodland Spirit Avatar
 
 frAvatar Esprit des bois
+&
+uk Аватар «Дух лісу»
+'
+ja!アバター「森林の息吹」
 *
 ru$Аватар «Лесной дух».webp
 �
@@ -16113,13 +16113,9 @@ $
 
 enChallenger Avatar
 
-plChallenger Avatar
-
 zhChallenger Avatar
-!
-jaアバター「挑戦者」
-+
-uk%Аватар «Претендент»
+
+plChallenger Avatar
 
 ptChallenger Avatar
 
@@ -16127,25 +16123,29 @@ $
 
 frAvatar du challenger
 +
+uk%Аватар «Претендент»
+!
+jaアバター「挑戦者」
++
 ru%Аватар «Претендент».webp
 �
 avatar_progressive_bp_52_paid_3�
 
 enHoliday Warmth Avatar
 
-plHoliday Warmth Avatar
-
 zhHoliday Warmth Avatar
-*
-ja$アバター「ホリデー日和」
-8
-uk2Аватар «Святковий затишок»
+
+plHoliday Warmth Avatar
 
 ptHoliday Warmth Avatar
 
 esHoliday Warmth Avatar
  
 frAvatar Fêtes chaleureuses
+8
+uk2Аватар «Святковий затишок»
+*
+ja$アバター「ホリデー日和」
 2
 ru,Аватар «Новогодний уют».webp
 �
@@ -16153,19 +16153,19 @@ $
 
 enHoliday Warmth Avatar
 
-plHoliday Warmth Avatar
-
 zhHoliday Warmth Avatar
-*
-ja$アバター「ホリデー日和」
-8
-uk2Аватар «Святковий затишок»
+
+plHoliday Warmth Avatar
 
 ptHoliday Warmth Avatar
 
 esHoliday Warmth Avatar
  
 frAvatar Fêtes chaleureuses
+8
+uk2Аватар «Святковий затишок»
+*
+ja$アバター「ホリデー日和」
 2
 ru,Аватар «Новогодний уют».webp
 �
@@ -16173,13 +16173,9 @@ $
 %
 enАватар «Хардкор»
 %
-plАватар «Хардкор»
-%
 zhАватар «Хардкор»
 %
-jaАватар «Хардкор»
-%
-ukАватар «Хардкор»
+plАватар «Хардкор»
 %
 ptАватар «Хардкор»
 %
@@ -16187,19 +16183,19 @@ $
 %
 frАватар «Хардкор»
 %
+ukАватар «Хардкор»
+%
+jaАватар «Хардкор»
+%
 ruАватар «Хардкор».webp
 �
 avatar_Shultute�
 
 enUni-Feier Avatar
 
-plUni-Feier Avatar
-
 zhUni-Feier Avatar
 
-jaUni-Feier Avatar
-
-ukАватар Uni-Feier
+plUni-Feier Avatar
 
 ptUni-Feier Avatar
 
@@ -16207,25 +16203,29 @@ $
 
 frAvatar Uni-Feier
 
+ukАватар Uni-Feier
+
+jaUni-Feier Avatar
+
 ruАватар Uni-Feier.webp
 �
 'avatar_APAC_Vengeance_BSC_fans_rare_31d�
 
 enVengeance Fan Avatar
 
-plVengeance Fan Avatar
-
 zhVengeance Fan Avatar
-+
-ja%アバター「Vengeance ファン」
-9
-uk3Аватар «Вболівальник Vengeance»
+
+plVengeance Fan Avatar
 
 ptVengeance Fan Avatar
 
 esVengeance Fan Avatar
 '
 fr!Avatar du passionné de Vengeance
+9
+uk3Аватар «Вболівальник Vengeance»
++
+ja%アバター「Vengeance ファン」
 3
 ru-Аватар «Болельщик Vengeance».webp
 �
@@ -16233,19 +16233,19 @@ $
 
 enMaximum Overload Avatar
 
-plMaximum Overload Avatar
-
 zhMaximum Overload Avatar
-?
-ja9アバター「マキシマム・オーバーロード」
-C
-uk=Аватар «Максимально заряджений!»
+
+plMaximum Overload Avatar
 
 ptMaximum Overload Avatar
 
 esMaximum Overload Avatar
  
 frAvatar Surcharge maximale
+C
+uk=Аватар «Максимально заряджений!»
+?
+ja9アバター「マキシマム・オーバーロード」
 =
 ru7Аватар «Максимально заряжен!».webp
 �
@@ -16253,13 +16253,9 @@ C
 &
 en 毛熊的告诫头像（14天）
 &
-pl 毛熊的告诫头像（14天）
-&
 zh 毛熊的告诫头像（14天）
 &
-ja 毛熊的告诫头像（14天）
-&
-uk 毛熊的告诫头像（14天）
+pl 毛熊的告诫头像（14天）
 &
 pt 毛熊的告诫头像（14天）
 &
@@ -16267,25 +16263,29 @@ C
 &
 fr 毛熊的告诫头像（14天）
 &
+uk 毛熊的告诫头像（14天）
+&
+ja 毛熊的告诫头像（14天）
+&
 ru 毛熊的告诫头像（14天）.webp
 �
 avatar_progressive_bp_14_paid_5�
 
 enMaximum Overload Avatar
 
-plMaximum Overload Avatar
-
 zhMaximum Overload Avatar
-?
-ja9アバター「マキシマム・オーバーロード」
-C
-uk=Аватар «Максимально заряджений!»
+
+plMaximum Overload Avatar
 
 ptMaximum Overload Avatar
 
 esMaximum Overload Avatar
  
 frAvatar Surcharge maximale
+C
+uk=Аватар «Максимально заряджений!»
+?
+ja9アバター「マキシマム・オーバーロード」
 =
 ru7Аватар «Максимально заряжен!».webp
 �
@@ -16293,19 +16293,19 @@ C
 
 enMaximum Overload Avatar
 
-plMaximum Overload Avatar
-
 zhMaximum Overload Avatar
-?
-ja9アバター「マキシマム・オーバーロード」
-C
-uk=Аватар «Максимально заряджений!»
+
+plMaximum Overload Avatar
 
 ptMaximum Overload Avatar
 
 esMaximum Overload Avatar
  
 frAvatar Surcharge maximale
+C
+uk=Аватар «Максимально заряджений!»
+?
+ja9アバター「マキシマム・オーバーロード」
 =
 ru7Аватар «Максимально заряжен!».webp
 �
@@ -16313,13 +16313,9 @@ C
 
 enChampion of Antrim Avatar
 
-plChampion of Antrim Avatar
-
 zhChampion of Antrim Avatar
-0
-ja*アバター「アントリムの王者」
-4
-uk.Аватар «Чемпіон Антріма»
+
+plChampion of Antrim Avatar
 
 ptChampion of Antrim Avatar
 
@@ -16327,25 +16323,29 @@ C
 
 frAvatar Champion d'Antrim
 4
+uk.Аватар «Чемпіон Антріма»
+0
+ja*アバター「アントリムの王者」
+4
 ru.Аватар «Чемпион Антрима».webp
 �
 avatar_progressive_bp_49_free_4�
 
 en"Hit the Target!" Avatar
 
-pl"Hit the Target!" Avatar
-
 zh"Hit the Target!" Avatar
-1
-ja+アバター「ターゲットを撃て!」
-.
-uk(Аватар «Прямо в ціль!»
+
+pl"Hit the Target!" Avatar
 
 pt"Hit the Target!" Avatar
 
 es"Hit the Target!" Avatar
  
 frAvatar Toucher la cible !
+.
+uk(Аватар «Прямо в ціль!»
+1
+ja+アバター「ターゲットを撃て!」
 0
 ru*Аватар «Попади в цель!».webp
 �
@@ -16353,13 +16353,9 @@ C
 
 enAMXmas Avatar
 
-plAMXmas Avatar
-
 zhAMXmas Avatar
-
-jaアバター「AMXmas」
-
-ukАватар AMXmas
+
+plAMXmas Avatar
 
 ptAMXmas Avatar
 
@@ -16367,25 +16363,29 @@ C
 
 frAvatar AMXmas
 
+ukАватар AMXmas
+
+jaアバター「AMXmas」
+
 ruАватар AMXmas.webp
 �
 avatar_progressive_bp_61_free_1�
 
 enChanging Landscape Avatar
 
-plChanging Landscape Avatar
-
 zhChanging Landscape Avatar
--
-ja'アバター「変わりゆく風景」
-4
-uk.Аватар «Зміна ландшафту»
+
+plChanging Landscape Avatar
 
 ptChanging Landscape Avatar
 
 esChanging Landscape Avatar
 "
 frAvatar Changement de paysage
+4
+uk.Аватар «Зміна ландшафту»
+-
+ja'アバター「変わりゆく風景」
 6
 ru0Аватар «Смена обстановки».webp
 �
@@ -16393,13 +16393,9 @@ C
 
 enGUCCI GANG TEAM Avatar
 
-plGUCCI GANG TEAM Avatar
-
 zhGUCCI GANG TEAM Avatar
-'
-ja!アバター「GUCCI GANG TEAM」
-"
-ukАватар GUCCI GANG TEAM
+
+plGUCCI GANG TEAM Avatar
 
 ptGUCCI GANG TEAM Avatar
 
@@ -16407,25 +16403,29 @@ C
 
 frAvatar de GUCCI GANG TEAM
 "
+ukАватар GUCCI GANG TEAM
+'
+ja!アバター「GUCCI GANG TEAM」
+"
 ruАватар GUCCI GANG TEAM.webp
 �
 avatar_ChineseDragon_unique�
 
 enArcane Dragon Avatar
 
-plArcane Dragon Avatar
-
 zhArcane Dragon Avatar
-*
-ja$アバター「伝説の守護龍」
-.
-uk(Аватар «Володар неба»
+
+plArcane Dragon Avatar
 
 ptArcane Dragon Avatar
 
 esArcane Dragon Avatar
 
 frAvatar Dragon des arcanes
+.
+uk(Аватар «Володар неба»
+*
+ja$アバター「伝説の守護龍」
 2
 ru,Аватар «Властелин неба».webp
 �
@@ -16433,19 +16433,19 @@ C
 
 enIdentifier Avatar
 
-plIdentifier Avatar
-
 zhIdentifier Avatar
-!
-jaアバター「識別機」
--
-uk'Аватар «Розпізнавач»
+
+plIdentifier Avatar
 
 ptIdentifier Avatar
 
 esIdentifier Avatar
  
 frAvatar de l'identificateur
+-
+uk'Аватар «Розпізнавач»
+!
+jaアバター「識別機」
 4
 ru.Аватар «Распознаватель».png
 �
@@ -16453,19 +16453,19 @@ C
 
 enAlpine Dreams Avatar
 
-plAlpine Dreams Avatar
-
 zhAlpine Dreams Avatar
--
-ja'アバター「アルプスの郷愁」
-2
-uk,Аватар «Альпійські сни»
+
+plAlpine Dreams Avatar
 
 ptAlpine Dreams Avatar
 
 esAlpine Dreams Avatar
 
 frAvatar Rêves alpins
+2
+uk,Аватар «Альпійські сни»
+-
+ja'アバター「アルプスの郷愁」
 2
 ru,Аватар «Альпийские сны».webp
 �
@@ -16473,19 +16473,19 @@ C
 
 enSteel Rat Avatar
 
-plSteel Rat Avatar
-
 zhSteel Rat Avatar
-*
-ja$アバター「鋼鉄のネズミ」
-.
-uk(Аватар «Сталевий щур»
+
+plSteel Rat Avatar
 
 ptSteel Rat Avatar
 
 esSteel Rat Avatar
 
 frAvatar du rat en acier
+.
+uk(Аватар «Сталевий щур»
+*
+ja$アバター「鋼鉄のネズミ」
 2
 ru,Аватар «Стальная крыса».png
 �
@@ -16493,19 +16493,19 @@ C
 
 enAlpine Dreams Avatar
 
-plAlpine Dreams Avatar
-
 zhAlpine Dreams Avatar
--
-ja'アバター「アルプスの郷愁」
-2
-uk,Аватар «Альпійські сни»
+
+plAlpine Dreams Avatar
 
 ptAlpine Dreams Avatar
 
 esAlpine Dreams Avatar
 
 frAvatar Rêves alpins
+2
+uk,Аватар «Альпійські сни»
+-
+ja'アバター「アルプスの郷愁」
 2
 ru,Аватар «Альпийские сны».webp
 �
@@ -16513,19 +16513,19 @@ C
 -
 en'avatars/Items/bp26/FreeBattlePass/Title
 -
-pl'avatars/Items/bp26/FreeBattlePass/Title
--
 zh'avatars/Items/bp26/FreeBattlePass/Title
 -
-ja'avatars/Items/bp26/FreeBattlePass/Title
-(
-uk"avatar_progressive_bp_26_free_4_RU
+pl'avatars/Items/bp26/FreeBattlePass/Title
 -
 pt'avatars/Items/bp26/FreeBattlePass/Title
 -
 es'avatars/Items/bp26/FreeBattlePass/Title
 -
 fr'avatars/Items/bp26/FreeBattlePass/Title
+(
+uk"avatar_progressive_bp_26_free_4_RU
+-
+ja'avatars/Items/bp26/FreeBattlePass/Title
 -
 ru'avatars/Items/bp26/FreeBattlePass/Title.webp
 �
@@ -16533,13 +16533,9 @@ C
 "
 en2025战火杯冠军赛选手
 "
-pl2025战火杯冠军赛选手
-"
 zh2025战火杯冠军赛选手
 "
-ja2025战火杯冠军赛选手
-"
-uk2025战火杯冠军赛选手
+pl2025战火杯冠军赛选手
 "
 pt2025战火杯冠军赛选手
 "
@@ -16547,19 +16543,19 @@ C
 "
 fr2025战火杯冠军赛选手
 "
+uk2025战火杯冠军赛选手
+"
+ja2025战火杯冠军赛选手
+"
 ru2025战火杯冠军赛选手.webp
 �
 avatar_progressive_bp_10_free_3�
 
 enSnack Time Avatar
 
-plSnack Time Avatar
-
 zhSnack Time Avatar
-*
-ja$アバター「おやつの時間」
-<
-uk6Аватар «Солодкий чи солоний?»
+
+plSnack Time Avatar
 
 ptSnack Time Avatar
 
@@ -16567,25 +16563,29 @@ C
 (
 fr"Avatar de l'heure du casse-croûte
 <
+uk6Аватар «Солодкий чи солоний?»
+*
+ja$アバター「おやつの時間」
+<
 ru6Аватар «Сладкий или солёный?».webp
 �
 avatar_progressive_bp_21_paid_6�
 
 enAlpine Dreams Avatar
 
-plAlpine Dreams Avatar
-
 zhAlpine Dreams Avatar
--
-ja'アバター「アルプスの郷愁」
-2
-uk,Аватар «Альпійські сни»
+
+plAlpine Dreams Avatar
 
 ptAlpine Dreams Avatar
 
 esAlpine Dreams Avatar
 
 frAvatar Rêves alpins
+2
+uk,Аватар «Альпійські сни»
+-
+ja'アバター「アルプスの郷愁」
 2
 ru,Аватар «Альпийские сны».webp
 �
@@ -16593,19 +16593,19 @@ C
 
 enTrophy Place Avatar
 
-plTrophy Place Avatar
-
 zhTrophy Place Avatar
-0
-ja*アバター「勝利のトロフィー」
-/
-uk)Аватар «На п'єдесталі»
+
+plTrophy Place Avatar
 
 ptTrophy Place Avatar
 
 esTrophy Place Avatar
  
 frAvatar du Trophée gagnant
+/
+uk)Аватар «На п'єдесталі»
+0
+ja*アバター「勝利のトロフィー」
 0
 ru*Аватар «На пьедестале».webp
 �
@@ -16613,19 +16613,19 @@ C
 
 en60TP Girl Animated Avatar
 
-pl60TP Girl Animated Avatar
-
 zh60TP Girl Animated Avatar
-A
-ja;アニメーション付きアバター「60TP がーる」
-2
-uk,Анімований аватар 60TP Girl
+
+pl60TP Girl Animated Avatar
 
 pt60TP Girl Animated Avatar
 
 es60TP Girl Animated Avatar
 
 frAvatar animé 60TP Girl
+2
+uk,Анімований аватар 60TP Girl
+A
+ja;アニメーション付きアバター「60TP がーる」
 7
 ru1Анимированный аватар 60TP Girl.webp
 �
@@ -16633,19 +16633,19 @@ A
 
 enAlpine Dreams Avatar
 
-plAlpine Dreams Avatar
-
 zhAlpine Dreams Avatar
--
-ja'アバター「アルプスの郷愁」
-2
-uk,Аватар «Альпійські сни»
+
+plAlpine Dreams Avatar
 
 ptAlpine Dreams Avatar
 
 esAlpine Dreams Avatar
 
 frAvatar Rêves alpins
+2
+uk,Аватар «Альпійські сни»
+-
+ja'アバター「アルプスの郷愁」
 2
 ru,Аватар «Альпийские сны».webp
 �
@@ -16653,19 +16653,19 @@ A
 
 enSnatch Avatar
 
-plSnatch Avatar
-
 zhSnatch Avatar
-$
-jaアバター「スナッチ」
-,
-uk&Аватар «Великий куш»
+
+plSnatch Avatar
 
 ptSnatch Avatar
 
 esSnatch Avatar
 $
 frAvatar Tu braques ou tu raques
+,
+uk&Аватар «Великий куш»
+$
+jaアバター「スナッチ」
 ,
 ru&Аватар «Большой куш».webp
 �
@@ -16673,13 +16673,9 @@ $
 
 enAlpine Dreams Avatar
 
-plAlpine Dreams Avatar
-
 zhAlpine Dreams Avatar
--
-ja'アバター「アルプスの郷愁」
-2
-uk,Аватар «Альпійські сни»
+
+plAlpine Dreams Avatar
 
 ptAlpine Dreams Avatar
 
@@ -16687,19 +16683,19 @@ $
 
 frAvatar Rêves alpins
 2
+uk,Аватар «Альпійські сни»
+-
+ja'アバター「アルプスの郷愁」
+2
 ru,Аватар «Альпийские сны».webp
 �
 avatar_glory_unique�
 
 enTriumph of Glory Avatar
 
-plTriumph of Glory Avatar
-
 zhTriumph of Glory Avatar
-'
-ja!アバター「栄光の勝利」
-+
-uk%Аватар «Тріумфатор»
+
+plTriumph of Glory Avatar
 
 ptTriumph of Glory Avatar
 
@@ -16707,25 +16703,29 @@ $
 %
 frAvatar du triomphe de la gloire
 +
+uk%Аватар «Тріумфатор»
+'
+ja!アバター「栄光の勝利」
++
 ru%Аватар «Триумфатор».png
 �
 avatar_progressive_bp_41_free_1�
 
 enSnatch Avatar
 
-plSnatch Avatar
-
 zhSnatch Avatar
-$
-jaアバター「スナッチ」
-,
-uk&Аватар «Великий куш»
+
+plSnatch Avatar
 
 ptSnatch Avatar
 
 esSnatch Avatar
 $
 frAvatar Tu braques ou tu raques
+,
+uk&Аватар «Великий куш»
+$
+jaアバター「スナッチ」
 ,
 ru&Аватар «Большой куш».webp
 �
@@ -16733,13 +16733,9 @@ $
 
 enSnatch Avatar
 
-plSnatch Avatar
-
 zhSnatch Avatar
-$
-jaアバター「スナッチ」
-,
-uk&Аватар «Великий куш»
+
+plSnatch Avatar
 
 ptSnatch Avatar
 
@@ -16747,25 +16743,29 @@ $
 $
 frAvatar Tu braques ou tu raques
 ,
+uk&Аватар «Великий куш»
+$
+jaアバター「スナッチ」
+,
 ru&Аватар «Большой куш».webp
 �
 avatar_progressive_bp_67_free_1�
  
 enBeauty of Tradition Avatar
  
-plBeauty of Tradition Avatar
- 
 zhBeauty of Tradition Avatar
-$
-jaアバター「伝統の美」
-2
-uk,Аватар «Краса традицій»
+ 
+plBeauty of Tradition Avatar
  
 ptBeauty of Tradition Avatar
  
 esBeauty of Tradition Avatar
 $
 frAvatar Beauté de la tradition
+2
+uk,Аватар «Краса традицій»
+$
+jaアバター「伝統の美」
 6
 ru0Аватар «Красота традиций».webp
 �
@@ -16773,13 +16773,9 @@ $
 
 enPinkTeam Avatar
 
-plPinkTeam Avatar
-
 zhPinkTeam Avatar
- 
-jaアバター「PinkTeam」
-
-ukАватар PinkTeam
+
+plPinkTeam Avatar
 
 ptPinkTeam Avatar
 
@@ -16787,25 +16783,29 @@ $
 
 frAvatar de PinkTeam
 
+ukАватар PinkTeam
+ 
+jaアバター「PinkTeam」
+
 ruАватар PinkTeam.webp
 �
 avatar_progressive_bp_67_free_3�
  
 enBeauty of Tradition Avatar
  
-plBeauty of Tradition Avatar
- 
 zhBeauty of Tradition Avatar
-$
-jaアバター「伝統の美」
-2
-uk,Аватар «Краса традицій»
+ 
+plBeauty of Tradition Avatar
  
 ptBeauty of Tradition Avatar
  
 esBeauty of Tradition Avatar
 $
 frAvatar Beauté de la tradition
+2
+uk,Аватар «Краса традицій»
+$
+jaアバター「伝統の美」
 6
 ru0Аватар «Красота традиций».webp
 �
@@ -16813,13 +16813,9 @@ $
 
 enGreat Viet Avatar
 
-plGreat Viet Avatar
-
 zhGreat Viet Avatar
-"
-jaアバター「Great Viet」
-
-ukАватар Great Viet
+
+plGreat Viet Avatar
 
 ptGreat Viet Avatar
 
@@ -16827,19 +16823,19 @@ $
 
 frAvatar de Great Viet
 
+ukАватар Great Viet
+"
+jaアバター「Great Viet」
+
 ruАватар Great Viet.webp
 �
 avatar_santa_hat_common_12h�
 
 enSanta's Hat Avatar
 
-plSanta's Hat Avatar
-
 zhSanta's Hat Avatar
-*
-ja$アバター「サンタの帽子」
-,
-uk&Аватар «Шапка Санти»
+
+plSanta's Hat Avatar
 
 ptSanta's Hat Avatar
 
@@ -16847,25 +16843,29 @@ $
 &
 fr Avatar de chapeau du père Noël
 ,
+uk&Аватар «Шапка Санти»
+*
+ja$アバター「サンタの帽子」
+,
 ru&Аватар «Шапка Санты».png
 �
 avatar_may_topup_2024_v2�
 
 enGunslinger Avatar
 
-plGunslinger Avatar
-
 zhGunslinger Avatar
--
-ja'アバター「ガンスリンガー」
-'
-uk!Аватар «Стрілець»
+
+plGunslinger Avatar
 
 ptGunslinger Avatar
 
 esGunslinger Avatar
 
 frAvatar pistolero
+'
+uk!Аватар «Стрілець»
+-
+ja'アバター「ガンスリンガー」
 %
 ruАватар «Стрелок».webp
 �
@@ -16873,19 +16873,19 @@ $
 %
 en"Happy Birthday, Blitz!" Avatar
 %
-pl"Happy Birthday, Blitz!" Avatar
-%
 zh"Happy Birthday, Blitz!" Avatar
-=
-ja7アバター「ハッピーバースデー、Blitz !」
-?
-uk9Аватар «З днем народження, Blitz!»
+%
+pl"Happy Birthday, Blitz!" Avatar
 %
 pt"Happy Birthday, Blitz!" Avatar
 %
 es"Happy Birthday, Blitz!" Avatar
 2
 fr,Avatar « Joyeux anniversaire, Blitz ! »
+?
+uk9Аватар «З днем народження, Blitz!»
+=
+ja7アバター「ハッピーバースデー、Blitz !」
 ;
 ru5Аватар «С днём рождения, Blitz!».png
 �
@@ -16893,19 +16893,19 @@ $
 
 en"She's the Boss" Avatar
 
-pl"She's the Boss" Avatar
-
 zh"She's the Boss" Avatar
--
-ja'アバター「彼女こそボスだ」
--
-uk'Аватар «Вона тут бос»
+
+pl"She's the Boss" Avatar
 
 pt"She's the Boss" Avatar
 
 es"She's the Boss" Avatar
 !
 frAvatar C'est elle le patron
+-
+uk'Аватар «Вона тут бос»
+-
+ja'アバター「彼女こそボスだ」
 (
 ru"Аватар «Леди-босс».webp
 �
@@ -16913,19 +16913,19 @@ $
 
 enATGM Master Avatar
 
-plATGM Master Avatar
-
 zhATGM Master Avatar
-)
-ja#アバター「ATGM マスター」
-2
-uk,Аватар «Майстер ПТКРів»
+
+plATGM Master Avatar
 
 ptATGM Master Avatar
 
 esATGM Master Avatar
 
 frAvatar du maître du MGAC
+2
+uk,Аватар «Майстер ПТКРів»
+)
+ja#アバター「ATGM マスター」
 0
 ru*Аватар «Мастер ПТУРов».png
 �
@@ -16933,19 +16933,19 @@ $
 
 enWinged Avatar
 
-plWinged Avatar
-
 zhWinged Avatar
-$
-jaアバター「飛翔の翼」
-)
-uk#Аватар «Окрилений»
+
+plWinged Avatar
 
 ptWinged Avatar
 
 esWinged Avatar
 
 frAvatar Ailé
+)
+uk#Аватар «Окрилений»
+$
+jaアバター「飛翔の翼」
 +
 ru%Аватар «Окрылённый».webp
 �
@@ -16953,19 +16953,19 @@ $
 
 enTEAM ID Fan Avatar
 
-plTEAM ID Fan Avatar
-
 zhTEAM ID Fan Avatar
-)
-ja#アバター「TEAM ID ファン」
-7
-uk1Аватар «Вболівальник TEAM ID»
+
+plTEAM ID Fan Avatar
 
 ptTEAM ID Fan Avatar
 
 esTEAM ID Fan Avatar
 %
 frAvatar du passionné de TEAM ID
+7
+uk1Аватар «Вболівальник TEAM ID»
+)
+ja#アバター「TEAM ID ファン」
 1
 ru+Аватар «Болельщик TEAM ID».webp
 �
@@ -16973,13 +16973,9 @@ $
 
 enKobni Avatar
 
-plKobni Avatar
-
 zhKobni Avatar
-
-jaアバター「Kobni」
-
-ukАватар Kobni
+
+plKobni Avatar
 
 ptKobni Avatar
 
@@ -16987,25 +16983,29 @@ $
 
 frAvatar de Kobni
 
+ukАватар Kobni
+
+jaアバター「Kobni」
+
 ruАватар Kobni.webp
 �
 avatar_APAC_Vengeance_legendary�
 
 enVengeance Avatar
 
-plVengeance Avatar
-
 zhVengeance Avatar
-!
-jaアバター「Vengeance」
-
-ukАватар Vengeance
+
+plVengeance Avatar
 
 ptVengeance Avatar
 
 esVengeance Avatar
 
 frAvatar de Vengeance
+
+ukАватар Vengeance
+!
+jaアバター「Vengeance」
 
 ruАватар Vengeance.webp
 �
@@ -17014,15 +17014,11 @@ $
 en
 Spy Avatar
 
-pl
-Spy Avatar
-
 zh
 Spy Avatar
-!
-jaアバター「スパイ」
-0
-uk*Аватар «Таємний агент»
+
+pl
+Spy Avatar
 
 pt
 Spy Avatar
@@ -17031,6 +17027,10 @@ Spy Avatar
 Spy Avatar
 
 frAvatar de l'espion
+0
+uk*Аватар «Таємний агент»
+!
+jaアバター「スパイ」
 /
 ru)Аватар «Тайный агент».png
 �
@@ -17038,19 +17038,19 @@ Spy Avatar
 
 enLife Goes On Avatar
 
-plLife Goes On Avatar
-
 zhLife Goes On Avatar
-$
-jaアバター「Life Goes On」
-4
-uk.Аватар «Де твій капелюх?»
+
+plLife Goes On Avatar
 
 ptLife Goes On Avatar
 
 esLife Goes On Avatar
 
 frAvatar La vie continue
+4
+uk.Аватар «Де твій капелюх?»
+$
+jaアバター「Life Goes On」
 2
 ru,Аватар «Где твоя шляпа?».webp
 �
@@ -17058,13 +17058,9 @@ $
 
 enMedal Count Avatar
 
-plMedal Count Avatar
-
 zhMedal Count Avatar
-*
-ja$アバター「勝利のメダル」
-4
-uk.Аватар «Медальний залік»
+
+plMedal Count Avatar
 
 ptMedal Count Avatar
 
@@ -17072,19 +17068,19 @@ $
 &
 fr Avatar du Compteur de médailles
 4
+uk.Аватар «Медальний залік»
+*
+ja$アバター「勝利のメダル」
+4
 ru.Аватар «Медальный зачёт».webp
 �
 avatar_progressive_bp_43_paid_4�
 
 enSecret Ingredient Avatar
 
-plSecret Ingredient Avatar
-
 zhSecret Ingredient Avatar
-*
-ja$アバター「おいしい秘訣」
->
-uk8Аватар «Секретний інгредієнт»
+
+plSecret Ingredient Avatar
 
 ptSecret Ingredient Avatar
 
@@ -17092,25 +17088,29 @@ $
 
 frAvatar Ingrédient secret
 >
+uk8Аватар «Секретний інгредієнт»
+*
+ja$アバター「おいしい秘訣」
+>
 ru8Аватар «Секретный ингредиент».webp
 �
 avatar_progressive_bp_11_free_1�
 
 enWarm Embrace Avatar
 
-plWarm Embrace Avatar
-
 zhWarm Embrace Avatar
-'
-ja!アバター「温かい抱擁」
-9
-uk3Аватар «Полум’яні вітання»
+
+plWarm Embrace Avatar
 
 ptWarm Embrace Avatar
 
 esWarm Embrace Avatar
 
 frAvatar Accueil chaleureux
+9
+uk3Аватар «Полум’яні вітання»
+'
+ja!アバター「温かい抱擁」
 6
 ru0Аватар «Пламенный привет».webp
 �
@@ -17118,19 +17118,19 @@ $
 
 en"She's the Boss" Avatar
 
-pl"She's the Boss" Avatar
-
 zh"She's the Boss" Avatar
--
-ja'アバター「彼女こそボスだ」
--
-uk'Аватар «Вона тут бос»
+
+pl"She's the Boss" Avatar
 
 pt"She's the Boss" Avatar
 
 es"She's the Boss" Avatar
 !
 frAvatar C'est elle le patron
+-
+uk'Аватар «Вона тут бос»
+-
+ja'アバター「彼女こそボスだ」
 (
 ru"Аватар «Леди-босс».webp
 �
@@ -17138,19 +17138,19 @@ $
 
 enSanta's Flight Avatar
 
-plSanta's Flight Avatar
-
 zhSanta's Flight Avatar
-0
-ja*アバター「空飛ぶサンタさん」
-K
-ukEАватар «Навколосвітня подорож Санти»
+
+plSanta's Flight Avatar
 
 ptSanta's Flight Avatar
 
 esSanta's Flight Avatar
 
 frAvatar Tag du Père Noël
+K
+ukEАватар «Навколосвітня подорож Санти»
+0
+ja*アバター「空飛ぶサンタさん」
 8
 ru2Аватар «Кругосветка Санты».webp
 �
@@ -17158,19 +17158,19 @@ K
 
 en"Skirmish!" Avatar
 
-pl"Skirmish!" Avatar
-
 zh"Skirmish!" Avatar
-
-jaアバター「乱闘!」
-(
-uk"Аватар «Хто кого?!»
+
+pl"Skirmish!" Avatar
 
 pt"Skirmish!" Avatar
 
 es"Skirmish!" Avatar
 #
 frAvatar « Escarmouche ! »
+(
+uk"Аватар «Хто кого?!»
+
+jaアバター「乱闘!」
 (
 ru"Аватар «Кто кого?!».png
 �
@@ -17178,19 +17178,19 @@ K
 
 en"Skirmish!" Avatar
 
-pl"Skirmish!" Avatar
-
 zh"Skirmish!" Avatar
-
-jaアバター「乱闘!」
-(
-uk"Аватар «Хто кого?!»
+
+pl"Skirmish!" Avatar
 
 pt"Skirmish!" Avatar
 
 es"Skirmish!" Avatar
 #
 frAvatar « Escarmouche ! »
+(
+uk"Аватар «Хто кого?!»
+
+jaアバター「乱闘!」
 (
 ru"Аватар «Кто кого?!».png
 �
@@ -17199,15 +17199,11 @@ K
 en
 Spy Avatar
 
-pl
-Spy Avatar
-
 zh
 Spy Avatar
-!
-jaアバター「スパイ」
-0
-uk*Аватар «Таємний агент»
+
+pl
+Spy Avatar
 
 pt
 Spy Avatar
@@ -17216,6 +17212,10 @@ Spy Avatar
 Spy Avatar
 
 frAvatar de l'espion
+0
+uk*Аватар «Таємний агент»
+!
+jaアバター「スパイ」
 /
 ru)Аватар «Тайный агент».png
 �
@@ -17223,13 +17223,9 @@ Spy Avatar
 
 enHey lol Avatar
 
-plHey lol Avatar
-
 zhHey lol Avatar
-
-jaアバター「Hey lol」
-
-ukАватар Hey lol
+
+plHey lol Avatar
 
 ptHey lol Avatar
 
@@ -17237,25 +17233,29 @@ Spy Avatar
 
 frAvatar de Hey lol
 
+ukАватар Hey lol
+
+jaアバター「Hey lol」
+
 ruАватар Hey lol.png
 �
 avatar_progressive_oliver2021_3�
 
 enLife Goes On Avatar
 
-plLife Goes On Avatar
-
 zhLife Goes On Avatar
-$
-jaアバター「Life Goes On」
-4
-uk.Аватар «Де твій капелюх?»
+
+plLife Goes On Avatar
 
 ptLife Goes On Avatar
 
 esLife Goes On Avatar
 
 frAvatar La vie continue
+4
+uk.Аватар «Де твій капелюх?»
+$
+jaアバター「Life Goes On」
 2
 ru,Аватар «Где твоя шляпа?».webp
 �
@@ -17263,19 +17263,19 @@ $
 
 enSais Avatar
 
-plSais Avatar
-
 zhSais Avatar
-
-jaアバター「釵」
-,
-uk&Аватар «Сай самурая»
+
+plSais Avatar
 
 ptSais Avatar
 
 esSais Avatar
 
 frAvatar Saïs
+,
+uk&Аватар «Сай самурая»
+
+jaアバター「釵」
 ,
 ru&Аватар «Сай самурая».webp
 �
@@ -17284,15 +17284,11 @@ $
 en
 Spy Avatar
 
-pl
-Spy Avatar
-
 zh
 Spy Avatar
-!
-jaアバター「スパイ」
-0
-uk*Аватар «Таємний агент»
+
+pl
+Spy Avatar
 
 pt
 Spy Avatar
@@ -17301,6 +17297,10 @@ Spy Avatar
 Spy Avatar
 
 frAvatar de l'espion
+0
+uk*Аватар «Таємний агент»
+!
+jaアバター「スパイ」
 /
 ru)Аватар «Тайный агент».png
 �
@@ -17308,13 +17308,9 @@ Spy Avatar
 !
 enBest Friend Animated Avatar
 !
-plBest Friend Animated Avatar
-!
 zhBest Friend Animated Avatar
-H
-jaBアニメーション付きアバター「ベストフレンド」
-G
-ukAАнімований аватар «Найкращий друг»
+!
+plBest Friend Animated Avatar
 !
 ptBest Friend Animated Avatar
 !
@@ -17322,25 +17318,29 @@ G
  
 frAvatar animé Meilleur ami
 G
+ukAАнімований аватар «Найкращий друг»
+H
+jaBアニメーション付きアバター「ベストフレンド」
+G
 ruAАнимированный аватар «Лучший друг».webp
 �
 avatar_2026_big_forge_anim�
 %
 enBurning Horizon Animated Avatar
 %
-plBurning Horizon Animated Avatar
-%
 zhBurning Horizon Animated Avatar
-H
-jaBアニメーション付きアバター「燃え盛る地平線」
-P
-ukJАнімований аватар «Полум'яний горизонт»
+%
+plBurning Horizon Animated Avatar
 %
 ptBurning Horizon Animated Avatar
 %
 esBurning Horizon Animated Avatar
 "
 frAvatar animé Horizon ardent
+P
+ukJАнімований аватар «Полум'яний горизонт»
+H
+jaBアニメーション付きアバター「燃え盛る地平線」
 S
 ruMАнимированный аватар «Пылающий горизонт».webp
 �
@@ -17348,13 +17348,9 @@ S
 
 enIlaina Kitt Avatar
 
-plIlaina Kitt Avatar
-
 zhIlaina Kitt Avatar
-0
-ja*アバター「イライナ・キット」
-,
-uk&Аватар «Ілайна Кітт»
+
+plIlaina Kitt Avatar
 
 ptIlaina Kitt Avatar
 
@@ -17362,25 +17358,29 @@ S
 
 frAvatar Ilaina Kitt
 ,
+uk&Аватар «Ілайна Кітт»
+0
+ja*アバター「イライナ・キット」
+,
 ru&Аватар «Илайна Китт».webp
 �
 avatar_progressive_bp_51_free_3�
 
 en"She's the Boss" Avatar
 
-pl"She's the Boss" Avatar
-
 zh"She's the Boss" Avatar
--
-ja'アバター「彼女こそボスだ」
--
-uk'Аватар «Вона тут бос»
+
+pl"She's the Boss" Avatar
 
 pt"She's the Boss" Avatar
 
 es"She's the Boss" Avatar
 !
 frAvatar C'est elle le patron
+-
+uk'Аватар «Вона тут бос»
+-
+ja'アバター「彼女こそボスだ」
 (
 ru"Аватар «Леди-босс».webp
 �
@@ -17388,19 +17388,19 @@ S
 
 enPredatory Gaze Avatar
 
-plPredatory Gaze Avatar
-
 zhPredatory Gaze Avatar
-$
-jaアバター「獣の凝視」
-.
-uk(Аватар «Хижий погляд»
+
+plPredatory Gaze Avatar
 
 ptPredatory Gaze Avatar
 
 esPredatory Gaze Avatar
 $
 frAvatar du regard de prédateur
+.
+uk(Аватар «Хижий погляд»
+$
+jaアバター「獣の凝視」
 0
 ru*Аватар «Хищный взгляд».png
 �
@@ -17408,13 +17408,9 @@ $
 
 enSay CHEESE! Avatar
 
-plSay CHEESE! Avatar
-
 zhSay CHEESE! Avatar
-+
-ja%アバター「はい、チーズ!」
-.
-uk(Аватар «Скажіть: Сир!»
+
+plSay CHEESE! Avatar
 
 ptSay CHEESE! Avatar
 
@@ -17422,25 +17418,29 @@ $
 
 frAvatar Dites CHEESE !
 .
+uk(Аватар «Скажіть: Сир!»
++
+ja%アバター「はい、チーズ!」
+.
 ru(Аватар «Скажите: Сыр!».webp
 �
 avatar_progressive_bp_51_free_4�
 
 en"She's the Boss" Avatar
 
-pl"She's the Boss" Avatar
-
 zh"She's the Boss" Avatar
--
-ja'アバター「彼女こそボスだ」
--
-uk'Аватар «Вона тут бос»
+
+pl"She's the Boss" Avatar
 
 pt"She's the Boss" Avatar
 
 es"She's the Boss" Avatar
 !
 frAvatar C'est elle le patron
+-
+uk'Аватар «Вона тут бос»
+-
+ja'アバター「彼女こそボスだ」
 (
 ru"Аватар «Леди-босс».webp
 �
@@ -17448,19 +17448,19 @@ $
 
 enSilent Service Avatar
 
-plSilent Service Avatar
-
 zhSilent Service Avatar
-$
-jaアバター「極秘部隊」
-0
-uk*Аватар «Таємна служба»
+
+plSilent Service Avatar
 
 ptSilent Service Avatar
 
 esSilent Service Avatar
 "
 frAvatar du Service silencieux
+0
+uk*Аватар «Таємна служба»
+$
+jaアバター「極秘部隊」
 0
 ru*Аватар «Тайная служба».webp
 �
@@ -17468,13 +17468,9 @@ $
 
 enSilent Service Avatar
 
-plSilent Service Avatar
-
 zhSilent Service Avatar
-$
-jaアバター「極秘部隊」
-0
-uk*Аватар «Таємна служба»
+
+plSilent Service Avatar
 
 ptSilent Service Avatar
 
@@ -17482,19 +17478,19 @@ $
 "
 frAvatar du Service silencieux
 0
+uk*Аватар «Таємна служба»
+$
+jaアバター「極秘部隊」
+0
 ru*Аватар «Тайная служба».webp
 �
 avatar_off_season_sept24_unique�
 
 enA-typical Avatar
 
-plA-typical Avatar
-
 zhA-typical Avatar
-3
-ja-アバター「タイプ・アラカルト」
-)
-uk#Аватар «Нетиповий»
+
+plA-typical Avatar
 
 ptA-typical Avatar
 
@@ -17502,19 +17498,19 @@ $
 
 frAvatar a-typique
 )
+uk#Аватар «Нетиповий»
+3
+ja-アバター「タイプ・アラカルト」
+)
 ru#Аватар «Атипичный».webp
 �
 avatar_yha2024_rare_1�
 
 en兔子的问候头像
 
-pl兔子的问候头像
-
 zh兔子的问候头像
 
-ja兔子的问候头像
-
-uk兔子的问候头像
+pl兔子的问候头像
 
 pt兔子的问候头像
 
@@ -17522,19 +17518,19 @@ $
 
 fr兔子的问候头像
 
+uk兔子的问候头像
+
+ja兔子的问候头像
+
 ru兔子的问候头像.webp
 �
 avatar_crossbow_unique�
 
 enCrossbow Avatar
 
-plCrossbow Avatar
-
 zhCrossbow Avatar
-'
-ja!アバター「クロスボウ」
-%
-ukАватар «Арбалет»
+
+plCrossbow Avatar
 
 ptCrossbow Avatar
 
@@ -17542,25 +17538,29 @@ $
 
 frAvatar de l'arbalète
 %
+ukАватар «Арбалет»
+'
+ja!アバター「クロスボウ」
+%
 ruАватар «Арбалет».webp
 �
 avatar_progressive_bp_65_free_3�
 
 enHandmade Ornament Avatar
 
-plHandmade Ornament Avatar
-
 zhHandmade Ornament Avatar
-3
-ja-アバター「手作りオーナメント」
-:
-uk4Аватар «Саморобна прикраса»
+
+plHandmade Ornament Avatar
 
 ptHandmade Ornament Avatar
 
 esHandmade Ornament Avatar
 %
 frAvatar Ornement fait à la main
+:
+uk4Аватар «Саморобна прикраса»
+3
+ja-アバター「手作りオーナメント」
 3
 ru-Аватар «Сделано с душой».webp
 �
@@ -17568,13 +17568,9 @@ $
 
 enVarro Tigurius Avatar
 
-plVarro Tigurius Avatar
-
 zhVarro Tigurius Avatar
-6
-ja0アバター「ヴァロ・ティグリウス」
-!
-ukАватар Varro Tigurius
+
+plVarro Tigurius Avatar
 
 ptVarro Tigurius Avatar
 
@@ -17582,25 +17578,29 @@ $
 
 frAvatar Varro Tigurius
 !
+ukАватар Varro Tigurius
+6
+ja0アバター「ヴァロ・ティグリウス」
+!
 ruАватар Varro Tigurius.webp
 �
 avatar_progressive_bp_26_free_2�
 
 enFolio Avatar
 
-plFolio Avatar
-
 zhFolio Avatar
-$
-jaアバター「月の文書」
-%
-ukАватар «Фоліант»
+
+plFolio Avatar
 
 ptFolio Avatar
 
 esFolio Avatar
 
 frAvatar du Folio
+%
+ukАватар «Фоліант»
+$
+jaアバター「月の文書」
 %
 ruАватар «Фолиант».webp
 �
@@ -17608,19 +17608,19 @@ $
 
 enFolio Avatar
 
-plFolio Avatar
-
 zhFolio Avatar
-$
-jaアバター「月の文書」
-%
-ukАватар «Фоліант»
+
+plFolio Avatar
 
 ptFolio Avatar
 
 esFolio Avatar
 
 frAvatar du Folio
+%
+ukАватар «Фоліант»
+$
+jaアバター「月の文書」
 %
 ruАватар «Фолиант».webp
 �
@@ -17628,19 +17628,19 @@ $
 
 enGolden Egg Avatar
 
-plGolden Egg Avatar
-
 zhGolden Egg Avatar
-*
-ja$アバター「黄金のエッグ」
-,
-uk&Аватар «Золоте яйце»
+
+plGolden Egg Avatar
 
 ptGolden Egg Avatar
 
 esGolden Egg Avatar
 
 frAvatar Œuf en or
+,
+uk&Аватар «Золоте яйце»
+*
+ja$アバター「黄金のエッグ」
 .
 ru(Аватар «Золотое яйцо».webp
 �
@@ -17648,19 +17648,19 @@ $avatar_BlitzCup25_EU_TEAM1_legendary�
 
 enBlue World Diamond Avatar
 
-plBlue World Diamond Avatar
-
 zhBlue World Diamond Avatar
-5
-ja/アバター「Blue World ダイヤモンド」
-C
-uk=Діамантовий аватар команди Blue World
+
+plBlue World Diamond Avatar
 
 ptBlue World Diamond Avatar
 
 esBlue World Diamond Avatar
 %
 frAvatar de Blue World de diamant
+C
+uk=Діамантовий аватар команди Blue World
+5
+ja/アバター「Blue World ダイヤモンド」
 G
 ruAБриллиантовый аватар команды Blue World.webp
 �
@@ -17668,19 +17668,19 @@ G
 
 enFolio Avatar
 
-plFolio Avatar
-
 zhFolio Avatar
-$
-jaアバター「月の文書」
-%
-ukАватар «Фоліант»
+
+plFolio Avatar
 
 ptFolio Avatar
 
 esFolio Avatar
 
 frAvatar du Folio
+%
+ukАватар «Фоліант»
+$
+jaアバター「月の文書」
 %
 ruАватар «Фолиант».webp
 �
@@ -17688,19 +17688,19 @@ $
 
 enFighting Spirit Avatar
 
-plFighting Spirit Avatar
-
 zhFighting Spirit Avatar
-$
-jaアバター「闘争精神」
-,
-uk&Аватар «Бойовий дух»
+
+plFighting Spirit Avatar
 
 ptFighting Spirit Avatar
 
 esFighting Spirit Avatar
 !
 frAvatar de l'esprit combatif
+,
+uk&Аватар «Бойовий дух»
+$
+jaアバター「闘争精神」
 *
 ru$Аватар «Боевой дух».webp
 �
@@ -17708,19 +17708,19 @@ $
 
 enFantastic Fan Avatar
 
-plFantastic Fan Avatar
-
 zhFantastic Fan Avatar
-+
-ja%アバター「Fantastic ファン」
-9
-uk3Аватар «Вболівальник Fantastic»
+
+plFantastic Fan Avatar
 
 ptFantastic Fan Avatar
 
 esFantastic Fan Avatar
 '
 fr!Avatar du passionné de Fantastic
+9
+uk3Аватар «Вболівальник Fantastic»
++
+ja%アバター「Fantastic ファン」
 3
 ru-Аватар «Болельщик Fantastic».webp
 �
@@ -17728,13 +17728,9 @@ $
 
 enLevitation Avatar
 
-plLevitation Avatar
-
 zhLevitation Avatar
-"
-jaアバター「Levitation」
-
-ukАватар Levitation
+
+plLevitation Avatar
 
 ptLevitation Avatar
 
@@ -17742,25 +17738,29 @@ $
 
 frAvatar de Levitation
 
+ukАватар Levitation
+"
+jaアバター「Levitation」
+
 ruАватар Levitation.webp
 �
 avatar_garland_ver2_common�
 
 enFairy Lights Avatar
 
-plFairy Lights Avatar
-
 zhFairy Lights Avatar
-'
-ja!アバター「妖精の灯り」
-D
-uk>Аватар «Різнокольорова гірлянда»
+
+plFairy Lights Avatar
 
 ptFairy Lights Avatar
 
 esFairy Lights Avatar
 #
 frAvatar de guirlande lumineuse
+D
+uk>Аватар «Різнокольорова гірлянда»
+'
+ja!アバター「妖精の灯り」
 @
 ru:Аватар «Разноцветная гирлянда».png
 �
@@ -17768,19 +17768,19 @@ D
 
 enx X x Fan Avatar
 
-plx X x Fan Avatar
-
 zhx X x Fan Avatar
-'
-ja!アバター「x X x ファン」
-5
-uk/Аватар «Вболівальник x X x»
+
+plx X x Fan Avatar
 
 ptx X x Fan Avatar
 
 esx X x Fan Avatar
 #
 frAvatar du passionné de x X x
+5
+uk/Аватар «Вболівальник x X x»
+'
+ja!アバター「x X x ファン」
 /
 ru)Аватар «Болельщик x X x».webp
 �
@@ -17788,19 +17788,19 @@ D
 
 enTriumphant Avatar
 
-plTriumphant Avatar
-
 zhTriumphant Avatar
-
-jaアバター「勝利」
 
-ukTriumphant Avatar
+plTriumphant Avatar
 
 ptTriumphant Avatar
 
 esTriumphant Avatar
 
 frAvatar triomphant
+
+ukTriumphant Avatar
+
+jaアバター「勝利」
 
 ruTriumphant Avatar.webp
 �
@@ -17808,13 +17808,9 @@ $avatar_Galactic_Blitzforce_legendary�
  
 enGalactic Blitzforce Avatar
  
-plGalactic Blitzforce Avatar
- 
 zhGalactic Blitzforce Avatar
  
-jaGalactic Blitzforce Avatar
- 
-ukGalactic Blitzforce Avatar
+plGalactic Blitzforce Avatar
  
 ptGalactic Blitzforce Avatar
  
@@ -17822,19 +17818,19 @@ $avatar_Galactic_Blitzforce_legendary�
  
 frGalactic Blitzforce Avatar
  
+ukGalactic Blitzforce Avatar
+ 
+jaGalactic Blitzforce Avatar
+ 
 ruGalactic Blitzforce Avatar.webp
 �
 $avatar_progressive_bp_39_ruby_free_4�
 >
 en8storage/Items/avatar_progressive_bp_39_ruby_free_4/Title
 >
-pl8storage/Items/avatar_progressive_bp_39_ruby_free_4/Title
->
 zh8storage/Items/avatar_progressive_bp_39_ruby_free_4/Title
 >
-ja8storage/Items/avatar_progressive_bp_39_ruby_free_4/Title
->
-uk8storage/Items/avatar_progressive_bp_39_ruby_free_4/Title
+pl8storage/Items/avatar_progressive_bp_39_ruby_free_4/Title
 >
 pt8storage/Items/avatar_progressive_bp_39_ruby_free_4/Title
 >
@@ -17842,25 +17838,29 @@ $avatar_progressive_bp_39_ruby_free_4�
 >
 fr8storage/Items/avatar_progressive_bp_39_ruby_free_4/Title
 >
+uk8storage/Items/avatar_progressive_bp_39_ruby_free_4/Title
+>
+ja8storage/Items/avatar_progressive_bp_39_ruby_free_4/Title
+>
 ru8storage/Items/avatar_progressive_bp_39_ruby_free_4/Title.webp
 �
 &avatar_progressive_midnight_predator_5�
 
 enMidnight Predator Avatar
 
-plMidnight Predator Avatar
-
 zhMidnight Predator Avatar
--
-ja'アバター「真夜中の捕食者」
-6
-uk0Аватар «Опівнічний хижак»
+
+plMidnight Predator Avatar
 
 ptMidnight Predator Avatar
 
 esMidnight Predator Avatar
 $
 frAvatar du prédateur de minuit
+6
+uk0Аватар «Опівнічний хижак»
+-
+ja'アバター「真夜中の捕食者」
 8
 ru2Аватар «Полуночный хищник».png
 �
@@ -17868,19 +17868,19 @@ $
 
 enDeep Track Avatar
 
-plDeep Track Avatar
-
 zhDeep Track Avatar
-'
-ja!アバター「深い車輪跡」
-
-ukАватар «Слід»
+
+plDeep Track Avatar
 
 ptDeep Track Avatar
 
 esDeep Track Avatar
 -
 fr'Avatar de traces de chenilles profondes
+
+ukАватар «Слід»
+'
+ja!アバター「深い車輪跡」
 
 ruАватар «След».png
 �
@@ -17888,13 +17888,9 @@ $
 
 enTriumph of Power Avatar
 
-plTriumph of Power Avatar
-
 zhTriumph of Power Avatar
-'
-ja!アバター「大いなる力」
-,
-uk&Аватар «Тріумф сили»
+
+plTriumph of Power Avatar
 
 ptTriumph of Power Avatar
 
@@ -17902,19 +17898,19 @@ $
 (
 fr"Avatar du triomphe de la puissance
 ,
+uk&Аватар «Тріумф сили»
+'
+ja!アバター「大いなる力」
+,
 ru&Аватар «Триумф силы».png
 �
 avatar_bp_8_bundle�
 
 enExplorer Avatar
 
-plExplorer Avatar
-
 zhExplorer Avatar
-!
-jaアバター「探検家」
-)
-uk#Аватар «Експлорер»
+
+plExplorer Avatar
 
 ptExplorer Avatar
 
@@ -17922,19 +17918,19 @@ $
 
 frAvatar de l'Explorer
 )
+uk#Аватар «Експлорер»
+!
+jaアバター「探検家」
+)
 ru#Аватар «Эксплорер».png
 �
 avatar_progressive_bp_26_free_4�
 
 enFolio Avatar
 
-plFolio Avatar
-
 zhFolio Avatar
-$
-jaアバター「月の文書」
-%
-ukАватар «Фоліант»
+
+plFolio Avatar
 
 ptFolio Avatar
 
@@ -17942,25 +17938,29 @@ $
 
 frAvatar du Folio
 %
+ukАватар «Фоліант»
+$
+jaアバター「月の文書」
+%
 ruАватар «Фолиант».webp
 �
 avatar_NA_Leverage_rare_31d�
 
 enLeverage Fan Avatar
 
-plLeverage Fan Avatar
-
 zhLeverage Fan Avatar
-*
-ja$アバター「Leverage ファン」
-8
-uk2Аватар «Вболівальник Leverage»
+
+plLeverage Fan Avatar
 
 ptLeverage Fan Avatar
 
 esLeverage Fan Avatar
 &
 fr Avatar du passionné de Leverage
+8
+uk2Аватар «Вболівальник Leverage»
+*
+ja$アバター「Leverage ファン」
 2
 ru,Аватар «Болельщик Leverage».webp
 �
@@ -17968,19 +17968,19 @@ $
 
 enThe Dark Side Avatar
 
-plThe Dark Side Avatar
-
 zhThe Dark Side Avatar
-!
-jaアバター「暗黒面」
-0
-uk*Аватар «Темна сторона»
+
+plThe Dark Side Avatar
 
 ptThe Dark Side Avatar
 
 esThe Dark Side Avatar
 
 frAvatar du côté obscur
+0
+uk*Аватар «Темна сторона»
+!
+jaアバター「暗黒面」
 2
 ru,Аватар «Тёмная сторона».png
 �
@@ -17988,19 +17988,19 @@ $
 
 enPixel Tank Avatar
 
-plPixel Tank Avatar
-
 zhPixel Tank Avatar
-*
-ja$アバター「ピクセル戦車」
-4
-uk.Аватар «Піксельний танк»
+
+plPixel Tank Avatar
 
 ptPixel Tank Avatar
 
 esPixel Tank Avatar
 
 frAvatar de char pixelisé
+4
+uk.Аватар «Піксельний танк»
+*
+ja$アバター「ピクセル戦車」
 4
 ru.Аватар «Пиксельный танк».png
 �
@@ -18008,19 +18008,19 @@ $
 
 enJokers Fan Avatar
 
-plJokers Fan Avatar
-
 zhJokers Fan Avatar
-(
-ja"アバター「Jokers ファン」
-6
-uk0Аватар «Вболівальник Jokers»
+
+plJokers Fan Avatar
 
 ptJokers Fan Avatar
 
 esJokers Fan Avatar
 $
 frAvatar du passionné de Jokers
+6
+uk0Аватар «Вболівальник Jokers»
+(
+ja"アバター「Jokers ファン」
 0
 ru*Аватар «Болельщик Jokers».webp
 �
@@ -18028,19 +18028,19 @@ $
 
 enCrack Shot Avatar
 
-plCrack Shot Avatar
-
 zhCrack Shot Avatar
-'
-ja!アバター「射撃の名手」
-6
-uk0Аватар «Влучний стрілець»
+
+plCrack Shot Avatar
 
 ptCrack Shot Avatar
 
 esCrack Shot Avatar
 
 frAvatar du coup de maître
+6
+uk0Аватар «Влучний стрілець»
+'
+ja!アバター「射撃の名手」
 2
 ru,Аватар «Меткий стрелок».png
 �
@@ -18048,19 +18048,19 @@ $
 !
 enAnything Is Possible Avatar
 !
-plAnything Is Possible Avatar
-!
 zhAnything Is Possible Avatar
-*
-ja$アバター「全てが可能だ」
-,
-uk&Аватар «Можливо все»
+!
+plAnything Is Possible Avatar
 !
 ptAnything Is Possible Avatar
 !
 esAnything Is Possible Avatar
 
 frAvatar Tout est possible
+,
+uk&Аватар «Можливо все»
+*
+ja$アバター「全てが可能だ」
 .
 ru(Аватар «Возможно всё».webp
 �
@@ -18068,13 +18068,9 @@ $
 
 enBoris the Blade Avatar
 
-plBoris the Blade Avatar
-
 zhBoris the Blade Avatar
-6
-ja0アバター「ボリス・ザ・ブレイド」
-.
-uk(Аватар «Борис Бритва»
+
+plBoris the Blade Avatar
 
 ptBoris the Blade Avatar
 
@@ -18082,19 +18078,19 @@ $
  
 frAvatar de Boris le Hachoir
 .
+uk(Аватар «Борис Бритва»
+6
+ja0アバター「ボリス・ザ・ブレイド」
+.
 ru(Аватар «Борис Бритва».webp
 �
 avatar_bp_9_bundle�
 
 enTriumphant Avatar
 
-plTriumphant Avatar
-
 zhTriumphant Avatar
-
-jaアバター「勝利」
-+
-uk%Аватар «Тріумфатор»
+
+plTriumphant Avatar
 
 ptTriumphant Avatar
 
@@ -18102,25 +18098,29 @@ $
 
 frAvatar triomphant
 +
+uk%Аватар «Тріумфатор»
+
+jaアバター「勝利」
++
 ru%Аватар «Триумфатор».webp
 �
 avatar_progressive_bp_41_paid_2�
  
 enFranky Four Fingers Avatar
  
-plFranky Four Fingers Avatar
- 
 zhFranky Four Fingers Avatar
-B
-ja<アバター「フォーフィンガー・フランキー」
-:
-uk4Аватар «Чотирипалий Френкі»
+ 
+plFranky Four Fingers Avatar
  
 ptFranky Four Fingers Avatar
  
 esFranky Four Fingers Avatar
 $
 frAvatar de Franky Quatre doigts
+:
+uk4Аватар «Чотирипалий Френкі»
+B
+ja<アバター「フォーフィンガー・フランキー」
 =
 ru7Аватар «Фрэнки Четыре Пальца».webp
 �
@@ -18128,19 +18128,19 @@ $avatar_progressive_bp_37_ruby_free_1�
 2
 en,Аватар «Куст хрюкающий»
 2
-pl,Аватар «Куст хрюкающий»
-2
 zh,Аватар «Куст хрюкающий»
 2
-ja,Аватар «Куст хрюкающий»
-2
-uk,Аватар «Куст хрюкающий»
+pl,Аватар «Куст хрюкающий»
 2
 pt,Аватар «Куст хрюкающий»
 2
 es,Аватар «Куст хрюкающий»
 2
 fr,Аватар «Куст хрюкающий»
+2
+uk,Аватар «Куст хрюкающий»
+2
+ja,Аватар «Куст хрюкающий»
 2
 ru,Аватар «Куст хрюкающий».webp
 �
@@ -18148,19 +18148,19 @@ $avatar_progressive_bp_37_ruby_free_1�
 
 enThis is Tanker. Over!
 
-plThis is Tanker. Over!
-
 zhThis is Tanker. Over!
-%
-jaこちら戦車長。どうぞ!
 
-ukThis is Tanker. Over!
+plThis is Tanker. Over!
 
 ptThis is Tanker. Over!
 
 esThis is Tanker. Over!
 "
 frIci un tankiste, terminer !
+
+ukThis is Tanker. Over!
+%
+jaこちら戦車長。どうぞ!
 %
 ruТанкист на связи!.png
 �
@@ -18168,13 +18168,9 @@ $avatar_progressive_bp_37_ruby_free_4�
 2
 en,Аватар «Куст хрюкающий»
 2
-pl,Аватар «Куст хрюкающий»
-2
 zh,Аватар «Куст хрюкающий»
 2
-ja,Аватар «Куст хрюкающий»
-2
-uk,Аватар «Куст хрюкающий»
+pl,Аватар «Куст хрюкающий»
 2
 pt,Аватар «Куст хрюкающий»
 2
@@ -18182,19 +18178,19 @@ $avatar_progressive_bp_37_ruby_free_4�
 2
 fr,Аватар «Куст хрюкающий»
 2
+uk,Аватар «Куст хрюкающий»
+2
+ja,Аватар «Куст хрюкающий»
+2
 ru,Аватар «Куст хрюкающий».webp
 �
 avatar_progressive_bp_41_paid_6�
 
 enDaisy Avatar
 
-plDaisy Avatar
-
 zhDaisy Avatar
-$
-jaアバター「デイジー」
-!
-ukАватар «Дейзі»
+
+plDaisy Avatar
 
 ptDaisy Avatar
 
@@ -18202,25 +18198,29 @@ $
 
 frAvatar de Daisy
 !
+ukАватар «Дейзі»
+$
+jaアバター「デイジー」
+!
 ruАватар «Дэйзи».webp
 �
 $avatar_S6TournamentsParticipant_rare�
 -
 en'Season 6 Tournaments Participant Avatar
 -
-pl'Season 6 Tournaments Participant Avatar
--
 zh'Season 6 Tournaments Participant Avatar
-D
-ja>アバター「シーズン 6・トーナメント参加者」
-F
-uk@Аватар «Учасник турнірів Сезону 6»
+-
+pl'Season 6 Tournaments Participant Avatar
 -
 pt'Season 6 Tournaments Participant Avatar
 -
 es'Season 6 Tournaments Participant Avatar
 4
 fr.Avatar Participant aux tournois de la Saison 6
+F
+uk@Аватар «Учасник турнірів Сезону 6»
+D
+ja>アバター「シーズン 6・トーナメント参加者」
 G
 ruAАватар «Участник турниров Сезона 6».webp
 �
@@ -18228,13 +18228,9 @@ G
 
 enBlitz Volunteer Avatar
 
-plBlitz Volunteer Avatar
-
 zhBlitz Volunteer Avatar
-0
-ja*アバター「Blitz ボランティア」
--
-uk'Аватар «Волонтер Blitz»
+
+plBlitz Volunteer Avatar
 
 ptBlitz Volunteer Avatar
 
@@ -18242,19 +18238,19 @@ G
 #
 frAvatar du volontaire de Blitz
 -
+uk'Аватар «Волонтер Blitz»
+0
+ja*アバター「Blitz ボランティア」
+-
 ru'Аватар «Волонтёр Blitz».png
 �
 avatar_track_common�
 
 enDeep Track Avatar
 
-plDeep Track Avatar
-
 zhDeep Track Avatar
-'
-ja!アバター「深い車輪跡」
-
-ukАватар «Слід»
+
+plDeep Track Avatar
 
 ptDeep Track Avatar
 
@@ -18262,25 +18258,29 @@ G
 -
 fr'Avatar de traces de chenilles profondes
 
+ukАватар «Слід»
+'
+ja!アバター「深い車輪跡」
+
 ruАватар «След».png
 �
 avatar_progressive_bp_7_paid_8�
 
 enHonos Avatar
 
-plHonos Avatar
-
 zhHonos Avatar
-
-jaアバター「名誉」
-
-ukАватар Honos
+
+plHonos Avatar
 
 ptHonos Avatar
 
 esHonos Avatar
 
 frAvatar Honos
+
+ukАватар Honos
+
+jaアバター「名誉」
 
 ruАватар Honos.png
 �
@@ -18288,19 +18288,19 @@ G
 
 enMidnight Predator Avatar
 
-plMidnight Predator Avatar
-
 zhMidnight Predator Avatar
--
-ja'アバター「真夜中の捕食者」
-6
-uk0Аватар «Опівнічний хижак»
+
+plMidnight Predator Avatar
 
 ptMidnight Predator Avatar
 
 esMidnight Predator Avatar
 $
 frAvatar du prédateur de minuit
+6
+uk0Аватар «Опівнічний хижак»
+-
+ja'アバター「真夜中の捕食者」
 8
 ru2Аватар «Полуночный хищник».png
 �
@@ -18308,13 +18308,9 @@ $
 -
 en'avatars/Items/avatar_bb2022_cis_4/Title
 -
-pl'avatars/Items/avatar_bb2022_cis_4/Title
--
 zh'avatars/Items/avatar_bb2022_cis_4/Title
 -
-ja'avatars/Items/avatar_bb2022_cis_4/Title
--
-uk'avatars/Items/avatar_bb2022_cis_4/Title
+pl'avatars/Items/avatar_bb2022_cis_4/Title
 -
 pt'avatars/Items/avatar_bb2022_cis_4/Title
 -
@@ -18322,25 +18318,29 @@ $
 -
 fr'avatars/Items/avatar_bb2022_cis_4/Title
 -
+uk'avatars/Items/avatar_bb2022_cis_4/Title
+-
+ja'avatars/Items/avatar_bb2022_cis_4/Title
+-
 ru'avatars/Items/avatar_bb2022_cis_4/Title.webp
 �
 &avatar_progressive_midnight_predator_6�
 
 enMidnight Predator Avatar
 
-plMidnight Predator Avatar
-
 zhMidnight Predator Avatar
--
-ja'アバター「真夜中の捕食者」
-6
-uk0Аватар «Опівнічний хижак»
+
+plMidnight Predator Avatar
 
 ptMidnight Predator Avatar
 
 esMidnight Predator Avatar
 $
 frAvatar du prédateur de minuit
+6
+uk0Аватар «Опівнічний хижак»
+-
+ja'アバター「真夜中の捕食者」
 8
 ru2Аватар «Полуночный хищник».png
 �
@@ -18348,19 +18348,19 @@ $
 
 enFireflake Animated Avatar
 
-plFireflake Animated Avatar
-
 zhFireflake Animated Avatar
-K
-jaEアニメーション付きアバター「ファイアフレイク」
-K
-ukEАнімований аватар «Вогняна сніжинка»
+
+plFireflake Animated Avatar
 
 ptFireflake Animated Avatar
 
 esFireflake Animated Avatar
 !
 frAvatar animé Flocon de feu
+K
+ukEАнімований аватар «Вогняна сніжинка»
+K
+jaEアニメーション付きアバター「ファイアフレイク」
 S
 ruMАнимированный аватар «Огненная снежинка».webp
 �
@@ -18368,19 +18368,19 @@ S
 
 enMidnight Predator Avatar
 
-plMidnight Predator Avatar
-
 zhMidnight Predator Avatar
--
-ja'アバター「真夜中の捕食者」
-6
-uk0Аватар «Опівнічний хижак»
+
+plMidnight Predator Avatar
 
 ptMidnight Predator Avatar
 
 esMidnight Predator Avatar
 $
 frAvatar du prédateur de minuit
+6
+uk0Аватар «Опівнічний хижак»
+-
+ja'アバター「真夜中の捕食者」
 8
 ru2Аватар «Полуночный хищник».png
 �
@@ -18388,19 +18388,19 @@ $
 
 enMidnight Predator Avatar
 
-plMidnight Predator Avatar
-
 zhMidnight Predator Avatar
--
-ja'アバター「真夜中の捕食者」
-6
-uk0Аватар «Опівнічний хижак»
+
+plMidnight Predator Avatar
 
 ptMidnight Predator Avatar
 
 esMidnight Predator Avatar
 $
 frAvatar du prédateur de minuit
+6
+uk0Аватар «Опівнічний хижак»
+-
+ja'アバター「真夜中の捕食者」
 8
 ru2Аватар «Полуночный хищник».png
 �
@@ -18408,19 +18408,19 @@ $
 
 enMidnight Predator Avatar
 
-plMidnight Predator Avatar
-
 zhMidnight Predator Avatar
--
-ja'アバター「真夜中の捕食者」
-6
-uk0Аватар «Опівнічний хижак»
+
+plMidnight Predator Avatar
 
 ptMidnight Predator Avatar
 
 esMidnight Predator Avatar
 $
 frAvatar du prédateur de minuit
+6
+uk0Аватар «Опівнічний хижак»
+-
+ja'アバター「真夜中の捕食者」
 8
 ru2Аватар «Полуночный хищник».png
 �
@@ -18428,19 +18428,19 @@ $
 
 enWatching Over Avatar
 
-plWatching Over Avatar
-
 zhWatching Over Avatar
-%
-jaアバター「Watching Over」
-5
-uk/Аватар «На варті порядку»
+
+plWatching Over Avatar
 
 ptWatching Over Avatar
 
 esWatching Over Avatar
 
 frAvatar Surveillance
+5
+uk/Аватар «На варті порядку»
+%
+jaアバター「Watching Over」
 7
 ru1Аватар «На страже порядка».webp
 �
@@ -18448,19 +18448,19 @@ $
 
 enWatching Over Avatar
 
-plWatching Over Avatar
-
 zhWatching Over Avatar
-%
-jaアバター「Watching Over」
-5
-uk/Аватар «На варті порядку»
+
+plWatching Over Avatar
 
 ptWatching Over Avatar
 
 esWatching Over Avatar
 
 frAvatar Surveillance
+5
+uk/Аватар «На варті порядку»
+%
+jaアバター「Watching Over」
 7
 ru1Аватар «На страже порядка».webp
 �
@@ -18468,19 +18468,19 @@ $
 
 enMidnight Predator Avatar
 
-plMidnight Predator Avatar
-
 zhMidnight Predator Avatar
--
-ja'アバター「真夜中の捕食者」
-6
-uk0Аватар «Опівнічний хижак»
+
+plMidnight Predator Avatar
 
 ptMidnight Predator Avatar
 
 esMidnight Predator Avatar
 $
 frAvatar du prédateur de minuit
+6
+uk0Аватар «Опівнічний хижак»
+-
+ja'アバター「真夜中の捕食者」
 8
 ru2Аватар «Полуночный хищник».png
 �
@@ -18488,19 +18488,19 @@ $
 
 enMidnight Predator Avatar
 
-plMidnight Predator Avatar
-
 zhMidnight Predator Avatar
--
-ja'アバター「真夜中の捕食者」
-6
-uk0Аватар «Опівнічний хижак»
+
+plMidnight Predator Avatar
 
 ptMidnight Predator Avatar
 
 esMidnight Predator Avatar
 $
 frAvatar du prédateur de minuit
+6
+uk0Аватар «Опівнічний хижак»
+-
+ja'アバター「真夜中の捕食者」
 8
 ru2Аватар «Полуночный хищник».png
 �
@@ -18508,19 +18508,19 @@ $
 
 enLa Calavera Avatar
 
-plLa Calavera Avatar
-
 zhLa Calavera Avatar
-#
-jaアバター「La Calavera」
-
-ukАватар La Calavera
+
+plLa Calavera Avatar
 
 ptLa Calavera Avatar
 
 esLa Calavera Avatar
 
 frAvatar de La Calavera
+
+ukАватар La Calavera
+#
+jaアバター「La Calavera」
 
 ruАватар La Calavera.webp
 �
@@ -18528,13 +18528,9 @@ $
 
 enАватар GGAME
 
-plАватар GGAME
-
 zhАватар GGAME
 
-jaАватар GGAME
-
-ukАватар GGAME
+plАватар GGAME
 
 ptАватар GGAME
 
@@ -18542,25 +18538,29 @@ $
 
 frАватар GGAME
 
+ukАватар GGAME
+
+jaАватар GGAME
+
 ruАватар GGAME.webp
 �
 avatar_progressive_bp_4_free_1�
 
 enEvergreen Wreath Avatar
 
-plEvergreen Wreath Avatar
-
 zhEvergreen Wreath Avatar
-'
-ja!アバター「緑のリース」
-4
-uk.Аватар «Різдвяний вінок»
+
+plEvergreen Wreath Avatar
 
 ptEvergreen Wreath Avatar
 
 esEvergreen Wreath Avatar
 &
 fr Avatar de la Couronne de l'Avent
+4
+uk.Аватар «Різдвяний вінок»
+'
+ja!アバター「緑のリース」
 >
 ru8Аватар «Рождественский венок».png
 �
@@ -18568,13 +18568,9 @@ $
 
 enEye of the Dragon Avatar
 
-plEye of the Dragon Avatar
-
 zhEye of the Dragon Avatar
-!
-jaアバター「竜の目」
-,
-uk&Аватар «Око дракона»
+
+plEye of the Dragon Avatar
 
 ptEye of the Dragon Avatar
 
@@ -18582,25 +18578,29 @@ $
 
 frAvatar d'œil de dragon
 ,
+uk&Аватар «Око дракона»
+!
+jaアバター「竜の目」
+,
 ru&Аватар «Око дракона».png
 �
 avatar_progressive_bp_4_free_3�
 
 enEvergreen Wreath Avatar
 
-plEvergreen Wreath Avatar
-
 zhEvergreen Wreath Avatar
-'
-ja!アバター「緑のリース」
-4
-uk.Аватар «Різдвяний вінок»
+
+plEvergreen Wreath Avatar
 
 ptEvergreen Wreath Avatar
 
 esEvergreen Wreath Avatar
 &
 fr Avatar de la Couronne de l'Avent
+4
+uk.Аватар «Різдвяний вінок»
+'
+ja!アバター「緑のリース」
 >
 ru8Аватар «Рождественский венок».png
 �
@@ -18608,19 +18608,19 @@ $
 
 enEvergreen Wreath Avatar
 
-plEvergreen Wreath Avatar
-
 zhEvergreen Wreath Avatar
-'
-ja!アバター「緑のリース」
-4
-uk.Аватар «Різдвяний вінок»
+
+plEvergreen Wreath Avatar
 
 ptEvergreen Wreath Avatar
 
 esEvergreen Wreath Avatar
 &
 fr Avatar de la Couronne de l'Avent
+4
+uk.Аватар «Різдвяний вінок»
+'
+ja!アバター「緑のリース」
 >
 ru8Аватар «Рождественский венок».png
 �
@@ -18628,19 +18628,19 @@ $
 
 enEvergreen Wreath Avatar
 
-plEvergreen Wreath Avatar
-
 zhEvergreen Wreath Avatar
-'
-ja!アバター「緑のリース」
-4
-uk.Аватар «Різдвяний вінок»
+
+plEvergreen Wreath Avatar
 
 ptEvergreen Wreath Avatar
 
 esEvergreen Wreath Avatar
 &
 fr Avatar de la Couronne de l'Avent
+4
+uk.Аватар «Різдвяний вінок»
+'
+ja!アバター「緑のリース」
 >
 ru8Аватар «Рождественский венок».png
 �
@@ -18648,19 +18648,19 @@ $
 
 enHero Rabbit Avatar
 
-plHero Rabbit Avatar
-
 zhHero Rabbit Avatar
--
-ja'アバター「うさぴょん兵士」
-2
-uk,Аватар «Бойовий зайчик»
+
+plHero Rabbit Avatar
 
 ptHero Rabbit Avatar
 
 esHero Rabbit Avatar
 
 frAvatar du Lapin héros
+2
+uk,Аватар «Бойовий зайчик»
+-
+ja'アバター「うさぴょん兵士」
 .
 ru(Аватар «Боевой зайка».webp
 �
@@ -18668,13 +18668,9 @@ $
 
 enBlitz Influencer Avatar
 
-plBlitz Influencer Avatar
-
 zhBlitz Influencer Avatar
-6
-ja0アバター「Blitz インフルエンサー」
-1
-uk+Аватар «Blitz-інфлюенсер»
+
+plBlitz Influencer Avatar
 
 ptBlitz Influencer Avatar
 
@@ -18682,25 +18678,29 @@ $
 &
 fr Avatar de l'influenceur de Blitz
 1
+uk+Аватар «Blitz-інфлюенсер»
+6
+ja0アバター「Blitz インフルエンサー」
+1
 ru+Аватар «Blitz-инфлюенсер».webp
 �
 avatar_progressive_bp_7_paid_1�
 
 enHonos Avatar
 
-plHonos Avatar
-
 zhHonos Avatar
-
-jaアバター「名誉」
-
-ukАватар Honos
+
+plHonos Avatar
 
 ptHonos Avatar
 
 esHonos Avatar
 
 frAvatar Honos
+
+ukАватар Honos
+
+jaアバター「名誉」
 
 ruАватар Honos.png
 �
@@ -18708,19 +18708,19 @@ $
 
 enWatching Over Avatar
 
-plWatching Over Avatar
-
 zhWatching Over Avatar
-%
-jaアバター「Watching Over」
-5
-uk/Аватар «На варті порядку»
+
+plWatching Over Avatar
 
 ptWatching Over Avatar
 
 esWatching Over Avatar
 
 frAvatar Surveillance
+5
+uk/Аватар «На варті порядку»
+%
+jaアバター「Watching Over」
 7
 ru1Аватар «На страже порядка».webp
 �
@@ -18728,19 +18728,19 @@ $
 
 enHonos Avatar
 
-plHonos Avatar
-
 zhHonos Avatar
-
-jaアバター「名誉」
-
-ukАватар Honos
+
+plHonos Avatar
 
 ptHonos Avatar
 
 esHonos Avatar
 
 frAvatar Honos
+
+ukАватар Honos
+
+jaアバター「名誉」
 
 ruАватар Honos.png
 �
@@ -18748,13 +18748,9 @@ $
 
 enBedbug Avatar
 
-plBedbug Avatar
-
 zhBedbug Avatar
-
-jaアバター「Bedbug」
-
-ukАватар Bedbug
+
+plBedbug Avatar
 
 ptBedbug Avatar
 
@@ -18762,25 +18758,29 @@ $
 
 frAvatar de Bedbug
 
+ukАватар Bedbug
+
+jaアバター「Bedbug」
+
 ruАватар Bedbug.webp
 �
 avatar_progressive_bp_7_paid_4�
 
 enHonos Avatar
 
-plHonos Avatar
-
 zhHonos Avatar
-
-jaアバター「名誉」
-
-ukАватар Honos
+
+plHonos Avatar
 
 ptHonos Avatar
 
 esHonos Avatar
 
 frAvatar Honos
+
+ukАватар Honos
+
+jaアバター「名誉」
 
 ruАватар Honos.png
 �
@@ -18788,19 +18788,19 @@ $
 
 enLucky Streak Avatar
 
-plLucky Streak Avatar
-
 zhLucky Streak Avatar
-$
-jaアバター「幸運続き」
-3
-uk-Аватар «Мені пощастить!»
+
+plLucky Streak Avatar
 
 ptLucky Streak Avatar
 
 esLucky Streak Avatar
 
 frAvatar de veinard
+3
+uk-Аватар «Мені пощастить!»
+$
+jaアバター「幸運続き」
 -
 ru'Аватар «Мне повезёт!».png
 �
@@ -18808,19 +18808,19 @@ $
 
 enDiver Avatar
 
-plDiver Avatar
-
 zhDiver Avatar
-$
-jaアバター「ダイバー」
-#
-ukАватар «Дайвер»
+
+plDiver Avatar
 
 ptDiver Avatar
 
 esDiver Avatar
 
 frAvatar du plongeur
+#
+ukАватар «Дайвер»
+$
+jaアバター「ダイバー」
 #
 ruАватар «Дайвер».webp
 �
@@ -18828,19 +18828,19 @@ $
 
 enDiver Avatar
 
-plDiver Avatar
-
 zhDiver Avatar
-$
-jaアバター「ダイバー」
-#
-ukАватар «Дайвер»
+
+plDiver Avatar
 
 ptDiver Avatar
 
 esDiver Avatar
 
 frAvatar du plongeur
+#
+ukАватар «Дайвер»
+$
+jaアバター「ダイバー」
 #
 ruАватар «Дайвер».webp
 �
@@ -18848,19 +18848,19 @@ $
 
 enHonos Avatar
 
-plHonos Avatar
-
 zhHonos Avatar
-
-jaアバター「名誉」
-
-ukАватар Honos
+
+plHonos Avatar
 
 ptHonos Avatar
 
 esHonos Avatar
 
 frAvatar Honos
+
+ukАватар Honos
+
+jaアバター「名誉」
 
 ruАватар Honos.png
 �
@@ -18868,19 +18868,19 @@ $
 
 enDiver Avatar
 
-plDiver Avatar
-
 zhDiver Avatar
-$
-jaアバター「ダイバー」
-#
-ukАватар «Дайвер»
+
+plDiver Avatar
 
 ptDiver Avatar
 
 esDiver Avatar
 
 frAvatar du plongeur
+#
+ukАватар «Дайвер»
+$
+jaアバター「ダイバー」
 #
 ruАватар «Дайвер».webp
 �
@@ -18888,13 +18888,9 @@ $
 '
 en![G1OR7]G1ORY_G7Elite.军团头像
 '
-pl![G1OR7]G1ORY_G7Elite.军团头像
-'
 zh![G1OR7]G1ORY_G7Elite.军团头像
 '
-ja![G1OR7]G1ORY_G7Elite.军团头像
-'
-uk![G1OR7]G1ORY_G7Elite.军团头像
+pl![G1OR7]G1ORY_G7Elite.军团头像
 '
 pt![G1OR7]G1ORY_G7Elite.军团头像
 '
@@ -18902,19 +18898,19 @@ $
 '
 fr![G1OR7]G1ORY_G7Elite.军团头像
 '
+uk![G1OR7]G1ORY_G7Elite.军团头像
+'
+ja![G1OR7]G1ORY_G7Elite.军团头像
+'
 ru![G1OR7]G1ORY_G7Elite.军团头像.webp
 �
 avatar_bp_47_bundle�
 
 enBorg Drone Avatar
 
-plBorg Drone Avatar
-
 zhBorg Drone Avatar
-0
-ja*アバター「ボーグ・ドローン」
-,
-uk&Аватар «Дрон борґів»
+
+plBorg Drone Avatar
 
 ptBorg Drone Avatar
 
@@ -18922,19 +18918,19 @@ $
 
 frAvatar Drone Borg
 ,
+uk&Аватар «Дрон борґів»
+0
+ja*アバター「ボーグ・ドローン」
+,
 ru&Аватар «Дрон Боргов».webp
 �
 avatar_progressive_bp_7_paid_7�
 
 enHonos Avatar
 
-plHonos Avatar
-
 zhHonos Avatar
-
-jaアバター「名誉」
-
-ukАватар Honos
+
+plHonos Avatar
 
 ptHonos Avatar
 
@@ -18942,19 +18938,19 @@ $
 
 frAvatar Honos
 
+ukАватар Honos
+
+jaアバター「名誉」
+
 ruАватар Honos.png
 �
 avatar_smiley_evil_common_168h�
  
 en"Let's Crush This!" Avatar
  
-pl"Let's Crush This!" Avatar
- 
 zh"Let's Crush This!" Avatar
-(
-ja"アバター「ぶっ壊すぞ!」
-'
-uk!Аватар «Дам жару!»
+ 
+pl"Let's Crush This!" Avatar
  
 pt"Let's Crush This!" Avatar
  
@@ -18962,19 +18958,19 @@ $
 "
 frAvatar « Écrasons-les »
 '
+uk!Аватар «Дам жару!»
+(
+ja"アバター「ぶっ壊すぞ!」
+'
 ru!Аватар «Дам жару!».png
 �
 avatar_pixel_tank_unique�
 
 enPixel Tank Avatar
 
-plPixel Tank Avatar
-
 zhPixel Tank Avatar
-*
-ja$アバター「ピクセル戦車」
-4
-uk.Аватар «Піксельний танк»
+
+plPixel Tank Avatar
 
 ptPixel Tank Avatar
 
@@ -18982,25 +18978,29 @@ $
 
 frAvatar de char pixelisé
 4
+uk.Аватар «Піксельний танк»
+*
+ja$アバター「ピクセル戦車」
+4
 ru.Аватар «Пиксельный танк».png
 �
 "avatar_progressive_vampiric_heal_2�
 
 enJaws of Life Avatar
 
-plJaws of Life Avatar
-
 zhJaws of Life Avatar
-$
-jaアバター「緊急援助」
-4
-uk.Аватар «Швидка допомога»
+
+plJaws of Life Avatar
 
 ptJaws of Life Avatar
 
 esJaws of Life Avatar
 
 frAvatar du soigneur
+4
+uk.Аватар «Швидка допомога»
+$
+jaアバター「緊急援助」
 0
 ru*Аватар «Скорая помощь».png
 �
@@ -19008,13 +19008,9 @@ $
 
 enThe Mercenaries Avatar
 
-plThe Mercenaries Avatar
-
 zhThe Mercenaries Avatar
-*
-ja$アバター「マーセナリー」
-'
-uk!Аватар «Найманці»
+
+plThe Mercenaries Avatar
 
 ptThe Mercenaries Avatar
 
@@ -19022,25 +19018,29 @@ $
 
 frAvatar Les mercenaires
 '
+uk!Аватар «Найманці»
+*
+ja$アバター「マーセナリー」
+'
 ru!Аватар «Наёмники».webp
 �
 avatar_smiley_angry_rare�
 $
 en"Don't Drive Me Crazy!" Avatar
 $
-pl"Don't Drive Me Crazy!" Avatar
-$
 zh"Don't Drive Me Crazy!" Avatar
-(
-ja"アバター「怒らせるな!」
-/
-uk)Аватар: «Та як же так?!»
+$
+pl"Don't Drive Me Crazy!" Avatar
 $
 pt"Don't Drive Me Crazy!" Avatar
 $
 es"Don't Drive Me Crazy!" Avatar
 (
 fr"Avatar « Arrête ton char ! »
+/
+uk)Аватар: «Та як же так?!»
+(
+ja"アバター「怒らせるな!」
 0
 ru*Аватар «Да как так-то?!».png
 �
@@ -19048,19 +19048,19 @@ $
 
 enVenomous Sting Avatar
 
-plVenomous Sting Avatar
-
 zhVenomous Sting Avatar
-$
-jaアバター「猛毒の針」
-.
-uk(Аватар «Отруйне жало»
+
+plVenomous Sting Avatar
 
 ptVenomous Sting Avatar
 
 esVenomous Sting Avatar
 
 frAvatar du dard venimeux
+.
+uk(Аватар «Отруйне жало»
+$
+jaアバター「猛毒の針」
 0
 ru*Аватар «Ядовитое жало».png
 �
@@ -19068,19 +19068,19 @@ $
 
 enSpidrannery Fan Avatar
 
-plSpidrannery Fan Avatar
-
 zhSpidrannery Fan Avatar
--
-ja'アバター「Spidrannery ファン」
-;
-uk5Аватар «Вболівальник Spidrannery»
+
+plSpidrannery Fan Avatar
 
 ptSpidrannery Fan Avatar
 
 esSpidrannery Fan Avatar
 )
 fr#Avatar du passionné de Spidrannery
+;
+uk5Аватар «Вболівальник Spidrannery»
+-
+ja'アバター「Spidrannery ファン」
 5
 ru/Аватар «Болельщик Spidrannery».webp
 �
@@ -19088,19 +19088,19 @@ $
 
 enIce Axe Avatar
 
-plIce Axe Avatar
-
 zhIce Axe Avatar
-$
-jaアバター「ピッケル」
-'
-uk!Аватар «Кригоруб»
+
+plIce Axe Avatar
 
 ptIce Axe Avatar
 
 esIce Axe Avatar
 !
 frAvatar de la hache de glace
+'
+uk!Аватар «Кригоруб»
+$
+jaアバター「ピッケル」
 %
 ruАватар «Ледоруб».png
 �
@@ -19108,13 +19108,9 @@ $
 
 enAnime Avatar
 
-plAnime Avatar
-
 zhAnime Avatar
 
-jaAnime Avatar
-
-ukAnime Avatar
+plAnime Avatar
 
 ptAnime Avatar
 
@@ -19122,25 +19118,29 @@ $
 
 frAnime Avatar
 
+ukAnime Avatar
+
+jaAnime Avatar
+
 ruAnime Avatar.webp
 �
 avatar_8MarchStreamer_legendary�
 
 enLady Tanker Avatar
 
-plLady Tanker Avatar
-
 zhLady Tanker Avatar
--
-ja'アバター「レディー戦車長」
-=
-uk7Аватар «Прекрасна танкістка».
+
+plLady Tanker Avatar
 
 ptLady Tanker Avatar
 
 esLady Tanker Avatar
 
 frAvatar de Dame tankiste
+=
+uk7Аватар «Прекрасна танкістка».
+-
+ja'アバター「レディー戦車長」
 >
 ru8Аватар «Прекрасная танкистка».png
 �
@@ -19148,13 +19148,9 @@ $
 
 enOn Air Avatar
 
-plOn Air Avatar
-
 zhOn Air Avatar
-!
-jaアバター「再生中」
-
-ukАватар On Air
+
+plOn Air Avatar
 
 ptOn Air Avatar
 
@@ -19162,25 +19158,29 @@ $
 
 frAvatar en direct
 
+ukАватар On Air
+!
+jaアバター「再生中」
+
 ruАватар On Air.png
 �
 avatar_srr7_anim�
 +
 en%Authority of the Rich Animated Avatar
 +
-pl%Authority of the Rich Animated Avatar
-+
 zh%Authority of the Rich Animated Avatar
-E
-ja?アニメーション付きアバター「リッチの頂点」
-O
-ukIАнімований аватар «Авторитет заможних»
++
+pl%Authority of the Rich Animated Avatar
 +
 pt%Authority of the Rich Animated Avatar
 +
 es%Authority of the Rich Animated Avatar
 (
 fr"Avatar animé Chevalière du riche
+O
+ukIАнімований аватар «Авторитет заможних»
+E
+ja?アニメーション付きアバター「リッチの頂点」
 M
 ruGАнимированный аватар «Сила богатства».webp
 �
@@ -19188,19 +19188,19 @@ M
 '
 en!Ferocious Bulldog Animated Avatar
 '
-pl!Ferocious Bulldog Animated Avatar
-'
 zh!Ferocious Bulldog Animated Avatar
-H
-jaBアニメーション付きアバター「猛犬ブルドッグ」
-I
-ukCАнімований аватар «Грізний бульдог»
+'
+pl!Ferocious Bulldog Animated Avatar
 '
 pt!Ferocious Bulldog Animated Avatar
 '
 es!Ferocious Bulldog Animated Avatar
 #
 frAvatar animé Bulldog féroce
+I
+ukCАнімований аватар «Грізний бульдог»
+H
+jaBアニメーション付きアバター「猛犬ブルドッグ」
 Q
 ruKАнимированный аватар «Свирепый бульдог».webp
 �
@@ -19208,19 +19208,19 @@ Q
 
 enDiver Avatar
 
-plDiver Avatar
-
 zhDiver Avatar
-$
-jaアバター「ダイバー」
-#
-ukАватар «Дайвер»
+
+plDiver Avatar
 
 ptDiver Avatar
 
 esDiver Avatar
 
 frAvatar du plongeur
+#
+ukАватар «Дайвер»
+$
+jaアバター「ダイバー」
 #
 ruАватар «Дайвер».webp
 �
@@ -19228,13 +19228,9 @@ $
 
 enGladiator Avatar
 
-plGladiator Avatar
-
 zhGladiator Avatar
-!
-jaアバター「剣闘士」
-)
-uk#Аватар «Гладіатор»
+
+plGladiator Avatar
 
 ptGladiator Avatar
 
@@ -19242,19 +19238,19 @@ $
 
 frAvatar du gladiateur
 )
+uk#Аватар «Гладіатор»
+!
+jaアバター「剣闘士」
+)
 ru#Аватар «Гладиатор».png
 �
 avatar_progressive_bp_12_free_4�
 
 enDiver Avatar
 
-plDiver Avatar
-
 zhDiver Avatar
-$
-jaアバター「ダイバー」
-#
-ukАватар «Дайвер»
+
+plDiver Avatar
 
 ptDiver Avatar
 
@@ -19262,19 +19258,19 @@ $
 
 frAvatar du plongeur
 #
+ukАватар «Дайвер»
+$
+jaアバター「ダイバー」
+#
 ruАватар «Дайвер».webp
 �
 avatar_NAcontest_unique�
 
 enBrave Stand Avatar
 
-plBrave Stand Avatar
-
 zhBrave Stand Avatar
-'
-ja!アバター「勇敢な態度」
-6
-uk0Аватар «Твердий характер»
+
+plBrave Stand Avatar
 
 ptBrave Stand Avatar
 
@@ -19282,25 +19278,29 @@ $
 %
 frAvatar de la posture courageuse
 6
+uk0Аватар «Твердий характер»
+'
+ja!アバター「勇敢な態度」
+6
 ru0Аватар «Твёрдый характер».png
 �
 avatar_ASIA_GreatViet_rare_31d�
 
 enGreat Viet Fan Avatar
 
-plGreat Viet Fan Avatar
-
 zhGreat Viet Fan Avatar
-,
-ja&アバター「Great Viet ファン」
-:
-uk4Аватар «Вболівальник Great Viet»
+
+plGreat Viet Fan Avatar
 
 ptGreat Viet Fan Avatar
 
 esGreat Viet Fan Avatar
 (
 fr"Avatar du passionné de Great Viet
+:
+uk4Аватар «Вболівальник Great Viet»
+,
+ja&アバター「Great Viet ファン」
 4
 ru.Аватар «Болельщик Great Viet».webp
 �
@@ -19308,13 +19308,9 @@ $
 
 enT-34 Girl Avatar
 
-plT-34 Girl Avatar
-
 zhT-34 Girl Avatar
-!
-jaアバター「T-34 Girl」
-
-ukАватар T-34 Girl
+
+plT-34 Girl Avatar
 
 ptT-34 Girl Avatar
 
@@ -19322,19 +19318,19 @@ $
 
 frAvatar T-34 Girl
 
+ukАватар T-34 Girl
+!
+jaアバター「T-34 Girl」
+
 ruАватар T-34 Girl.webp
 �
 avatar_bp_19_bundle�
 
 enBarkhan Avatar
 
-plBarkhan Avatar
-
 zhBarkhan Avatar
-
-jaアバター「Barkhan」
-
-ukАватар Barkhan
+
+plBarkhan Avatar
 
 ptBarkhan Avatar
 
@@ -19342,19 +19338,19 @@ $
 
 frAvatar Barkhan
 
+ukАватар Barkhan
+
+jaアバター「Barkhan」
+
 ruАватар Barkhan.webp
 �
 avatar_daglife_legendary�
 
 enGrassToucher3000 Avatar
 
-plGrassToucher3000 Avatar
-
 zhGrassToucher3000 Avatar
-(
-ja"アバター「GrassToucher3000」
-#
-ukАватар GrassToucher3000
+
+plGrassToucher3000 Avatar
 
 ptGrassToucher3000 Avatar
 
@@ -19362,19 +19358,19 @@ $
 
 frAvatar GrassToucher3000
 #
+ukАватар GrassToucher3000
+(
+ja"アバター「GrassToucher3000」
+#
 ruАватар GrassToucher3000.webp
 �
 avatar_bp_23_bundle�
 
 enRanger Avatar
 
-plRanger Avatar
-
 zhRanger Avatar
-
-jaアバター「Ranger」
-'
-uk!Аватар «Рейнджер»
+
+plRanger Avatar
 
 ptRanger Avatar
 
@@ -19382,25 +19378,29 @@ $
 
 frAvatar Ranger
 '
+uk!Аватар «Рейнджер»
+
+jaアバター「Ranger」
+'
 ru!Аватар «Рейнджер».webp
 �
 avatar_BlitzXCup24_EU_APA_temp�
 
 enApathy Fan Avatar
 
-plApathy Fan Avatar
-
 zhApathy Fan Avatar
-(
-ja"アバター「Apathy ファン」
-6
-uk0Аватар «Вболівальник Apathy»
+
+plApathy Fan Avatar
 
 ptApathy Fan Avatar
 
 esApathy Fan Avatar
 #
 frAvatar du passionné d'Apathy
+6
+uk0Аватар «Вболівальник Apathy»
+(
+ja"アバター「Apathy ファン」
 0
 ru*Аватар «Болельщик Apathy».webp
 �
@@ -19408,13 +19408,9 @@ $
 
 enAzrael Avatar
 
-plAzrael Avatar
-
 zhAzrael Avatar
-'
-ja!アバター「アズラエル」
-
-ukАватар Azrael
+
+plAzrael Avatar
 
 ptAzrael Avatar
 
@@ -19422,19 +19418,19 @@ $
 
 frAvatar Azrael
 
+ukАватар Azrael
+'
+ja!アバター「アズラエル」
+
 ruАватар Azrael.webp
 �
 avatar_steel_elephant_epic�
 
 enSteel Elephant Avatar
 
-plSteel Elephant Avatar
-
 zhSteel Elephant Avatar
-$
-jaアバター「鋼鉄の象」
-0
-uk*Аватар «Сталевий слон»
+
+plSteel Elephant Avatar
 
 ptSteel Elephant Avatar
 
@@ -19442,19 +19438,19 @@ $
 $
 frAvatar de l'éléphant d'acier
 0
+uk*Аватар «Сталевий слон»
+$
+jaアバター「鋼鉄の象」
+0
 ru*Аватар «Стальной слон».webp
 �
 avatar_GGAME_2020_legendary�
 
 enGUCCI GANG TEAM Avatar
 
-plGUCCI GANG TEAM Avatar
-
 zhGUCCI GANG TEAM Avatar
-'
-ja!アバター「GUCCI GANG TEAM」
-"
-ukАватар GUCCI GANG TEAM
+
+plGUCCI GANG TEAM Avatar
 
 ptGUCCI GANG TEAM Avatar
 
@@ -19462,25 +19458,29 @@ $
 
 frAvatar de GUCCI GANG TEAM
 "
+ukАватар GUCCI GANG TEAM
+'
+ja!アバター「GUCCI GANG TEAM」
+"
 ruАватар GUCCI GANG TEAM.png
 �
 avatar_CIS_7Star_rare_14d�
 
 en7STAR Fan Avatar
 
-pl7STAR Fan Avatar
-
 zh7STAR Fan Avatar
-'
-ja!アバター「7STAR ファン」
-5
-uk/Аватар «Вболівальник 7STAR»
+
+pl7STAR Fan Avatar
 
 pt7STAR Fan Avatar
 
 es7STAR Fan Avatar
 #
 frAvatar du passionné de 7STAR
+5
+uk/Аватар «Вболівальник 7STAR»
+'
+ja!アバター「7STAR ファン」
 /
 ru)Аватар «Болельщик 7STAR».webp
 �
@@ -19488,19 +19488,19 @@ $
 
 enFully Submerged Avatar
 
-plFully Submerged Avatar
-
 zhFully Submerged Avatar
-'
-ja!アバター「深みに Dive!」
-4
-uk.Аватар «Повне занурення»
+
+plFully Submerged Avatar
 
 ptFully Submerged Avatar
 
 esFully Submerged Avatar
  
 frAvatar Totalement immergé
+4
+uk.Аватар «Повне занурення»
+'
+ja!アバター「深みに Dive!」
 8
 ru2Аватар «Полное погружение».webp
 �
@@ -19508,19 +19508,19 @@ $
 
 enSpace Corps Avatar
 
-plSpace Corps Avatar
-
 zhSpace Corps Avatar
-$
-jaアバター「宇宙兵団」
-0
-uk*Аватар «Повний відрив»
+
+plSpace Corps Avatar
 
 ptSpace Corps Avatar
 
 esSpace Corps Avatar
 
 frAvatar des Space Corps
+0
+uk*Аватар «Повний відрив»
+$
+jaアバター「宇宙兵団」
 .
 ru(Аватар «Полный отрыв».png
 �
@@ -19528,19 +19528,19 @@ $
 
 enSpace Corps Avatar
 
-plSpace Corps Avatar
-
 zhSpace Corps Avatar
-$
-jaアバター「宇宙兵団」
-0
-uk*Аватар «Повний відрив»
+
+plSpace Corps Avatar
 
 ptSpace Corps Avatar
 
 esSpace Corps Avatar
 
 frAvatar des Space Corps
+0
+uk*Аватар «Повний відрив»
+$
+jaアバター「宇宙兵団」
 .
 ru(Аватар «Полный отрыв».webp
 �
@@ -19548,13 +19548,9 @@ $
 
 en	Ox Avatar
 
-pl	Ox Avatar
-
 zh	Ox Avatar
-
-jaアバター「丑」
-
-ukАватар «Бик»
+
+pl	Ox Avatar
 
 pt	Ox Avatar
 
@@ -19562,19 +19558,19 @@ $
 
 frAvatar du bœuf
 
+ukАватар «Бик»
+
+jaアバター「丑」
+
 ruАватар «Бык».png
 �
 avatar_snowman_common_12h�
 
 enSnowman Avatar
 
-plSnowman Avatar
-
 zhSnowman Avatar
-$
-jaアバター「雪だるま」
-'
-uk!Аватар «Сніговик»
+
+plSnowman Avatar
 
 ptSnowman Avatar
 
@@ -19582,19 +19578,19 @@ $
 !
 frAvatar de bonhomme de neige
 '
+uk!Аватар «Сніговик»
+$
+jaアバター「雪だるま」
+'
 ru!Аватар «Снеговик».png
 �
 avatar_eddm_rare_14d�
 
 enLa Calavera Avatar
 
-plLa Calavera Avatar
-
 zhLa Calavera Avatar
-#
-jaアバター「La Calavera」
-
-ukАватар La Calavera
+
+plLa Calavera Avatar
 
 ptLa Calavera Avatar
 
@@ -19602,25 +19598,29 @@ $
 
 frAvatar de La Calavera
 
+ukАватар La Calavera
+#
+jaアバター「La Calavera」
+
 ruАватар La Calavera.webp
 �
 avatar_7years_legendary�
 
 en7 Victorious Years Avatar
 
-pl7 Victorious Years Avatar
-
 zh7 Victorious Years Avatar
-)
-ja#アバター「誇らしい 7年」
-2
-uk,Аватар «7 років перемог»
+
+pl7 Victorious Years Avatar
 
 pt7 Victorious Years Avatar
 
 es7 Victorious Years Avatar
 &
 fr Avatar de 7 années victorieuses
+2
+uk,Аватар «7 років перемог»
+)
+ja#アバター「誇らしい 7年」
 *
 ru$Аватар «7 лет побед».webp
 �
@@ -19628,19 +19628,19 @@ $
 
 enThumbs Up! Avatar
 
-plThumbs Up! Avatar
-
 zhThumbs Up! Avatar
-+
-ja%アバター「サムズアップ!」
-
-ukАватар Thumbs up!
+
+plThumbs Up! Avatar
 
 ptThumbs Up! Avatar
 
 esThumbs Up! Avatar
 
 frAvatar Pouce levé !
+
+ukАватар Thumbs up!
++
+ja%アバター「サムズアップ!」
 
 ruАватар Thumbs up!.webp
 �
@@ -19649,15 +19649,11 @@ $
 en
 HLV Avatar
 
-pl
-HLV Avatar
-
 zh
 HLV Avatar
-
-jaアバター「HLV」
-
-ukАватар HLV
+
+pl
+HLV Avatar
 
 pt
 HLV Avatar
@@ -19667,19 +19663,19 @@ HLV Avatar
 
 frAvatar de HLV
 
+ukАватар HLV
+
+jaアバター「HLV」
+
 ruАватар HLV.png
 �
 avatar_progressive_bp_11_paid_6�
 
 enLascannon Avatar
 
-plLascannon Avatar
-
 zhLascannon Avatar
-'
-ja!アバター「レーザー砲」
-%
-ukАватар «Мініган»
+
+plLascannon Avatar
 
 ptLascannon Avatar
 
@@ -19687,25 +19683,29 @@ HLV Avatar
 
 frAvatar Lascannon
 %
+ukАватар «Мініган»
+'
+ja!アバター「レーザー砲」
+%
 ruАватар «Миниган».webp
 �
 avatar_catcher_legendary_anim�
 '
 en!Lightning Catcher Animated Avatar
 '
-pl!Lightning Catcher Animated Avatar
-'
 zh!Lightning Catcher Animated Avatar
-<
-ja6アニメーション付きアバター「雷の主」
-K
-ukEАнімований аватар «Ловець блискавок»
+'
+pl!Lightning Catcher Animated Avatar
 '
 pt!Lightning Catcher Animated Avatar
 '
 es!Lightning Catcher Animated Avatar
 -
 fr'Avatar animé de l'attrapeur d'éclairs
+K
+ukEАнімований аватар «Ловець блискавок»
+<
+ja6アニメーション付きアバター「雷の主」
 J
 ruDАнимированный аватар «Ловец молний».webp
 �
@@ -19713,19 +19713,19 @@ J
 
 enGreat Viet Avatar
 
-plGreat Viet Avatar
-
 zhGreat Viet Avatar
-"
-jaアバター「Great Viet」
-
-ukАватар Great Viet
+
+plGreat Viet Avatar
 
 ptGreat Viet Avatar
 
 esGreat Viet Avatar
 
 frAvatar de Great Viet
+
+ukАватар Great Viet
+"
+jaアバター「Great Viet」
 
 ruАватар Great Viet.png
 �
@@ -19733,19 +19733,19 @@ J
 
 enJaws of Life Avatar
 
-plJaws of Life Avatar
-
 zhJaws of Life Avatar
-$
-jaアバター「緊急援助」
-4
-uk.Аватар «Швидка допомога»
+
+plJaws of Life Avatar
 
 ptJaws of Life Avatar
 
 esJaws of Life Avatar
 
 frAvatar du soigneur
+4
+uk.Аватар «Швидка допомога»
+$
+jaアバター「緊急援助」
 0
 ru*Аватар «Скорая помощь».png
 �
@@ -19753,19 +19753,19 @@ $
 
 enJaws of Life Avatar
 
-plJaws of Life Avatar
-
 zhJaws of Life Avatar
-$
-jaアバター「緊急援助」
-4
-uk.Аватар «Швидка допомога»
+
+plJaws of Life Avatar
 
 ptJaws of Life Avatar
 
 esJaws of Life Avatar
 
 frAvatar du soigneur
+4
+uk.Аватар «Швидка допомога»
+$
+jaアバター「緊急援助」
 0
 ru*Аватар «Скорая помощь».png
 �
@@ -19773,19 +19773,19 @@ $
 
 enJaws of Life Avatar
 
-plJaws of Life Avatar
-
 zhJaws of Life Avatar
-$
-jaアバター「緊急援助」
-4
-uk.Аватар «Швидка допомога»
+
+plJaws of Life Avatar
 
 ptJaws of Life Avatar
 
 esJaws of Life Avatar
 
 frAvatar du soigneur
+4
+uk.Аватар «Швидка допомога»
+$
+jaアバター「緊急援助」
 0
 ru*Аватар «Скорая помощь».png
 �
@@ -19793,13 +19793,9 @@ $
 
 enProwler Patch Avatar
 
-plProwler Patch Avatar
-
 zhProwler Patch Avatar
-)
-ja#アバター「Prowler パッチ」
--
-uk'Аватар «Нашивка Prowler»
+
+plProwler Patch Avatar
 
 ptProwler Patch Avatar
 
@@ -19807,25 +19803,29 @@ $
  
 frAvatar Écusson du Prowler
 -
+uk'Аватар «Нашивка Prowler»
+)
+ja#アバター「Prowler パッチ」
+-
 ru'Аватар «Нашивка Prowler».webp
 �
 "avatar_progressive_vampiric_heal_4�
 
 enJaws of Life Avatar
 
-plJaws of Life Avatar
-
 zhJaws of Life Avatar
-$
-jaアバター「緊急援助」
-4
-uk.Аватар «Швидка допомога»
+
+plJaws of Life Avatar
 
 ptJaws of Life Avatar
 
 esJaws of Life Avatar
 
 frAvatar du soigneur
+4
+uk.Аватар «Швидка допомога»
+$
+jaアバター「緊急援助」
 0
 ru*Аватар «Скорая помощь».png
 �
@@ -19833,19 +19833,19 @@ $
 
 enJaws of Life Avatar
 
-plJaws of Life Avatar
-
 zhJaws of Life Avatar
-$
-jaアバター「緊急援助」
-4
-uk.Аватар «Швидка допомога»
+
+plJaws of Life Avatar
 
 ptJaws of Life Avatar
 
 esJaws of Life Avatar
 
 frAvatar du soigneur
+4
+uk.Аватар «Швидка допомога»
+$
+jaアバター「緊急援助」
 0
 ru*Аватар «Скорая помощь».png
 �
@@ -19853,19 +19853,19 @@ $
 
 enJaws of Life Avatar
 
-plJaws of Life Avatar
-
 zhJaws of Life Avatar
-$
-jaアバター「緊急援助」
-4
-uk.Аватар «Швидка допомога»
+
+plJaws of Life Avatar
 
 ptJaws of Life Avatar
 
 esJaws of Life Avatar
 
 frAvatar du soigneur
+4
+uk.Аватар «Швидка допомога»
+$
+jaアバター「緊急援助」
 0
 ru*Аватар «Скорая помощь».png
 �
@@ -19873,19 +19873,19 @@ $
 
 enLaurel of Victory Avatar
 
-plLaurel of Victory Avatar
-
 zhLaurel of Victory Avatar
-*
-ja$アバター「勝利の月桂樹」
-4
-uk.Аватар «Лаври переможця»
+
+plLaurel of Victory Avatar
 
 ptLaurel of Victory Avatar
 
 esLaurel of Victory Avatar
 $
 frAvatar Lauriers de la victoire
+4
+uk.Аватар «Лаври переможця»
+*
+ja$アバター「勝利の月桂樹」
 6
 ru0Аватар «Лавры победителя».webp
 �
@@ -19893,19 +19893,19 @@ $
 
 enLaurel of Victory Avatar
 
-plLaurel of Victory Avatar
-
 zhLaurel of Victory Avatar
-*
-ja$アバター「勝利の月桂樹」
-4
-uk.Аватар «Лаври переможця»
+
+plLaurel of Victory Avatar
 
 ptLaurel of Victory Avatar
 
 esLaurel of Victory Avatar
 $
 frAvatar Lauriers de la victoire
+4
+uk.Аватар «Лаври переможця»
+*
+ja$アバター「勝利の月桂樹」
 6
 ru0Аватар «Лавры победителя».webp
 �
@@ -19913,13 +19913,9 @@ $
 
 enGreat Viet Avatar
 
-plGreat Viet Avatar
-
 zhGreat Viet Avatar
-"
-jaアバター「Great Viet」
-
-ukАватар Great Viet
+
+plGreat Viet Avatar
 
 ptGreat Viet Avatar
 
@@ -19927,19 +19923,19 @@ $
 
 frAvatar de Great Viet
 
+ukАватар Great Viet
+"
+jaアバター「Great Viet」
+
 ruАватар Great Viet.png
 �
 avatar_weapon_common_168h�
 
 enHarsh Ultimatum Avatar
 
-plHarsh Ultimatum Avatar
-
 zhHarsh Ultimatum Avatar
--
-ja'アバター「厳しい最後通告」
-+
-uk%Аватар «Ультиматум»
+
+plHarsh Ultimatum Avatar
 
 ptHarsh Ultimatum Avatar
 
@@ -19947,25 +19943,29 @@ $
 #
 frAvatar de l'ultimatum hostile
 +
+uk%Аватар «Ультиматум»
+-
+ja'アバター「厳しい最後通告」
++
 ru%Аватар «Ультиматум».png
 �
 avatar_clawsome_legendary�
 
 enA Claw-some Dude Avatar
 
-plA Claw-some Dude Avatar
-
 zhA Claw-some Dude Avatar
-0
-ja*アバター「ピースなトモダチ」
-*
-uk$Аватар «Розкрабся!»
+
+plA Claw-some Dude Avatar
 
 ptA Claw-some Dude Avatar
 
 esA Claw-some Dude Avatar
 %
 frAvatar J'en pince pour la fête
+*
+uk$Аватар «Розкрабся!»
+0
+ja*アバター「ピースなトモダチ」
 -
 ru'Аватар «Держи краба!».webp
 �
@@ -19973,19 +19973,19 @@ $
 
 enEra of Prosperity Avatar
 
-plEra of Prosperity Avatar
-
 zhEra of Prosperity Avatar
-$
-jaアバター「栄華の時」
-8
-uk2Аватар «Епоха процвітання»
+
+plEra of Prosperity Avatar
 
 ptEra of Prosperity Avatar
 
 esEra of Prosperity Avatar
 $
 frAvatar Ère de la prospérité
+8
+uk2Аватар «Епоха процвітання»
+$
+jaアバター「栄華の時」
 .
 ru(Аватар «Эра расцвета».webp
 �
@@ -19993,19 +19993,19 @@ $
 
 enEra of Prosperity Avatar
 
-plEra of Prosperity Avatar
-
 zhEra of Prosperity Avatar
-$
-jaアバター「栄華の時」
-8
-uk2Аватар «Епоха процвітання»
+
+plEra of Prosperity Avatar
 
 ptEra of Prosperity Avatar
 
 esEra of Prosperity Avatar
 $
 frAvatar Ère de la prospérité
+8
+uk2Аватар «Епоха процвітання»
+$
+jaアバター「栄華の時」
 .
 ru(Аватар «Эра расцвета».webp
 �
@@ -20013,19 +20013,19 @@ $
 
 enEra of Prosperity Avatar
 
-plEra of Prosperity Avatar
-
 zhEra of Prosperity Avatar
-$
-jaアバター「栄華の時」
-8
-uk2Аватар «Епоха процвітання»
+
+plEra of Prosperity Avatar
 
 ptEra of Prosperity Avatar
 
 esEra of Prosperity Avatar
 $
 frAvatar Ère de la prospérité
+8
+uk2Аватар «Епоха процвітання»
+$
+jaアバター「栄華の時」
 .
 ru(Аватар «Эра расцвета».webp
 �
@@ -20033,19 +20033,19 @@ $
 
 enEra of Prosperity Avatar
 
-plEra of Prosperity Avatar
-
 zhEra of Prosperity Avatar
-$
-jaアバター「栄華の時」
-8
-uk2Аватар «Епоха процвітання»
+
+plEra of Prosperity Avatar
 
 ptEra of Prosperity Avatar
 
 esEra of Prosperity Avatar
 $
 frAvatar Ère de la prospérité
+8
+uk2Аватар «Епоха процвітання»
+$
+jaアバター「栄華の時」
 .
 ru(Аватар «Эра расцвета».webp
 �
@@ -20053,19 +20053,19 @@ $
 
 enTropical Drink Avatar
 
-plTropical Drink Avatar
-
 zhTropical Drink Avatar
-6
-ja0アバター「トロピカル・ドリンク」
-:
-uk4Аватар «Тропічний коктейль»
+
+plTropical Drink Avatar
 
 ptTropical Drink Avatar
 
 esTropical Drink Avatar
 
 frAvatar Boisson tropicale
+:
+uk4Аватар «Тропічний коктейль»
+6
+ja0アバター「トロピカル・ドリンク」
 >
 ru8Аватар «Тропический коктейль».webp
 �
@@ -20073,19 +20073,19 @@ $
 
 enFamily Ring Avatar
 
-plFamily Ring Avatar
-
 zhFamily Ring Avatar
-0
-ja*アバター「シグネットリング」
-:
-uk4Аватар «Фамільний перстень»
+
+plFamily Ring Avatar
 
 ptFamily Ring Avatar
 
 esFamily Ring Avatar
 
 frAvatar Bague de famille
+:
+uk4Аватар «Фамільний перстень»
+0
+ja*アバター「シグネットリング」
 :
 ru4Аватар «Фамильный перстень».webp
 �
@@ -20093,13 +20093,9 @@ $
 
 enFamily Ring Avatar
 
-plFamily Ring Avatar
-
 zhFamily Ring Avatar
-0
-ja*アバター「シグネットリング」
-:
-uk4Аватар «Фамільний перстень»
+
+plFamily Ring Avatar
 
 ptFamily Ring Avatar
 
@@ -20107,19 +20103,19 @@ $
 
 frAvatar Bague de famille
 :
+uk4Аватар «Фамільний перстень»
+0
+ja*アバター「シグネットリング」
+:
 ru4Аватар «Фамильный перстень».webp
 �
 avatar_stream_common_14d�
 
 enOn Air Avatar
 
-plOn Air Avatar
-
 zhOn Air Avatar
-!
-jaアバター「再生中」
-
-ukАватар On Air
+
+plOn Air Avatar
 
 ptOn Air Avatar
 
@@ -20127,25 +20123,29 @@ $
 
 frAvatar en direct
 
+ukАватар On Air
+!
+jaアバター「再生中」
+
 ruАватар On Air.png
 �
 avatar_2026_ny_anim�
 &
 en On Top of It All Animated Avatar
 &
-pl On Top of It All Animated Avatar
-&
 zh On Top of It All Animated Avatar
-H
-jaBアニメーション付きアバター「頂点に輝くもの」
-?
-uk9Анімований аватар «На вершині»
+&
+pl On Top of It All Animated Avatar
 &
 pt On Top of It All Animated Avatar
 &
 es On Top of It All Animated Avatar
 !
 frAvatar animé Le top du top
+?
+uk9Анімований аватар «На вершині»
+H
+jaBアニメーション付きアバター「頂点に輝くもの」
 E
 ru?Анимированный аватар «На вершине».webp
 �
@@ -20153,19 +20153,19 @@ E
 '
 en!U.S.S. Enterprise Animated Avatar
 '
-pl!U.S.S. Enterprise Animated Avatar
-'
 zh!U.S.S. Enterprise Animated Avatar
-R
-jaLアニメーション付きアバター「U.S.S. エンタープライズ」
-Q
-ukKАнімований аватар «Зореліт "Ентерпрайз"»
+'
+pl!U.S.S. Enterprise Animated Avatar
 '
 pt!U.S.S. Enterprise Animated Avatar
 '
 es!U.S.S. Enterprise Animated Avatar
 %
 frAvatar animé U.S.S. Enterprise
+Q
+ukKАнімований аватар «Зореліт "Ентерпрайз"»
+R
+jaLアニメーション付きアバター「U.S.S. エンタープライズ」
 M
 ruGАнимированный аватар U.S.S. «Энтерпрайз».webp
 �
@@ -20173,13 +20173,9 @@ M
 
 enEaster Ducky Avatar
 
-plEaster Ducky Avatar
-
 zhEaster Ducky Avatar
-0
-ja*アバター「イースターアヒル」
-8
-uk2Аватар «Великодня качечка»
+
+plEaster Ducky Avatar
 
 ptEaster Ducky Avatar
 
@@ -20187,19 +20183,19 @@ M
 
 frAvatar Canard de Pâques
 8
+uk2Аватар «Великодня качечка»
+0
+ja*アバター「イースターアヒル」
+8
 ru2Аватар «Пасхальная уточка».webp
 �
 avatar_wolf_unique�
 
 enWatchful Wolf Avatar
 
-plWatchful Wolf Avatar
-
 zhWatchful Wolf Avatar
-0
-ja*アバター「用心深いオオカミ」
-.
-uk(Аватар «Пильний вовк»
+
+plWatchful Wolf Avatar
 
 ptWatchful Wolf Avatar
 
@@ -20207,25 +20203,29 @@ M
 
 frAvatar Loup solitaire
 .
+uk(Аватар «Пильний вовк»
+0
+ja*アバター「用心深いオオカミ」
+.
 ru(Аватар «Бывалый волк».webp
 �
 avatar_celebs2024_unique�
 !
 enFestive Vinnie Jones Avatar
 !
-plFestive Vinnie Jones Avatar
-!
 zhFestive Vinnie Jones Avatar
-?
-ja9アバター「お祭りヴィニー・ジョーンズ」
-?
-uk9Аватар «Святковий Вінні Джонс»
+!
+plFestive Vinnie Jones Avatar
 !
 ptFestive Vinnie Jones Avatar
 !
 esFestive Vinnie Jones Avatar
 #
 frAvatar festif de Vinnie Jones
+?
+uk9Аватар «Святковий Вінні Джонс»
+?
+ja9アバター「お祭りヴィニー・ジョーンズ」
 C
 ru=Праздничный аватар «Винни Джонс».webp
 �
@@ -20233,19 +20233,19 @@ C
 
 enAugmentor Avatar
 
-plAugmentor Avatar
-
 zhAugmentor Avatar
--
-ja'アバター「オーグメンター」
-)
-uk#Аватар «Аугментор»
+
+plAugmentor Avatar
 
 ptAugmentor Avatar
 
 esAugmentor Avatar
 
 frAvatar Augmentateur
+)
+uk#Аватар «Аугментор»
+-
+ja'アバター「オーグメンター」
 
 ruАватар Augmentor.webp
 �
@@ -20253,19 +20253,19 @@ C
  
 enLet's Play Animated Avatar
  
-plLet's Play Animated Avatar
- 
 zhLet's Play Animated Avatar
-"
-jaアバター「Let's Play」
-=
-uk7Анімований аватар «Зіграємо?»
+ 
+plLet's Play Animated Avatar
  
 ptLet's Play Animated Avatar
  
 esLet's Play Animated Avatar
 
 frAvatar animé Jouons
+=
+uk7Анімований аватар «Зіграємо?»
+"
+jaアバター「Let's Play」
 A
 ru;Анимированный аватар «Сыграем?».webp
 �
@@ -20273,13 +20273,9 @@ A
 
 enBrave Stand Avatar
 
-plBrave Stand Avatar
-
 zhBrave Stand Avatar
-'
-ja!アバター「勇敢な態度」
-6
-uk0Аватар «Твердий характер»
+
+plBrave Stand Avatar
 
 ptBrave Stand Avatar
 
@@ -20287,25 +20283,29 @@ A
 %
 frAvatar de la posture courageuse
 6
+uk0Аватар «Твердий характер»
+'
+ja!アバター「勇敢な態度」
+6
 ru0Аватар «Твёрдый характер».png
 �
 avatar_smiley_cat_common_72h�
 
 en"Shell-Shocked" Avatar
 
-pl"Shell-Shocked" Avatar
-
 zh"Shell-Shocked" Avatar
-*
-ja$アバター「砲弾ショック」
-<
-uk6Аватар «Навідника контужено»
+
+pl"Shell-Shocked" Avatar
 
 pt"Shell-Shocked" Avatar
 
 es"Shell-Shocked" Avatar
 
 frAvatar « Pantois »
+<
+uk6Аватар «Навідника контужено»
+*
+ja$アバター「砲弾ショック」
 8
 ru2Аватар «Наводчик контужен».png
 �
@@ -20313,13 +20313,9 @@ A
 
 enNGUYEN Avatar
 
-plNGUYEN Avatar
-
 zhNGUYEN Avatar
-
-jaアバター「NGUYEN」
-
-ukАватар NGUYEN
+
+plNGUYEN Avatar
 
 ptNGUYEN Avatar
 
@@ -20327,25 +20323,29 @@ A
 
 frAvatar de NGUYEN
 
+ukАватар NGUYEN
+
+jaアバター「NGUYEN」
+
 ruАватар NGUYEN.webp
 �
 $avatar_progressive_bp_33_ruby_free_4�
 6
 en0Аватар «Разбуженный маяк»
 6
-pl0Аватар «Разбуженный маяк»
-6
 zh0Аватар «Разбуженный маяк»
 6
-ja0Аватар «Разбуженный маяк»
-6
-uk0Аватар «Разбуженный маяк»
+pl0Аватар «Разбуженный маяк»
 6
 pt0Аватар «Разбуженный маяк»
 6
 es0Аватар «Разбуженный маяк»
 6
 fr0Аватар «Разбуженный маяк»
+6
+uk0Аватар «Разбуженный маяк»
+6
+ja0Аватар «Разбуженный маяк»
 :
 ru4Аватар «Поворот реальности».webp
 �
@@ -20353,19 +20353,19 @@ $avatar_progressive_bp_33_ruby_free_1�
 6
 en0Аватар «Разбуженный маяк»
 6
-pl0Аватар «Разбуженный маяк»
-6
 zh0Аватар «Разбуженный маяк»
 6
-ja0Аватар «Разбуженный маяк»
-6
-uk0Аватар «Разбуженный маяк»
+pl0Аватар «Разбуженный маяк»
 6
 pt0Аватар «Разбуженный маяк»
 6
 es0Аватар «Разбуженный маяк»
 6
 fr0Аватар «Разбуженный маяк»
+6
+uk0Аватар «Разбуженный маяк»
+6
+ja0Аватар «Разбуженный маяк»
 :
 ru4Аватар «Поворот реальности».webp
 �
@@ -20373,13 +20373,9 @@ $avatar_progressive_bp_33_ruby_free_1�
 
 enFerocious Predator Avatar
 
-plFerocious Predator Avatar
-
 zhFerocious Predator Avatar
-*
-ja$アバター「獰猛な肉食獣」
-4
-uk.Аватар «Жорстокий хижак»
+
+plFerocious Predator Avatar
 
 ptFerocious Predator Avatar
 
@@ -20387,25 +20383,29 @@ $avatar_progressive_bp_33_ruby_free_1�
 "
 frAvatar du prédateur féroce
 4
+uk.Аватар «Жорстокий хижак»
+*
+ja$アバター「獰猛な肉食獣」
+4
 ru.Аватар «Свирепый хищник».png
 �
 avatar_progressive_bp_3_free_2�
 
 enIdentifier Avatar
 
-plIdentifier Avatar
-
 zhIdentifier Avatar
-!
-jaアバター「識別機」
--
-uk'Аватар «Розпізнавач»
+
+plIdentifier Avatar
 
 ptIdentifier Avatar
 
 esIdentifier Avatar
  
 frAvatar de l'identificateur
+-
+uk'Аватар «Розпізнавач»
+!
+jaアバター「識別機」
 4
 ru.Аватар «Распознаватель».png
 �
@@ -20413,13 +20413,9 @@ $avatar_progressive_bp_33_ruby_free_1�
 
 enTEAM ID Avatar
 
-plTEAM ID Avatar
-
 zhTEAM ID Avatar
-
-jaアバター「TEAM ID」
-
-ukАватар TEAM ID
+
+plTEAM ID Avatar
 
 ptTEAM ID Avatar
 
@@ -20427,25 +20423,29 @@ $avatar_progressive_bp_33_ruby_free_1�
 
 frAvatar de TEAM ID
 
+ukАватар TEAM ID
+
+jaアバター「TEAM ID」
+
 ruАватар TEAM ID.png
 �
 avatar_golden_gem_unique�
 
 enGold Gem Avatar
 
-plGold Gem Avatar
-
 zhGold Gem Avatar
-$
-jaアバター「金の宝石」
-4
-uk.Аватар «Золотий кристал»
+
+plGold Gem Avatar
 
 ptGold Gem Avatar
 
 esGold Gem Avatar
 
 frAvatar de joyau en or
+4
+uk.Аватар «Золотий кристал»
+$
+jaアバター「金の宝石」
 6
 ru0Аватар «Золотой кристалл».png
 �
@@ -20453,19 +20453,19 @@ $
 
 enStellar Traveller Avatar
 
-plStellar Traveller Avatar
-
 zhStellar Traveller Avatar
-$
-jaアバター「星の旅人」
-:
-uk4Аватар «Зоряний мандрівник»
+
+plStellar Traveller Avatar
 
 ptStellar Traveller Avatar
 
 esStellar Traveller Avatar
 "
 frAvatar du voyageur stellaire
+:
+uk4Аватар «Зоряний мандрівник»
+$
+jaアバター「星の旅人」
 8
 ru2Аватар «Звёздный странник».png
 �
@@ -20473,19 +20473,19 @@ $
 
 enSpirit of Unity Avatar
 
-plSpirit of Unity Avatar
-
 zhSpirit of Unity Avatar
-'
-ja!アバター「調和の精神」
-,
-uk&Аватар «Дух єдності»
+
+plSpirit of Unity Avatar
 
 ptSpirit of Unity Avatar
 
 esSpirit of Unity Avatar
 !
 frAvatar de l'esprit d'unité
+,
+uk&Аватар «Дух єдності»
+'
+ja!アバター「調和の精神」
 .
 ru(Аватар «Дух единства».png
 �
@@ -20493,19 +20493,19 @@ $
 
 enRote Nova Fan Avatar
 
-plRote Nova Fan Avatar
-
 zhRote Nova Fan Avatar
-+
-ja%アバター「Rote Nova ファン」
-9
-uk3Аватар «Вболівальник Rote Nova»
+
+plRote Nova Fan Avatar
 
 ptRote Nova Fan Avatar
 
 esRote Nova Fan Avatar
 '
 fr!Avatar du passionné de Rote Nova
+9
+uk3Аватар «Вболівальник Rote Nova»
++
+ja%アバター「Rote Nova ファン」
 3
 ru-Аватар «Болельщик Rote Nova».webp
 �
@@ -20513,13 +20513,9 @@ $
 
 enOrigin Avatar
 
-plOrigin Avatar
-
 zhOrigin Avatar
-
-jaアバター「Origin」
-
-ukАватар Origin
+
+plOrigin Avatar
 
 ptOrigin Avatar
 
@@ -20527,25 +20523,29 @@ $
 
 frAvatar d'Origin
 
+ukАватар Origin
+
+jaアバター「Origin」
+
 ruАватар Origin.webp
 �
 "avatar_springseason_challenger_90d�
 
 enChallenger Avatar
 
-plChallenger Avatar
-
 zhChallenger Avatar
-!
-jaアバター「挑戦者」
-+
-uk%Аватар «Претендент»
+
+plChallenger Avatar
 
 ptChallenger Avatar
 
 esChallenger Avatar
 
 frAvatar du challenger
++
+uk%Аватар «Претендент»
+!
+jaアバター「挑戦者」
 +
 ru%Аватар «Претендент».png
 �
@@ -20555,15 +20555,10 @@ $avatar_progressive_bp_29_ruby_paid_4�
 entest
 
 
-pltest
-
-
 zhtest
 
 
-jatest
-*
-uk$avatar_progressive_bp_29_ruby_paid_4
+pltest
 
 
 pttest
@@ -20573,6 +20568,11 @@ $avatar_progressive_bp_29_ruby_paid_4�
 
 
 frtest
+*
+uk$avatar_progressive_bp_29_ruby_paid_4
+
+
+jatest
 -
 ru'Аватар «Наблюдатель».webp
 �
@@ -20582,15 +20582,10 @@ $avatar_progressive_bp_29_ruby_paid_6�
 entest
 
 
-pltest
-
-
 zhtest
 
 
-jatest
-*
-uk$avatar_progressive_bp_29_ruby_paid_6
+pltest
 
 
 pttest
@@ -20600,6 +20595,11 @@ $avatar_progressive_bp_29_ruby_paid_6�
 
 
 frtest
+*
+uk$avatar_progressive_bp_29_ruby_paid_6
+
+
+jatest
 -
 ru'Аватар «Наблюдатель».webp
 �
@@ -20607,19 +20607,19 @@ $avatar_progressive_bp_29_ruby_paid_6�
 
 enFighting Spirit Avatar
 
-plFighting Spirit Avatar
-
 zhFighting Spirit Avatar
-$
-jaアバター「闘争精神」
-,
-uk&Аватар «Бойовий дух»
+
+plFighting Spirit Avatar
 
 ptFighting Spirit Avatar
 
 esFighting Spirit Avatar
 !
 frAvatar de l'esprit combatif
+,
+uk&Аватар «Бойовий дух»
+$
+jaアバター「闘争精神」
 *
 ru$Аватар «Боевой дух».webp
 �
@@ -20627,19 +20627,19 @@ $
 
 enRoyal Snowflake Avatar
 
-plRoyal Snowflake Avatar
-
 zhRoyal Snowflake Avatar
-'
-ja!アバター「高貴な雪片」
-?
-uk9Аватар «Королівська сніжинка».
+
+plRoyal Snowflake Avatar
 
 ptRoyal Snowflake Avatar
 
 esRoyal Snowflake Avatar
 %
 frAvatar de flocon de neige royal
+?
+uk9Аватар «Королівська сніжинка».
+'
+ja!アバター「高貴な雪片」
 >
 ru8Аватар «Королевская снежинка».png
 �
@@ -20647,13 +20647,9 @@ $
 
 enHandmade Avatar
 
-plHandmade Avatar
-
 zhHandmade Avatar
-*
-ja$アバター「ハンドメイド」
-'
-uk!Аватар «Хендмейд»
+
+plHandmade Avatar
 
 ptHandmade Avatar
 
@@ -20661,25 +20657,29 @@ $
 
 frAvatar Fait à la main
 '
+uk!Аватар «Хендмейд»
+*
+ja$アバター「ハンドメイド」
+'
 ru!Аватар «Хендмейд».webp
 �
 avatar_animated_srr8_2024�
  
 enAurum Tree Animated Avatar
  
-plAurum Tree Animated Avatar
- 
 zhAurum Tree Animated Avatar
-B
-ja<アニメーション付きアバター「金色の樹木」
-E
-uk?Анімований аватар «Золоте дерево»
+ 
+plAurum Tree Animated Avatar
  
 ptAurum Tree Animated Avatar
  
 esAurum Tree Animated Avatar
 
 frAvatar animé Arbre d'or
+E
+uk?Анімований аватар «Золоте дерево»
+B
+ja<アニメーション付きアバター「金色の樹木」
 W
 ruQАнимированный аватар «Золотоносное дерево».webp
 �
@@ -20687,13 +20687,9 @@ W
 
 enWild Honey Avatar
 
-plWild Honey Avatar
-
 zhWild Honey Avatar
-0
-ja*アバター「ワイルド・ハニー」
-(
-uk"Аватар «Дикий мед»
+
+plWild Honey Avatar
 
 ptWild Honey Avatar
 
@@ -20701,25 +20697,29 @@ W
 
 frAvatar Miel sauvage
 (
+uk"Аватар «Дикий мед»
+0
+ja*アバター「ワイルド・ハニー」
+(
 ru"Аватар «Дикий мёд».webp
 �
 avatar_garland_common_72h�
 
 enTwinkling Lights Avatar
 
-plTwinkling Lights Avatar
-
 zhTwinkling Lights Avatar
--
-ja'アバター「キラキラライト」
-:
-uk4Аватар «Мерехтливі вогники»
+
+plTwinkling Lights Avatar
 
 ptTwinkling Lights Avatar
 
 esTwinkling Lights Avatar
 '
 fr!Avatar de lumières scintillantes
+:
+uk4Аватар «Мерехтливі вогники»
+-
+ja'アバター「キラキラライト」
 8
 ru2Аватар «Мерцающие огоньки».png
 �
@@ -20727,13 +20727,9 @@ W
 
 enUltimate FEAST Avatar
 
-plUltimate FEAST Avatar
-
 zhUltimate FEAST Avatar
-&
-ja アバター「ULTIMATE FEAST」
-!
-ukАватар Ultimate FEAST
+
+plUltimate FEAST Avatar
 
 ptUltimate FEAST Avatar
 
@@ -20741,19 +20737,19 @@ W
 
 frAvatar de Ultimate FEAST
 !
+ukАватар Ultimate FEAST
+&
+ja アバター「ULTIMATE FEAST」
+!
 ruАватар Ultimate FEAST.png
 �
 "avatar_rbyt22_NABuffalo_unique_31d�
 
 en#RBYT22: Prairie Master
 
-pl#RBYT22: Prairie Master
-
 zh#RBYT22: Prairie Master
-*
-ja$#RBYT22: 草原オーバーロード
-*
-uk$#RBYT22: Володар прерій
+
+pl#RBYT22: Prairie Master
 
 pt#RBYT22: Prairie Master
 
@@ -20761,25 +20757,29 @@ W
 %
 fr#RBYT22 : Maître des prairies
 *
+uk$#RBYT22: Володар прерій
+*
+ja$#RBYT22: 草原オーバーロード
+*
 ru$#RBYT22: Владыка прерий.webp
 �
 avatar_2024_result2_animated�
 %
 en"Screameowing!" Animated Avatar
 %
-pl"Screameowing!" Animated Avatar
-%
 zh"Screameowing!" Animated Avatar
-H
-jaBアニメーション付きアバター「大声ネコちゃん」
-H
-ukBАнімований аватар «Підніми нявкіт!»
+%
+pl"Screameowing!" Animated Avatar
 %
 pt"Screameowing!" Animated Avatar
 %
 es"Screameowing!" Animated Avatar
 
 frAvatar animé Chapristi !
+H
+ukBАнімований аватар «Підніми нявкіт!»
+H
+jaBアニメーション付きアバター「大声ネコちゃん」
 G
 ruAАнимированный аватар «Котострофа!».webp
 �
@@ -20787,19 +20787,19 @@ G
 
 enDance Star Avatar
 
-plDance Star Avatar
-
 zhDance Star Avatar
-*
-ja$アバター「注目ダンサー」
->
-uk8Аватар «Зірка танцмайданчика»
+
+plDance Star Avatar
 
 ptDance Star Avatar
 
 esDance Star Avatar
 
 frAvatar Star de la danse
+>
+uk8Аватар «Зірка танцмайданчика»
+*
+ja$アバター「注目ダンサー」
 6
 ru0Аватар «Танцующая звезда».webp
 �
@@ -20807,19 +20807,19 @@ G
 
 enFlaming Dragon Avatar
 
-plFlaming Dragon Avatar
-
 zhFlaming Dragon Avatar
-
-ja火竜アバター
-7
-uk1Аватар «Полум'яний дракон»
+
+plFlaming Dragon Avatar
 
 ptFlaming Dragon Avatar
 
 esFlaming Dragon Avatar
 
 frAvatar du Dragon de feu
+7
+uk1Аватар «Полум'яний дракон»
+
+ja火竜アバター
 4
 ru.Аватар «Пылающий дракон».png
 �
@@ -20827,19 +20827,19 @@ G
 
 enIlaina Kitt Avatar
 
-plIlaina Kitt Avatar
-
 zhIlaina Kitt Avatar
-0
-ja*アバター「イライナ・キット」
-,
-uk&Аватар «Ілайна Кітт»
+
+plIlaina Kitt Avatar
 
 ptIlaina Kitt Avatar
 
 esIlaina Kitt Avatar
 
 frAvatar Ilaina Kitt
+,
+uk&Аватар «Ілайна Кітт»
+0
+ja*アバター「イライナ・キット」
 ,
 ru&Аватар «Илайна Китт».webp
 �
@@ -20847,13 +20847,9 @@ $avatar_progressive_bp_38_ruby_paid_5�
 <
 en6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
-pl6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
-<
 zh6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
-ja6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
-<
-uk6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+pl6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
 pt6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
@@ -20861,19 +20857,19 @@ $avatar_progressive_bp_38_ruby_paid_5�
 <
 fr6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
+uk6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+<
+ja6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+<
 ru6storage/Items/avatar_progressive_bp_38_ruby_paid/Title.webp
 �
 avatar_progressive_bp_36_free_2�
 
 enIlaina Kitt Avatar
 
-plIlaina Kitt Avatar
-
 zhIlaina Kitt Avatar
-0
-ja*アバター「イライナ・キット」
-,
-uk&Аватар «Ілайна Кітт»
+
+plIlaina Kitt Avatar
 
 ptIlaina Kitt Avatar
 
@@ -20881,25 +20877,29 @@ $avatar_progressive_bp_38_ruby_paid_5�
 
 frAvatar Ilaina Kitt
 ,
+uk&Аватар «Ілайна Кітт»
+0
+ja*アバター「イライナ・キット」
+,
 ru&Аватар «Илайна Китт».webp
 �
 avatar_progressive_bp_19_paid_7�
 
 enRight Direction Avatar
 
-plRight Direction Avatar
-
 zhRight Direction Avatar
-*
-ja$アバター「確かな足取り」
-=
-uk7Аватар «На правильному шляху»
+
+plRight Direction Avatar
 
 ptRight Direction Avatar
 
 esRight Direction Avatar
 
 frAvatar La bonne direction
+=
+uk7Аватар «На правильному шляху»
+*
+ja$アバター「確かな足取り」
 1
 ru+Аватар «На верном пути».webp
 �
@@ -20907,19 +20907,19 @@ $avatar_progressive_bp_38_ruby_paid_5�
 %
 en"Deer in the Headlights" Avatar
 %
-pl"Deer in the Headlights" Avatar
-%
 zh"Deer in the Headlights" Avatar
-9
-ja3アバター「死の恐怖に呆然とした鹿」
-#
-ukАватар «Оленяр»
+%
+pl"Deer in the Headlights" Avatar
 %
 pt"Deer in the Headlights" Avatar
 %
 es"Deer in the Headlights" Avatar
 
 frAvatar « Sidéré »
+#
+ukАватар «Оленяр»
+9
+ja3アバター「死の恐怖に呆然とした鹿」
 '
 ru!Аватар «Оленевод».png
 �
@@ -20927,13 +20927,9 @@ $avatar_progressive_bp_38_ruby_paid_5�
 
 enCyborg Avatar
 
-plCyborg Avatar
-
 zhCyborg Avatar
-
-jaアバター「Cyborg」
-#
-ukАватар «Кіборг»
+
+plCyborg Avatar
 
 ptCyborg Avatar
 
@@ -20941,25 +20937,29 @@ $avatar_progressive_bp_38_ruby_paid_5�
 
 frAvatar du Cyborg
 #
+ukАватар «Кіборг»
+
+jaアバター「Cyborg」
+#
 ruАватар «Киборг».webp
 �
 avatar_smiley_cry_rare�
 
 en"Happy Tears" Avatar
 
-pl"Happy Tears" Avatar
-
 zh"Happy Tears" Avatar
-$
-jaアバター「うれし涙」
-.
-uk(Аватар «Сльози щастя»
+
+pl"Happy Tears" Avatar
 
 pt"Happy Tears" Avatar
 
 es"Happy Tears" Avatar
 '
 fr!Avatar « Des larmes de joie »
+.
+uk(Аватар «Сльози щастя»
+$
+jaアバター「うれし涙」
 0
 ru*Аватар «Слёзы счастья».png
 �
@@ -20967,13 +20967,9 @@ $
 
 enNoble Avatar
 
-plNoble Avatar
-
 zhNoble Avatar
-
-jaアバター「Noble」
-
-ukАватар Noble
+
+plNoble Avatar
 
 ptNoble Avatar
 
@@ -20981,25 +20977,29 @@ $
 
 frAvatar Noble
 
+ukАватар Noble
+
+jaアバター「Noble」
+
 ruАватар Noble.webp
 �
 avatar_progressive_bp_72_paid_3�
 
 en行动的头像2
 
-pl行动的头像2
-
 zh行动的头像2
 
-ja行动的头像2
-
-uk行动的头像2
+pl行动的头像2
 
 pt行动的头像2
 
 es行动的头像2
 
 fr行动的头像2
+
+uk行动的头像2
+
+ja行动的头像2
 
 ru行动的头像2.webp
 �
@@ -21007,13 +21007,9 @@ $
 
 enFantastic Avatar
 
-plFantastic Avatar
-
 zhFantastic Avatar
-!
-jaアバター「Fantastic」
-
-ukАватар Fantastic
+
+plFantastic Avatar
 
 ptFantastic Avatar
 
@@ -21021,25 +21017,29 @@ $
 
 frAvatar de Fantastic
 
+ukАватар Fantastic
+!
+jaアバター「Fantastic」
+
 ruАватар Fantastic.webp
 �
 avatar_progressive_bp_35_free_4�
 
 enWorking Gear Avatar
 
-plWorking Gear Avatar
-
 zhWorking Gear Avatar
-0
-ja*アバター「ワーキング・ギア」
-
-ukАватар Working Gear
+
+plWorking Gear Avatar
 
 ptWorking Gear Avatar
 
 esWorking Gear Avatar
 
 frAvatar Outils mécaniques
+
+ukАватар Working Gear
+0
+ja*アバター「ワーキング・ギア」
 6
 ru0Аватар «Рабочий механизм».webp
 �
@@ -21047,13 +21047,9 @@ $
 
 enPyrotechnic
 
-plPyrotechnic
-
 zhPyrotechnic
-
-ja	花火師
-
-ukПіротехнік
+
+plPyrotechnic
 
 ptPyrotechnic
 
@@ -21061,25 +21057,29 @@ $
 
 frPyrotechnique
 
+ukПіротехнік
+
+ja	花火師
+
 ruПиротехник.png
 �
 avatar_progressive_bp_35_free_2�
 
 enWorking Gear Avatar
 
-plWorking Gear Avatar
-
 zhWorking Gear Avatar
-0
-ja*アバター「ワーキング・ギア」
-
-ukАватар Working Gear
+
+plWorking Gear Avatar
 
 ptWorking Gear Avatar
 
 esWorking Gear Avatar
 
 frAvatar Outils mécaniques
+
+ukАватар Working Gear
+0
+ja*アバター「ワーキング・ギア」
 6
 ru0Аватар «Рабочий механизм».webp
 �
@@ -21087,19 +21087,19 @@ $
 
 enMrs. Anderson Avatar
 
-plMrs. Anderson Avatar
-
 zhMrs. Anderson Avatar
-0
-ja*アバター「アンダーソン夫人」
-0
-uk*Аватар «Пані Андерсон»
+
+plMrs. Anderson Avatar
 
 ptMrs. Anderson Avatar
 
 esMrs. Anderson Avatar
 
 frAvatar Madame Anderson
+0
+uk*Аватар «Пані Андерсон»
+0
+ja*アバター「アンダーソン夫人」
 4
 ru.Аватар «Миссис Андерсон».webp
 �
@@ -21107,13 +21107,9 @@ $
 
 enChristmas Wreath Avatar
 
-plChristmas Wreath Avatar
-
 zhChristmas Wreath Avatar
-0
-ja*アバター「クリスマスの花輪」
-6
-uk0Аватар «Новорічний вінок»
+
+plChristmas Wreath Avatar
 
 ptChristmas Wreath Avatar
 
@@ -21121,19 +21117,19 @@ $
 !
 frAvatar de couronne de Noël
 6
+uk0Аватар «Новорічний вінок»
+0
+ja*アバター「クリスマスの花輪」
+6
 ru0Аватар «Новогодний венок».png
 �
 avatar_mad_games_rare�
 
 enMAD GAMES Avatar
 
-plMAD GAMES Avatar
-
 zhMAD GAMES Avatar
-!
-jaアバター「MAD GAMES」
-
-ukАватар MAD GAMES
+
+plMAD GAMES Avatar
 
 ptMAD GAMES Avatar
 
@@ -21141,25 +21137,29 @@ $
 
 frAvatar des MAD GAMES
 
+ukАватар MAD GAMES
+!
+jaアバター「MAD GAMES」
+
 ruАватар MAD GAMES.png
 �
 avatar_Wilson_legendary�
 
 enBest Friend Avatar
 
-plBest Friend Avatar
-
 zhBest Friend Avatar
--
-ja'アバター「ベストフレンド」
-2
-uk,Аватар «Найкращий друг»
+
+plBest Friend Avatar
 
 ptBest Friend Avatar
 
 esBest Friend Avatar
 
 frAvatar Meilleur ami
+2
+uk,Аватар «Найкращий друг»
+-
+ja'アバター「ベストフレンド」
 ,
 ru&Аватар «Лучший друг».webp
 �
@@ -21167,19 +21167,19 @@ $
 
 enDebris Killer Avatar
 
-plDebris Killer Avatar
-
 zhDebris Killer Avatar
-*
-ja$アバター「宇宙の掃除人」
->
-uk8Аватар «Винищувач астероїдів»
+
+plDebris Killer Avatar
 
 ptDebris Killer Avatar
 
 esDebris Killer Avatar
 #
 frAvatar Destructeur de débris
+>
+uk8Аватар «Винищувач астероїдів»
+*
+ja$アバター「宇宙の掃除人」
 D
 ru>Аватар «Уничтожитель астероидов».webp
 �
@@ -21187,19 +21187,19 @@ D
 
 enKölner Dom Avatar
 
-plKölner Dom Avatar
-
 zhKölner Dom Avatar
 
-jaKölner Dom Avatar
-6
-uk0Аватар «Кельнський собор»
+plKölner Dom Avatar
 
 ptKölner Dom Avatar
 
 esKölner Dom Avatar
 
 frAvatar Kölner Dom
+6
+uk0Аватар «Кельнський собор»
+
+jaKölner Dom Avatar
 
 ruKölner Dom Avatar.webp
 �
@@ -21207,13 +21207,9 @@ D
 $
 enBlitz CIS Cup 2021 Fan Avatar
 $
-plBlitz CIS Cup 2021 Fan Avatar
-$
 zhBlitz CIS Cup 2021 Fan Avatar
-5
-ja/アバター「Blitz CIS Cup 2021 ファン」
-5
-uk/Аватар «Фанат Blitz CIS Cup 2021»
+$
+plBlitz CIS Cup 2021 Fan Avatar
 $
 ptBlitz CIS Cup 2021 Fan Avatar
 $
@@ -21221,25 +21217,29 @@ $
 4
 fr.Avatar du Passionné de la Blitz CIS Cup 2021
 5
+uk/Аватар «Фанат Blitz CIS Cup 2021»
+5
+ja/アバター「Blitz CIS Cup 2021 ファン」
+5
 ru/Аватар «Фанат Blitz CIS Cup 2021».webp
 �
 avatar_influence_22_unique�
 
 enAll Eyes on You Avatar
 
-plAll Eyes on You Avatar
-
 zhAll Eyes on You Avatar
--
-ja'アバター「みんなの人気者」
-1
-uk+Аватар «У центрі уваги»
+
+plAll Eyes on You Avatar
 
 ptAll Eyes on You Avatar
 
 esAll Eyes on You Avatar
 &
 fr Avatar Tous les regards sur vous
+1
+uk+Аватар «У центрі уваги»
+-
+ja'アバター「みんなの人気者」
 7
 ru1Аватар «В центре внимания».webp
 �
@@ -21247,19 +21247,19 @@ $
 
 enWorking Gear Avatar
 
-plWorking Gear Avatar
-
 zhWorking Gear Avatar
-0
-ja*アバター「ワーキング・ギア」
-
-ukАватар Working Gear
+
+plWorking Gear Avatar
 
 ptWorking Gear Avatar
 
 esWorking Gear Avatar
 
 frAvatar Outils mécaniques
+
+ukАватар Working Gear
+0
+ja*アバター「ワーキング・ギア」
 6
 ru0Аватар «Рабочий механизм».webp
 �
@@ -21267,13 +21267,9 @@ $avatar_progressive_bp_37_ruby_paid_4�
 2
 en,Аватар «Куст крякающий»
 2
-pl,Аватар «Куст крякающий»
-2
 zh,Аватар «Куст крякающий»
 2
-ja,Аватар «Куст крякающий»
-2
-uk,Аватар «Куст крякающий»
+pl,Аватар «Куст крякающий»
 2
 pt,Аватар «Куст крякающий»
 2
@@ -21281,19 +21277,19 @@ $avatar_progressive_bp_37_ruby_paid_4�
 2
 fr,Аватар «Куст крякающий»
 2
+uk,Аватар «Куст крякающий»
+2
+ja,Аватар «Куст крякающий»
+2
 ru,Аватар «Куст крякающий».webp
 �
 avatar_BlitzXCup24_EU_BPS_leg�
 
 enGravitas Avatar
 
-plGravitas Avatar
-
 zhGravitas Avatar
- 
-jaアバター「Gravitas」
-
-ukАватар Gravitas
+
+plGravitas Avatar
 
 ptGravitas Avatar
 
@@ -21301,25 +21297,29 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 frAvatar de Gravitas
 
+ukАватар Gravitas
+ 
+jaアバター「Gravitas」
+
 ruАватар Gravitas.webp
 �
 avatar_progressive_bp_11_free_4�
 
 enWarm Embrace Avatar
 
-plWarm Embrace Avatar
-
 zhWarm Embrace Avatar
-'
-ja!アバター「温かい抱擁」
-9
-uk3Аватар «Полум’яні вітання»
+
+plWarm Embrace Avatar
 
 ptWarm Embrace Avatar
 
 esWarm Embrace Avatar
 
 frAvatar Accueil chaleureux
+9
+uk3Аватар «Полум’яні вітання»
+'
+ja!アバター「温かい抱擁」
 6
 ru0Аватар «Пламенный привет».webp
 �
@@ -21327,19 +21327,19 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 enWarm Embrace Avatar
 
-plWarm Embrace Avatar
-
 zhWarm Embrace Avatar
-'
-ja!アバター「温かい抱擁」
-9
-uk3Аватар «Полум’яні вітання»
+
+plWarm Embrace Avatar
 
 ptWarm Embrace Avatar
 
 esWarm Embrace Avatar
 
 frAvatar Accueil chaleureux
+9
+uk3Аватар «Полум’яні вітання»
+'
+ja!アバター「温かい抱擁」
 6
 ru0Аватар «Пламенный привет».webp
 �
@@ -21347,13 +21347,9 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 enVirtus Avatar
 
-plVirtus Avatar
-
 zhVirtus Avatar
-
-jaアバター「美徳」
-
-ukАватар Virtus
+
+plVirtus Avatar
 
 ptVirtus Avatar
 
@@ -21361,25 +21357,29 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 frAvatar Virtus
 
+ukАватар Virtus
+
+jaアバター「美徳」
+
 ruАватар Virtus.png
 �
 avatar_progressive_bp_72_paid_1�
 
 en行动的头像2
 
-pl行动的头像2
-
 zh行动的头像2
 
-ja行动的头像2
-
-uk行动的头像2
+pl行动的头像2
 
 pt行动的头像2
 
 es行动的头像2
 
 fr行动的头像2
+
+uk行动的头像2
+
+ja行动的头像2
 
 ru行动的头像2.webp
 �
@@ -21387,19 +21387,19 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 enMS-1 Avatar
 
-plMS-1 Avatar
-
 zhMS-1 Avatar
-
-jaアバター「MS-1」
-
-ukАватар MS-1
+
+plMS-1 Avatar
 
 ptMS-1 Avatar
 
 esMS-1 Avatar
 
 frAvatar du MS-1
+
+ukАватар MS-1
+
+jaアバター「MS-1」
 
 ruАватар «МС-1».webp
 �
@@ -21407,19 +21407,19 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 enGravitas Fan Avatar
 
-plGravitas Fan Avatar
-
 zhGravitas Fan Avatar
-*
-ja$アバター「Gravitas ファン」
-8
-uk2Аватар «Вболівальник Gravitas»
+
+plGravitas Fan Avatar
 
 ptGravitas Fan Avatar
 
 esGravitas Fan Avatar
 &
 fr Avatar du passionné de Gravitas
+8
+uk2Аватар «Вболівальник Gravitas»
+*
+ja$アバター「Gravitas ファン」
 2
 ru,Аватар «Болельщик Gravitas».webp
 �
@@ -21427,13 +21427,9 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 enYouTube Premium Avatar
 
-plYouTube Premium Avatar
-
 zhYouTube Premium Avatar
-'
-ja!アバター「YouTube Premium」
-"
-ukАватар YouTube Premium
+
+plYouTube Premium Avatar
 
 ptYouTube Premium Avatar
 
@@ -21441,25 +21437,29 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 frAvatar YouTube Premium
 "
+ukАватар YouTube Premium
+'
+ja!アバター「YouTube Premium」
+"
 ruАватар YouTube Premium.webp
 �
 avatar_progressive_bp_59_free_1�
 
 enSignal Tap Avatar
 
-plSignal Tap Avatar
-
 zhSignal Tap Avatar
-0
-ja*アバター「シグナル・タップ」
->
-uk8Аватар «Відстеження сигналів»
+
+plSignal Tap Avatar
 
 ptSignal Tap Avatar
 
 esSignal Tap Avatar
 
 frAvatar Prise de signal
+>
+uk8Аватар «Відстеження сигналів»
+0
+ja*アバター「シグナル・タップ」
 2
 ru,Аватар «Радар-детектор».webp
 �
@@ -21467,19 +21467,19 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 enSDP 58 Zurawik Avatar
 
-plSDP 58 Zurawik Avatar
-
 zhSDP 58 Zurawik Avatar
-&
-ja アバター「SDP 58 Zurawik」
-"
-ukАватар SDP 58 Zurawik
+
+plSDP 58 Zurawik Avatar
 
 ptSDP 58 Zurawik Avatar
 
 esSDP 58 Zurawik Avatar
 
 frAvatar du SDP 58 Zurawik
+"
+ukАватар SDP 58 Zurawik
+&
+ja アバター「SDP 58 Zurawik」
 !
 ruАватар SDP 58 Zurawik.webp
 �
@@ -21487,19 +21487,19 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 enLevitation Fan Avatar
 
-plLevitation Fan Avatar
-
 zhLevitation Fan Avatar
-,
-ja&アバター「Levitation ファン」
-:
-uk4Аватар «Вболівальник Levitation»
+
+plLevitation Fan Avatar
 
 ptLevitation Fan Avatar
 
 esLevitation Fan Avatar
 (
 fr"Avatar du passionné de Levitation
+:
+uk4Аватар «Вболівальник Levitation»
+,
+ja&アバター「Levitation ファン」
 4
 ru.Аватар «Болельщик Levitation».webp
 �
@@ -21507,19 +21507,19 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 enLil' Boy Avatar
 
-plLil' Boy Avatar
-
 zhLil' Boy Avatar
-'
-ja!アバター「ハム末太郎」
-'
-uk!Аватар «Крихітка»
+
+plLil' Boy Avatar
 
 ptLil' Boy Avatar
 
 esLil' Boy Avatar
 
 frAvatar P'tit gars
+'
+uk!Аватар «Крихітка»
+'
+ja!アバター「ハム末太郎」
 %
 ruАватар «Бусинка».webp
 �
@@ -21527,19 +21527,19 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 enSpeedrun Avatar
 
-plSpeedrun Avatar
-
 zhSpeedrun Avatar
-*
-ja$アバター「スピードラン」
-
-ukАватар Speedrun
+
+plSpeedrun Avatar
 
 ptSpeedrun Avatar
 
 esSpeedrun Avatar
 
 frAvatar Speedrun
+
+ukАватар Speedrun
+*
+ja$アバター「スピードラン」
 
 ruАватар Speedrun.webp
 �
@@ -21547,19 +21547,19 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 enDiamond League Avatar
 
-plDiamond League Avatar
-
 zhDiamond League Avatar
-3
-ja-アバター「ダイヤモンドリーグ」
-4
-uk.Аватар «Діамантова Ліга»
+
+plDiamond League Avatar
 
 ptDiamond League Avatar
 
 esDiamond League Avatar
  
 frAvatar de la Ligue Diamant
+4
+uk.Аватар «Діамантова Ліга»
+3
+ja-アバター「ダイヤモンドリーグ」
 :
 ru4Аватар «Бриллиантовая Лига».webp
 �
@@ -21567,13 +21567,9 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 enAstronaut Avatar
 
-plAstronaut Avatar
-
 zhAstronaut Avatar
-'
-ja!アバター「宇宙飛行士」
-)
-uk#Аватар «Космонавт»
+
+plAstronaut Avatar
 
 ptAstronaut Avatar
 
@@ -21581,25 +21577,29 @@ $avatar_progressive_bp_37_ruby_paid_4�
 
 frAvatar de l'astronaute
 )
+uk#Аватар «Космонавт»
+'
+ja!アバター「宇宙飛行士」
+)
 ru#Аватар «Космонавт».png
 �
 'avatar_progressive_rb_diamond_eu_wins_7�
 
 enDiamond Victor Avatar
 
-plDiamond Victor Avatar
-
 zhDiamond Victor Avatar
-3
-ja-アバター「ダイアモンドの勝者」
-B
-uk<Аватар «Діамантовий переможець»
+
+plDiamond Victor Avatar
 
 ptDiamond Victor Avatar
 
 esDiamond Victor Avatar
 !
 frAvatar Vainqueur de diamant
+B
+uk<Аватар «Діамантовий переможець»
+3
+ja-アバター「ダイアモンドの勝者」
 F
 ru@Аватар «Бриллиантовый победитель».webp
 �
@@ -21607,19 +21607,19 @@ F
  
 enGladiator's Trident Avatar
  
-plGladiator's Trident Avatar
- 
 zhGladiator's Trident Avatar
--
-ja'アバター「剣闘士の三又槍」
-8
-uk2Аватар «Тризуб гладіатора»
+ 
+plGladiator's Trident Avatar
  
 ptGladiator's Trident Avatar
  
 esGladiator's Trident Avatar
 "
 frAvatar trident du gladiateur
+8
+uk2Аватар «Тризуб гладіатора»
+-
+ja'アバター「剣闘士の三又槍」
 <
 ru6Аватар «Трезубец гладиатора».webp
 �
@@ -21627,19 +21627,19 @@ F
 
 enFortium Source Avatar
 
-plFortium Source Avatar
-
 zhFortium Source Avatar
-$
-jaフォルティウムの原石
-6
-uk0Аватар «Джерело Фортіуму»
+
+plFortium Source Avatar
 
 ptFortium Source Avatar
 
 esFortium Source Avatar
 
 frAvatar Source de Fortium
+6
+uk0Аватар «Джерело Фортіуму»
+$
+jaフォルティウムの原石
 8
 ru2Аватар «Источник Фортиума».webp
 �
@@ -21647,19 +21647,19 @@ $
 
 enMedallion Avatar
 
-plMedallion Avatar
-
 zhMedallion Avatar
-!
-jaアバター「護神牌」
-)
-uk#Аватар «Медальйон»
+
+plMedallion Avatar
 
 ptMedallion Avatar
 
 esMedallion Avatar
 
 frAvatar Médaillon
+)
+uk#Аватар «Медальйон»
+!
+jaアバター「護神牌」
 '
 ru!Аватар «Медальон».webp
 �
@@ -21667,13 +21667,9 @@ $
 
 enSpeedrun Avatar
 
-plSpeedrun Avatar
-
 zhSpeedrun Avatar
-*
-ja$アバター「スピードラン」
-
-ukАватар Speedrun
+
+plSpeedrun Avatar
 
 ptSpeedrun Avatar
 
@@ -21681,19 +21677,19 @@ $
 
 frAvatar Speedrun
 
+ukАватар Speedrun
+*
+ja$アバター「スピードラン」
+
 ruАватар Speedrun.webp
 �
 avatar_progressive_bp_72_paid_2�
 
 en行动的头像2
 
-pl行动的头像2
-
 zh行动的头像2
 
-ja行动的头像2
-
-uk行动的头像2
+pl行动的头像2
 
 pt行动的头像2
 
@@ -21701,25 +21697,29 @@ $
 
 fr行动的头像2
 
+uk行动的头像2
+
+ja行动的头像2
+
 ru行动的头像2.webp
 �
 !avatar_EU_SEREN1TYUNITED_rare_31d�
  
 enSEREN1TY UNITED Fan Avatar
  
-plSEREN1TY UNITED Fan Avatar
- 
 zhSEREN1TY UNITED Fan Avatar
-1
-ja+アバター「SEREN1TY UNITED ファン」
-?
-uk9Аватар «Вболівальник SEREN1TY UNITED»
+ 
+plSEREN1TY UNITED Fan Avatar
  
 ptSEREN1TY UNITED Fan Avatar
  
 esSEREN1TY UNITED Fan Avatar
 -
 fr'Avatar du passionné de SEREN1TY UNITED
+?
+uk9Аватар «Вболівальник SEREN1TY UNITED»
+1
+ja+アバター「SEREN1TY UNITED ファン」
 9
 ru3Аватар «Болельщик SEREN1TY UNITED».webp
 �
@@ -21727,19 +21727,19 @@ $
 
 enMrs. Anderson Avatar
 
-plMrs. Anderson Avatar
-
 zhMrs. Anderson Avatar
-0
-ja*アバター「アンダーソン夫人」
-0
-uk*Аватар «Пані Андерсон»
+
+plMrs. Anderson Avatar
 
 ptMrs. Anderson Avatar
 
 esMrs. Anderson Avatar
 
 frAvatar Madame Anderson
+0
+uk*Аватар «Пані Андерсон»
+0
+ja*アバター「アンダーソン夫人」
 4
 ru.Аватар «Миссис Андерсон».webp
 �
@@ -21747,13 +21747,9 @@ $
 
 enCarnavalesco Avatar
 
-plCarnavalesco Avatar
-
 zhCarnavalesco Avatar
--
-ja'アバター「カーニバレスコ」
-
-ukАватар Carnavalesco
+
+plCarnavalesco Avatar
 
 ptCarnavalesco Avatar
 
@@ -21761,19 +21757,19 @@ $
 
 frAvatar Carnavalesco
 
+ukАватар Carnavalesco
+-
+ja'アバター「カーニバレスコ」
+
 ruАватар Carnavalesco.webp
 �
 avatar_BlitzCupASIA_rare�
 %
 enBlitz APAC Cup 2021 Fan Avatar
 %
-plBlitz APAC Cup 2021 Fan Avatar
-%
 zhBlitz APAC Cup 2021 Fan Avatar
-6
-ja0アバター「Blitz APAC Cup 2021 ファン」
-6
-uk0Аватар «Фанат Blitz APAC Cup 2021»
+%
+plBlitz APAC Cup 2021 Fan Avatar
 %
 ptBlitz APAC Cup 2021 Fan Avatar
 %
@@ -21781,19 +21777,19 @@ $
 5
 fr/Avatar du passionné de la Blitz APAC Cup 2021
 6
+uk0Аватар «Фанат Blitz APAC Cup 2021»
+6
+ja0アバター「Blitz APAC Cup 2021 ファン」
+6
 ru0Аватар «Фанат Blitz APAC Cup 2021».webp
 �
 avatar_progressive_bp_4_paid_2�
 
 enGingerbread Man Avatar
 
-plGingerbread Man Avatar
-
 zhGingerbread Man Avatar
-9
-ja3アバター「ジンジャーブレッドマン」
-:
-uk4Аватар «Імбирний чоловічок»
+
+plGingerbread Man Avatar
 
 ptGingerbread Man Avatar
 
@@ -21801,19 +21797,19 @@ $
 )
 fr#Avatar du Bonhomme en pain d'épice
 :
+uk4Аватар «Імбирний чоловічок»
+9
+ja3アバター「ジンジャーブレッドマン」
+:
 ru4Аватар «Имбирный человечек».png
 �
 avatar_5years_legendary_ruby�
 *
 en$Аватар «5 лет побед»
 *
-pl$Аватар «5 лет побед»
-*
 zh$Аватар «5 лет побед»
 *
-ja$Аватар «5 лет побед»
-*
-uk$Аватар «5 лет побед»
+pl$Аватар «5 лет побед»
 *
 pt$Аватар «5 лет побед»
 *
@@ -21821,25 +21817,29 @@ $
 *
 fr$Аватар «5 лет побед»
 *
+uk$Аватар «5 лет побед»
+*
+ja$Аватар «5 лет побед»
+*
 ru$Аватар «5 лет побед».webp
 �
 avatar_progressive_bp_31_free_3�
 
 enMedallion Avatar
 
-plMedallion Avatar
-
 zhMedallion Avatar
-!
-jaアバター「護神牌」
-)
-uk#Аватар «Медальйон»
+
+plMedallion Avatar
 
 ptMedallion Avatar
 
 esMedallion Avatar
 
 frAvatar Médaillon
+)
+uk#Аватар «Медальйон»
+!
+jaアバター「護神牌」
 '
 ru!Аватар «Медальон».webp
 �
@@ -21847,19 +21847,19 @@ $avatar_BlitzCup25_SG_TEAM3_legendary�
 
 enTEAM ID Diamond Avatar
 
-plTEAM ID Diamond Avatar
-
 zhTEAM ID Diamond Avatar
-2
-ja,アバター「TEAM ID ダイヤモンド」
-A
-uk;Діамантовий аватар команди TEAM ID
+
+plTEAM ID Diamond Avatar
 
 ptTEAM ID Diamond Avatar
 
 esTEAM ID Diamond Avatar
 "
 frAvatar de TEAM ID de diamant
+A
+uk;Діамантовий аватар команди TEAM ID
+2
+ja,アバター「TEAM ID ダイヤモンド」
 D
 ru>Бриллиантовый аватар команды TEAM ID.webp
 �
@@ -21867,13 +21867,9 @@ D
 !
 enPrimaris Intercessor Avatar
 !
-plPrimaris Intercessor Avatar
-!
 zhPrimaris Intercessor Avatar
-E
-ja?アバター「プライマリス・インターセッサー」
-
-ukАватар Intercessor
+!
+plPrimaris Intercessor Avatar
 !
 ptPrimaris Intercessor Avatar
 !
@@ -21881,25 +21877,29 @@ E
 #
 frAvatar du Médiateur Primaris
 
+ukАватар Intercessor
+E
+ja?アバター「プライマリス・インターセッサー」
+
 ruАватар Intercessor.webp
 �
 avatar_progressive_bp_71_paid_3�
 
 enCampfire Boogie Avatar
 
-plCampfire Boogie Avatar
-
 zhCampfire Boogie Avatar
-?
-ja9アバター「るんるんキャンプファイヤー」
-9
-uk3Аватар «Танок біля багаття»
+
+plCampfire Boogie Avatar
 
 ptCampfire Boogie Avatar
 
 esCampfire Boogie Avatar
 !
 frAvatar Danse du feu de camp
+9
+uk3Аватар «Танок біля багаття»
+?
+ja9アバター「るんるんキャンプファイヤー」
 #
 ruАватар «Огонёк».webp
 �
@@ -21907,13 +21907,9 @@ E
 
 en	C4 Avatar
 
-pl	C4 Avatar
-
 zh	C4 Avatar
-
-jaアバター「C4」
-
-ukАватар C4
+
+pl	C4 Avatar
 
 pt	C4 Avatar
 
@@ -21921,25 +21917,29 @@ E
 
 frAvatar de C4
 
+ukАватар C4
+
+jaアバター「C4」
+
 ruАватар C4.png
 �
 avatar_progressive_bp_71_paid_1�
 
 enCampfire Boogie Avatar
 
-plCampfire Boogie Avatar
-
 zhCampfire Boogie Avatar
-?
-ja9アバター「るんるんキャンプファイヤー」
-9
-uk3Аватар «Танок біля багаття»
+
+plCampfire Boogie Avatar
 
 ptCampfire Boogie Avatar
 
 esCampfire Boogie Avatar
 !
 frAvatar Danse du feu de camp
+9
+uk3Аватар «Танок біля багаття»
+?
+ja9アバター「るんるんキャンプファイヤー」
 #
 ruАватар «Огонёк».webp
 �
@@ -21947,19 +21947,19 @@ E
 
 enCommunity Member Avatar
 
-plCommunity Member Avatar
-
 zhCommunity Member Avatar
-9
-ja3アバター「コミュニティーメンバー」
-8
-uk2Аватар «Частина спільноти»
+
+plCommunity Member Avatar
 
 ptCommunity Member Avatar
 
 esCommunity Member Avatar
 %
 frAvatar Membre de la communauté
+8
+uk2Аватар «Частина спільноти»
+9
+ja3アバター「コミュニティーメンバー」
 6
 ru0Аватар «Часть сообщества».webp
 �
@@ -21967,19 +21967,19 @@ E
 
 enMedallion Avatar
 
-plMedallion Avatar
-
 zhMedallion Avatar
-!
-jaアバター「護神牌」
-)
-uk#Аватар «Медальйон»
+
+plMedallion Avatar
 
 ptMedallion Avatar
 
 esMedallion Avatar
 
 frAvatar Médaillon
+)
+uk#Аватар «Медальйон»
+!
+jaアバター「護神牌」
 '
 ru!Аватар «Медальон».webp
 �
@@ -21987,19 +21987,19 @@ E
 
 enCrown of Splendor Avatar
 
-plCrown of Splendor Avatar
-
 zhCrown of Splendor Avatar
 
-jaアバター「光彩」
-0
-uk*Аватар «Корона величі»
+plCrown of Splendor Avatar
 
 ptCrown of Splendor Avatar
 
 esCrown of Splendor Avatar
 %
 frAvatar de la Couronne splendide
+0
+uk*Аватар «Корона величі»
+
+jaアバター「光彩」
 2
 ru,Аватар «Корона величия».png
 �
@@ -22007,19 +22007,19 @@ E
 
 enChamp Avatar
 
-plChamp Avatar
-
 zhChamp Avatar
-$
-jaアバター「チャンプ」
-%
-ukАватар «Чемпіон»
+
+plChamp Avatar
 
 ptChamp Avatar
 
 esChamp Avatar
 
 frAvatar de Champion
+%
+ukАватар «Чемпіон»
+$
+jaアバター「チャンプ」
 
 ruАватар «Чамп».webp
 �
@@ -22027,19 +22027,19 @@ $
 
 enMedallion Avatar
 
-plMedallion Avatar
-
 zhMedallion Avatar
-!
-jaアバター「護神牌」
-)
-uk#Аватар «Медальйон»
+
+plMedallion Avatar
 
 ptMedallion Avatar
 
 esMedallion Avatar
 
 frAvatar Médaillon
+)
+uk#Аватар «Медальйон»
+!
+jaアバター「護神牌」
 '
 ru!Аватар «Медальон».webp
 �
@@ -22047,19 +22047,19 @@ $
 
 enChamp Avatar
 
-plChamp Avatar
-
 zhChamp Avatar
-$
-jaアバター「チャンプ」
-%
-ukАватар «Чемпіон»
+
+plChamp Avatar
 
 ptChamp Avatar
 
 esChamp Avatar
 
 frAvatar de Champion
+%
+ukАватар «Чемпіон»
+$
+jaアバター「チャンプ」
 
 ruАватар «Чамп».webp
 �
@@ -22067,13 +22067,9 @@ $
 
 enProud Veteran Avatar
 
-plProud Veteran Avatar
-
 zhProud Veteran Avatar
--
-ja'アバター「誇り高き古参兵」
-2
-uk,Аватар «Гордий ветеран»
+
+plProud Veteran Avatar
 
 ptProud Veteran Avatar
 
@@ -22081,25 +22077,29 @@ $
 
 frAvatar Fier vétéran
 2
+uk,Аватар «Гордий ветеран»
+-
+ja'アバター「誇り高き古参兵」
+2
 ru,Аватар «Гордый ветеран».webp
 �
 avatar_grenade_common�
 
 enShort Fuse Avatar
 
-plShort Fuse Avatar
-
 zhShort Fuse Avatar
-$
-jaアバター「一触即発」
-6
-uk0Аватар «Вибуховий снаряд»
+
+plShort Fuse Avatar
 
 ptShort Fuse Avatar
 
 esShort Fuse Avatar
 
 frAvatar de soupe au lait
+6
+uk0Аватар «Вибуховий снаряд»
+$
+jaアバター「一触即発」
 4
 ru.Аватар «Взрывной снаряд».png
 �
@@ -22107,19 +22107,19 @@ $
 
 enChamp Avatar
 
-plChamp Avatar
-
 zhChamp Avatar
-$
-jaアバター「チャンプ」
-%
-ukАватар «Чемпіон»
+
+plChamp Avatar
 
 ptChamp Avatar
 
 esChamp Avatar
 
 frAvatar de Champion
+%
+ukАватар «Чемпіон»
+$
+jaアバター「チャンプ」
 
 ruАватар «Чамп».webp
 �
@@ -22127,19 +22127,19 @@ $
 
 enMrs. Anderson Avatar
 
-plMrs. Anderson Avatar
-
 zhMrs. Anderson Avatar
-0
-ja*アバター「アンダーソン夫人」
-0
-uk*Аватар «Пані Андерсон»
+
+plMrs. Anderson Avatar
 
 ptMrs. Anderson Avatar
 
 esMrs. Anderson Avatar
 
 frAvatar Madame Anderson
+0
+uk*Аватар «Пані Андерсон»
+0
+ja*アバター「アンダーソン夫人」
 4
 ru.Аватар «Миссис Андерсон».webp
 �
@@ -22147,19 +22147,19 @@ $
 
 enEvil Clown Avatar
 
-plEvil Clown Avatar
-
 zhEvil Clown Avatar
-*
-ja$アバター「邪悪なピエロ」
-4
-uk.Аватар «Зловісний клоун»
+
+plEvil Clown Avatar
 
 ptEvil Clown Avatar
 
 esEvil Clown Avatar
  
 frAvatar du clown diabolique
+4
+uk.Аватар «Зловісний клоун»
+*
+ja$アバター「邪悪なピエロ」
 2
 ru,Аватар «Зловещий клоун».png
 �
@@ -22167,19 +22167,19 @@ $
 
 enChamp Avatar
 
-plChamp Avatar
-
 zhChamp Avatar
-$
-jaアバター「チャンプ」
-%
-ukАватар «Чемпіон»
+
+plChamp Avatar
 
 ptChamp Avatar
 
 esChamp Avatar
 
 frAvatar de Champion
+%
+ukАватар «Чемпіон»
+$
+jaアバター「チャンプ」
 
 ruАватар «Чамп».webp
 �
@@ -22187,19 +22187,19 @@ $
 
 enChamp Avatar
 
-plChamp Avatar
-
 zhChamp Avatar
-$
-jaアバター「チャンプ」
-%
-ukАватар «Чемпіон»
+
+plChamp Avatar
 
 ptChamp Avatar
 
 esChamp Avatar
 
 frAvatar de Champion
+%
+ukАватар «Чемпіон»
+$
+jaアバター「チャンプ」
 
 ruАватар «Чамп».webp
 �
@@ -22207,19 +22207,19 @@ $
 
 enChamp Avatar
 
-plChamp Avatar
-
 zhChamp Avatar
-$
-jaアバター「チャンプ」
-%
-ukАватар «Чемпіон»
+
+plChamp Avatar
 
 ptChamp Avatar
 
 esChamp Avatar
 
 frAvatar de Champion
+%
+ukАватар «Чемпіон»
+$
+jaアバター「チャンプ」
 
 ruАватар «Чамп».webp
 �
@@ -22227,19 +22227,19 @@ $
 
 enChamp Avatar
 
-plChamp Avatar
-
 zhChamp Avatar
-$
-jaアバター「チャンプ」
-%
-ukАватар «Чемпіон»
+
+plChamp Avatar
 
 ptChamp Avatar
 
 esChamp Avatar
 
 frAvatar de Champion
+%
+ukАватар «Чемпіон»
+$
+jaアバター「チャンプ」
 
 ruАватар «Чамп».webp
 �
@@ -22247,13 +22247,9 @@ $
 
 en来一杯吧动态头像
 
-pl来一杯吧动态头像
-
 zh来一杯吧动态头像
 
-ja来一杯吧动态头像
-
-uk来一杯吧动态头像
+pl来一杯吧动态头像
 
 pt来一杯吧动态头像
 
@@ -22261,19 +22257,19 @@ $
 
 fr来一杯吧动态头像
 
+uk来一杯吧动态头像
+
+ja来一杯吧动态头像
+
 ru来一杯吧动态头像.webp
 �
 avatar_2025_nybp_2�
 
 enRed mau5 Avatar
 
-plRed mau5 Avatar
-
 zhRed mau5 Avatar
- 
-jaアバター「Red mau5」
-
-ukАватар Red mau5
+
+plRed mau5 Avatar
 
 ptRed mau5 Avatar
 
@@ -22281,19 +22277,19 @@ $
 
 frAvatar mau5 rouge
 
+ukАватар Red mau5
+ 
+jaアバター「Red mau5」
+
 ruАватар Red mau5.webp
 �
 avatar_CC_Amaunet_legendary�
 
 enAmaunet Avatar
 
-plAmaunet Avatar
-
 zhAmaunet Avatar
-
-jaアバター「Amaunet」
-
-ukАватар Amaunet
+
+plAmaunet Avatar
 
 ptAmaunet Avatar
 
@@ -22301,19 +22297,19 @@ $
 
 frAvatar Amaunet
 
+ukАватар Amaunet
+
+jaアバター「Amaunet」
+
 ruАватар Amaunet.webp
 �
 avatar_krisdev_legendary�
 
 enChris Avatar
 
-plChris Avatar
-
 zhChris Avatar
-!
-jaアバター「クリス」
-
-ukАватар «Кріс»
+
+plChris Avatar
 
 ptChris Avatar
 
@@ -22321,25 +22317,29 @@ $
 
 frAvatar de Chris
 
+ukАватар «Кріс»
+!
+jaアバター「クリス」
+
 ruАватар «Крис».png
 �
 avatar_progressive_bp_58_paid_6�
 
 enImperative Design Avatar
 
-plImperative Design Avatar
-
 zhImperative Design Avatar
-0
-ja*アバター「絶対なるデザイン」
-<
-uk6Аватар «Невідкладний проєкт»
+
+plImperative Design Avatar
 
 ptImperative Design Avatar
 
 esImperative Design Avatar
 "
 frAvatar Design incontournable
+<
+uk6Аватар «Невідкладний проєкт»
+0
+ja*アバター「絶対なるデザイン」
 <
 ru6Аватар «Императивный дизайн».webp
 �
@@ -22347,19 +22347,19 @@ $
 
 enImperative Design Avatar
 
-plImperative Design Avatar
-
 zhImperative Design Avatar
-0
-ja*アバター「絶対なるデザイン」
-<
-uk6Аватар «Невідкладний проєкт»
+
+plImperative Design Avatar
 
 ptImperative Design Avatar
 
 esImperative Design Avatar
 "
 frAvatar Design incontournable
+<
+uk6Аватар «Невідкладний проєкт»
+0
+ja*アバター「絶対なるデザイン」
 <
 ru6Аватар «Императивный дизайн».webp
 �
@@ -22367,19 +22367,19 @@ $
 
 enImperative Design Avatar
 
-plImperative Design Avatar
-
 zhImperative Design Avatar
-0
-ja*アバター「絶対なるデザイン」
-<
-uk6Аватар «Невідкладний проєкт»
+
+plImperative Design Avatar
 
 ptImperative Design Avatar
 
 esImperative Design Avatar
 "
 frAvatar Design incontournable
+<
+uk6Аватар «Невідкладний проєкт»
+0
+ja*アバター「絶対なるデザイン」
 <
 ru6Аватар «Императивный дизайн».webp
 �
@@ -22387,13 +22387,9 @@ $
 
 enImperative Design Avatar
 
-plImperative Design Avatar
-
 zhImperative Design Avatar
-0
-ja*アバター「絶対なるデザイン」
-<
-uk6Аватар «Невідкладний проєкт»
+
+plImperative Design Avatar
 
 ptImperative Design Avatar
 
@@ -22401,19 +22397,19 @@ $
 "
 frAvatar Design incontournable
 <
+uk6Аватар «Невідкладний проєкт»
+0
+ja*アバター「絶対なるデザイン」
+<
 ru6Аватар «Императивный дизайн».webp
 �
 avatar_bp_39_ruby_bundle�
 2
 en,storage/Items/avatar_bp_39_ruby_bundle/Title
 2
-pl,storage/Items/avatar_bp_39_ruby_bundle/Title
-2
 zh,storage/Items/avatar_bp_39_ruby_bundle/Title
 2
-ja,storage/Items/avatar_bp_39_ruby_bundle/Title
-2
-uk,storage/Items/avatar_bp_39_ruby_bundle/Title
+pl,storage/Items/avatar_bp_39_ruby_bundle/Title
 2
 pt,storage/Items/avatar_bp_39_ruby_bundle/Title
 2
@@ -22421,19 +22417,19 @@ $
 2
 fr,storage/Items/avatar_bp_39_ruby_bundle/Title
 2
+uk,storage/Items/avatar_bp_39_ruby_bundle/Title
+2
+ja,storage/Items/avatar_bp_39_ruby_bundle/Title
+2
 ru,storage/Items/avatar_bp_39_ruby_bundle/Title.webp
 �
 avatar_angry_bunny_unique�
 
 enBunnysher Avatar
 
-plBunnysher Avatar
-
 zhBunnysher Avatar
-6
-ja0アバター「残忍なバニーッシャー」
-1
-uk+Аватар «Кроліквідатор»
+
+plBunnysher Avatar
 
 ptBunnysher Avatar
 
@@ -22441,25 +22437,29 @@ $
 
 frAvatar Bunnysher
 1
+uk+Аватар «Кроліквідатор»
+6
+ja0アバター「残忍なバニーッシャー」
+1
 ru+Аватар «Кроликвидатор».webp
 �
 avatar_fireflake_legendary�
 
 enFireflake Avatar
 
-plFireflake Avatar
-
 zhFireflake Avatar
-0
-ja*アバター「ファイアフレイク」
-6
-uk0Аватар «Вогняна сніжинка»
+
+plFireflake Avatar
 
 ptFireflake Avatar
 
 esFireflake Avatar
 
 frAvatar Flocon de feu
+6
+uk0Аватар «Вогняна сніжинка»
+0
+ja*アバター「ファイアフレイク」
 8
 ru2Аватар «Огненная снежинка».webp
 �
@@ -22467,13 +22467,9 @@ $
 
 en[IMM0R] IMM0R Clan Avatar
 
-pl[IMM0R] IMM0R Clan Avatar
-
 zh[IMM0R] IMM0R Clan Avatar
-/
-ja)アバター「クラン [IMM0R] IMM0R」
--
-uk'Аватар «Клан [IMM0R] IMM0R»
+
+pl[IMM0R] IMM0R Clan Avatar
 
 pt[IMM0R] IMM0R Clan Avatar
 
@@ -22481,25 +22477,29 @@ $
 "
 frAvatar du clan [IMM0R] IMM0R
 -
+uk'Аватар «Клан [IMM0R] IMM0R»
+/
+ja)アバター「クラン [IMM0R] IMM0R」
+-
 ru'Аватар «Клан [IMM0R] IMM0R».webp
 �
 avatar_progressive_bp_23_paid_5�
 
 enAre We Home Yet? Avatar
 
-plAre We Home Yet? Avatar
-
 zhAre We Home Yet? Avatar
-.
-ja(アバター「で、いつ帰るの?」
-0
-uk*Аватар «А коли додому?»
+
+plAre We Home Yet? Avatar
 
 ptAre We Home Yet? Avatar
 
 esAre We Home Yet? Avatar
 *
 fr$Avatar On est déjà à la maison ?
+0
+uk*Аватар «А коли додому?»
+.
+ja(アバター「で、いつ帰るの?」
 0
 ru*Аватар «А когда домой?».webp
 �
@@ -22507,19 +22507,19 @@ $
 
 enWild Card Fan Avatar
 
-plWild Card Fan Avatar
-
 zhWild Card Fan Avatar
-+
-ja%アバター「Wild Card ファン」
-9
-uk3Аватар «Вболівальник Wild Card»
+
+plWild Card Fan Avatar
 
 ptWild Card Fan Avatar
 
 esWild Card Fan Avatar
 '
 fr!Avatar du passionné de Wild Card
+9
+uk3Аватар «Вболівальник Wild Card»
++
+ja%アバター「Wild Card ファン」
 3
 ru-Аватар «Болельщик Wild Card».webp
 �
@@ -22527,19 +22527,19 @@ $
 
 enVenomous Hunter Avatar
 
-plVenomous Hunter Avatar
-
 zhVenomous Hunter Avatar
--
-ja'アバター「有毒なハンター」
-:
-uk4Аватар «Отруйний мисливець»
+
+plVenomous Hunter Avatar
 
 ptVenomous Hunter Avatar
 
 esVenomous Hunter Avatar
 !
 frAvatar du chasseur venimeux
+:
+uk4Аватар «Отруйний мисливець»
+-
+ja'アバター「有毒なハンター」
 6
 ru0Аватар «Ядовитый охотник».png
 �
@@ -22547,19 +22547,19 @@ $
 
 enCity is Ours! Avatar
 
-plCity is Ours! Avatar
-
 zhCity is Ours! Avatar
-$
-jaアバター「City's Ours!」
-+
-uk%Аватар «Місто наше!»
+
+plCity is Ours! Avatar
 
 ptCity is Ours! Avatar
 
 esCity is Ours! Avatar
 $
 frAvatar La ville est à nous !
++
+uk%Аватар «Місто наше!»
+$
+jaアバター「City's Ours!」
 )
 ru#Аватар «Город наш!».webp
 �
@@ -22567,19 +22567,19 @@ $
 %
 en"Happy Birthday, Blitz!" Avatar
 %
-pl"Happy Birthday, Blitz!" Avatar
-%
 zh"Happy Birthday, Blitz!" Avatar
-=
-ja7アバター「ハッピーバースデー、Blitz !」
-?
-uk9Аватар «З днем народження, Blitz!»
+%
+pl"Happy Birthday, Blitz!" Avatar
 %
 pt"Happy Birthday, Blitz!" Avatar
 %
 es"Happy Birthday, Blitz!" Avatar
 2
 fr,Avatar « Joyeux anniversaire, Blitz ! »
+?
+uk9Аватар «З днем народження, Blitz!»
+=
+ja7アバター「ハッピーバースデー、Blitz !」
 ;
 ru5Аватар «С днём рождения, Blitz!».png
 �
@@ -22587,19 +22587,19 @@ $
 
 enCity is Ours! Avatar
 
-plCity is Ours! Avatar
-
 zhCity is Ours! Avatar
-$
-jaアバター「City's Ours!」
-+
-uk%Аватар «Місто наше!»
+
+plCity is Ours! Avatar
 
 ptCity is Ours! Avatar
 
 esCity is Ours! Avatar
 $
 frAvatar La ville est à nous !
++
+uk%Аватар «Місто наше!»
+$
+jaアバター「City's Ours!」
 )
 ru#Аватар «Город наш!».webp
 �
@@ -22607,19 +22607,19 @@ $
 
 enCity is Ours! Avatar
 
-plCity is Ours! Avatar
-
 zhCity is Ours! Avatar
-$
-jaアバター「City's Ours!」
-+
-uk%Аватар «Місто наше!»
+
+plCity is Ours! Avatar
 
 ptCity is Ours! Avatar
 
 esCity is Ours! Avatar
 $
 frAvatar La ville est à nous !
++
+uk%Аватар «Місто наше!»
+$
+jaアバター「City's Ours!」
 )
 ru#Аватар «Город наш!».webp
 �
@@ -22627,19 +22627,19 @@ $
 
 enShamrock Avatar
 
-plShamrock Avatar
-
 zhShamrock Avatar
-*
-ja$アバター「シャムロック」
-)
-uk#Аватар «Трилисник»
+
+plShamrock Avatar
 
 ptShamrock Avatar
 
 esShamrock Avatar
 
 frAvatar du trèfle
+)
+uk#Аватар «Трилисник»
+*
+ja$アバター「シャムロック」
 +
 ru%Аватар «Трилистник».png
 �
@@ -22647,19 +22647,19 @@ $
 "
 enMonster Mastery Badge Avatar
 "
-plMonster Mastery Badge Avatar
-"
 zhMonster Mastery Badge Avatar
-?
-ja9アバター「モンスター・マスターバッジ」
-@
-uk:Аватар «Знак класності: Монстр»
+"
+plMonster Mastery Badge Avatar
 "
 ptMonster Mastery Badge Avatar
 "
 esMonster Mastery Badge Avatar
 )
 fr#Avatar Insigne de maîtrise Monstre
+@
+uk:Аватар «Знак класності: Монстр»
+?
+ja9アバター「モンスター・マスターバッジ」
 B
 ru<Аватар «Знак классности: Монстр».png
 �
@@ -22667,19 +22667,19 @@ B
 
 enAre We Home Yet? Avatar
 
-plAre We Home Yet? Avatar
-
 zhAre We Home Yet? Avatar
-.
-ja(アバター「で、いつ帰るの?」
-0
-uk*Аватар «А коли додому?»
+
+plAre We Home Yet? Avatar
 
 ptAre We Home Yet? Avatar
 
 esAre We Home Yet? Avatar
 *
 fr$Avatar On est déjà à la maison ?
+0
+uk*Аватар «А коли додому?»
+.
+ja(アバター「で、いつ帰るの?」
 0
 ru*Аватар «А когда домой?».webp
 �
@@ -22687,19 +22687,19 @@ B
 
 enAre We Home Yet? Avatar
 
-plAre We Home Yet? Avatar
-
 zhAre We Home Yet? Avatar
-.
-ja(アバター「で、いつ帰るの?」
-0
-uk*Аватар «А коли додому?»
+
+plAre We Home Yet? Avatar
 
 ptAre We Home Yet? Avatar
 
 esAre We Home Yet? Avatar
 *
 fr$Avatar On est déjà à la maison ?
+0
+uk*Аватар «А коли додому?»
+.
+ja(アバター「で、いつ帰るの?」
 0
 ru*Аватар «А когда домой?».webp
 �
@@ -22707,13 +22707,9 @@ B
 
 en"Rookie" Avatar
 
-pl"Rookie" Avatar
-
 zh"Rookie" Avatar
-
-jaアバター「新人」
-7
-uk1Аватар «Той самий союзник»
+
+pl"Rookie" Avatar
 
 pt"Rookie" Avatar
 
@@ -22721,19 +22717,19 @@ B
 
 frAvatar « Bleusaille »
 7
+uk1Аватар «Той самий союзник»
+
+jaアバター「新人」
+7
 ru1Аватар «Тот самый союзник».png
 �
 avatar_progressive_bp_23_paid_2�
 
 enAre We Home Yet? Avatar
 
-plAre We Home Yet? Avatar
-
 zhAre We Home Yet? Avatar
-.
-ja(アバター「で、いつ帰るの?」
-0
-uk*Аватар «А коли додому?»
+
+plAre We Home Yet? Avatar
 
 ptAre We Home Yet? Avatar
 
@@ -22741,19 +22737,19 @@ B
 *
 fr$Avatar On est déjà à la maison ?
 0
+uk*Аватар «А коли додому?»
+.
+ja(アバター「で、いつ帰るの?」
+0
 ru*Аватар «А когда домой?».webp
 �
 avatar_wh_Azrael_legendary�
 
 enAzrael Avatar
 
-plAzrael Avatar
-
 zhAzrael Avatar
-'
-ja!アバター「アズラエル」
-
-ukАватар Azrael
+
+plAzrael Avatar
 
 ptAzrael Avatar
 
@@ -22761,25 +22757,29 @@ B
 
 frAvatar Azrael
 
+ukАватар Azrael
+'
+ja!アバター「アズラエル」
+
 ruАватар Azrael.webp
 �
 avatar_progressive_bp_53_paid_6�
 
 enSteamdragon Avatar
 
-plSteamdragon Avatar
-
 zhSteamdragon Avatar
-6
-ja0アバター「ストリーム・ドラゴン」
-2
-uk,Аватар «Паровий дракон»
+
+plSteamdragon Avatar
 
 ptSteamdragon Avatar
 
 esSteamdragon Avatar
 
 frAvatar Dragon de vapeur
+2
+uk,Аватар «Паровий дракон»
+6
+ja0アバター「ストリーム・ドラゴン」
 D
 ru>Аватар «Паромеханический дракон».webp
 �
@@ -22787,13 +22787,9 @@ D
 
 enLeverage Avatar
 
-plLeverage Avatar
-
 zhLeverage Avatar
- 
-jaアバター「Leverage」
-
-ukАватар Leverage
+
+plLeverage Avatar
 
 ptLeverage Avatar
 
@@ -22801,19 +22797,19 @@ D
 
 frAvatar de Leverage
 
+ukАватар Leverage
+ 
+jaアバター「Leverage」
+
 ruАватар Leverage.webp
 �
 avatar_speed_2020_rare_30d�
 
 enSPEED Avatar
 
-plSPEED Avatar
-
 zhSPEED Avatar
-
-jaアバター「SPEED」
-
-ukАватар SPEED
+
+plSPEED Avatar
 
 ptSPEED Avatar
 
@@ -22821,25 +22817,29 @@ D
 
 frAvatar de SPEED
 
+ukАватар SPEED
+
+jaアバター「SPEED」
+
 ruАватар SPEED.png
 �
 avatar_progressive_bp_9_paid_3�
 
 enBadge of Victory Avatar
 
-plBadge of Victory Avatar
-
 zhBadge of Victory Avatar
-*
-ja$アバター「勝利のバッジ」
-6
-uk0Аватар «Тріумф переможця»
+
+plBadge of Victory Avatar
 
 ptBadge of Victory Avatar
 
 esBadge of Victory Avatar
 #
 frAvatar Insigne de la victoire
+6
+uk0Аватар «Тріумф переможця»
+*
+ja$アバター「勝利のバッジ」
 8
 ru2Аватар «Триумф победителя».webp
 �
@@ -22847,19 +22847,19 @@ D
 
 enBadge of Victory Avatar
 
-plBadge of Victory Avatar
-
 zhBadge of Victory Avatar
-*
-ja$アバター「勝利のバッジ」
-6
-uk0Аватар «Тріумф переможця»
+
+plBadge of Victory Avatar
 
 ptBadge of Victory Avatar
 
 esBadge of Victory Avatar
 #
 frAvatar Insigne de la victoire
+6
+uk0Аватар «Тріумф переможця»
+*
+ja$アバター「勝利のバッジ」
 8
 ru2Аватар «Триумф победителя».webp
 �
@@ -22867,13 +22867,9 @@ D
 %
 enTank Destroyer Commander Avatar
 %
-plTank Destroyer Commander Avatar
-%
 zhTank Destroyer Commander Avatar
-'
-ja!アバター「駆逐戦車長」
-3
-uk-Аватар «Командир ПТ-САУ»
+%
+plTank Destroyer Commander Avatar
 %
 ptTank Destroyer Commander Avatar
 %
@@ -22881,25 +22877,29 @@ D
 ,
 fr&Avatar Commandant de chasseur de chars
 3
+uk-Аватар «Командир ПТ-САУ»
+'
+ja!アバター「駆逐戦車長」
+3
 ru-Аватар «Командир ПТ-САУ».webp
 �
 avatar_progressive_bp_9_paid_6�
 
 enBadge of Victory Avatar
 
-plBadge of Victory Avatar
-
 zhBadge of Victory Avatar
-*
-ja$アバター「勝利のバッジ」
-6
-uk0Аватар «Тріумф переможця»
+
+plBadge of Victory Avatar
 
 ptBadge of Victory Avatar
 
 esBadge of Victory Avatar
 #
 frAvatar Insigne de la victoire
+6
+uk0Аватар «Тріумф переможця»
+*
+ja$アバター「勝利のバッジ」
 8
 ru2Аватар «Триумф победителя».webp
 �
@@ -22907,19 +22907,19 @@ D
 
 enBadge of Victory Avatar
 
-plBadge of Victory Avatar
-
 zhBadge of Victory Avatar
-*
-ja$アバター「勝利のバッジ」
-6
-uk0Аватар «Тріумф переможця»
+
+plBadge of Victory Avatar
 
 ptBadge of Victory Avatar
 
 esBadge of Victory Avatar
 #
 frAvatar Insigne de la victoire
+6
+uk0Аватар «Тріумф переможця»
+*
+ja$アバター「勝利のバッジ」
 8
 ru2Аватар «Триумф победителя».webp
 �
@@ -22927,13 +22927,9 @@ D
 
 enMarneus Calgar Avatar
 
-plMarneus Calgar Avatar
-
 zhMarneus Calgar Avatar
-6
-ja0アバター「マルネウス・カルガー」
-!
-ukАватар Marneus Calgar
+
+plMarneus Calgar Avatar
 
 ptMarneus Calgar Avatar
 
@@ -22941,25 +22937,29 @@ D
 
 frAvatar Marneus Calgar
 !
+ukАватар Marneus Calgar
+6
+ja0アバター「マルネウス・カルガー」
+!
 ruАватар Marneus Calgar.webp
 �
 avatar_progressive_bp_9_paid_4�
 
 enBadge of Victory Avatar
 
-plBadge of Victory Avatar
-
 zhBadge of Victory Avatar
-*
-ja$アバター「勝利のバッジ」
-6
-uk0Аватар «Тріумф переможця»
+
+plBadge of Victory Avatar
 
 ptBadge of Victory Avatar
 
 esBadge of Victory Avatar
 #
 frAvatar Insigne de la victoire
+6
+uk0Аватар «Тріумф переможця»
+*
+ja$アバター「勝利のバッジ」
 8
 ru2Аватар «Триумф победителя».webp
 �
@@ -22967,19 +22967,19 @@ D
 
 enBurning Heart Avatar
 
-plBurning Heart Avatar
-
 zhBurning Heart Avatar
-'
-ja!アバター「炎のハート」
-5
-uk/Аватар «Полум’яне серце»
+
+plBurning Heart Avatar
 
 ptBurning Heart Avatar
 
 esBurning Heart Avatar
 
 frAvatar du Cœur ardent
+5
+uk/Аватар «Полум’яне серце»
+'
+ja!アバター「炎のハート」
 6
 ru0Аватар «Пламенное сердце».webp
 �
@@ -22987,13 +22987,9 @@ D
 
 enCryptic Cypher Avatar
 
-plCryptic Cypher Avatar
-
 zhCryptic Cypher Avatar
-$
-jaアバター「暗号の鍵」
-5
-uk/Аватар «Нейрокриптограф»
+
+plCryptic Cypher Avatar
 
 ptCryptic Cypher Avatar
 
@@ -23001,25 +22997,29 @@ $
 
 frAvatar du Code crypté
 5
+uk/Аватар «Нейрокриптограф»
+$
+jaアバター「暗号の鍵」
+5
 ru/Аватар «Нейрокриптограф».png
 �
 avatar_progressive_boss_wins_6�
 
 enFortium Source Avatar
 
-plFortium Source Avatar
-
 zhFortium Source Avatar
-$
-jaフォルティウムの原石
-6
-uk0Аватар «Джерело Фортіуму»
+
+plFortium Source Avatar
 
 ptFortium Source Avatar
 
 esFortium Source Avatar
 
 frAvatar Source de Fortium
+6
+uk0Аватар «Джерело Фортіуму»
+$
+jaフォルティウムの原石
 8
 ru2Аватар «Источник Фортиума».webp
 �
@@ -23027,19 +23027,19 @@ $
 
 enFortium Source Avatar
 
-plFortium Source Avatar
-
 zhFortium Source Avatar
-$
-jaフォルティウムの原石
-6
-uk0Аватар «Джерело Фортіуму»
+
+plFortium Source Avatar
 
 ptFortium Source Avatar
 
 esFortium Source Avatar
 
 frAvatar Source de Fortium
+6
+uk0Аватар «Джерело Фортіуму»
+$
+jaフォルティウムの原石
 8
 ru2Аватар «Источник Фортиума».webp
 �
@@ -23047,19 +23047,19 @@ $
 
 enFiery Beats Avatar
 
-plFiery Beats Avatar
-
 zhFiery Beats Avatar
-'
-ja!アバター「激熱ビート」
-0
-uk*Аватар «Запальні біти»
+
+plFiery Beats Avatar
 
 ptFiery Beats Avatar
 
 esFiery Beats Avatar
 
 frAvatar Rythmes endiablés
+0
+uk*Аватар «Запальні біти»
+'
+ja!アバター「激熱ビート」
 .
 ru(Аватар «Огненный бит».webp
 �
@@ -23067,13 +23067,9 @@ $
 
 enTEAM WOMBATS Avatar
 
-plTEAM WOMBATS Avatar
-
 zhTEAM WOMBATS Avatar
-$
-jaアバター「TEAM WOMBATS」
-
-ukАватар TEAM WOMBATS
+
+plTEAM WOMBATS Avatar
 
 ptTEAM WOMBATS Avatar
 
@@ -23081,25 +23077,29 @@ $
 
 frAvatar de TEAM WOMBATS
 
+ukАватар TEAM WOMBATS
+$
+jaアバター「TEAM WOMBATS」
+
 ruАватар TEAM WOMBATS.png
 �
 avatar_progressive_boss_wins_4�
 
 enFortium Source Avatar
 
-plFortium Source Avatar
-
 zhFortium Source Avatar
-$
-jaフォルティウムの原石
-6
-uk0Аватар «Джерело Фортіуму»
+
+plFortium Source Avatar
 
 ptFortium Source Avatar
 
 esFortium Source Avatar
 
 frAvatar Source de Fortium
+6
+uk0Аватар «Джерело Фортіуму»
+$
+jaフォルティウムの原石
 8
 ru2Аватар «Источник Фортиума».webp
 �
@@ -23107,19 +23107,19 @@ $
 
 enWho Wants a Piece? Avatar
 
-plWho Wants a Piece? Avatar
-
 zhWho Wants a Piece? Avatar
-+
-ja%アバター「一緒に食べる?」
-1
-uk+Аватар «Кому шматочок?»
+
+plWho Wants a Piece? Avatar
 
 ptWho Wants a Piece? Avatar
 
 esWho Wants a Piece? Avatar
 $
 frAvatar Qui en veut une part ?
+1
+uk+Аватар «Кому шматочок?»
++
+ja%アバター「一緒に食べる?」
 /
 ru)Аватар «Кому кусочек?».webp
 �
@@ -23127,19 +23127,19 @@ $
 !
 enThunderbird Animated Avatar
 !
-plThunderbird Animated Avatar
-!
 zhThunderbird Animated Avatar
-H
-jaBアニメーション付きアバター「サンダーバード」
-6
-uk0Анімований аватар «Тотем»
+!
+plThunderbird Animated Avatar
 !
 ptThunderbird Animated Avatar
 !
 esThunderbird Animated Avatar
 #
 frAvatar animé Oiseau-tonnerre
+6
+uk0Анімований аватар «Тотем»
+H
+jaBアニメーション付きアバター「サンダーバード」
 <
 ru6Анимированный аватар «Тотем».webp
 �
@@ -23147,13 +23147,9 @@ H
 
 enSecret Element Avatar
 
-plSecret Element Avatar
-
 zhSecret Element Avatar
-0
-ja*アバター「秘密のエレメント」
-<
-uk6Аватар «Секретний компонент»
+
+plSecret Element Avatar
 
 ptSecret Element Avatar
 
@@ -23161,25 +23157,29 @@ H
 
 frAvatar Élément secret
 <
+uk6Аватар «Секретний компонент»
+0
+ja*アバター「秘密のエレメント」
+<
 ru6Аватар «Секретный компонент».webp
 �
 avatar_progressive_boss_wins_8�
 
 enFortium Source Avatar
 
-plFortium Source Avatar
-
 zhFortium Source Avatar
-$
-jaフォルティウムの原石
-6
-uk0Аватар «Джерело Фортіуму»
+
+plFortium Source Avatar
 
 ptFortium Source Avatar
 
 esFortium Source Avatar
 
 frAvatar Source de Fortium
+6
+uk0Аватар «Джерело Фортіуму»
+$
+jaフォルティウムの原石
 8
 ru2Аватар «Источник Фортиума».webp
 �
@@ -23187,19 +23187,19 @@ $
 
 enChanging Landscape Avatar
 
-plChanging Landscape Avatar
-
 zhChanging Landscape Avatar
--
-ja'アバター「変わりゆく風景」
-4
-uk.Аватар «Зміна ландшафту»
+
+plChanging Landscape Avatar
 
 ptChanging Landscape Avatar
 
 esChanging Landscape Avatar
 "
 frAvatar Changement de paysage
+4
+uk.Аватар «Зміна ландшафту»
+-
+ja'アバター「変わりゆく風景」
 6
 ru0Аватар «Смена обстановки».webp
 �
@@ -23207,19 +23207,19 @@ $
 
 enUnpacker Avatar
 
-plUnpacker Avatar
-
 zhUnpacker Avatar
-$
-jaアバター「開封の儀」
-/
-uk)Аватар «Розпаковувач»
+
+plUnpacker Avatar
 
 ptUnpacker Avatar
 
 esUnpacker Avatar
 
 frAvatar Déballeur
+/
+uk)Аватар «Розпаковувач»
+$
+jaアバター「開封の儀」
 +
 ru%Аватар «Распаковка».webp
 �
@@ -23227,19 +23227,19 @@ $
 
 enUnpacker Avatar
 
-plUnpacker Avatar
-
 zhUnpacker Avatar
-$
-jaアバター「開封の儀」
-/
-uk)Аватар «Розпаковувач»
+
+plUnpacker Avatar
 
 ptUnpacker Avatar
 
 esUnpacker Avatar
 
 frAvatar Déballeur
+/
+uk)Аватар «Розпаковувач»
+$
+jaアバター「開封の儀」
 +
 ru%Аватар «Распаковка».webp
 �
@@ -23247,19 +23247,19 @@ $
 
 enInevitable Gadgets Avatar
 
-plInevitable Gadgets Avatar
-
 zhInevitable Gadgets Avatar
-0
-ja*アバター「マスト・アイテム」
-8
-uk2Аватар «Неодмінні гаджети»
+
+plInevitable Gadgets Avatar
 
 ptInevitable Gadgets Avatar
 
 esInevitable Gadgets Avatar
 !
 frAvatar Gadgets inévitables
+8
+uk2Аватар «Неодмінні гаджети»
+0
+ja*アバター「マスト・アイテム」
 >
 ru8Аватар «Неотвратимые гаджеты».webp
 �
@@ -23267,13 +23267,9 @@ $
 
 enDreadnought Avatar
 
-plDreadnought Avatar
-
 zhDreadnought Avatar
-#
-jaアバター「Dreadnought」
-'
-uk!Аватар «Дредноут»
+
+plDreadnought Avatar
 
 ptDreadnought Avatar
 
@@ -23281,19 +23277,19 @@ $
 
 frAvatar du Dreadnought
 '
+uk!Аватар «Дредноут»
+#
+jaアバター「Dreadnought」
+'
 ru!Аватар «Дредноут».webp
 �
 !avatar_springseason_debutant_ruby�
 
 enDebutant Avatar
 
-plDebutant Avatar
-
 zhDebutant Avatar
-!
-jaアバター「初舞台」
-'
-uk!Аватар «Дебютант»
+
+plDebutant Avatar
 
 ptDebutant Avatar
 
@@ -23301,25 +23297,29 @@ $
 
 frAvatar du débutant
 '
+uk!Аватар «Дебютант»
+!
+jaアバター「初舞台」
+'
 ru!Аватар «Дебютант».webp
 �
 avatar_wg8march_legendary�
 "
 enStrikingly Delightful Avatar
 "
-plStrikingly Delightful Avatar
-"
 zhStrikingly Delightful Avatar
-'
-ja!アバター「大きな喜び」
-8
-uk2Аватар «Чарівна блискавка»
+"
+plStrikingly Delightful Avatar
 "
 ptStrikingly Delightful Avatar
 "
 esStrikingly Delightful Avatar
 &
 fr Avatar incroyablement délicieux
+8
+uk2Аватар «Чарівна блискавка»
+'
+ja!アバター「大きな喜び」
 @
 ru:Аватар «Очаровательная молния».png
 �
@@ -23327,19 +23327,19 @@ $
 
 enJokers Fan Avatar
 
-plJokers Fan Avatar
-
 zhJokers Fan Avatar
-(
-ja"アバター「Jokers ファン」
-6
-uk0Аватар «Вболівальник Jokers»
+
+plJokers Fan Avatar
 
 ptJokers Fan Avatar
 
 esJokers Fan Avatar
 $
 frAvatar du passionné de Jokers
+6
+uk0Аватар «Вболівальник Jokers»
+(
+ja"アバター「Jokers ファン」
 0
 ru*Аватар «Болельщик Jokers».webp
 �
@@ -23347,19 +23347,19 @@ $
 
 enSlice of Paradise Avatar
 
-plSlice of Paradise Avatar
-
 zhSlice of Paradise Avatar
-*
-ja$アバター「幸せの切れ端」
-2
-uk,Аватар «Ласий шматочок»
+
+plSlice of Paradise Avatar
 
 ptSlice of Paradise Avatar
 
 esSlice of Paradise Avatar
 
 frAvatar Part de paradis
+2
+uk,Аватар «Ласий шматочок»
+*
+ja$アバター「幸せの切れ端」
 4
 ru.Аватар «Лакомый кусочек».webp
 �
@@ -23367,19 +23367,19 @@ $
 
 enLantern Avatar
 
-plLantern Avatar
-
 zhLantern Avatar
-
-jaアバター「提灯」
-#
-ukАватар «Ліхтар»
+
+plLantern Avatar
 
 ptLantern Avatar
 
 esLantern Avatar
 
 frAvatar Lanterne
+#
+ukАватар «Ліхтар»
+
+jaアバター「提灯」
 %
 ruАватар «Фонарик».png
 �
@@ -23387,13 +23387,9 @@ $
 
 enNinja's Shuriken Avatar
 
-plNinja's Shuriken Avatar
-
 zhNinja's Shuriken Avatar
-!
-jaアバター「手裏剣」
-2
-uk,Аватар «Сюрикен ніндзя»
+
+plNinja's Shuriken Avatar
 
 ptNinja's Shuriken Avatar
 
@@ -23401,25 +23397,29 @@ $
 
 frAvatar shuriken du ninja
 2
+uk,Аватар «Сюрикен ніндзя»
+!
+jaアバター「手裏剣」
+2
 ru,Аватар «Сюрикен ниндзя».webp
 �
 avatar_progressive_2025_un_5�
 
 enUnpacker Avatar
 
-plUnpacker Avatar
-
 zhUnpacker Avatar
-$
-jaアバター「開封の儀」
-/
-uk)Аватар «Розпаковувач»
+
+plUnpacker Avatar
 
 ptUnpacker Avatar
 
 esUnpacker Avatar
 
 frAvatar Déballeur
+/
+uk)Аватар «Розпаковувач»
+$
+jaアバター「開封の儀」
 +
 ru%Аватар «Распаковка».webp
 �
@@ -23427,19 +23427,19 @@ $
 
 enDiamond Victor Avatar
 
-plDiamond Victor Avatar
-
 zhDiamond Victor Avatar
-3
-ja-アバター「ダイアモンドの勝者」
-B
-uk<Аватар «Діамантовий переможець»
+
+plDiamond Victor Avatar
 
 ptDiamond Victor Avatar
 
 esDiamond Victor Avatar
 !
 frAvatar Vainqueur de diamant
+B
+uk<Аватар «Діамантовий переможець»
+3
+ja-アバター「ダイアモンドの勝者」
 F
 ru@Аватар «Бриллиантовый победитель».webp
 �
@@ -23447,19 +23447,19 @@ F
 7
 en1Ready to demonstrate their superpowers in battle.
 7
-pl1Ready to demonstrate their superpowers in battle.
-7
 zh1Ready to demonstrate their superpowers in battle.
-?
-ja9戦闘でスーパーパワーを見せつけられる。
 7
-uk1Ready to demonstrate their superpowers in battle.
+pl1Ready to demonstrate their superpowers in battle.
 7
 pt1Ready to demonstrate their superpowers in battle.
 7
 es1Ready to demonstrate their superpowers in battle.
 A
 fr;Préparez-vous à montrer leurs super-pouvoirs en bataille.
+7
+uk1Ready to demonstrate their superpowers in battle.
+?
+ja9戦闘でスーパーパワーを見せつけられる。
 H
 ruBГотов показать свою суперсилу в бою..png
 �
@@ -23467,19 +23467,19 @@ H
 
 enKingpin Avatar
 
-plKingpin Avatar
-
 zhKingpin Avatar
-
-jaアバター「Kingpin」
-
-ukАватар Kingpin
+
+plKingpin Avatar
 
 ptKingpin Avatar
 
 esKingpin Avatar
 
 frAvatar Kingpin
+
+ukАватар Kingpin
+
+jaアバター「Kingpin」
 
 ruАватар Kingpin.webp
 �
@@ -23487,19 +23487,19 @@ H
 
 enColliding Comet Avatar
 
-plColliding Comet Avatar
-
 zhColliding Comet Avatar
-*
-ja$アバター「衝突する彗星」
-C
-uk=Аватар «Траєкторія на зіткнення»
+
+plColliding Comet Avatar
 
 ptColliding Comet Avatar
 
 esColliding Comet Avatar
 !
 frAvatar Collision de comète
+C
+uk=Аватар «Траєкторія на зіткнення»
+*
+ja$アバター「衝突する彗星」
 4
 ru.Аватар «Огненная комета».webp
 �
@@ -23507,19 +23507,19 @@ C
 
 enColliding Comet Avatar
 
-plColliding Comet Avatar
-
 zhColliding Comet Avatar
-*
-ja$アバター「衝突する彗星」
-C
-uk=Аватар «Траєкторія на зіткнення»
+
+plColliding Comet Avatar
 
 ptColliding Comet Avatar
 
 esColliding Comet Avatar
 !
 frAvatar Collision de comète
+C
+uk=Аватар «Траєкторія на зіткнення»
+*
+ja$アバター「衝突する彗星」
 4
 ru.Аватар «Огненная комета».webp
 �
@@ -23527,19 +23527,19 @@ C
 
 enGold League Avatar
 
-plGold League Avatar
-
 zhGold League Avatar
--
-ja'アバター「ゴールドリーグ」
-,
-uk&Аватар «Золота Ліга»
+
+plGold League Avatar
 
 ptGold League Avatar
 
 esGold League Avatar
 
 frAvatar de la Ligue Or
+,
+uk&Аватар «Золота Ліга»
+-
+ja'アバター「ゴールドリーグ」
 .
 ru(Аватар «Золотая Лига».png
 �
@@ -23547,13 +23547,9 @@ C
 
 enKingpin Avatar
 
-plKingpin Avatar
-
 zhKingpin Avatar
-
-jaアバター「Kingpin」
-
-ukАватар Kingpin
+
+plKingpin Avatar
 
 ptKingpin Avatar
 
@@ -23561,25 +23557,29 @@ C
 
 frAvatar Kingpin
 
+ukАватар Kingpin
+
+jaアバター「Kingpin」
+
 ruАватар Kingpin.webp
 �
 avatar_progressive_bp_69_paid_1�
 
 enColliding Comet Avatar
 
-plColliding Comet Avatar
-
 zhColliding Comet Avatar
-*
-ja$アバター「衝突する彗星」
-C
-uk=Аватар «Траєкторія на зіткнення»
+
+plColliding Comet Avatar
 
 ptColliding Comet Avatar
 
 esColliding Comet Avatar
 !
 frAvatar Collision de comète
+C
+uk=Аватар «Траєкторія на зіткнення»
+*
+ja$アバター「衝突する彗星」
 4
 ru.Аватар «Огненная комета».webp
 �
@@ -23587,19 +23587,19 @@ C
 
 enForest Foragers Avatar
 
-plForest Foragers Avatar
-
 zhForest Foragers Avatar
-'
-ja!アバター「森の採集者」
-:
-uk4Аватар «Лісові збиральники»
+
+plForest Foragers Avatar
 
 ptForest Foragers Avatar
 
 esForest Foragers Avatar
 "
 frAvatar Ramasseurs forestiers
+:
+uk4Аватар «Лісові збиральники»
+'
+ja!アバター「森の採集者」
 (
 ru"Аватар «Дары леса».webp
 �
@@ -23607,19 +23607,19 @@ C
 
 enPlatinum Victor Avatar
 
-plPlatinum Victor Avatar
-
 zhPlatinum Victor Avatar
--
-ja'アバター「プラチナの勝者」
-@
-uk:Аватар «Платиновий переможець»
+
+plPlatinum Victor Avatar
 
 ptPlatinum Victor Avatar
 
 esPlatinum Victor Avatar
 !
 frAvatar Vainqueur de platine
+@
+uk:Аватар «Платиновий переможець»
+-
+ja'アバター「プラチナの勝者」
 @
 ru:Аватар «Платиновый победитель».webp
 �
@@ -23628,15 +23628,11 @@ C
 en
 HLV Avatar
 
-pl
-HLV Avatar
-
 zh
 HLV Avatar
-
-jaアバター「HLV」
-
-ukАватар HLV
+
+pl
+HLV Avatar
 
 pt
 HLV Avatar
@@ -23646,25 +23642,29 @@ HLV Avatar
 
 frAvatar de HLV
 
+ukАватар HLV
+
+jaアバター「HLV」
+
 ruАватар HLV.png
 �
 (avatar_progressive_rb_platinum_eu_wins_8�
 
 enPlatinum Victor Avatar
 
-plPlatinum Victor Avatar
-
 zhPlatinum Victor Avatar
--
-ja'アバター「プラチナの勝者」
-@
-uk:Аватар «Платиновий переможець»
+
+plPlatinum Victor Avatar
 
 ptPlatinum Victor Avatar
 
 esPlatinum Victor Avatar
 !
 frAvatar Vainqueur de platine
+@
+uk:Аватар «Платиновий переможець»
+-
+ja'アバター「プラチナの勝者」
 @
 ru:Аватар «Платиновый победитель».webp
 �
@@ -23672,19 +23672,19 @@ HLV Avatar
 
 enBreach Avatar
 
-plBreach Avatar
-
 zhBreach Avatar
-!
-jaアバター「突破口」
-)
-uk#Аватар «Пробивний»
+
+plBreach Avatar
 
 ptBreach Avatar
 
 esBreach Avatar
 
 frAvatar de brèche
+)
+uk#Аватар «Пробивний»
+!
+jaアバター「突破口」
 )
 ru#Аватар «Пробивной».png
 �
@@ -23692,19 +23692,19 @@ $avatar_progressive_tournament_wins_6�
 
 enCompetitive Spirit Avatar
 
-plCompetitive Spirit Avatar
-
 zhCompetitive Spirit Avatar
-0
-ja*アバター「トーナメント精神」
-.
-uk(Аватар «Дух змагання»
+
+plCompetitive Spirit Avatar
 
 ptCompetitive Spirit Avatar
 
 esCompetitive Spirit Avatar
 (
 fr"Avatar de l'Esprit de compétition
+.
+uk(Аватар «Дух змагання»
+0
+ja*アバター「トーナメント精神」
 6
 ru0Аватар «Дух соревнования».webp
 �
@@ -23712,19 +23712,19 @@ $avatar_progressive_tournament_wins_6�
 
 enPlatinum Victor Avatar
 
-plPlatinum Victor Avatar
-
 zhPlatinum Victor Avatar
--
-ja'アバター「プラチナの勝者」
-@
-uk:Аватар «Платиновий переможець»
+
+plPlatinum Victor Avatar
 
 ptPlatinum Victor Avatar
 
 esPlatinum Victor Avatar
 !
 frAvatar Vainqueur de platine
+@
+uk:Аватар «Платиновий переможець»
+-
+ja'アバター「プラチナの勝者」
 @
 ru:Аватар «Платиновый победитель».webp
 �
@@ -23732,13 +23732,9 @@ $avatar_progressive_tournament_wins_6�
 
 enSteel Hot Avatar
 
-plSteel Hot Avatar
-
 zhSteel Hot Avatar
-'
-ja!アバター「冷めない熱」
-/
-uk)Аватар «Все ще вогонь»
+
+plSteel Hot Avatar
 
 ptSteel Hot Avatar
 
@@ -23746,19 +23742,19 @@ $avatar_progressive_tournament_wins_6�
  
 frAvatar Toujours aussi bien
 /
+uk)Аватар «Все ще вогонь»
+'
+ja!アバター「冷めない熱」
+/
 ru)Аватар «Всё ещё огонь».png
 �
 "avatar_PreSeasonQuest_S4_unique_cn�
 
 enSeason 4 Avatar
 
-plSeason 4 Avatar
-
 zhSeason 4 Avatar
-&
-ja アバター「シーズン 4」
-#
-ukАватар «Сезон 4»
+
+plSeason 4 Avatar
 
 ptSeason 4 Avatar
 
@@ -23766,25 +23762,29 @@ $avatar_progressive_tournament_wins_6�
 
 frAvatar Saison 4
 #
+ukАватар «Сезон 4»
+&
+ja アバター「シーズン 4」
+#
 ruАватар «Сезон 4».webp
 �
 (avatar_progressive_rb_platinum_eu_wins_6�
 
 enPlatinum Victor Avatar
 
-plPlatinum Victor Avatar
-
 zhPlatinum Victor Avatar
--
-ja'アバター「プラチナの勝者」
-@
-uk:Аватар «Платиновий переможець»
+
+plPlatinum Victor Avatar
 
 ptPlatinum Victor Avatar
 
 esPlatinum Victor Avatar
 !
 frAvatar Vainqueur de platine
+@
+uk:Аватар «Платиновий переможець»
+-
+ja'アバター「プラチナの勝者」
 @
 ru:Аватар «Платиновый победитель».webp
 �
@@ -23792,13 +23792,9 @@ $avatar_progressive_tournament_wins_6�
 
 enPlatinum Victor Avatar
 
-plPlatinum Victor Avatar
-
 zhPlatinum Victor Avatar
--
-ja'アバター「プラチナの勝者」
-@
-uk:Аватар «Платиновий переможець»
+
+plPlatinum Victor Avatar
 
 ptPlatinum Victor Avatar
 
@@ -23806,25 +23802,29 @@ $avatar_progressive_tournament_wins_6�
 !
 frAvatar Vainqueur de platine
 @
+uk:Аватар «Платиновий переможець»
+-
+ja'アバター「プラチナの勝者」
+@
 ru:Аватар «Платиновый победитель».webp
 �
 !avatar_progressive_high_caliber_2�
 
 enBreach Avatar
 
-plBreach Avatar
-
 zhBreach Avatar
-!
-jaアバター「突破口」
-)
-uk#Аватар «Пробивний»
+
+plBreach Avatar
 
 ptBreach Avatar
 
 esBreach Avatar
 
 frAvatar de brèche
+)
+uk#Аватар «Пробивний»
+!
+jaアバター「突破口」
 )
 ru#Аватар «Пробивной».png
 �
@@ -23832,19 +23832,19 @@ $avatar_progressive_tournament_wins_6�
 
 enZurawik Avatar
 
-plZurawik Avatar
-
 zhZurawik Avatar
-
-jaアバター「Zurawik」
-
-ukАватар Zurawik
+
+plZurawik Avatar
 
 ptZurawik Avatar
 
 esZurawik Avatar
 
 frAvatar Zurawik
+
+ukАватар Zurawik
+
+jaアバター「Zurawik」
 
 ruАватар Zurawik.webp
 �
@@ -23852,13 +23852,9 @@ $avatar_progressive_bp_39_ruby_free_2�
 >
 en8storage/Items/avatar_progressive_bp_39_ruby_free_2/Title
 >
-pl8storage/Items/avatar_progressive_bp_39_ruby_free_2/Title
->
 zh8storage/Items/avatar_progressive_bp_39_ruby_free_2/Title
 >
-ja8storage/Items/avatar_progressive_bp_39_ruby_free_2/Title
->
-uk8storage/Items/avatar_progressive_bp_39_ruby_free_2/Title
+pl8storage/Items/avatar_progressive_bp_39_ruby_free_2/Title
 >
 pt8storage/Items/avatar_progressive_bp_39_ruby_free_2/Title
 >
@@ -23866,25 +23862,29 @@ $avatar_progressive_bp_39_ruby_free_2�
 >
 fr8storage/Items/avatar_progressive_bp_39_ruby_free_2/Title
 >
+uk8storage/Items/avatar_progressive_bp_39_ruby_free_2/Title
+>
+ja8storage/Items/avatar_progressive_bp_39_ruby_free_2/Title
+>
 ru8storage/Items/avatar_progressive_bp_39_ruby_free_2/Title.webp
 �
 avatar_progressive_bp_62_paid_3�
 
 enZurawik Avatar
 
-plZurawik Avatar
-
 zhZurawik Avatar
-
-jaアバター「Zurawik」
-
-ukАватар Zurawik
+
+plZurawik Avatar
 
 ptZurawik Avatar
 
 esZurawik Avatar
 
 frAvatar Zurawik
+
+ukАватар Zurawik
+
+jaアバター「Zurawik」
 
 ruАватар Zurawik.webp
 �
@@ -23892,19 +23892,19 @@ $avatar_progressive_tournament_wins_4�
 
 enCompetitive Spirit Avatar
 
-plCompetitive Spirit Avatar
-
 zhCompetitive Spirit Avatar
-0
-ja*アバター「トーナメント精神」
-.
-uk(Аватар «Дух змагання»
+
+plCompetitive Spirit Avatar
 
 ptCompetitive Spirit Avatar
 
 esCompetitive Spirit Avatar
 (
 fr"Avatar de l'Esprit de compétition
+.
+uk(Аватар «Дух змагання»
+0
+ja*アバター「トーナメント精神」
 6
 ru0Аватар «Дух соревнования».webp
 �
@@ -23912,19 +23912,19 @@ $avatar_progressive_tournament_wins_4�
 
 enZurawik Avatar
 
-plZurawik Avatar
-
 zhZurawik Avatar
-
-jaアバター「Zurawik」
-
-ukАватар Zurawik
+
+plZurawik Avatar
 
 ptZurawik Avatar
 
 esZurawik Avatar
 
 frAvatar Zurawik
+
+ukАватар Zurawik
+
+jaアバター「Zurawik」
 
 ruАватар Zurawik.webp
 �
@@ -23932,19 +23932,19 @@ $avatar_progressive_tournament_wins_4�
 
 enCity is Ours! Avatar
 
-plCity is Ours! Avatar
-
 zhCity is Ours! Avatar
-$
-jaアバター「City's Ours!」
-+
-uk%Аватар «Місто наше!»
+
+plCity is Ours! Avatar
 
 ptCity is Ours! Avatar
 
 esCity is Ours! Avatar
 $
 frAvatar La ville est à nous !
++
+uk%Аватар «Місто наше!»
+$
+jaアバター「City's Ours!」
 )
 ru#Аватар «Город наш!».webp
 �
@@ -23952,13 +23952,9 @@ $
 
 enZurawik Avatar
 
-plZurawik Avatar
-
 zhZurawik Avatar
-
-jaアバター「Zurawik」
-
-ukАватар Zurawik
+
+plZurawik Avatar
 
 ptZurawik Avatar
 
@@ -23966,25 +23962,29 @@ $
 
 frAvatar Zurawik
 
+ukАватар Zurawik
+
+jaアバター「Zurawik」
+
 ruАватар Zurawik.webp
 �
 !avatar_progressive_high_caliber_1�
 
 enBreach Avatar
 
-plBreach Avatar
-
 zhBreach Avatar
-!
-jaアバター「突破口」
-)
-uk#Аватар «Пробивний»
+
+plBreach Avatar
 
 ptBreach Avatar
 
 esBreach Avatar
 
 frAvatar de brèche
+)
+uk#Аватар «Пробивний»
+!
+jaアバター「突破口」
 )
 ru#Аватар «Пробивной».png
 �
@@ -23992,19 +23992,19 @@ $
 %
 enWolf in Sheep's Clothing Avatar
 %
-plWolf in Sheep's Clothing Avatar
-%
 zhWolf in Sheep's Clothing Avatar
-0
-ja*アバター「羊の皮を被った狼」
-:
-uk4Аватар «Вовк в овечій шкурі»
+%
+plWolf in Sheep's Clothing Avatar
 %
 ptWolf in Sheep's Clothing Avatar
 %
 esWolf in Sheep's Clothing Avatar
 %
 frAvatar Loup déguisé en agneau
+:
+uk4Аватар «Вовк в овечій шкурі»
+0
+ja*アバター「羊の皮を被った狼」
 <
 ru6Аватар «Волк в овечьей шкуре».webp
 �
@@ -24012,13 +24012,9 @@ $
 
 en"Rookie" Avatar
 
-pl"Rookie" Avatar
-
 zh"Rookie" Avatar
-
-jaアバター「新人」
-7
-uk1Аватар «Той самий союзник»
+
+pl"Rookie" Avatar
 
 pt"Rookie" Avatar
 
@@ -24026,19 +24022,19 @@ $
 
 frAvatar « Bleusaille »
 7
+uk1Аватар «Той самий союзник»
+
+jaアバター「新人」
+7
 ru1Аватар «Тот самый союзник».png
 �
 avatar_luck_legendary�
 
 enCharm of Fortune Avatar
 
-plCharm of Fortune Avatar
-
 zhCharm of Fortune Avatar
-$
-jaアバター「富の魅力」
-%
-ukАватар «Фортуна»
+
+plCharm of Fortune Avatar
 
 ptCharm of Fortune Avatar
 
@@ -24046,25 +24042,29 @@ $
 &
 fr Avatar du Talisman de la fortune
 %
+ukАватар «Фортуна»
+$
+jaアバター「富の魅力」
+%
 ruАватар «Фортуна».png
 �
 avatar_2024_dec_funq�
 
 enMirror mau5 Avatar
 
-plMirror mau5 Avatar
-
 zhMirror mau5 Avatar
-#
-jaアバター「Mirror mau5」
-&
-uk Аватар «Диско-mau5»
+
+plMirror mau5 Avatar
 
 ptMirror mau5 Avatar
 
 esMirror mau5 Avatar
 
 frAvatar disco de mau5
+&
+uk Аватар «Диско-mau5»
+#
+jaアバター「Mirror mau5」
 
 ruАватар Mirror mau5.webp
 �
@@ -24072,13 +24072,9 @@ $
 
 enNoNames Avatar
 
-plNoNames Avatar
-
 zhNoNames Avatar
-
-jaアバター「NoNames」
-
-ukАватар NoNames
+
+plNoNames Avatar
 
 ptNoNames Avatar
 
@@ -24086,25 +24082,29 @@ $
 
 frAvatar de NoNames
 
+ukАватар NoNames
+
+jaアバター「NoNames」
+
 ruАватар NoNames.webp
 �
 !avatar_progressive_high_caliber_7�
 
 enBreach Avatar
 
-plBreach Avatar
-
 zhBreach Avatar
-!
-jaアバター「突破口」
-)
-uk#Аватар «Пробивний»
+
+plBreach Avatar
 
 ptBreach Avatar
 
 esBreach Avatar
 
 frAvatar de brèche
+)
+uk#Аватар «Пробивний»
+!
+jaアバター「突破口」
 )
 ru#Аватар «Пробивной».png
 �
@@ -24112,19 +24112,19 @@ $
 
 enMaximum Overload Avatar
 
-plMaximum Overload Avatar
-
 zhMaximum Overload Avatar
-?
-ja9アバター「マキシマム・オーバーロード」
-C
-uk=Аватар «Максимально заряджений!»
+
+plMaximum Overload Avatar
 
 ptMaximum Overload Avatar
 
 esMaximum Overload Avatar
  
 frAvatar Surcharge maximale
+C
+uk=Аватар «Максимально заряджений!»
+?
+ja9アバター「マキシマム・オーバーロード」
 =
 ru7Аватар «Максимально заряжен!».webp
 �
@@ -24132,19 +24132,19 @@ C
 
 enMaximum Overload Avatar
 
-plMaximum Overload Avatar
-
 zhMaximum Overload Avatar
-?
-ja9アバター「マキシマム・オーバーロード」
-C
-uk=Аватар «Максимально заряджений!»
+
+plMaximum Overload Avatar
 
 ptMaximum Overload Avatar
 
 esMaximum Overload Avatar
  
 frAvatar Surcharge maximale
+C
+uk=Аватар «Максимально заряджений!»
+?
+ja9アバター「マキシマム・オーバーロード」
 =
 ru7Аватар «Максимально заряжен!».webp
 �
@@ -24152,13 +24152,9 @@ C
  
 enEvolution of Energy Avatar
  
-plEvolution of Energy Avatar
- 
 zhEvolution of Energy Avatar
-9
-ja3アバター「進化を遂げるエネルギー」
-6
-uk0Аватар «Еволюція енергії»
+ 
+plEvolution of Energy Avatar
  
 ptEvolution of Energy Avatar
  
@@ -24166,19 +24162,19 @@ C
 %
 frAvatar Évolution de l'énergie
 6
+uk0Аватар «Еволюція енергії»
+9
+ja3アバター「進化を遂げるエネルギー」
+6
 ru0Аватар «Эволюция энергии».webp
 �
 avatar_C4_2020_rare_30d�
 
 en	C4 Avatar
 
-pl	C4 Avatar
-
 zh	C4 Avatar
-
-jaアバター「C4」
-
-ukАватар C4
+
+pl	C4 Avatar
 
 pt	C4 Avatar
 
@@ -24186,19 +24182,19 @@ C
 
 frAvatar de C4
 
+ukАватар C4
+
+jaアバター「C4」
+
 ruАватар C4.png
 �
 avatar_rbyt22_EUBear_legendary�
 
 en#RBYT22 Winner
 
-pl#RBYT22 Winner
-
 zh#RBYT22 Winner
 
-ja#RBYT22 Winner
-"
-ukПереможець #RBYT22
+pl#RBYT22 Winner
 
 pt#RBYT22 Winner
 
@@ -24206,25 +24202,29 @@ C
 
 frVainqueur du #RBYT22
 "
+ukПереможець #RBYT22
+
+ja#RBYT22 Winner
+"
 ruПобедитель #RBYT22.webp
 �
 !avatar_progressive_high_caliber_5�
 
 enBreach Avatar
 
-plBreach Avatar
-
 zhBreach Avatar
-!
-jaアバター「突破口」
-)
-uk#Аватар «Пробивний»
+
+plBreach Avatar
 
 ptBreach Avatar
 
 esBreach Avatar
 
 frAvatar de brèche
+)
+uk#Аватар «Пробивний»
+!
+jaアバター「突破口」
 )
 ru#Аватар «Пробивной».png
 �
@@ -24232,13 +24232,9 @@ C
 
 enАватар D030P
 
-plАватар D030P
-
 zhАватар D030P
 
-jaАватар D030P
-
-ukАватар D030P
+plАватар D030P
 
 ptАватар D030P
 
@@ -24246,25 +24242,29 @@ C
 
 frАватар D030P
 
+ukАватар D030P
+
+jaАватар D030P
+
 ruАватар D030P.webp
 �
 !avatar_progressive_high_caliber_4�
 
 enBreach Avatar
 
-plBreach Avatar
-
 zhBreach Avatar
-!
-jaアバター「突破口」
-)
-uk#Аватар «Пробивний»
+
+plBreach Avatar
 
 ptBreach Avatar
 
 esBreach Avatar
 
 frAvatar de brèche
+)
+uk#Аватар «Пробивний»
+!
+jaアバター「突破口」
 )
 ru#Аватар «Пробивной».png
 �
@@ -24272,19 +24272,19 @@ C
 
 enCaesar Avatar
 
-plCaesar Avatar
-
 zhCaesar Avatar
-$
-jaアバター「カエサル」
-!
-ukАватар «Цезар»
+
+plCaesar Avatar
 
 ptCaesar Avatar
 
 esCaesar Avatar
 
 frAvatar de César
+!
+ukАватар «Цезар»
+$
+jaアバター「カエサル」
 #
 ruАватар «Цезарь».png
 �
@@ -24292,13 +24292,9 @@ $
 
 enFaithful Dog Avatar
 
-plFaithful Dog Avatar
-
 zhFaithful Dog Avatar
-*
-ja$アバター「忠義のワンコ」
-*
-uk$Аватар «Вірний пес»
+
+plFaithful Dog Avatar
 
 ptFaithful Dog Avatar
 
@@ -24306,25 +24302,29 @@ $
 
 frAvatar Chien loyal
 *
+uk$Аватар «Вірний пес»
+*
+ja$アバター「忠義のワンコ」
+*
 ru$Аватар «Верный пёс».webp
 �
 avatar_strawberry_common_72h�
 
 enBerry Crush Avatar
 
-plBerry Crush Avatar
-
 zhBerry Crush Avatar
-0
-ja*アバター「ベリークラッシュ」
-0
-uk*Аватар «Ягідний вибух»
+
+plBerry Crush Avatar
 
 ptBerry Crush Avatar
 
 esBerry Crush Avatar
 #
 frAvatar de la fraise écrasée
+0
+uk*Аватар «Ягідний вибух»
+0
+ja*アバター「ベリークラッシュ」
 0
 ru*Аватар «Ягодный взрыв».png
 �
@@ -24332,19 +24332,19 @@ $
 
 enNeon Lynx Avatar
 
-plNeon Lynx Avatar
-
 zhNeon Lynx Avatar
--
-ja'アバター「ネオンヤマネコ」
-.
-uk(Аватар «Неонова рись»
+
+plNeon Lynx Avatar
 
 ptNeon Lynx Avatar
 
 esNeon Lynx Avatar
 
 frAvatar Neon Lynx
+.
+uk(Аватар «Неонова рись»
+-
+ja'アバター「ネオンヤマネコ」
 0
 ru*Аватар «Неоновая рысь».webp
 �
@@ -24352,19 +24352,19 @@ $
 
 enBreach Avatar
 
-plBreach Avatar
-
 zhBreach Avatar
-!
-jaアバター「突破口」
-)
-uk#Аватар «Пробивний»
+
+plBreach Avatar
 
 ptBreach Avatar
 
 esBreach Avatar
 
 frAvatar de brèche
+)
+uk#Аватар «Пробивний»
+!
+jaアバター「突破口」
 )
 ru#Аватар «Пробивной».png
 �
@@ -24372,13 +24372,9 @@ $
 
 en7STAR Avatar
 
-pl7STAR Avatar
-
 zh7STAR Avatar
-
-jaアバター「7STAR」
-
-ukАватар 7STAR
+
+pl7STAR Avatar
 
 pt7STAR Avatar
 
@@ -24386,25 +24382,29 @@ $
 
 frAvatar de 7STAR
 
+ukАватар 7STAR
+
+jaアバター「7STAR」
+
 ruАватар 7STAR.png
 �
 avatar_BlitzXCup24_EU_HAHA_temp�
 
 enGoblins Fan Avatar
 
-plGoblins Fan Avatar
-
 zhGoblins Fan Avatar
-)
-ja#アバター「Goblins ファン」
-7
-uk1Аватар «Вболівальник Goblins»
+
+plGoblins Fan Avatar
 
 ptGoblins Fan Avatar
 
 esGoblins Fan Avatar
 %
 frAvatar du passionné de Goblins
+7
+uk1Аватар «Вболівальник Goblins»
+)
+ja#アバター「Goblins ファン」
 1
 ru+Аватар «Болельщик Goblins».webp
 �
@@ -24412,13 +24412,9 @@ $
 
 enBreach Avatar
 
-plBreach Avatar
-
 zhBreach Avatar
-!
-jaアバター「突破口」
-)
-uk#Аватар «Пробивний»
+
+plBreach Avatar
 
 ptBreach Avatar
 
@@ -24426,19 +24422,19 @@ $
 
 frAvatar de brèche
 )
+uk#Аватар «Пробивний»
+!
+jaアバター「突破口」
+)
 ru#Аватар «Пробивной».png
 �
 avatar_bp_25_bundle�
 
 enVandal Avatar
 
-plVandal Avatar
-
 zhVandal Avatar
-
-jaアバター「Vandal」
-
-ukАватар Vandal
+
+plVandal Avatar
 
 ptVandal Avatar
 
@@ -24446,25 +24442,29 @@ $
 
 frAvatar Vandal
 
+ukАватар Vandal
+
+jaアバター「Vandal」
+
 ruАватар Vandal.webp
 �
 avatar_watch_anim�
 &
 en "Time is money!" Animated Avatar
 &
-pl "Time is money!" Animated Avatar
-&
 zh "Time is money!" Animated Avatar
-G
-jaAアニメーション付きアバター「タイム=マネー!」
-H
-ukBАнімований аватар «Час — це гроші!»
+&
+pl "Time is money!" Animated Avatar
 &
 pt "Time is money!" Animated Avatar
 &
 es "Time is money!" Animated Avatar
 :
 fr4Avatar animé « Le temps, c'est de l'argent ! »
+H
+ukBАнімований аватар «Час — це гроші!»
+G
+jaAアニメーション付きアバター「タイム=マネー!」
 N
 ruHАнимированный аватар «Время — деньги!».webp
 �
@@ -24472,13 +24472,9 @@ N
 
 enSnatch Avatar
 
-plSnatch Avatar
-
 zhSnatch Avatar
-$
-jaアバター「スナッチ」
-,
-uk&Аватар «Великий куш»
+
+plSnatch Avatar
 
 ptSnatch Avatar
 
@@ -24486,25 +24482,29 @@ $
 $
 frAvatar Tu braques ou tu raques
 ,
+uk&Аватар «Великий куш»
+$
+jaアバター「スナッチ」
+,
 ru&Аватар «Большой куш».webp
 �
 %avatar_christmas_ball_ver2_common_72h�
 !
 enChristmas Decoration Avatar
 !
-plChristmas Decoration Avatar
-!
 zhChristmas Decoration Avatar
--
-ja'アバター「クリスマス装飾」
-8
-uk2Аватар «Святкова прикраса»
+!
+plChristmas Decoration Avatar
 !
 ptChristmas Decoration Avatar
 !
 esChristmas Decoration Avatar
 $
 frAvatar de décoration de Noël
+8
+uk2Аватар «Святкова прикраса»
+-
+ja'アバター「クリスマス装飾」
 @
 ru:Аватар «Праздничное украшение».png
 �
@@ -24512,19 +24512,19 @@ $
 
 enSignal Tap Avatar
 
-plSignal Tap Avatar
-
 zhSignal Tap Avatar
-0
-ja*アバター「シグナル・タップ」
->
-uk8Аватар «Відстеження сигналів»
+
+plSignal Tap Avatar
 
 ptSignal Tap Avatar
 
 esSignal Tap Avatar
 
 frAvatar Prise de signal
+>
+uk8Аватар «Відстеження сигналів»
+0
+ja*アバター「シグナル・タップ」
 2
 ru,Аватар «Радар-детектор».webp
 �
@@ -24532,13 +24532,9 @@ $
 
 enB.U.G.I. Woman Avatar
 
-plB.U.G.I. Woman Avatar
-
 zhB.U.G.I. Woman Avatar
-&
-ja アバター「B.U.G.I. Woman」
-!
-ukАватар B.U.G.I. Woman
+
+plB.U.G.I. Woman Avatar
 
 ptB.U.G.I. Woman Avatar
 
@@ -24546,25 +24542,29 @@ $
 
 frAvatar B.U.G.I. Woman
 !
+ukАватар B.U.G.I. Woman
+&
+ja アバター「B.U.G.I. Woman」
+!
 ruАватар B.U.G.I. Woman.webp
 �
 avatar_progressive_bp_67_free_4�
  
 enBeauty of Tradition Avatar
  
-plBeauty of Tradition Avatar
- 
 zhBeauty of Tradition Avatar
-$
-jaアバター「伝統の美」
-2
-uk,Аватар «Краса традицій»
+ 
+plBeauty of Tradition Avatar
  
 ptBeauty of Tradition Avatar
  
 esBeauty of Tradition Avatar
 $
 frAvatar Beauté de la tradition
+2
+uk,Аватар «Краса традицій»
+$
+jaアバター「伝統の美」
 6
 ru0Аватар «Красота традиций».webp
 �
@@ -24572,19 +24572,19 @@ $
 
 enBombastic Flame Avatar
 
-plBombastic Flame Avatar
-
 zhBombastic Flame Avatar
-$
-jaアバター「絢爛な炎」
-6
-uk0Аватар «Помпезний вогонь»
+
+plBombastic Flame Avatar
 
 ptBombastic Flame Avatar
 
 esBombastic Flame Avatar
 
 frAvatar Flamme explosive
+6
+uk0Аватар «Помпезний вогонь»
+$
+jaアバター「絢爛な炎」
 /
 ru)Аватар «Просто пушка!».webp
 �
@@ -24592,19 +24592,19 @@ $
 
 enVenomous Hunter Avatar
 
-plVenomous Hunter Avatar
-
 zhVenomous Hunter Avatar
--
-ja'アバター「有毒なハンター」
-:
-uk4Аватар «Отруйний мисливець»
+
+plVenomous Hunter Avatar
 
 ptVenomous Hunter Avatar
 
 esVenomous Hunter Avatar
 !
 frAvatar du chasseur venimeux
+:
+uk4Аватар «Отруйний мисливець»
+-
+ja'アバター「有毒なハンター」
 6
 ru0Аватар «Ядовитый охотник».png
 �
@@ -24612,19 +24612,19 @@ $
 
 enBunnysher Animated Avatar
 
-plBunnysher Animated Avatar
-
 zhBunnysher Animated Avatar
-Q
-jaKアニメーション付きアバター「残忍なバニーッシャー」
-F
-uk@Анімований аватар «Кроліквідатор»
+
+plBunnysher Animated Avatar
 
 ptBunnysher Animated Avatar
 
 esBunnysher Animated Avatar
 
 frAvatar animé Bunnysher
+F
+uk@Анімований аватар «Кроліквідатор»
+Q
+jaKアニメーション付きアバター「残忍なバニーッシャー」
 L
 ruFАнимированный аватар «Кроликвидатор».webp
 �
@@ -24632,19 +24632,19 @@ L
 #
 enKureiji Ollie Animated Avatar
 #
-plKureiji Ollie Animated Avatar
-#
 zhKureiji Ollie Animated Avatar
-N
-jaHアニメーション付きアバター「クレイジー・オリー」
-5
-uk/Анімований аватар Kureiji Ollie
+#
+plKureiji Ollie Animated Avatar
 #
 ptKureiji Ollie Animated Avatar
 #
 esKureiji Ollie Animated Avatar
 !
 frAvatar animé Kureiji Ollie
+5
+uk/Анімований аватар Kureiji Ollie
+N
+jaHアニメーション付きアバター「クレイジー・オリー」
 ;
 ru5Анимированный аватар Kureiji Ollie.webp
 �
@@ -24652,13 +24652,9 @@ N
 
 enBrave of Heart Avatar
 
-plBrave of Heart Avatar
-
 zhBrave of Heart Avatar
-$
-jaアバター「勇敢な心」
-4
-uk.Аватар «Хоробрий серцем»
+
+plBrave of Heart Avatar
 
 ptBrave of Heart Avatar
 
@@ -24666,25 +24662,29 @@ $
 
 frAvatar du cœur courageux
 4
+uk.Аватар «Хоробрий серцем»
+$
+jaアバター「勇敢な心」
+4
 ru.Аватар «Храбрый сердцем».png
 �
 avatar_progressive_bp_67_paid_4�
 
 enBombastic Flame Avatar
 
-plBombastic Flame Avatar
-
 zhBombastic Flame Avatar
-$
-jaアバター「絢爛な炎」
-6
-uk0Аватар «Помпезний вогонь»
+
+plBombastic Flame Avatar
 
 ptBombastic Flame Avatar
 
 esBombastic Flame Avatar
 
 frAvatar Flamme explosive
+6
+uk0Аватар «Помпезний вогонь»
+$
+jaアバター「絢爛な炎」
 /
 ru)Аватар «Просто пушка!».webp
 �
@@ -24692,19 +24692,19 @@ $
 
 enBombastic Flame Avatar
 
-plBombastic Flame Avatar
-
 zhBombastic Flame Avatar
-$
-jaアバター「絢爛な炎」
-6
-uk0Аватар «Помпезний вогонь»
+
+plBombastic Flame Avatar
 
 ptBombastic Flame Avatar
 
 esBombastic Flame Avatar
 
 frAvatar Flamme explosive
+6
+uk0Аватар «Помпезний вогонь»
+$
+jaアバター「絢爛な炎」
 /
 ru)Аватар «Просто пушка!».webp
 �
@@ -24712,13 +24712,9 @@ $
 
 enNaomi Avatar
 
-plNaomi Avatar
-
 zhNaomi Avatar
-!
-jaアバター「ナオミ」
-
-ukАватар Naomi
+
+plNaomi Avatar
 
 ptNaomi Avatar
 
@@ -24726,25 +24722,29 @@ $
 
 frAvatar de Naomi
 
+ukАватар Naomi
+!
+jaアバター「ナオミ」
+
 ruАватар Naomi.png
 �
 avatar_progressive_bp_67_paid_1�
 
 enBombastic Flame Avatar
 
-plBombastic Flame Avatar
-
 zhBombastic Flame Avatar
-$
-jaアバター「絢爛な炎」
-6
-uk0Аватар «Помпезний вогонь»
+
+plBombastic Flame Avatar
 
 ptBombastic Flame Avatar
 
 esBombastic Flame Avatar
 
 frAvatar Flamme explosive
+6
+uk0Аватар «Помпезний вогонь»
+$
+jaアバター「絢爛な炎」
 /
 ru)Аватар «Просто пушка!».webp
 �
@@ -24752,13 +24752,9 @@ $
 
 enBoomerang Avatar
 
-plBoomerang Avatar
-
 zhBoomerang Avatar
-'
-ja!アバター「ブーメラン」
-'
-uk!Аватар «Бумеранг»
+
+plBoomerang Avatar
 
 ptBoomerang Avatar
 
@@ -24766,25 +24762,29 @@ $
 
 frAvatar du boomerang
 '
+uk!Аватар «Бумеранг»
+'
+ja!アバター「ブーメラン」
+'
 ru!Аватар «Бумеранг».webp
 �
 $avatar_progressive_rb_gold_eu_wins_6�
 
 enGold Victor Avatar
 
-plGold Victor Avatar
-
 zhGold Victor Avatar
--
-ja'アバター「ゴールドの勝者」
-:
-uk4Аватар «Золотий переможець»
+
+plGold Victor Avatar
 
 ptGold Victor Avatar
 
 esGold Victor Avatar
 
 frAvatar Vainqueur d'or
+:
+uk4Аватар «Золотий переможець»
+-
+ja'アバター「ゴールドの勝者」
 :
 ru4Аватар «Золотой победитель».webp
 �
@@ -24792,19 +24792,19 @@ $avatar_progressive_rb_gold_eu_wins_6�
 
 enSpec Ops Avatar
 
-plSpec Ops Avatar
-
 zhSpec Ops Avatar
-'
-ja!アバター「特殊作戦隊」
-)
-uk#Аватар «Спецагент»
+
+plSpec Ops Avatar
 
 ptSpec Ops Avatar
 
 esSpec Ops Avatar
 '
 fr!Avatar des Opérations spéciales
+)
+uk#Аватар «Спецагент»
+'
+ja!アバター「特殊作戦隊」
 )
 ru#Аватар «Спецагент».png
 �
@@ -24812,19 +24812,19 @@ $avatar_progressive_rb_gold_eu_wins_6�
 
 enSpec Ops Avatar
 
-plSpec Ops Avatar
-
 zhSpec Ops Avatar
-'
-ja!アバター「特殊作戦隊」
-)
-uk#Аватар «Спецагент»
+
+plSpec Ops Avatar
 
 ptSpec Ops Avatar
 
 esSpec Ops Avatar
 '
 fr!Avatar des Opérations spéciales
+)
+uk#Аватар «Спецагент»
+'
+ja!アバター「特殊作戦隊」
 )
 ru#Аватар «Спецагент».png
 �
@@ -24832,13 +24832,9 @@ $avatar_progressive_rb_gold_eu_wins_6�
 &
 en 鹰酱的凝视头像（14天）
 &
-pl 鹰酱的凝视头像（14天）
-&
 zh 鹰酱的凝视头像（14天）
 &
-ja 鹰酱的凝视头像（14天）
-&
-uk 鹰酱的凝视头像（14天）
+pl 鹰酱的凝视头像（14天）
 &
 pt 鹰酱的凝视头像（14天）
 &
@@ -24846,19 +24842,19 @@ $avatar_progressive_rb_gold_eu_wins_6�
 &
 fr 鹰酱的凝视头像（14天）
 &
+uk 鹰酱的凝视头像（14天）
+&
+ja 鹰酱的凝视头像（14天）
+&
 ru 鹰酱的凝视头像（14天）.webp
 �
 $avatar_progressive_rb_gold_eu_wins_3�
 
 enGold Victor Avatar
 
-plGold Victor Avatar
-
 zhGold Victor Avatar
--
-ja'アバター「ゴールドの勝者」
-:
-uk4Аватар «Золотий переможець»
+
+plGold Victor Avatar
 
 ptGold Victor Avatar
 
@@ -24866,25 +24862,29 @@ $avatar_progressive_rb_gold_eu_wins_3�
 
 frAvatar Vainqueur d'or
 :
+uk4Аватар «Золотий переможець»
+-
+ja'アバター「ゴールドの勝者」
+:
 ru4Аватар «Золотой победитель».webp
 �
 avatar_progressive_bp_1_paid_1�
 
 enSpec Ops Avatar
 
-plSpec Ops Avatar
-
 zhSpec Ops Avatar
-'
-ja!アバター「特殊作戦隊」
-)
-uk#Аватар «Спецагент»
+
+plSpec Ops Avatar
 
 ptSpec Ops Avatar
 
 esSpec Ops Avatar
 '
 fr!Avatar des Opérations spéciales
+)
+uk#Аватар «Спецагент»
+'
+ja!アバター「特殊作戦隊」
 )
 ru#Аватар «Спецагент».png
 �
@@ -24892,19 +24892,19 @@ $avatar_progressive_rb_gold_eu_wins_3�
 
 en1 Victorious Year Avatar
 
-pl1 Victorious Year Avatar
-
 zh1 Victorious Year Avatar
-)
-ja#アバター「誇らしい 1年」
-.
-uk(Аватар «1 рік перемог»
+
+pl1 Victorious Year Avatar
 
 pt1 Victorious Year Avatar
 
 es1 Victorious Year Avatar
 $
 frAvatar de 1 année victorieuse
+.
+uk(Аватар «1 рік перемог»
+)
+ja#アバター「誇らしい 1年」
 *
 ru$Аватар «1 год побед».webp
 �
@@ -24912,19 +24912,19 @@ $
 
 enFrigid Elsa
 
-plFrigid Elsa
-
 zhFrigid Elsa
-
-ja極寒のエルサ
-
-ukХолодна Ельза
+
+plFrigid Elsa
 
 ptFrigid Elsa
 
 esFrigid Elsa
 
 frElsa la froide
+
+ukХолодна Ельза
+
+ja極寒のエルサ
 !
 ruХолодная Эльза.png
 �
@@ -24932,13 +24932,9 @@ $
 
 enNunchuks Avatar
 
-plNunchuks Avatar
-
 zhNunchuks Avatar
-'
-ja!アバター「ヌンチャク」
-2
-uk,Аватар «Нунчаки сенсея»
+
+plNunchuks Avatar
 
 ptNunchuks Avatar
 
@@ -24946,25 +24942,29 @@ $
 
 frAvatar Nunchaku
 2
+uk,Аватар «Нунчаки сенсея»
+'
+ja!アバター「ヌンチャク」
+2
 ru,Аватар «Нунчаки сэнсэя».webp
 �
 avatar_ASIA_RoteNova_rare_31d�
 
 enRote Nova Fan Avatar
 
-plRote Nova Fan Avatar
-
 zhRote Nova Fan Avatar
-+
-ja%アバター「Rote Nova ファン」
-9
-uk3Аватар «Вболівальник Rote Nova»
+
+plRote Nova Fan Avatar
 
 ptRote Nova Fan Avatar
 
 esRote Nova Fan Avatar
 '
 fr!Avatar du passionné de Rote Nova
+9
+uk3Аватар «Вболівальник Rote Nova»
++
+ja%アバター「Rote Nova ファン」
 3
 ru-Аватар «Болельщик Rote Nova».webp
 �
@@ -24972,19 +24972,19 @@ $
 
 enDetection Bulb Avatar
 
-plDetection Bulb Avatar
-
 zhDetection Bulb Avatar
-$
-jaアバター「発見電球」
-:
-uk4Аватар «Лампочка виявлення»
+
+plDetection Bulb Avatar
 
 ptDetection Bulb Avatar
 
 esDetection Bulb Avatar
 "
 frAvatar Ampoule de détection
+:
+uk4Аватар «Лампочка виявлення»
+$
+jaアバター「発見電球」
 >
 ru8Аватар «Лампочка обнаружения».webp
 �
@@ -24992,19 +24992,19 @@ $
 
 enSpec Ops Avatar
 
-plSpec Ops Avatar
-
 zhSpec Ops Avatar
-'
-ja!アバター「特殊作戦隊」
-)
-uk#Аватар «Спецагент»
+
+plSpec Ops Avatar
 
 ptSpec Ops Avatar
 
 esSpec Ops Avatar
 '
 fr!Avatar des Opérations spéciales
+)
+uk#Аватар «Спецагент»
+'
+ja!アバター「特殊作戦隊」
 )
 ru#Аватар «Спецагент».png
 �
@@ -25012,19 +25012,19 @@ $
 
 en"Skirmish!" Avatar
 
-pl"Skirmish!" Avatar
-
 zh"Skirmish!" Avatar
-
-jaアバター「乱闘!」
-(
-uk"Аватар «Хто кого?!»
+
+pl"Skirmish!" Avatar
 
 pt"Skirmish!" Avatar
 
 es"Skirmish!" Avatar
 #
 frAvatar « Escarmouche ! »
+(
+uk"Аватар «Хто кого?!»
+
+jaアバター「乱闘!」
 (
 ru"Аватар «Кто кого?!».png
 �
@@ -25032,19 +25032,19 @@ $
 
 enDetection Bulb Avatar
 
-plDetection Bulb Avatar
-
 zhDetection Bulb Avatar
-$
-jaアバター「発見電球」
-:
-uk4Аватар «Лампочка виявлення»
+
+plDetection Bulb Avatar
 
 ptDetection Bulb Avatar
 
 esDetection Bulb Avatar
 "
 frAvatar Ampoule de détection
+:
+uk4Аватар «Лампочка виявлення»
+$
+jaアバター「発見電球」
 >
 ru8Аватар «Лампочка обнаружения».webp
 �
@@ -25052,19 +25052,19 @@ $
 
 enDetection Bulb Avatar
 
-plDetection Bulb Avatar
-
 zhDetection Bulb Avatar
-$
-jaアバター「発見電球」
-:
-uk4Аватар «Лампочка виявлення»
+
+plDetection Bulb Avatar
 
 ptDetection Bulb Avatar
 
 esDetection Bulb Avatar
 "
 frAvatar Ampoule de détection
+:
+uk4Аватар «Лампочка виявлення»
+$
+jaアバター「発見電球」
 >
 ru8Аватар «Лампочка обнаружения».webp
 �
@@ -25072,19 +25072,19 @@ $
 
 en"Skirmish!" Avatar
 
-pl"Skirmish!" Avatar
-
 zh"Skirmish!" Avatar
-
-jaアバター「乱闘!」
-(
-uk"Аватар «Хто кого?!»
+
+pl"Skirmish!" Avatar
 
 pt"Skirmish!" Avatar
 
 es"Skirmish!" Avatar
 #
 frAvatar « Escarmouche ! »
+(
+uk"Аватар «Хто кого?!»
+
+jaアバター「乱闘!」
 (
 ru"Аватар «Кто кого?!».png
 �
@@ -25092,19 +25092,19 @@ $
 
 enSonic Wave Avatar
 
-plSonic Wave Avatar
-
 zhSonic Wave Avatar
-"
-jaアバター「Sonic Wave」
-0
-uk*Аватар «Музична хвиля»
+
+plSonic Wave Avatar
 
 ptSonic Wave Avatar
 
 esSonic Wave Avatar
 
 frAvatar Onde sonore
+0
+uk*Аватар «Музична хвиля»
+"
+jaアバター「Sonic Wave」
 &
 ru Аватар «Бьёт бит».webp
 �
@@ -25112,19 +25112,19 @@ $
 
 enDetection Bulb Avatar
 
-plDetection Bulb Avatar
-
 zhDetection Bulb Avatar
-$
-jaアバター「発見電球」
-:
-uk4Аватар «Лампочка виявлення»
+
+plDetection Bulb Avatar
 
 ptDetection Bulb Avatar
 
 esDetection Bulb Avatar
 "
 frAvatar Ampoule de détection
+:
+uk4Аватар «Лампочка виявлення»
+$
+jaアバター「発見電球」
 >
 ru8Аватар «Лампочка обнаружения».webp
 �
@@ -25132,13 +25132,9 @@ $
 
 enSilent Service Avatar
 
-plSilent Service Avatar
-
 zhSilent Service Avatar
-$
-jaアバター「極秘部隊」
-0
-uk*Аватар «Таємна служба»
+
+plSilent Service Avatar
 
 ptSilent Service Avatar
 
@@ -25146,25 +25142,29 @@ $
 "
 frAvatar du Service silencieux
 0
+uk*Аватар «Таємна служба»
+$
+jaアバター「極秘部隊」
+0
 ru*Аватар «Тайная служба».webp
 �
 avatar_progressive_bp_32_free_2�
 
 enTankograph Avatar
 
-plTankograph Avatar
-
 zhTankograph Avatar
-0
-ja*アバター「パンツァーグラフ」
-)
-uk#Аватар «Танкограф»
+
+plTankograph Avatar
 
 ptTankograph Avatar
 
 esTankograph Avatar
 
 frAvatar Charographe
+)
+uk#Аватар «Танкограф»
+0
+ja*アバター「パンツァーグラフ」
 )
 ru#Аватар «Танкограф».webp
 �
@@ -25172,19 +25172,19 @@ $
 
 en"Skirmish!" Avatar
 
-pl"Skirmish!" Avatar
-
 zh"Skirmish!" Avatar
-
-jaアバター「乱闘!」
-(
-uk"Аватар «Хто кого?!»
+
+pl"Skirmish!" Avatar
 
 pt"Skirmish!" Avatar
 
 es"Skirmish!" Avatar
 #
 frAvatar « Escarmouche ! »
+(
+uk"Аватар «Хто кого?!»
+
+jaアバター「乱闘!」
 (
 ru"Аватар «Кто кого?!».png
 �
@@ -25192,19 +25192,19 @@ $
 
 en"Skirmish!" Avatar
 
-pl"Skirmish!" Avatar
-
 zh"Skirmish!" Avatar
-
-jaアバター「乱闘!」
-(
-uk"Аватар «Хто кого?!»
+
+pl"Skirmish!" Avatar
 
 pt"Skirmish!" Avatar
 
 es"Skirmish!" Avatar
 #
 frAvatar « Escarmouche ! »
+(
+uk"Аватар «Хто кого?!»
+
+jaアバター「乱闘!」
 (
 ru"Аватар «Кто кого?!».png
 �
@@ -25212,13 +25212,9 @@ $
 
 enThe Constellation Avatar
 
-plThe Constellation Avatar
-
 zhThe Constellation Avatar
-*
-ja$アバター「織りなす星座」
-#
-ukАватар «Плеяди»
+
+plThe Constellation Avatar
 
 ptThe Constellation Avatar
 
@@ -25226,25 +25222,29 @@ $
 
 frAvatar Constellation
 #
+ukАватар «Плеяди»
+*
+ja$アバター「織りなす星座」
+#
 ruАватар «Плеяда».webp
 �
 "avatar_progressive_Skirmish_wins_6�
 
 en"Skirmish!" Avatar
 
-pl"Skirmish!" Avatar
-
 zh"Skirmish!" Avatar
-
-jaアバター「乱闘!」
-(
-uk"Аватар «Хто кого?!»
+
+pl"Skirmish!" Avatar
 
 pt"Skirmish!" Avatar
 
 es"Skirmish!" Avatar
 #
 frAvatar « Escarmouche ! »
+(
+uk"Аватар «Хто кого?!»
+
+jaアバター「乱闘!」
 (
 ru"Аватар «Кто кого?!».png
 �
@@ -25252,13 +25252,9 @@ $
 
 enTankograph Avatar
 
-plTankograph Avatar
-
 zhTankograph Avatar
-0
-ja*アバター「パンツァーグラフ」
-)
-uk#Аватар «Танкограф»
+
+plTankograph Avatar
 
 ptTankograph Avatar
 
@@ -25266,19 +25262,19 @@ $
 
 frAvatar Charographe
 )
+uk#Аватар «Танкограф»
+0
+ja*アバター「パンツァーグラフ」
+)
 ru#Аватар «Танкограф».webp
 �
 avatar_blitz_04_common�
 
 enBlitz Avatar
 
-plBlitz Avatar
-
 zhBlitz Avatar
-
-jaアバター「Blitz」
-
-ukАватар Blitz
+
+plBlitz Avatar
 
 ptBlitz Avatar
 
@@ -25286,25 +25282,29 @@ $
 
 frAvatar de Blitz
 
+ukАватар Blitz
+
+jaアバター「Blitz」
+
 ruАватар Blitz.png
 �
 "avatar_progressive_Skirmish_wins_5�
 
 en"Skirmish!" Avatar
 
-pl"Skirmish!" Avatar
-
 zh"Skirmish!" Avatar
-
-jaアバター「乱闘!」
-(
-uk"Аватар «Хто кого?!»
+
+pl"Skirmish!" Avatar
 
 pt"Skirmish!" Avatar
 
 es"Skirmish!" Avatar
 #
 frAvatar « Escarmouche ! »
+(
+uk"Аватар «Хто кого?!»
+
+jaアバター「乱闘!」
 (
 ru"Аватар «Кто кого?!».png
 �
@@ -25312,13 +25312,9 @@ $
 
 en"Skirmish!" Avatar
 
-pl"Skirmish!" Avatar
-
 zh"Skirmish!" Avatar
-
-jaアバター「乱闘!」
-(
-uk"Аватар «Хто кого?!»
+
+pl"Skirmish!" Avatar
 
 pt"Skirmish!" Avatar
 
@@ -25326,25 +25322,29 @@ $
 #
 frAvatar « Escarmouche ! »
 (
+uk"Аватар «Хто кого?!»
+
+jaアバター「乱闘!」
+(
 ru"Аватар «Кто кого?!».png
 �
 avatar_APAC_RoteNova_rare_31d�
 
 enRote Nova Fan Avatar
 
-plRote Nova Fan Avatar
-
 zhRote Nova Fan Avatar
-+
-ja%アバター「Rote Nova ファン」
-9
-uk3Аватар «Вболівальник Rote Nova»
+
+plRote Nova Fan Avatar
 
 ptRote Nova Fan Avatar
 
 esRote Nova Fan Avatar
 '
 fr!Avatar du passionné de Rote Nova
+9
+uk3Аватар «Вболівальник Rote Nova»
++
+ja%アバター「Rote Nova ファン」
 3
 ru-Аватар «Болельщик Rote Nova».webp
 �
@@ -25352,19 +25352,19 @@ $
 
 enCatboard Avatar
 
-plCatboard Avatar
-
 zhCatboard Avatar
-*
-ja$アバター「ニャンボール」
-*
-uk$Аватар «Кіт Картон»
+
+plCatboard Avatar
 
 ptCatboard Avatar
 
 esCatboard Avatar
 
 frAvatar Chat-rton
+*
+uk$Аватар «Кіт Картон»
+*
+ja$アバター「ニャンボール」
 )
 ru#Аватар «Картончик».webp
 �
@@ -25372,13 +25372,9 @@ $
 
 enU-Panzer Avatar
 
-plU-Panzer Avatar
-
 zhU-Panzer Avatar
- 
-jaアバター「U-Panzer」
-
-ukАватар U-Panzer
+
+plU-Panzer Avatar
 
 ptU-Panzer Avatar
 
@@ -25386,25 +25382,29 @@ $
 
 frAvatar U-Panzer
 
+ukАватар U-Panzer
+ 
+jaアバター「U-Panzer」
+
 ruАватар U-Panzer.webp
 �
 avatar_progressive_bp_55_paid_5�
 
 enCatboard Avatar
 
-plCatboard Avatar
-
 zhCatboard Avatar
-*
-ja$アバター「ニャンボール」
-*
-uk$Аватар «Кіт Картон»
+
+plCatboard Avatar
 
 ptCatboard Avatar
 
 esCatboard Avatar
 
 frAvatar Chat-rton
+*
+uk$Аватар «Кіт Картон»
+*
+ja$アバター「ニャンボール」
 )
 ru#Аватар «Картончик».webp
 �
@@ -25412,19 +25412,19 @@ $
 
 enHoliday Cheer Avatar
 
-plHoliday Cheer Avatar
-
 zhHoliday Cheer Avatar
-*
-ja$アバター「ホリデー気分」
-2
-uk,Аватар «Відчуття свята»
+
+plHoliday Cheer Avatar
 
 ptHoliday Cheer Avatar
 
 esHoliday Cheer Avatar
 "
 frAvatar de la joie des fêtes
+2
+uk,Аватар «Відчуття свята»
+*
+ja$アバター「ホリデー気分」
 8
 ru2Аватар «Чувство праздника».png
 �
@@ -25432,19 +25432,19 @@ $
 
 enForged in Battle Avatar
 
-plForged in Battle Avatar
-
 zhForged in Battle Avatar
-$
-jaアバター「百戦錬磨」
-<
-uk6Аватар «Бойове загартування»
+
+plForged in Battle Avatar
 
 ptForged in Battle Avatar
 
 esForged in Battle Avatar
 
 frAvatar Forgé au combat
+<
+uk6Аватар «Бойове загартування»
+$
+jaアバター「百戦錬磨」
 2
 ru,Аватар «Боевая закалка».webp
 �
@@ -25452,19 +25452,19 @@ $
 
 enWho Wants a Piece? Avatar
 
-plWho Wants a Piece? Avatar
-
 zhWho Wants a Piece? Avatar
-+
-ja%アバター「一緒に食べる?」
-1
-uk+Аватар «Кому шматочок?»
+
+plWho Wants a Piece? Avatar
 
 ptWho Wants a Piece? Avatar
 
 esWho Wants a Piece? Avatar
 $
 frAvatar Qui en veut une part ?
+1
+uk+Аватар «Кому шматочок?»
++
+ja%アバター「一緒に食べる?」
 /
 ru)Аватар «Кому кусочек?».webp
 �
@@ -25472,19 +25472,19 @@ $
 
 enJokers Fan Avatar
 
-plJokers Fan Avatar
-
 zhJokers Fan Avatar
-(
-ja"アバター「Jokers ファン」
-6
-uk0Аватар «Вболівальник Jokers»
+
+plJokers Fan Avatar
 
 ptJokers Fan Avatar
 
 esJokers Fan Avatar
 $
 frAvatar du passionné de Jokers
+6
+uk0Аватар «Вболівальник Jokers»
+(
+ja"アバター「Jokers ファン」
 0
 ru*Аватар «Болельщик Jokers».webp
 �
@@ -25492,19 +25492,19 @@ $
 
 enCatboard Avatar
 
-plCatboard Avatar
-
 zhCatboard Avatar
-*
-ja$アバター「ニャンボール」
-*
-uk$Аватар «Кіт Картон»
+
+plCatboard Avatar
 
 ptCatboard Avatar
 
 esCatboard Avatar
 
 frAvatar Chat-rton
+*
+uk$Аватар «Кіт Картон»
+*
+ja$アバター「ニャンボール」
 )
 ru#Аватар «Картончик».webp
 �
@@ -25512,19 +25512,19 @@ $
 
 enCatboard Avatar
 
-plCatboard Avatar
-
 zhCatboard Avatar
-*
-ja$アバター「ニャンボール」
-*
-uk$Аватар «Кіт Картон»
+
+plCatboard Avatar
 
 ptCatboard Avatar
 
 esCatboard Avatar
 
 frAvatar Chat-rton
+*
+uk$Аватар «Кіт Картон»
+*
+ja$アバター「ニャンボール」
 )
 ru#Аватар «Картончик».webp
 �
@@ -25532,19 +25532,19 @@ $
 $
 enSoul Conductor Animated Avatar
 $
-plSoul Conductor Animated Avatar
-$
 zhSoul Conductor Animated Avatar
-E
-ja?アニメーション付きアバター「幽魂の送り人」
-E
-uk?Анімований аватар «Провідник душ»
+$
+plSoul Conductor Animated Avatar
 $
 ptSoul Conductor Animated Avatar
 $
 esSoul Conductor Animated Avatar
 (
 fr"Avatar animé Conducteur des âmes
+E
+uk?Анімований аватар «Провідник душ»
+E
+ja?アニメーション付きアバター「幽魂の送り人」
 K
 ruEАнимированный аватар «Проводник душ».webp
 �
@@ -25552,19 +25552,19 @@ K
 
 enCatboard Avatar
 
-plCatboard Avatar
-
 zhCatboard Avatar
-*
-ja$アバター「ニャンボール」
-*
-uk$Аватар «Кіт Картон»
+
+plCatboard Avatar
 
 ptCatboard Avatar
 
 esCatboard Avatar
 
 frAvatar Chat-rton
+*
+uk$Аватар «Кіт Картон»
+*
+ja$アバター「ニャンボール」
 )
 ru#Аватар «Картончик».webp
 �
@@ -25572,19 +25572,19 @@ K
 
 enCatboard Avatar
 
-plCatboard Avatar
-
 zhCatboard Avatar
-*
-ja$アバター「ニャンボール」
-*
-uk$Аватар «Кіт Картон»
+
+plCatboard Avatar
 
 ptCatboard Avatar
 
 esCatboard Avatar
 
 frAvatar Chat-rton
+*
+uk$Аватар «Кіт Картон»
+*
+ja$アバター「ニャンボール」
 )
 ru#Аватар «Картончик».webp
 �
@@ -25592,13 +25592,9 @@ K
 
 enSpec Ops Avatar
 
-plSpec Ops Avatar
-
 zhSpec Ops Avatar
-'
-ja!アバター「特殊作戦隊」
-)
-uk#Аватар «Спецагент»
+
+plSpec Ops Avatar
 
 ptSpec Ops Avatar
 
@@ -25606,19 +25602,19 @@ K
 '
 fr!Avatar des Opérations spéciales
 )
+uk#Аватар «Спецагент»
+'
+ja!アバター「特殊作戦隊」
+)
 ru#Аватар «Спецагент».png
 �
 avatar_smiley_love_rare�
 
 en"Lovestruck" Avatar
 
-pl"Lovestruck" Avatar
-
 zh"Lovestruck" Avatar
-!
-jaアバター「恋煩い」
-3
-uk-Аватар «Фугасом у рубку»
+
+pl"Lovestruck" Avatar
 
 pt"Lovestruck" Avatar
 
@@ -25626,19 +25622,19 @@ K
 #
 frAvatar « Coup de foudre »
 3
+uk-Аватар «Фугасом у рубку»
+!
+jaアバター「恋煩い」
+3
 ru-Аватар «Фугасом в рубку».png
 �
 avatar_blitz_point_champion�
 @
 en:Анимированный аватар «Легенда»
 @
-pl:Анимированный аватар «Легенда»
-@
 zh:Анимированный аватар «Легенда»
 @
-ja:Анимированный аватар «Легенда»
-@
-uk:Анимированный аватар «Легенда»
+pl:Анимированный аватар «Легенда»
 @
 pt:Анимированный аватар «Легенда»
 @
@@ -25646,19 +25642,19 @@ K
 @
 fr:Анимированный аватар «Легенда»
 @
+uk:Анимированный аватар «Легенда»
+@
+ja:Анимированный аватар «Легенда»
+@
 ru:Анимированный аватар «Легенда».webp
 �
 avatar_bp_42_bundle�
 
 enRevenant Avatar
 
-plRevenant Avatar
-
 zhRevenant Avatar
-*
-ja$アバター「レヴェナント」
-
-ukАватар Revenant
+
+plRevenant Avatar
 
 ptRevenant Avatar
 
@@ -25666,19 +25662,19 @@ K
 
 frAvatar de Revenant
 
+ukАватар Revenant
+*
+ja$アバター「レヴェナント」
+
 ruАватар Revenant.webp
 �
 avatar_strawberry_rare�
 
 enBerry Crush Avatar
 
-plBerry Crush Avatar
-
 zhBerry Crush Avatar
-0
-ja*アバター「ベリークラッシュ」
-0
-uk*Аватар «Ягідний вибух»
+
+plBerry Crush Avatar
 
 ptBerry Crush Avatar
 
@@ -25686,19 +25682,19 @@ K
 #
 frAvatar de la fraise écrasée
 0
+uk*Аватар «Ягідний вибух»
+0
+ja*アバター「ベリークラッシュ」
+0
 ru*Аватар «Ягодный взрыв».png
 �
 $avatar_progressive_bp_37_ruby_paid_1�
 2
 en,Аватар «Куст крякающий»
 2
-pl,Аватар «Куст крякающий»
-2
 zh,Аватар «Куст крякающий»
 2
-ja,Аватар «Куст крякающий»
-2
-uk,Аватар «Куст крякающий»
+pl,Аватар «Куст крякающий»
 2
 pt,Аватар «Куст крякающий»
 2
@@ -25706,25 +25702,29 @@ $avatar_progressive_bp_37_ruby_paid_1�
 2
 fr,Аватар «Куст крякающий»
 2
+uk,Аватар «Куст крякающий»
+2
+ja,Аватар «Куст крякающий»
+2
 ru,Аватар «Куст крякающий».webp
 �
 avatar_mashroom_legendary�
 
 enSteer Clear Avatar
 
-plSteer Clear Avatar
-
 zhSteer Clear Avatar
-$
-jaアバター「味見厳禁」
-*
-uk$Аватар «Ідіть собі»
+
+plSteer Clear Avatar
 
 ptSteer Clear Avatar
 
 esSteer Clear Avatar
 !
 frAvatar Se tenir à l'écart
+*
+uk$Аватар «Ідіть собі»
+$
+jaアバター「味見厳禁」
 2
 ru,Аватар «Проходите мимо».webp
 �
@@ -25732,13 +25732,9 @@ $
 
 enBlitz Veteran Avatar
 
-plBlitz Veteran Avatar
-
 zhBlitz Veteran Avatar
-*
-ja$アバター「Blitz ベテラン」
-+
-uk%Аватар «Ветеран Blitz»
+
+plBlitz Veteran Avatar
 
 ptBlitz Veteran Avatar
 
@@ -25746,25 +25742,29 @@ $
 "
 frAvatar du vétéran de Blitz
 +
+uk%Аватар «Ветеран Blitz»
+*
+ja$アバター「Blitz ベテラン」
++
 ru%Аватар «Ветеран Blitz».png
 �
 avatar_progressive_bp_63_paid_1�
 
 enWoodland Spirit Avatar
 
-plWoodland Spirit Avatar
-
 zhWoodland Spirit Avatar
-'
-ja!アバター「森林の息吹」
-&
-uk Аватар «Дух лісу»
+
+plWoodland Spirit Avatar
 
 ptWoodland Spirit Avatar
 
 esWoodland Spirit Avatar
 
 frAvatar Esprit des bois
+&
+uk Аватар «Дух лісу»
+'
+ja!アバター「森林の息吹」
 *
 ru$Аватар «Лесной дух».webp
 �
@@ -25772,13 +25772,9 @@ $
 
 enHonos Avatar
 
-plHonos Avatar
-
 zhHonos Avatar
-
-jaアバター「名誉」
-
-ukАватар Honos
+
+plHonos Avatar
 
 ptHonos Avatar
 
@@ -25786,19 +25782,19 @@ $
 
 frAvatar Honos
 
+ukАватар Honos
+
+jaアバター「名誉」
+
 ruАватар Honos.png
 �
 "avatar_NA_Pandamania_BSC_legendary�
 
 enPandamania Avatar
 
-plPandamania Avatar
-
 zhPandamania Avatar
-"
-jaアバター「Pandamania」
-
-ukАватар Pandamania
+
+plPandamania Avatar
 
 ptPandamania Avatar
 
@@ -25806,25 +25802,29 @@ $
 
 frAvatar de Pandamania
 
+ukАватар Pandamania
+"
+jaアバター「Pandamania」
+
 ruАватар Pandamania.webp
 �
 avatar_gift_box_common�
 
 enNew Year's Gift Avatar
 
-plNew Year's Gift Avatar
-
 zhNew Year's Gift Avatar
-0
-ja*アバター「新年のプレゼント」
->
-uk8Аватар «Новорічний подарунок»
+
+plNew Year's Gift Avatar
 
 ptNew Year's Gift Avatar
 
 esNew Year's Gift Avatar
 #
 frAvatar de cadeau du Nouvel An
+>
+uk8Аватар «Новорічний подарунок»
+0
+ja*アバター「新年のプレゼント」
 :
 ru4Аватар «Новогодний подарок».png
 �
@@ -25832,19 +25832,19 @@ $
 
 enWoodland Spirit Avatar
 
-plWoodland Spirit Avatar
-
 zhWoodland Spirit Avatar
-'
-ja!アバター「森林の息吹」
-&
-uk Аватар «Дух лісу»
+
+plWoodland Spirit Avatar
 
 ptWoodland Spirit Avatar
 
 esWoodland Spirit Avatar
 
 frAvatar Esprit des bois
+&
+uk Аватар «Дух лісу»
+'
+ja!アバター「森林の息吹」
 *
 ru$Аватар «Лесной дух».webp
 �
@@ -25852,19 +25852,19 @@ $
 !
 enSea Monster Animated Avatar
 !
-plSea Monster Animated Avatar
-!
 zhSea Monster Animated Avatar
-H
-jaBアニメーション付きアバター「海のモンスター」
-O
-ukIАнімований аватар «Морське чудовисько»
+!
+plSea Monster Animated Avatar
 !
 ptSea Monster Animated Avatar
 !
 esSea Monster Animated Avatar
 !
 frAvatar animé Monstre marin
+O
+ukIАнімований аватар «Морське чудовисько»
+H
+jaBアニメーション付きアバター「海のモンスター」
 M
 ruGАнимированный аватар «Морской монстр».webp
 �
@@ -25872,19 +25872,19 @@ M
 
 enWoodland Spirit Avatar
 
-plWoodland Spirit Avatar
-
 zhWoodland Spirit Avatar
-'
-ja!アバター「森林の息吹」
-&
-uk Аватар «Дух лісу»
+
+plWoodland Spirit Avatar
 
 ptWoodland Spirit Avatar
 
 esWoodland Spirit Avatar
 
 frAvatar Esprit des bois
+&
+uk Аватар «Дух лісу»
+'
+ja!アバター「森林の息吹」
 *
 ru$Аватар «Лесной дух».webp
 �
@@ -25892,19 +25892,19 @@ M
 
 enWoodland Spirit Avatar
 
-plWoodland Spirit Avatar
-
 zhWoodland Spirit Avatar
-'
-ja!アバター「森林の息吹」
-&
-uk Аватар «Дух лісу»
+
+plWoodland Spirit Avatar
 
 ptWoodland Spirit Avatar
 
 esWoodland Spirit Avatar
 
 frAvatar Esprit des bois
+&
+uk Аватар «Дух лісу»
+'
+ja!アバター「森林の息吹」
 *
 ru$Аватар «Лесной дух».webp
 �
@@ -25913,15 +25913,11 @@ M
 en
 One Avatar
 
-pl
-One Avatar
-
 zh
 One Avatar
-
-jaアバター「One」
-
-ukАватар One
+
+pl
+One Avatar
 
 pt
 One Avatar
@@ -25931,19 +25927,19 @@ One Avatar
 
 frAvatar de One
 
+ukАватар One
+
+jaアバター「One」
+
 ruАватар One.png
 �
 avatar_defender_amx_anim�
 $
 enTime Messenger Animated Avatar
 $
-plTime Messenger Animated Avatar
-$
 zhTime Messenger Animated Avatar
-H
-jaBアニメーション付きアバター「未来からの使者」
-Z
-ukTАнімований аватар «Посланець із майбутнього»
+$
+plTime Messenger Animated Avatar
 $
 ptTime Messenger Animated Avatar
 $
@@ -25951,25 +25947,29 @@ $
 %
 frAvatar animé Messager du temps
 Z
+ukTАнімований аватар «Посланець із майбутнього»
+H
+jaBアニメーション付きアバター「未来からの使者」
+Z
 ruTАнимированный аватар «Посланник из будущего».webp
 �
  avatar_snowflake_ver3_common_72h�
 
 enFluffy Snowflake Avatar
 
-plFluffy Snowflake Avatar
-
 zhFluffy Snowflake Avatar
--
-ja'アバター「フワフワな雪片」
-9
-uk3Аватар «Пухнаста сніжинка».
+
+plFluffy Snowflake Avatar
 
 ptFluffy Snowflake Avatar
 
 esFluffy Snowflake Avatar
 $
 frAvatar de flocon de neige doux
+9
+uk3Аватар «Пухнаста сніжинка».
+-
+ja'アバター「フワフワな雪片」
 8
 ru2Аватар «Пушистая снежинка».png
 �
@@ -25977,19 +25977,19 @@ $
 
 enAtmospheric Entry Avatar
 
-plAtmospheric Entry Avatar
-
 zhAtmospheric Entry Avatar
-0
-ja*アバター「宇宙からの飛来物」
-4
-uk.Аватар «Крізь атмосферу»
+
+plAtmospheric Entry Avatar
 
 ptAtmospheric Entry Avatar
 
 esAtmospheric Entry Avatar
 '
 fr!Avatar Entrée dans l'atmosphère
+4
+uk.Аватар «Крізь атмосферу»
+0
+ja*アバター「宇宙からの飛来物」
 6
 ru0Аватар «Сквозь атмосферу».webp
 �
@@ -25997,19 +25997,19 @@ $
 
 enAtmospheric Entry Avatar
 
-plAtmospheric Entry Avatar
-
 zhAtmospheric Entry Avatar
-0
-ja*アバター「宇宙からの飛来物」
-4
-uk.Аватар «Крізь атмосферу»
+
+plAtmospheric Entry Avatar
 
 ptAtmospheric Entry Avatar
 
 esAtmospheric Entry Avatar
 '
 fr!Avatar Entrée dans l'atmosphère
+4
+uk.Аватар «Крізь атмосферу»
+0
+ja*アバター「宇宙からの飛来物」
 6
 ru0Аватар «Сквозь атмосферу».webp
 �
@@ -26017,19 +26017,19 @@ $
 
 enFluffy Predator Avatar
 
-plFluffy Predator Avatar
-
 zhFluffy Predator Avatar
-'
-ja!アバター「フワフワ獣」
-A
-uk;Аватар «Пушистий і небезпечний»
+
+plFluffy Predator Avatar
 
 ptFluffy Predator Avatar
 
 esFluffy Predator Avatar
 $
 frAvatar de prédateur tout doux
+A
+uk;Аватар «Пушистий і небезпечний»
+'
+ja!アバター「フワフワ獣」
 3
 ru-Аватар «Пушист и опасен».png
 �
@@ -26037,13 +26037,9 @@ $
 
 enDebutant Avatar
 
-plDebutant Avatar
-
 zhDebutant Avatar
-!
-jaアバター「初舞台」
-'
-uk!Аватар «Дебютант»
+
+plDebutant Avatar
 
 ptDebutant Avatar
 
@@ -26051,19 +26047,19 @@ $
 
 frAvatar du débutant
 '
+uk!Аватар «Дебютант»
+!
+jaアバター「初舞台」
+'
 ru!Аватар «Дебютант».webp
 �
 avatar_bronze_warrior_unique�
 
 enBronze Warrior Avatar
 
-plBronze Warrior Avatar
-
 zhBronze Warrior Avatar
-$
-jaアバター「銅の戦士」
-,
-uk&Аватар «Мідний воїн»
+
+plBronze Warrior Avatar
 
 ptBronze Warrior Avatar
 
@@ -26071,19 +26067,19 @@ $
 
 frAvatar Guerrier de bronze
 ,
+uk&Аватар «Мідний воїн»
+$
+jaアバター「銅の戦士」
+,
 ru&Аватар «Медный воин».webp
 �
 avatar_unicorn_legendary�
 
 enUnique'orn Avatar
 
-plUnique'orn Avatar
-
 zhUnique'orn Avatar
-0
-ja*アバター「ユニィク☆コォン」
-
-ukАватар Unique'orn
+
+plUnique'orn Avatar
 
 ptUnique'orn Avatar
 
@@ -26091,25 +26087,29 @@ $
 
 frAvatar Licorne
 
+ukАватар Unique'orn
+0
+ja*アバター「ユニィク☆コォン」
+
 ruАватар Unique'orn.webp
 �
 avatar_soldier_common�
 
 enFighter Avatar
 
-plFighter Avatar
-
 zhFighter Avatar
-'
-ja!アバター「不屈の兵士」
-!
-ukАватар «Боєць»
+
+plFighter Avatar
 
 ptFighter Avatar
 
 esFighter Avatar
 
 frAvatar de combattant
+!
+ukАватар «Боєць»
+'
+ja!アバター「不屈の兵士」
 
 ruАватар «Боец».png
 �
@@ -26117,19 +26117,19 @@ $
 
 enVengeance Fan Avatar
 
-plVengeance Fan Avatar
-
 zhVengeance Fan Avatar
-+
-ja%アバター「Vengeance ファン」
-9
-uk3Аватар «Вболівальник Vengeance»
+
+plVengeance Fan Avatar
 
 ptVengeance Fan Avatar
 
 esVengeance Fan Avatar
 '
 fr!Avatar du passionné de Vengeance
+9
+uk3Аватар «Вболівальник Vengeance»
++
+ja%アバター「Vengeance ファン」
 3
 ru-Аватар «Болельщик Vengeance».webp
 �
@@ -26137,19 +26137,19 @@ $
 
 enTrophy Place Avatar
 
-plTrophy Place Avatar
-
 zhTrophy Place Avatar
-0
-ja*アバター「勝利のトロフィー」
-/
-uk)Аватар «На п'єдесталі»
+
+plTrophy Place Avatar
 
 ptTrophy Place Avatar
 
 esTrophy Place Avatar
  
 frAvatar du Trophée gagnant
+/
+uk)Аватар «На п'єдесталі»
+0
+ja*アバター「勝利のトロフィー」
 0
 ru*Аватар «На пьедестале».webp
 �
@@ -26157,19 +26157,19 @@ $
 
 enganteli Fan Avatar
 
-plganteli Fan Avatar
-
 zhganteli Fan Avatar
-)
-ja#アバター「ganteli ファン」
-7
-uk1Аватар «Вболівальник ganteli»
+
+plganteli Fan Avatar
 
 ptganteli Fan Avatar
 
 esganteli Fan Avatar
 %
 frAvatar du passionné de ganteli
+7
+uk1Аватар «Вболівальник ganteli»
+)
+ja#アバター「ganteli ファン」
 1
 ru+Аватар «Болельщик ganteli».webp
 �
@@ -26177,19 +26177,19 @@ $
 
 enSlice of Paradise Avatar
 
-plSlice of Paradise Avatar
-
 zhSlice of Paradise Avatar
-*
-ja$アバター「幸せの切れ端」
-2
-uk,Аватар «Ласий шматочок»
+
+plSlice of Paradise Avatar
 
 ptSlice of Paradise Avatar
 
 esSlice of Paradise Avatar
 
 frAvatar Part de paradis
+2
+uk,Аватар «Ласий шматочок»
+*
+ja$アバター「幸せの切れ端」
 4
 ru.Аватар «Лакомый кусочек».webp
 �
@@ -26197,19 +26197,19 @@ $
 
 enTrophy Place Avatar
 
-plTrophy Place Avatar
-
 zhTrophy Place Avatar
-0
-ja*アバター「勝利のトロフィー」
-/
-uk)Аватар «На п'єдесталі»
+
+plTrophy Place Avatar
 
 ptTrophy Place Avatar
 
 esTrophy Place Avatar
  
 frAvatar du Trophée gagnant
+/
+uk)Аватар «На п'єдесталі»
+0
+ja*アバター「勝利のトロフィー」
 0
 ru*Аватар «На пьедестале».webp
 �
@@ -26217,19 +26217,19 @@ $
 
 enFluffy Snowflake Avatar
 
-plFluffy Snowflake Avatar
-
 zhFluffy Snowflake Avatar
--
-ja'アバター「フワフワな雪片」
-9
-uk3Аватар «Пухнаста сніжинка».
+
+plFluffy Snowflake Avatar
 
 ptFluffy Snowflake Avatar
 
 esFluffy Snowflake Avatar
 $
 frAvatar de flocon de neige doux
+9
+uk3Аватар «Пухнаста сніжинка».
+-
+ja'アバター「フワフワな雪片」
 8
 ru2Аватар «Пушистая снежинка».png
 �
@@ -26237,19 +26237,19 @@ $
 
 enAll Together Avatar
 
-plAll Together Avatar
-
 zhAll Together Avatar
 
-jaAll Together Avatar
-
-ukAll Together Avatar
+plAll Together Avatar
 
 ptAll Together Avatar
 
 esAll Together Avatar
 
 frAll Together Avatar
+
+ukAll Together Avatar
+
+jaAll Together Avatar
 /
 ru)Аватар «Всё сложится!».webp
 �
@@ -26257,19 +26257,19 @@ $
  
 enRaiders Fan Diamond Avatar
  
-plRaiders Fan Diamond Avatar
- 
 zhRaiders Fan Diamond Avatar
->
-ja8アバター「Raiders ファン・ダイヤモンド」
-[
-ukUДіамантовий аватар уболівальника команди Raiders
+ 
+plRaiders Fan Diamond Avatar
  
 ptRaiders Fan Diamond Avatar
  
 esRaiders Fan Diamond Avatar
 0
 fr*Avatar du passionné de Raiders de diamant
+[
+ukUДіамантовий аватар уболівальника команди Raiders
+>
+ja8アバター「Raiders ファン・ダイヤモンド」
 Y
 ruSБриллиантовый аватар болельщика команды Raiders.webp
 �
@@ -26277,13 +26277,9 @@ Y
 
 enSpidrannery Avatar
 
-plSpidrannery Avatar
-
 zhSpidrannery Avatar
-#
-jaアバター「Spidrannery」
-
-ukАватар Spidrannery
+
+plSpidrannery Avatar
 
 ptSpidrannery Avatar
 
@@ -26291,25 +26287,29 @@ Y
 
 frAvatar de Spidrannery
 
+ukАватар Spidrannery
+#
+jaアバター「Spidrannery」
+
 ruАватар Spidrannery.webp
 �
 avatar_progressive_bp_47_free_1�
 
 enUncharted Realms Avatar
 
-plUncharted Realms Avatar
-
 zhUncharted Realms Avatar
-*
-ja$アバター「未知なる領域」
-4
-uk.Аватар «Незвідані світи»
+
+plUncharted Realms Avatar
 
 ptUncharted Realms Avatar
 
 esUncharted Realms Avatar
 !
 frAvatar Royaumes inexplorés
+4
+uk.Аватар «Незвідані світи»
+*
+ja$アバター「未知なる領域」
 8
 ru2Аватар «Неизведанные миры».webp
 �
@@ -26317,19 +26317,19 @@ Y
 
 enGuardian Lion Avatar
 
-plGuardian Lion Avatar
-
 zhGuardian Lion Avatar
-
-jaアバター「獅子」
-(
-uk"Аватар «Лев-страж»
+
+plGuardian Lion Avatar
 
 ptGuardian Lion Avatar
 
 esGuardian Lion Avatar
 
 frAvatar du lion protecteur
+(
+uk"Аватар «Лев-страж»
+
+jaアバター「獅子」
 (
 ru"Аватар «Лев-страж».png
 �
@@ -26337,19 +26337,19 @@ Y
 
 enGuardian Lion Avatar
 
-plGuardian Lion Avatar
-
 zhGuardian Lion Avatar
-
-jaアバター「獅子」
-(
-uk"Аватар «Лев-страж»
+
+plGuardian Lion Avatar
 
 ptGuardian Lion Avatar
 
 esGuardian Lion Avatar
 
 frAvatar du lion protecteur
+(
+uk"Аватар «Лев-страж»
+
+jaアバター「獅子」
 (
 ru"Аватар «Лев-страж».png
 �
@@ -26357,19 +26357,19 @@ Y
 
 enGuardian Lion Avatar
 
-plGuardian Lion Avatar
-
 zhGuardian Lion Avatar
-
-jaアバター「獅子」
-(
-uk"Аватар «Лев-страж»
+
+plGuardian Lion Avatar
 
 ptGuardian Lion Avatar
 
 esGuardian Lion Avatar
 
 frAvatar du lion protecteur
+(
+uk"Аватар «Лев-страж»
+
+jaアバター「獅子」
 (
 ru"Аватар «Лев-страж».png
 �
@@ -26377,19 +26377,19 @@ Y
 
 enGuardian Lion Avatar
 
-plGuardian Lion Avatar
-
 zhGuardian Lion Avatar
-
-jaアバター「獅子」
-(
-uk"Аватар «Лев-страж»
+
+plGuardian Lion Avatar
 
 ptGuardian Lion Avatar
 
 esGuardian Lion Avatar
 
 frAvatar du lion protecteur
+(
+uk"Аватар «Лев-страж»
+
+jaアバター「獅子」
 (
 ru"Аватар «Лев-страж».png
 �
@@ -26397,19 +26397,19 @@ Y
 
 enNew Year's Gift Avatar
 
-plNew Year's Gift Avatar
-
 zhNew Year's Gift Avatar
-0
-ja*アバター「新年のプレゼント」
->
-uk8Аватар «Новорічний подарунок»
+
+plNew Year's Gift Avatar
 
 ptNew Year's Gift Avatar
 
 esNew Year's Gift Avatar
 #
 frAvatar de cadeau du Nouvel An
+>
+uk8Аватар «Новорічний подарунок»
+0
+ja*アバター「新年のプレゼント」
 :
 ru4Аватар «Новогодний подарок».png
 �
@@ -26417,19 +26417,19 @@ Y
 
 enThe Mercenaries Avatar
 
-plThe Mercenaries Avatar
-
 zhThe Mercenaries Avatar
-*
-ja$アバター「マーセナリー」
-'
-uk!Аватар «Найманці»
+
+plThe Mercenaries Avatar
 
 ptThe Mercenaries Avatar
 
 esThe Mercenaries Avatar
 
 frAvatar Les mercenaires
+'
+uk!Аватар «Найманці»
+*
+ja$アバター「マーセナリー」
 '
 ru!Аватар «Наёмники».webp
 �
@@ -26437,13 +26437,9 @@ Y
 
 enThe Mercenaries Avatar
 
-plThe Mercenaries Avatar
-
 zhThe Mercenaries Avatar
-*
-ja$アバター「マーセナリー」
-'
-uk!Аватар «Найманці»
+
+plThe Mercenaries Avatar
 
 ptThe Mercenaries Avatar
 
@@ -26451,19 +26447,19 @@ Y
 
 frAvatar Les mercenaires
 '
+uk!Аватар «Найманці»
+*
+ja$アバター「マーセナリー」
+'
 ru!Аватар «Наёмники».webp
 �
 avatar_progressive_bp_6_free_4�
 
 enGuardian Lion Avatar
 
-plGuardian Lion Avatar
-
 zhGuardian Lion Avatar
-
-jaアバター「獅子」
-(
-uk"Аватар «Лев-страж»
+
+plGuardian Lion Avatar
 
 ptGuardian Lion Avatar
 
@@ -26471,19 +26467,19 @@ Y
 
 frAvatar du lion protecteur
 (
+uk"Аватар «Лев-страж»
+
+jaアバター「獅子」
+(
 ru"Аватар «Лев-страж».png
 �
 avatar_bp_70_bundle�
 
 enPalikari Avatar
 
-plPalikari Avatar
-
 zhPalikari Avatar
-$
-jaアバター「パリカリ」
-'
-uk!Аватар «Палікарі»
+
+plPalikari Avatar
 
 ptPalikari Avatar
 
@@ -26491,25 +26487,29 @@ $
 
 frAvatar Palikari
 '
+uk!Аватар «Палікарі»
+$
+jaアバター「パリカリ」
+'
 ru!Аватар «Паликари».webp
 �
 avatar_catcher_legendary�
 
 enLightning Catcher Avatar
 
-plLightning Catcher Avatar
-
 zhLightning Catcher Avatar
-!
-jaアバター「雷の主」
-6
-uk0Аватар «Ловець блискавок»
+
+plLightning Catcher Avatar
 
 ptLightning Catcher Avatar
 
 esLightning Catcher Avatar
 &
 fr Avatar de l'attrapeur d'éclairs
+6
+uk0Аватар «Ловець блискавок»
+!
+jaアバター「雷の主」
 /
 ru)Аватар «Ловец молний».png
 �
@@ -26517,13 +26517,9 @@ $
 
 enPONDAMONIUM Avatar
 
-plPONDAMONIUM Avatar
-
 zhPONDAMONIUM Avatar
-#
-jaアバター「PONDAMONIUM」
-
-ukАватар PONDAMONIUM
+
+plPONDAMONIUM Avatar
 
 ptPONDAMONIUM Avatar
 
@@ -26531,25 +26527,29 @@ $
 
 frAvatar de PONDAMONIUM
 
+ukАватар PONDAMONIUM
+#
+jaアバター「PONDAMONIUM」
+
 ruАватар PONDAMONIUM.webp
 �
 avatar_HWPumpkin_legendary�
 
 enJack-O'-Lantern Avatar
 
-plJack-O'-Lantern Avatar
-
 zhJack-O'-Lantern Avatar
-3
-ja-アバター「ジャックオランタン」
-.
-uk(Аватар «Ліхтар Джека»
+
+plJack-O'-Lantern Avatar
 
 ptJack-O'-Lantern Avatar
 
 esJack-O'-Lantern Avatar
  
 frAvatar Citrouille-lanterne
+.
+uk(Аватар «Ліхтар Джека»
+3
+ja-アバター「ジャックオランタン」
 6
 ru0Аватар «Светильник Джека».webp
 �
@@ -26557,19 +26557,19 @@ $
 
 enDetection Bulb Avatar
 
-plDetection Bulb Avatar
-
 zhDetection Bulb Avatar
-$
-jaアバター「発見電球」
-:
-uk4Аватар «Лампочка виявлення»
+
+plDetection Bulb Avatar
 
 ptDetection Bulb Avatar
 
 esDetection Bulb Avatar
 "
 frAvatar Ampoule de détection
+:
+uk4Аватар «Лампочка виявлення»
+$
+jaアバター「発見電球」
 >
 ru8Аватар «Лампочка обнаружения».webp
 �
@@ -26577,13 +26577,9 @@ $
 
 enSteel Eagle Avatar
 
-plSteel Eagle Avatar
-
 zhSteel Eagle Avatar
-$
-jaアバター「鋼鉄の鷲」
-0
-uk*Аватар «Сталевий орел»
+
+plSteel Eagle Avatar
 
 ptSteel Eagle Avatar
 
@@ -26591,25 +26587,29 @@ $
 
 frAvatar d'aigle d'acier
 0
+uk*Аватар «Сталевий орел»
+$
+jaアバター「鋼鉄の鷲」
+0
 ru*Аватар «Стальной орёл».webp
 �
 avatar_bp_32_bundle�
  
 enEpsilon Sagittarius Avatar
  
-plEpsilon Sagittarius Avatar
- 
 zhEpsilon Sagittarius Avatar
-+
-ja%アバター「Epsilon Sagittarius」
-&
-uk Аватар Epsilon Sagittarius
+ 
+plEpsilon Sagittarius Avatar
  
 ptEpsilon Sagittarius Avatar
  
 esEpsilon Sagittarius Avatar
 %
 frAvatar de l'Epsilon Sagittarius
+&
+uk Аватар Epsilon Sagittarius
++
+ja%アバター「Epsilon Sagittarius」
 6
 ru0Аватар «Эпсилон Стрельца».webp
 �
@@ -26617,13 +26617,9 @@ $
 
 enCharm of Fortune Avatar
 
-plCharm of Fortune Avatar
-
 zhCharm of Fortune Avatar
-$
-jaアバター「富の魅力」
-%
-ukАватар «Фортуна»
+
+plCharm of Fortune Avatar
 
 ptCharm of Fortune Avatar
 
@@ -26631,25 +26627,29 @@ $
 &
 fr Avatar du Talisman de la fortune
 %
+ukАватар «Фортуна»
+$
+jaアバター「富の魅力」
+%
 ruАватар «Фортуна».png
 �
 avatar_progressive_bp_39_free_2�
 
 enFinn Avatar
 
-plFinn Avatar
-
 zhFinn Avatar
-!
-jaアバター「フィン」
-
-ukАватар «Фінн»
+
+plFinn Avatar
 
 ptFinn Avatar
 
 esFinn Avatar
 
 frAvatar de Finn
+
+ukАватар «Фінн»
+!
+jaアバター「フィン」
  
 ruАватар «Финн».webp
 �
@@ -26657,19 +26657,19 @@ $
 
 enFinn Avatar
 
-plFinn Avatar
-
 zhFinn Avatar
-!
-jaアバター「フィン」
-
-ukАватар «Фінн»
+
+plFinn Avatar
 
 ptFinn Avatar
 
 esFinn Avatar
 
 frAvatar de Finn
+
+ukАватар «Фінн»
+!
+jaアバター「フィン」
  
 ruАватар «Финн».webp
 �
@@ -26677,13 +26677,9 @@ $
 
 enCook’s Camper Avatar
 
-plCook’s Camper Avatar
-
 zhCook’s Camper Avatar
--
-ja'アバター「グルメなワゴン」
-6
-uk0Аватар «Фургончик кухаря»
+
+plCook’s Camper Avatar
 
 ptCook’s Camper Avatar
 
@@ -26691,19 +26687,19 @@ $
 
 frAvatar Labo ambulant
 6
+uk0Аватар «Фургончик кухаря»
+-
+ja'アバター「グルメなワゴン」
+6
 ru0Аватар «Фургончик повара».webp
 �
 avatar_weapon_common_72h�
 
 enHarsh Ultimatum Avatar
 
-plHarsh Ultimatum Avatar
-
 zhHarsh Ultimatum Avatar
--
-ja'アバター「厳しい最後通告」
-+
-uk%Аватар «Ультиматум»
+
+plHarsh Ultimatum Avatar
 
 ptHarsh Ultimatum Avatar
 
@@ -26711,25 +26707,29 @@ $
 #
 frAvatar de l'ultimatum hostile
 +
+uk%Аватар «Ультиматум»
+-
+ja'アバター「厳しい最後通告」
++
 ru%Аватар «Ультиматум».png
 �
 avatar_progressive_bp_39_free_4�
 
 enFinn Avatar
 
-plFinn Avatar
-
 zhFinn Avatar
-!
-jaアバター「フィン」
-
-ukАватар «Фінн»
+
+plFinn Avatar
 
 ptFinn Avatar
 
 esFinn Avatar
 
 frAvatar de Finn
+
+ukАватар «Фінн»
+!
+jaアバター「フィン」
  
 ruАватар «Финн».webp
 �
@@ -26737,19 +26737,19 @@ $
 
 en"Rookie" Avatar
 
-pl"Rookie" Avatar
-
 zh"Rookie" Avatar
-
-jaアバター「新人」
-7
-uk1Аватар «Той самий союзник»
+
+pl"Rookie" Avatar
 
 pt"Rookie" Avatar
 
 es"Rookie" Avatar
 
 frAvatar « Bleusaille »
+7
+uk1Аватар «Той самий союзник»
+
+jaアバター「新人」
 7
 ru1Аватар «Тот самый союзник».png
 �
@@ -26759,15 +26759,10 @@ $
 entest
 
 
-pltest
-
-
 zhtest
-%
-jaАватар «Бесёнок»
 
 
-uktest
+pltest
 
 
 pttest
@@ -26777,6 +26772,11 @@ $
 
 
 frtest
+
+
+uktest
+%
+jaАватар «Бесёнок»
 %
 ruАватар «Бесёнок».webp
 �
@@ -26784,13 +26784,9 @@ $
 
 enSickle Avatar
 
-plSickle Avatar
-
 zhSickle Avatar
-
-jaアバター「鎌」
-
-ukАватар «Серп»
+
+plSickle Avatar
 
 ptSickle Avatar
 
@@ -26798,19 +26794,19 @@ $
 
 frAvatar de la faucille
 
+ukАватар «Серп»
+
+jaアバター「鎌」
+
 ruАватар «Серп».webp
 �
 avatar_mt_legendary�
 "
 enMedium Tank Commander Avatar
 "
-plMedium Tank Commander Avatar
-"
 zhMedium Tank Commander Avatar
-$
-jaアバター「中戦車長」
-,
-uk&Аватар «Командир СТ»
+"
+plMedium Tank Commander Avatar
 "
 ptMedium Tank Commander Avatar
 "
@@ -26818,25 +26814,29 @@ $
 %
 frAvatar Commandant de char moyen
 ,
+uk&Аватар «Командир СТ»
+$
+jaアバター「中戦車長」
+,
 ru&Аватар «Командир СТ».webp
 �
 avatar_md_mascot_anim�
 $
 enVic Rattlehead Animated Avatar
 $
-plVic Rattlehead Animated Avatar
-$
 zhVic Rattlehead Animated Avatar
-T
-jaNアニメーション付きアバター「ヴィック・ラトルヘッド」
-C
-uk=Анімований аватар «Вік Раттлхед»
+$
+plVic Rattlehead Animated Avatar
 $
 ptVic Rattlehead Animated Avatar
 $
 esVic Rattlehead Animated Avatar
 "
 frAvatar animé Vic Rattlehead
+C
+uk=Анімований аватар «Вік Раттлхед»
+T
+jaNアニメーション付きアバター「ヴィック・ラトルヘッド」
 I
 ruCАнимированный аватар «Вик Раттлхэд».webp
 �
@@ -26844,19 +26844,19 @@ I
 
 enFlare Gun Avatar
 
-plFlare Gun Avatar
-
 zhFlare Gun Avatar
-$
-jaアバター「信号拳銃」
-*
-uk$Аватар «Ракетниця».
+
+plFlare Gun Avatar
 
 ptFlare Gun Avatar
 
 esFlare Gun Avatar
  
 frAvatar Fusée de détresse
+*
+uk$Аватар «Ракетниця».
+$
+jaアバター「信号拳銃」
 )
 ru#Аватар «Ракетница».webp
 �
@@ -26864,19 +26864,19 @@ $
 '
 en!Marquee Spotlight Animated Avatar
 '
-pl!Marquee Spotlight Animated Avatar
-'
 zh!Marquee Spotlight Animated Avatar
-H
-jaBアニメーション付きアバター「煌びやかな看板」
-K
-ukEАнімований аватар «Сяйво прожектора»
+'
+pl!Marquee Spotlight Animated Avatar
 '
 pt!Marquee Spotlight Animated Avatar
 '
 es!Marquee Spotlight Animated Avatar
 +
 fr%Avatar animé Projecteur du chapiteau
+K
+ukEАнімований аватар «Сяйво прожектора»
+H
+jaBアニメーション付きアバター「煌びやかな看板」
 T
 ruNАнимированный аватар «В свете прожектора».webp
 �
@@ -26884,13 +26884,9 @@ T
 
 enSoldier's Knife Avatar
 
-plSoldier's Knife Avatar
-
 zhSoldier's Knife Avatar
-*
-ja$アバター「戦士のナイフ」
-,
-uk&Аватар «Ніж солдата»
+
+plSoldier's Knife Avatar
 
 ptSoldier's Knife Avatar
 
@@ -26898,19 +26894,19 @@ T
 
 frAvatar couteau du soldat
 ,
+uk&Аватар «Ніж солдата»
+*
+ja$アバター「戦士のナイフ」
+,
 ru&Аватар «Нож солдата».webp
 �
 avatar_buffalo_unique�
 
 enWild Bull Avatar
 
-plWild Bull Avatar
-
 zhWild Bull Avatar
-*
-ja$アバター「気の荒い雄牛」
-.
-uk(Аватар «Дикий буйвіл»
+
+plWild Bull Avatar
 
 ptWild Bull Avatar
 
@@ -26918,25 +26914,29 @@ T
 
 frAvatar du taureau sauvage
 .
+uk(Аватар «Дикий буйвіл»
+*
+ja$アバター「気の荒い雄牛」
+.
 ru(Аватар «Дикий буйвол».png
 �
 avatar_2024_pizza�
 %
 enMaster Splinter Animated Avatar
 %
-plMaster Splinter Animated Avatar
-%
 zhMaster Splinter Animated Avatar
-K
-jaEアニメーション付きアバター「スプリンター先生」
-K
-ukEАнімований аватар «Майстер Сплінтер»
+%
+plMaster Splinter Animated Avatar
 %
 ptMaster Splinter Animated Avatar
 %
 esMaster Splinter Animated Avatar
 $
 frAvatar animé Maître Splinter
+K
+ukEАнімований аватар «Майстер Сплінтер»
+K
+jaEアニメーション付きアバター「スプリンター先生」
 Q
 ruKАнимированный аватар «Учитель Сплинтер».webp
 �
@@ -26944,19 +26944,19 @@ Q
 
 enNGUYEN Fan Avatar
 
-plNGUYEN Fan Avatar
-
 zhNGUYEN Fan Avatar
-(
-ja"アバター「NGUYEN ファン」
-6
-uk0Аватар «Вболівальник NGUYEN»
+
+plNGUYEN Fan Avatar
 
 ptNGUYEN Fan Avatar
 
 esNGUYEN Fan Avatar
 $
 frAvatar du passionné de NGUYEN
+6
+uk0Аватар «Вболівальник NGUYEN»
+(
+ja"アバター「NGUYEN ファン」
 0
 ru*Аватар «Болельщик NGUYEN».webp
 �
@@ -26964,13 +26964,9 @@ $
 "
 enDraw Enjoyer Animated Avatar
 "
-plDraw Enjoyer Animated Avatar
-"
 zhDraw Enjoyer Animated Avatar
-N
-jaHアニメーション付きアバター「ラッキーくじガチ勢」
-W
-ukQАнімований аватар «Поціновувач розіграшів»
+"
+plDraw Enjoyer Animated Avatar
 "
 ptDraw Enjoyer Animated Avatar
 "
@@ -26978,19 +26974,19 @@ W
 0
 fr*Avatar animé Passionné du Tirage au sort
 W
+ukQАнімований аватар «Поціновувач розіграшів»
+N
+jaHアニメーション付きアバター「ラッキーくじガチ勢」
+W
 ruQАнимированный аватар «Любитель розыгрышей».webp
 �
 avatar_fangs_common_72h�
 
 enMenacing Grin Avatar
 
-plMenacing Grin Avatar
-
 zhMenacing Grin Avatar
-'
-ja!アバター「不敵な笑み」
-0
-uk*Аватар «Грізний оскал»
+
+plMenacing Grin Avatar
 
 ptMenacing Grin Avatar
 
@@ -26998,19 +26994,19 @@ W
 !
 frAvatar de sourire menaçant
 0
+uk*Аватар «Грізний оскал»
+'
+ja!アバター「不敵な笑み」
+0
 ru*Аватар «Грозный оскал».png
 �
 !avatar_wh_space_marines_legendary�
 
 enSpace Marines Avatar
 
-plSpace Marines Avatar
-
 zhSpace Marines Avatar
-0
-ja*アバター「スペースマリーン」
- 
-ukАватар Space Marines
+
+plSpace Marines Avatar
 
 ptSpace Marines Avatar
 
@@ -27018,25 +27014,29 @@ W
 
 frAvatar Space Marines
  
+ukАватар Space Marines
+0
+ja*アバター「スペースマリーン」
+ 
 ruАватар Space Marines.webp
 �
 avatar_mashroom_legendary_anim�
 !
 enSteer Clear Animated Avatar
 !
-plSteer Clear Animated Avatar
-!
 zhSteer Clear Animated Avatar
-?
-ja9アニメーション付きアバター「味見厳禁」
-?
-uk9Анімований аватар «Ідіть собі»
+!
+plSteer Clear Animated Avatar
 !
 ptSteer Clear Animated Avatar
 !
 esSteer Clear Animated Avatar
 (
 fr"Avatar animé Se tenir à l'écart
+?
+uk9Анімований аватар «Ідіть собі»
+?
+ja9アニメーション付きアバター「味見厳禁」
 M
 ruGАнимированный аватар «Проходите мимо».webp
 �
@@ -27044,13 +27044,9 @@ M
 
 enGUCCI GANG TEAM Avatar
 
-plGUCCI GANG TEAM Avatar
-
 zhGUCCI GANG TEAM Avatar
-'
-ja!アバター「GUCCI GANG TEAM」
-"
-ukАватар GUCCI GANG TEAM
+
+plGUCCI GANG TEAM Avatar
 
 ptGUCCI GANG TEAM Avatar
 
@@ -27058,19 +27054,19 @@ M
 
 frAvatar de GUCCI GANG TEAM
 "
+ukАватар GUCCI GANG TEAM
+'
+ja!アバター「GUCCI GANG TEAM」
+"
 ruАватар GUCCI GANG TEAM.png
 �
 $avatar_progressive_bp_38_ruby_paid_2�
 <
 en6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
-pl6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
-<
 zh6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
-ja6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
-<
-uk6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+pl6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
 pt6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
@@ -27078,19 +27074,19 @@ $avatar_progressive_bp_38_ruby_paid_2�
 <
 fr6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
+uk6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+<
+ja6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+<
 ru6storage/Items/avatar_progressive_bp_38_ruby_paid/Title.webp
 �
 avatar_reign_legendary�
 
 enREIGN Avatar
 
-plREIGN Avatar
-
 zhREIGN Avatar
-
-jaアバター「REIGN」
-
-ukАватар REIGN
+
+plREIGN Avatar
 
 ptREIGN Avatar
 
@@ -27098,25 +27094,29 @@ $avatar_progressive_bp_38_ruby_paid_2�
 
 frAvatar de REIGN
 
+ukАватар REIGN
+
+jaアバター「REIGN」
+
 ruАватар REIGN.png
 �
 avatar_2024_villa_4_anim�
 "
 enHakui Koyori Animated Avatar
 "
-plHakui Koyori Animated Avatar
-"
 zhHakui Koyori Animated Avatar
-B
-ja<アニメーション付きアバター「博衣こより」
-4
-uk.Анімований аватар Hakui Koyori
+"
+plHakui Koyori Animated Avatar
 "
 ptHakui Koyori Animated Avatar
 "
 esHakui Koyori Animated Avatar
  
 frAvatar animé Hakui Koyori
+4
+uk.Анімований аватар Hakui Koyori
+B
+ja<アニメーション付きアバター「博衣こより」
 :
 ru4Анимированный аватар Hakui Koyori.webp
 �
@@ -27124,13 +27124,9 @@ B
 
 enAssistant Avatar
 
-plAssistant Avatar
-
 zhAssistant Avatar
-$
-jaアバター「助手くん」
-
-ukАватар Assistant
+
+plAssistant Avatar
 
 ptAssistant Avatar
 
@@ -27138,25 +27134,29 @@ $
 
 frAvatar Assistant
 
+ukАватар Assistant
+$
+jaアバター「助手くん」
+
 ruАватар Assistant.webp
 �
 avatar_EU_Kobni_rare_31d�
 
 enKobni Fan Avatar
 
-plKobni Fan Avatar
-
 zhKobni Fan Avatar
-'
-ja!アバター「Kobni ファン」
-5
-uk/Аватар «Вболівальник Kobni»
+
+plKobni Fan Avatar
 
 ptKobni Fan Avatar
 
 esKobni Fan Avatar
 #
 frAvatar du passionné de Kobni
+5
+uk/Аватар «Вболівальник Kobni»
+'
+ja!アバター「Kobni ファン」
 /
 ru)Аватар «Болельщик Kobni».webp
 �
@@ -27164,19 +27164,19 @@ $
 
 enForged in Battle Avatar
 
-plForged in Battle Avatar
-
 zhForged in Battle Avatar
-$
-jaアバター「百戦錬磨」
-<
-uk6Аватар «Бойове загартування»
+
+plForged in Battle Avatar
 
 ptForged in Battle Avatar
 
 esForged in Battle Avatar
 
 frAvatar Forgé au combat
+<
+uk6Аватар «Бойове загартування»
+$
+jaアバター「百戦錬磨」
 2
 ru,Аватар «Боевая закалка».png
 �
@@ -27184,19 +27184,19 @@ $
  
 enTEAM ID Fan Diamond Avatar
  
-plTEAM ID Fan Diamond Avatar
- 
 zhTEAM ID Fan Diamond Avatar
->
-ja8アバター「TEAM ID ファン・ダイヤモンド」
-\
-ukVДіамантовий аватар уболівальника команди TEAM ID
+ 
+plTEAM ID Fan Diamond Avatar
  
 ptTEAM ID Fan Diamond Avatar
  
 esTEAM ID Fan Diamond Avatar
 0
 fr*Avatar du passionné de TEAM ID de diamant
+\
+ukVДіамантовий аватар уболівальника команди TEAM ID
+>
+ja8アバター「TEAM ID ファン・ダイヤモンド」
 Y
 ruSБриллиантовый аватар болельщика команды TEAM ID.webp
 �
@@ -27204,13 +27204,9 @@ Y
 
 en"Dab Life" Avatar
 
-pl"Dab Life" Avatar
-
 zh"Dab Life" Avatar
-$
-jaアバター「ダブ三昧」
-
-ukАватар «Деб!»
+
+pl"Dab Life" Avatar
 
 pt"Dab Life" Avatar
 
@@ -27218,25 +27214,29 @@ $
 
 frAvatar « Comme Dab »
 
+ukАватар «Деб!»
+$
+jaアバター「ダブ三昧」
+
 ruАватар «Дэб!».png
 �
 avatar_progressive_bp_18_paid_2�
 
 enAtmospheric Entry Avatar
 
-plAtmospheric Entry Avatar
-
 zhAtmospheric Entry Avatar
-0
-ja*アバター「宇宙からの飛来物」
-4
-uk.Аватар «Крізь атмосферу»
+
+plAtmospheric Entry Avatar
 
 ptAtmospheric Entry Avatar
 
 esAtmospheric Entry Avatar
 '
 fr!Avatar Entrée dans l'atmosphère
+4
+uk.Аватар «Крізь атмосферу»
+0
+ja*アバター「宇宙からの飛来物」
 6
 ru0Аватар «Сквозь атмосферу».webp
 �
@@ -27244,19 +27244,19 @@ $avatar_progressive_realistic_wins_10�
 
 enWill of Steel Avatar
 
-plWill of Steel Avatar
-
 zhWill of Steel Avatar
-$
-jaアバター「鋼の意志」
-.
-uk(Аватар «Залізна воля»
+
+plWill of Steel Avatar
 
 ptWill of Steel Avatar
 
 esWill of Steel Avatar
 
 frAvatar Volonté d'acier
+.
+uk(Аватар «Залізна воля»
+$
+jaアバター「鋼の意志」
 0
 ru*Аватар «Железная воля».png
 �
@@ -27264,19 +27264,19 @@ $avatar_progressive_realistic_wins_11�
 
 enWill of Steel Avatar
 
-plWill of Steel Avatar
-
 zhWill of Steel Avatar
-$
-jaアバター「鋼の意志」
-.
-uk(Аватар «Залізна воля»
+
+plWill of Steel Avatar
 
 ptWill of Steel Avatar
 
 esWill of Steel Avatar
 
 frAvatar Volonté d'acier
+.
+uk(Аватар «Залізна воля»
+$
+jaアバター「鋼の意志」
 0
 ru*Аватар «Железная воля».webp
 �
@@ -27284,19 +27284,19 @@ $
 
 enAquanaut Avatar
 
-plAquanaut Avatar
-
 zhAquanaut Avatar
-!
-jaアバター「潜水士」
-'
-uk!Аватар «Акванавт»
+
+plAquanaut Avatar
 
 ptAquanaut Avatar
 
 esAquanaut Avatar
 
 frAvatar du scaphandrier
+'
+uk!Аватар «Акванавт»
+!
+jaアバター「潜水士」
 '
 ru!Аватар «Акванавт».webp
 �
@@ -27304,19 +27304,19 @@ $
 
 enAquanaut Avatar
 
-plAquanaut Avatar
-
 zhAquanaut Avatar
-!
-jaアバター「潜水士」
-'
-uk!Аватар «Акванавт»
+
+plAquanaut Avatar
 
 ptAquanaut Avatar
 
 esAquanaut Avatar
 
 frAvatar du scaphandrier
+'
+uk!Аватар «Акванавт»
+!
+jaアバター「潜水士」
 '
 ru!Аватар «Акванавт».webp
 �
@@ -27324,19 +27324,19 @@ $
  
 enDisco Ball Animated Avatar
  
-plDisco Ball Animated Avatar
- 
 zhDisco Ball Animated Avatar
-E
-ja?アニメーション付きアバター「ミラーボール」
->
-uk8Анімований аватар «Дискокуля»
+ 
+plDisco Ball Animated Avatar
  
 ptDisco Ball Animated Avatar
  
 esDisco Ball Animated Avatar
 
 frAvatar animé Boule disco
+>
+uk8Анімований аватар «Дискокуля»
+E
+ja?アニメーション付きアバター「ミラーボール」
 C
 ru=Анимированный аватар «Диско-шар».webp
 �
@@ -27344,19 +27344,19 @@ C
 
 enAdventurers Avatar
 
-plAdventurers Avatar
-
 zhAdventurers Avatar
-'
-ja!アバター「冒険者たち」
-0
-uk*Аватар «Шукачі пригод»
+
+plAdventurers Avatar
 
 ptAdventurers Avatar
 
 esAdventurers Avatar
 
 frAvatar Aventuriers
+0
+uk*Аватар «Шукачі пригод»
+'
+ja!アバター「冒険者たち」
 ;
 ru5Аватар «Отряд приключенцев».webp
 �
@@ -27364,13 +27364,9 @@ C
 
 enVictorious Avatar
 
-plVictorious Avatar
-
 zhVictorious Avatar
-!
-jaアバター「勝利者」
-+
-uk%Аватар «Переможець»
+
+plVictorious Avatar
 
 ptVictorious Avatar
 
@@ -27378,19 +27374,19 @@ C
 
 frAvatar victorieux
 +
+uk%Аватар «Переможець»
+!
+jaアバター「勝利者」
++
 ru%Аватар «Победитель».png
 �
 avatar_sai_legendary�
 
 enSais Avatar
 
-plSais Avatar
-
 zhSais Avatar
-
-jaアバター「釵」
-,
-uk&Аватар «Сай самурая»
+
+plSais Avatar
 
 ptSais Avatar
 
@@ -27398,25 +27394,29 @@ C
 
 frAvatar Saïs
 ,
+uk&Аватар «Сай самурая»
+
+jaアバター「釵」
+,
 ru&Аватар «Сай самурая».webp
 �
 avatar_progressive_bp_12_paid_4�
 
 enAquanaut Avatar
 
-plAquanaut Avatar
-
 zhAquanaut Avatar
-!
-jaアバター「潜水士」
-'
-uk!Аватар «Акванавт»
+
+plAquanaut Avatar
 
 ptAquanaut Avatar
 
 esAquanaut Avatar
 
 frAvatar du scaphandrier
+'
+uk!Аватар «Акванавт»
+!
+jaアバター「潜水士」
 '
 ru!Аватар «Акванавт».webp
 �
@@ -27424,19 +27424,19 @@ C
 
 enFluffy Snowflake Avatar
 
-plFluffy Snowflake Avatar
-
 zhFluffy Snowflake Avatar
--
-ja'アバター「フワフワな雪片」
-9
-uk3Аватар «Пухнаста сніжинка».
+
+plFluffy Snowflake Avatar
 
 ptFluffy Snowflake Avatar
 
 esFluffy Snowflake Avatar
 $
 frAvatar de flocon de neige doux
+9
+uk3Аватар «Пухнаста сніжинка».
+-
+ja'アバター「フワフワな雪片」
 8
 ru2Аватар «Пушистая снежинка».png
 �
@@ -27444,19 +27444,19 @@ $
  
 enAurum Tree Animated Avatar
  
-plAurum Tree Animated Avatar
- 
 zhAurum Tree Animated Avatar
-B
-ja<アニメーション付きアバター「金色の樹木」
-E
-uk?Анімований аватар «Золоте дерево»
+ 
+plAurum Tree Animated Avatar
  
 ptAurum Tree Animated Avatar
  
 esAurum Tree Animated Avatar
 
 frAvatar animé Arbre d'or
+E
+uk?Анімований аватар «Золоте дерево»
+B
+ja<アニメーション付きアバター「金色の樹木」
 W
 ruQАнимированный аватар «Золотоносное дерево».webp
 �
@@ -27464,19 +27464,19 @@ W
 
 enLucky Streak Avatar
 
-plLucky Streak Avatar
-
 zhLucky Streak Avatar
-$
-jaアバター「幸運続き」
-3
-uk-Аватар «Мені пощастить!»
+
+plLucky Streak Avatar
 
 ptLucky Streak Avatar
 
 esLucky Streak Avatar
 
 frAvatar de veinard
+3
+uk-Аватар «Мені пощастить!»
+$
+jaアバター「幸運続き」
 -
 ru'Аватар «Мне повезёт!».png
 �
@@ -27484,13 +27484,9 @@ $
 
 enAquanaut Avatar
 
-plAquanaut Avatar
-
 zhAquanaut Avatar
-!
-jaアバター「潜水士」
-'
-uk!Аватар «Акванавт»
+
+plAquanaut Avatar
 
 ptAquanaut Avatar
 
@@ -27498,25 +27494,29 @@ $
 
 frAvatar du scaphandrier
 '
+uk!Аватар «Акванавт»
+!
+jaアバター「潜水士」
+'
 ru!Аватар «Акванавт».webp
 �
 avatar_lunar_rat_legendary�
 
 enSteel Rat Avatar
 
-plSteel Rat Avatar
-
 zhSteel Rat Avatar
-*
-ja$アバター「鋼鉄のネズミ」
-.
-uk(Аватар «Сталевий щур»
+
+plSteel Rat Avatar
 
 ptSteel Rat Avatar
 
 esSteel Rat Avatar
 
 frAvatar du rat en acier
+.
+uk(Аватар «Сталевий щур»
+*
+ja$アバター「鋼鉄のネズミ」
 2
 ru,Аватар «Стальная крыса».png
 �
@@ -27525,15 +27525,11 @@ $
 en
 LUV Avatar
 
-pl
-LUV Avatar
-
 zh
 LUV Avatar
-
-jaアバター「LUV」
-
-ukАватар LUV
+
+pl
+LUV Avatar
 
 pt
 LUV Avatar
@@ -27544,25 +27540,29 @@ LUV Avatar
 fr
 Avatar LUV
 
+ukАватар LUV
+
+jaアバター「LUV」
+
 ruАватар LUV.webp
 �
 avatar_progressive_bp_12_paid_6�
 
 enAquanaut Avatar
 
-plAquanaut Avatar
-
 zhAquanaut Avatar
-!
-jaアバター「潜水士」
-'
-uk!Аватар «Акванавт»
+
+plAquanaut Avatar
 
 ptAquanaut Avatar
 
 esAquanaut Avatar
 
 frAvatar du scaphandrier
+'
+uk!Аватар «Акванавт»
+!
+jaアバター「潜水士」
 '
 ru!Аватар «Акванавт».webp
 �
@@ -27570,19 +27570,19 @@ Avatar LUV
 
 enAquanaut Avatar
 
-plAquanaut Avatar
-
 zhAquanaut Avatar
-!
-jaアバター「潜水士」
-'
-uk!Аватар «Акванавт»
+
+plAquanaut Avatar
 
 ptAquanaut Avatar
 
 esAquanaut Avatar
 
 frAvatar du scaphandrier
+'
+uk!Аватар «Акванавт»
+!
+jaアバター「潜水士」
 '
 ru!Аватар «Акванавт».webp
 �
@@ -27590,19 +27590,19 @@ Avatar LUV
 
 enAquanaut Avatar
 
-plAquanaut Avatar
-
 zhAquanaut Avatar
-!
-jaアバター「潜水士」
-'
-uk!Аватар «Акванавт»
+
+plAquanaut Avatar
 
 ptAquanaut Avatar
 
 esAquanaut Avatar
 
 frAvatar du scaphandrier
+'
+uk!Аватар «Акванавт»
+!
+jaアバター「潜水士」
 '
 ru!Аватар «Акванавт».webp
 �
@@ -27610,13 +27610,9 @@ Avatar LUV
 
 enAquanaut Avatar
 
-plAquanaut Avatar
-
 zhAquanaut Avatar
-!
-jaアバター「潜水士」
-'
-uk!Аватар «Акванавт»
+
+plAquanaut Avatar
 
 ptAquanaut Avatar
 
@@ -27624,25 +27620,29 @@ Avatar LUV
 
 frAvatar du scaphandrier
 '
+uk!Аватар «Акванавт»
+!
+jaアバター「潜水士」
+'
 ru!Аватар «Акванавт».webp
 �
 avatar_progressive_bp_48_free_2�
 
 enStinky Cat Avatar
 
-plStinky Cat Avatar
-
 zhStinky Cat Avatar
-3
-ja-アバター「ネコのスティンキー」
-.
-uk(Аватар «Кіт-волоцюга»
+
+plStinky Cat Avatar
 
 ptStinky Cat Avatar
 
 esStinky Cat Avatar
 
 frAvatar Chat puant
+.
+uk(Аватар «Кіт-волоцюга»
+3
+ja-アバター「ネコのスティンキー」
 *
 ru$Аватар «Драный кот».webp
 �
@@ -27650,19 +27650,19 @@ Avatar LUV
 
 enFrauenkirche Avatar
 
-plFrauenkirche Avatar
-
 zhFrauenkirche Avatar
 
-jaFrauenkirche Avatar
--
-uk'Аватар «Фрауенкірхе»
+plFrauenkirche Avatar
 
 ptFrauenkirche Avatar
 
 esFrauenkirche Avatar
 
 frAvatar Frauenkirche
+-
+uk'Аватар «Фрауенкірхе»
+
+jaFrauenkirche Avatar
 
 ruFrauenkirche Avatar.webp
 �
@@ -27670,19 +27670,19 @@ Avatar LUV
 
 en6 Victorious Years Avatar
 
-pl6 Victorious Years Avatar
-
 zh6 Victorious Years Avatar
-)
-ja#アバター「誇らしい 6年」
-2
-uk,Аватар «6 років перемог»
+
+pl6 Victorious Years Avatar
 
 pt6 Victorious Years Avatar
 
 es6 Victorious Years Avatar
 &
 fr Avatar de 6 années victorieuses
+2
+uk,Аватар «6 років перемог»
+)
+ja#アバター「誇らしい 6年」
 *
 ru$Аватар «6 лет побед».webp
 �
@@ -27690,19 +27690,19 @@ Avatar LUV
 !
 enAnything Is Possible Avatar
 !
-plAnything Is Possible Avatar
-!
 zhAnything Is Possible Avatar
-*
-ja$アバター「全てが可能だ」
-,
-uk&Аватар «Можливо все»
+!
+plAnything Is Possible Avatar
 !
 ptAnything Is Possible Avatar
 !
 esAnything Is Possible Avatar
 
 frAvatar Tout est possible
+,
+uk&Аватар «Можливо все»
+*
+ja$アバター「全てが可能だ」
 .
 ru(Аватар «Возможно всё».webp
 �
@@ -27710,19 +27710,19 @@ Avatar LUV
 
 enWild Rage Avatar
 
-plWild Rage Avatar
-
 zhWild Rage Avatar
-$
-jaアバター「獣の怒り」
-,
-uk&Аватар «Дикий норов»
+
+plWild Rage Avatar
 
 ptWild Rage Avatar
 
 esWild Rage Avatar
 
 frAvatar de rage sauvage
+,
+uk&Аватар «Дикий норов»
+$
+jaアバター「獣の怒り」
 *
 ru$Аватар «Дикий нрав».png
 �
@@ -27730,19 +27730,19 @@ $
 
 enFamily Ring Avatar
 
-plFamily Ring Avatar
-
 zhFamily Ring Avatar
-0
-ja*アバター「シグネットリング」
-:
-uk4Аватар «Фамільний перстень»
+
+plFamily Ring Avatar
 
 ptFamily Ring Avatar
 
 esFamily Ring Avatar
 
 frAvatar Bague de famille
+:
+uk4Аватар «Фамільний перстень»
+0
+ja*アバター「シグネットリング」
 :
 ru4Аватар «Фамильный перстень».webp
 �
@@ -27750,19 +27750,19 @@ $
 
 enMind Eater Avatar
 
-plMind Eater Avatar
-
 zhMind Eater Avatar
-0
-ja*アバター「マインドイーター」
-2
-uk,Аватар «Пожирач розуму»
+
+plMind Eater Avatar
 
 ptMind Eater Avatar
 
 esMind Eater Avatar
 "
 frAvatar du dévoreur d'esprit
+2
+uk,Аватар «Пожирач розуму»
+0
+ja*アバター「マインドイーター」
 8
 ru2Аватар «Пожиратель разума».png
 �
@@ -27770,19 +27770,19 @@ $
 
 enFamily Ring Avatar
 
-plFamily Ring Avatar
-
 zhFamily Ring Avatar
-0
-ja*アバター「シグネットリング」
-:
-uk4Аватар «Фамільний перстень»
+
+plFamily Ring Avatar
 
 ptFamily Ring Avatar
 
 esFamily Ring Avatar
 
 frAvatar Bague de famille
+:
+uk4Аватар «Фамільний перстень»
+0
+ja*アバター「シグネットリング」
 :
 ru4Аватар «Фамильный перстень».webp
 �
@@ -27790,19 +27790,19 @@ $
 
 enHandmade Ornament Avatar
 
-plHandmade Ornament Avatar
-
 zhHandmade Ornament Avatar
-3
-ja-アバター「手作りオーナメント」
-:
-uk4Аватар «Саморобна прикраса»
+
+plHandmade Ornament Avatar
 
 ptHandmade Ornament Avatar
 
 esHandmade Ornament Avatar
 %
 frAvatar Ornement fait à la main
+:
+uk4Аватар «Саморобна прикраса»
+3
+ja-アバター「手作りオーナメント」
 3
 ru-Аватар «Сделано с душой».webp
 �
@@ -27810,19 +27810,19 @@ $
 
 enRoboute Guilliman Avatar
 
-plRoboute Guilliman Avatar
-
 zhRoboute Guilliman Avatar
-6
-ja0アバター「ロブート・グィリマン」
-$
-ukАватар Roboute Guilliman
+
+plRoboute Guilliman Avatar
 
 ptRoboute Guilliman Avatar
 
 esRoboute Guilliman Avatar
 
 frAvatar Roboute Guilliman
+$
+ukАватар Roboute Guilliman
+6
+ja0アバター「ロブート・グィリマン」
 $
 ruАватар Roboute Guilliman.webp
 �
@@ -27830,19 +27830,19 @@ $
 
 enFamily Ring Avatar
 
-plFamily Ring Avatar
-
 zhFamily Ring Avatar
-0
-ja*アバター「シグネットリング」
-:
-uk4Аватар «Фамільний перстень»
+
+plFamily Ring Avatar
 
 ptFamily Ring Avatar
 
 esFamily Ring Avatar
 
 frAvatar Bague de famille
+:
+uk4Аватар «Фамільний перстень»
+0
+ja*アバター「シグネットリング」
 :
 ru4Аватар «Фамильный перстень».webp
 �
@@ -27850,13 +27850,9 @@ $
 
 enFamily Ring Avatar
 
-plFamily Ring Avatar
-
 zhFamily Ring Avatar
-0
-ja*アバター「シグネットリング」
-:
-uk4Аватар «Фамільний перстень»
+
+plFamily Ring Avatar
 
 ptFamily Ring Avatar
 
@@ -27864,25 +27860,29 @@ $
 
 frAvatar Bague de famille
 :
+uk4Аватар «Фамільний перстень»
+0
+ja*アバター「シグネットリング」
+:
 ru4Аватар «Фамильный перстень».webp
 �
 avatar_clover_4x_common_72h�
 
 enIrish Luck Avatar
 
-plIrish Luck Avatar
-
 zhIrish Luck Avatar
-3
-ja-アバター「アイルランドの幸運」
-)
-uk#Аватар «Щасливчик»
+
+plIrish Luck Avatar
 
 ptIrish Luck Avatar
 
 esIrish Luck Avatar
 (
 fr"Avatar de la chance de l'Irlandais
+)
+uk#Аватар «Щасливчик»
+3
+ja-アバター「アイルランドの幸運」
 -
 ru'Аватар «Счастливчик».png
 �
@@ -27890,19 +27890,19 @@ $
 
 en"Skirmish!" Avatar
 
-pl"Skirmish!" Avatar
-
 zh"Skirmish!" Avatar
-
-jaアバター「乱闘!」
-(
-uk"Аватар «Хто кого?!»
+
+pl"Skirmish!" Avatar
 
 pt"Skirmish!" Avatar
 
 es"Skirmish!" Avatar
 #
 frAvatar « Escarmouche ! »
+(
+uk"Аватар «Хто кого?!»
+
+jaアバター「乱闘!」
 (
 ru"Аватар «Кто кого?!».webp
 �
@@ -27910,13 +27910,9 @@ $
 
 en"Skirmish!" Avatar
 
-pl"Skirmish!" Avatar
-
 zh"Skirmish!" Avatar
-
-jaアバター「乱闘!」
-(
-uk"Аватар «Хто кого?!»
+
+pl"Skirmish!" Avatar
 
 pt"Skirmish!" Avatar
 
@@ -27924,25 +27920,29 @@ $
 #
 frAvatar « Escarmouche ! »
 (
+uk"Аватар «Хто кого?!»
+
+jaアバター「乱闘!」
+(
 ru"Аватар «Кто кого?!».png
 �
 avatar_progressive_bp_48_free_4�
 
 enStinky Cat Avatar
 
-plStinky Cat Avatar
-
 zhStinky Cat Avatar
-3
-ja-アバター「ネコのスティンキー」
-.
-uk(Аватар «Кіт-волоцюга»
+
+plStinky Cat Avatar
 
 ptStinky Cat Avatar
 
 esStinky Cat Avatar
 
 frAvatar Chat puant
+.
+uk(Аватар «Кіт-волоцюга»
+3
+ja-アバター「ネコのスティンキー」
 *
 ru$Аватар «Драный кот».webp
 �
@@ -27950,19 +27950,19 @@ $
 
 enAce Tanker Avatar
 
-plAce Tanker Avatar
-
 zhAce Tanker Avatar
-*
-ja$アバター「エース戦車長」
-%
-ukАватар «Майстер»
+
+plAce Tanker Avatar
 
 ptAce Tanker Avatar
 
 esAce Tanker Avatar
 
 frAvatar d'as du char
+%
+ukАватар «Майстер»
+*
+ja$アバター「エース戦車長」
 #
 ruАватар «Мастер».png
 �
@@ -27970,19 +27970,19 @@ $
 
 en"Who's the Boss?" Avatar
 
-pl"Who's the Boss?" Avatar
-
 zh"Who's the Boss?" Avatar
-)
-ja#アバター「我こそが BOSS」
-,
-uk&Аватар «Хто тут Бос?»
+
+pl"Who's the Boss?" Avatar
 
 pt"Who's the Boss?" Avatar
 
 es"Who's the Boss?" Avatar
 
 frAvatar Qui est le boss ?
+,
+uk&Аватар «Хто тут Бос?»
+)
+ja#アバター「我こそが BOSS」
 .
 ru(Аватар «Кто тут Босс?».webp
 �
@@ -27990,19 +27990,19 @@ $
 
 en"Who's the Boss?" Avatar
 
-pl"Who's the Boss?" Avatar
-
 zh"Who's the Boss?" Avatar
-)
-ja#アバター「我こそが BOSS」
-,
-uk&Аватар «Хто тут Бос?»
+
+pl"Who's the Boss?" Avatar
 
 pt"Who's the Boss?" Avatar
 
 es"Who's the Boss?" Avatar
 
 frAvatar Qui est le boss ?
+,
+uk&Аватар «Хто тут Бос?»
+)
+ja#アバター「我こそが BOSS」
 .
 ru(Аватар «Кто тут Босс?».webp
 �
@@ -28010,13 +28010,9 @@ $
 !
 en干得不错呦动态头像
 !
-pl干得不错呦动态头像
-!
 zh干得不错呦动态头像
 !
-ja干得不错呦动态头像
-!
-uk干得不错呦动态头像
+pl干得不错呦动态头像
 !
 pt干得不错呦动态头像
 !
@@ -28024,25 +28020,29 @@ $
 !
 fr干得不错呦动态头像
 !
+uk干得不错呦动态头像
+!
+ja干得不错呦动态头像
+!
 ru干得不错呦动态头像.webp
 �
 avatar_smiley_deer_rare�
 %
 en"Deer in the Headlights" Avatar
 %
-pl"Deer in the Headlights" Avatar
-%
 zh"Deer in the Headlights" Avatar
-9
-ja3アバター「死の恐怖に呆然とした鹿」
-#
-ukАватар «Оленяр»
+%
+pl"Deer in the Headlights" Avatar
 %
 pt"Deer in the Headlights" Avatar
 %
 es"Deer in the Headlights" Avatar
 
 frAvatar « Sidéré »
+#
+ukАватар «Оленяр»
+9
+ja3アバター「死の恐怖に呆然とした鹿」
 '
 ru!Аватар «Оленевод».png
 �
@@ -28050,13 +28050,9 @@ $
 
 enOrtan Cassius Avatar
 
-plOrtan Cassius Avatar
-
 zhOrtan Cassius Avatar
-3
-ja-アバター「オルタン・カシウス」
- 
-ukАватар Ortan Cassius
+
+plOrtan Cassius Avatar
 
 ptOrtan Cassius Avatar
 
@@ -28064,25 +28060,29 @@ $
 
 frAvatar Ortan Cassius
  
+ukАватар Ortan Cassius
+3
+ja-アバター「オルタン・カシウス」
+ 
 ruАватар Ortan Cassius.webp
 �
 avatar_smiley_cat_rare�
 
 en"Shell-Shocked" Avatar
 
-pl"Shell-Shocked" Avatar
-
 zh"Shell-Shocked" Avatar
-*
-ja$アバター「砲弾ショック」
-<
-uk6Аватар «Навідника контужено»
+
+pl"Shell-Shocked" Avatar
 
 pt"Shell-Shocked" Avatar
 
 es"Shell-Shocked" Avatar
 
 frAvatar « Pantois »
+<
+uk6Аватар «Навідника контужено»
+*
+ja$アバター「砲弾ショック」
 8
 ru2Аватар «Наводчик контужен».png
 �
@@ -28090,13 +28090,9 @@ $
 !
 en嘿嘿小钱钱动态头像
 !
-pl嘿嘿小钱钱动态头像
-!
 zh嘿嘿小钱钱动态头像
 !
-ja嘿嘿小钱钱动态头像
-!
-uk嘿嘿小钱钱动态头像
+pl嘿嘿小钱钱动态头像
 !
 pt嘿嘿小钱钱动态头像
 !
@@ -28104,19 +28100,19 @@ $
 !
 fr嘿嘿小钱钱动态头像
 !
+uk嘿嘿小钱钱动态头像
+!
+ja嘿嘿小钱钱动态头像
+!
 ru嘿嘿小钱钱动态头像.webp
 �
 "avatar_leaderbord_bronze_2025_rare�
 
 enBronze Tournament Avatar
 
-plBronze Tournament Avatar
-
 zhBronze Tournament Avatar
->
-ja8アバター「トーナメント記念: ブロンズ」
-<
-uk6Аватар «Турнірний Бронзовий»
+
+plBronze Tournament Avatar
 
 ptBronze Tournament Avatar
 
@@ -28124,19 +28120,19 @@ $
 
 frAvatar Tournoi de bronze
 <
+uk6Аватар «Турнірний Бронзовий»
+>
+ja8アバター「トーナメント記念: ブロンズ」
+<
 ru6Аватар «Турнирный Бронзовый».webp
 �
 avatar_light_bulb_common_168h�
 
 enLight Bulb Avatar
 
-plLight Bulb Avatar
-
 zhLight Bulb Avatar
-
-jaアバター「電球」
-'
-uk!Аватар «Лампочка»
+
+plLight Bulb Avatar
 
 ptLight Bulb Avatar
 
@@ -28144,25 +28140,29 @@ $
 
 frAvatar de l'ampoule
 '
+uk!Аватар «Лампочка»
+
+jaアバター「電球」
+'
 ru!Аватар «Лампочка».png
 �
 avatar_progressive_bp_53_paid_2�
 
 enSteamdragon Avatar
 
-plSteamdragon Avatar
-
 zhSteamdragon Avatar
-6
-ja0アバター「ストリーム・ドラゴン」
-2
-uk,Аватар «Паровий дракон»
+
+plSteamdragon Avatar
 
 ptSteamdragon Avatar
 
 esSteamdragon Avatar
 
 frAvatar Dragon de vapeur
+2
+uk,Аватар «Паровий дракон»
+6
+ja0アバター「ストリーム・ドラゴン」
 D
 ru>Аватар «Паромеханический дракон».webp
 �
@@ -28170,19 +28170,19 @@ D
 
 enStellar Traveller Avatar
 
-plStellar Traveller Avatar
-
 zhStellar Traveller Avatar
-$
-jaアバター「星の旅人」
-:
-uk4Аватар «Зоряний мандрівник»
+
+plStellar Traveller Avatar
 
 ptStellar Traveller Avatar
 
 esStellar Traveller Avatar
 "
 frAvatar du voyageur stellaire
+:
+uk4Аватар «Зоряний мандрівник»
+$
+jaアバター「星の旅人」
 8
 ru2Аватар «Звёздный странник».png
 �
@@ -28190,19 +28190,19 @@ $
 
 enClaude Wallace Avatar
 
-plClaude Wallace Avatar
-
 zhClaude Wallace Avatar
-3
-ja-アバター「クロード・ウォレス」
-!
-ukАватар Claude Wallace
+
+plClaude Wallace Avatar
 
 ptClaude Wallace Avatar
 
 esClaude Wallace Avatar
 
 frAvatar de Claude Wallace
+!
+ukАватар Claude Wallace
+3
+ja-アバター「クロード・ウォレス」
 %
 ruАватар «Claude Wallace».png
 �
@@ -28210,19 +28210,19 @@ $
 
 en"Like a Boss" Avatar
 
-pl"Like a Boss" Avatar
-
 zh"Like a Boss" Avatar
-*
-ja$アバター「ボスのように」
-
-ukАватар Like a boss
+
+pl"Like a Boss" Avatar
 
 pt"Like a Boss" Avatar
 
 es"Like a Boss" Avatar
 #
 frAvatar « Trop la classe »
+
+ukАватар Like a boss
+*
+ja$アバター「ボスのように」
 "
 ruАватар «Like a boss».png
 �
@@ -28230,19 +28230,19 @@ $
 
 enGood Night Avatar
 
-plGood Night Avatar
-
 zhGood Night Avatar
-'
-ja!アバター「良い夢を…」
-,
-uk&Аватар «На добраніч»
+
+plGood Night Avatar
 
 ptGood Night Avatar
 
 esGood Night Avatar
 
 frAvatar Bonne nuit
+,
+uk&Аватар «На добраніч»
+'
+ja!アバター「良い夢を…」
 2
 ru,Аватар «Спокойной ночи».webp
 �
@@ -28250,13 +28250,9 @@ $
 
 enBlitz mau5 Avatar
 
-plBlitz mau5 Avatar
-
 zhBlitz mau5 Avatar
-"
-jaアバター「Blitz mau5」
-
-ukАватар Blitz mau5
+
+plBlitz mau5 Avatar
 
 ptBlitz mau5 Avatar
 
@@ -28264,19 +28260,19 @@ $
 
 frAvatar mau5 Blitz
 
+ukАватар Blitz mau5
+"
+jaアバター「Blitz mau5」
+
 ruАватар Blitz mau5.webp
 �
 avatar_bb2022_cis_1�
 -
 en'avatars/Items/avatar_bb2022_cis_1/Title
 -
-pl'avatars/Items/avatar_bb2022_cis_1/Title
--
 zh'avatars/Items/avatar_bb2022_cis_1/Title
 -
-ja'avatars/Items/avatar_bb2022_cis_1/Title
--
-uk'avatars/Items/avatar_bb2022_cis_1/Title
+pl'avatars/Items/avatar_bb2022_cis_1/Title
 -
 pt'avatars/Items/avatar_bb2022_cis_1/Title
 -
@@ -28284,25 +28280,29 @@ $
 -
 fr'avatars/Items/avatar_bb2022_cis_1/Title
 -
+uk'avatars/Items/avatar_bb2022_cis_1/Title
+-
+ja'avatars/Items/avatar_bb2022_cis_1/Title
+-
 ru'avatars/Items/avatar_bb2022_cis_1/Title.webp
 �
 avatar_progressive_bp_68_paid_1�
 
 enChampion of Antrim Avatar
 
-plChampion of Antrim Avatar
-
 zhChampion of Antrim Avatar
-0
-ja*アバター「アントリムの王者」
-4
-uk.Аватар «Чемпіон Антріма»
+
+plChampion of Antrim Avatar
 
 ptChampion of Antrim Avatar
 
 esChampion of Antrim Avatar
 
 frAvatar Champion d'Antrim
+4
+uk.Аватар «Чемпіон Антріма»
+0
+ja*アバター「アントリムの王者」
 4
 ru.Аватар «Чемпион Антрима».webp
 �
@@ -28310,13 +28310,9 @@ $
 -
 en'avatars/Items/avatar_bb2022_cis_2/Title
 -
-pl'avatars/Items/avatar_bb2022_cis_2/Title
--
 zh'avatars/Items/avatar_bb2022_cis_2/Title
 -
-ja'avatars/Items/avatar_bb2022_cis_2/Title
--
-uk'avatars/Items/avatar_bb2022_cis_2/Title
+pl'avatars/Items/avatar_bb2022_cis_2/Title
 -
 pt'avatars/Items/avatar_bb2022_cis_2/Title
 -
@@ -28324,19 +28320,19 @@ $
 -
 fr'avatars/Items/avatar_bb2022_cis_2/Title
 -
+uk'avatars/Items/avatar_bb2022_cis_2/Title
+-
+ja'avatars/Items/avatar_bb2022_cis_2/Title
+-
 ru'avatars/Items/avatar_bb2022_cis_2/Title.webp
 �
 avatar_progressive_bp_68_paid_5�
 
 enChampion of Antrim Avatar
 
-plChampion of Antrim Avatar
-
 zhChampion of Antrim Avatar
-0
-ja*アバター「アントリムの王者」
-4
-uk.Аватар «Чемпіон Антріма»
+
+plChampion of Antrim Avatar
 
 ptChampion of Antrim Avatar
 
@@ -28344,25 +28340,29 @@ $
 
 frAvatar Champion d'Antrim
 4
+uk.Аватар «Чемпіон Антріма»
+0
+ja*アバター「アントリムの王者」
+4
 ru.Аватар «Чемпион Антрима».webp
 �
 avatar_smiley_cry_common_72h�
 
 en"Happy Tears" Avatar
 
-pl"Happy Tears" Avatar
-
 zh"Happy Tears" Avatar
-$
-jaアバター「うれし涙」
-.
-uk(Аватар «Сльози щастя»
+
+pl"Happy Tears" Avatar
 
 pt"Happy Tears" Avatar
 
 es"Happy Tears" Avatar
 '
 fr!Avatar « Des larmes de joie »
+.
+uk(Аватар «Сльози щастя»
+$
+jaアバター「うれし涙」
 0
 ru*Аватар «Слёзы счастья».png
 �
@@ -28370,13 +28370,9 @@ $
 
 enFerocious Rhino Avatar
 
-plFerocious Rhino Avatar
-
 zhFerocious Rhino Avatar
-'
-ja!アバター「凶暴なサイ」
-4
-uk.Аватар «Грізний носоріг»
+
+plFerocious Rhino Avatar
 
 ptFerocious Rhino Avatar
 
@@ -28384,25 +28380,29 @@ $
 
 frAvatar du rhino féroce
 4
+uk.Аватар «Грізний носоріг»
+'
+ja!アバター「凶暴なサイ」
+4
 ru.Аватар «Грозный носорог».png
 �
 avatar_water_rabbit_legendary�
 
 enMoon Rabbit Avatar
 
-plMoon Rabbit Avatar
-
 zhMoon Rabbit Avatar
-!
-jaアバター「朧月兎」
-2
-uk,Аватар «Місячний заєць»
+
+plMoon Rabbit Avatar
 
 ptMoon Rabbit Avatar
 
 esMoon Rabbit Avatar
 
 frAvatar du Lapin lunaire
+2
+uk,Аватар «Місячний заєць»
+!
+jaアバター「朧月兎」
 ,
 ru&Аватар «Лунный заяц».webp
 �
@@ -28410,19 +28410,19 @@ $
 !
 en116-F3 Girl Animated Avatar
 !
-pl116-F3 Girl Animated Avatar
-!
 zh116-F3 Girl Animated Avatar
-C
-ja=アニメーション付きアバター「116-F3 ガール」
-F
-uk@Анімований аватар «Дівчина на 116-F3»
+!
+pl116-F3 Girl Animated Avatar
 !
 pt116-F3 Girl Animated Avatar
 !
 es116-F3 Girl Animated Avatar
 
 frAvatar animé 116-F3 Girl
+F
+uk@Анімований аватар «Дівчина на 116-F3»
+C
+ja=アニメーション付きアバター「116-F3 ガール」
 9
 ru3Анимированный аватар 116-F3 Girl.webp
 �
@@ -28430,13 +28430,9 @@ F
 
 enWoTB Joe Avatar
 
-plWoTB Joe Avatar
-
 zhWoTB Joe Avatar
- 
-jaアバター「WoTB Joe」
-
-ukАватар WoTB Joe
+
+plWoTB Joe Avatar
 
 ptWoTB Joe Avatar
 
@@ -28444,25 +28440,29 @@ F
 
 frAvatar WoTB Joe
 
+ukАватар WoTB Joe
+ 
+jaアバター「WoTB Joe」
+
 ruАватар WoTB Joe.webp
 �
 avatar_bp_67_bundle�
 
 enBaozhang Avatar
 
-plBaozhang Avatar
-
 zhBaozhang Avatar
- 
-jaアバター「Baozhang」
-
-ukАватар Baozhang
+
+plBaozhang Avatar
 
 ptBaozhang Avatar
 
 esBaozhang Avatar
 
 frAvatar Baozhang
+
+ukАватар Baozhang
+ 
+jaアバター「Baozhang」
 %
 ruАватар «Баочжан».webp
 �
@@ -28470,13 +28470,9 @@ F
 
 enBAMBOOOOOOOZLED Avatar
 
-plBAMBOOOOOOOZLED Avatar
-
 zhBAMBOOOOOOOZLED Avatar
-'
-ja!アバター「BAMBOOOOOOOZLED」
-"
-ukАватар BAMBOOOOOOOZLED
+
+plBAMBOOOOOOOZLED Avatar
 
 ptBAMBOOOOOOOZLED Avatar
 
@@ -28484,19 +28480,19 @@ F
 
 frAvatar de BAMBOOOOOOOZLED
 "
+ukАватар BAMBOOOOOOOZLED
+'
+ja!アバター「BAMBOOOOOOOZLED」
+"
 ruАватар BAMBOOOOOOOZLED.webp
 �
 avatar_bb2022_cis_3�
 -
 en'avatars/Items/avatar_bb2022_cis_3/Title
 -
-pl'avatars/Items/avatar_bb2022_cis_3/Title
--
 zh'avatars/Items/avatar_bb2022_cis_3/Title
 -
-ja'avatars/Items/avatar_bb2022_cis_3/Title
--
-uk'avatars/Items/avatar_bb2022_cis_3/Title
+pl'avatars/Items/avatar_bb2022_cis_3/Title
 -
 pt'avatars/Items/avatar_bb2022_cis_3/Title
 -
@@ -28504,19 +28500,19 @@ F
 -
 fr'avatars/Items/avatar_bb2022_cis_3/Title
 -
+uk'avatars/Items/avatar_bb2022_cis_3/Title
+-
+ja'avatars/Items/avatar_bb2022_cis_3/Title
+-
 ru'avatars/Items/avatar_bb2022_cis_3/Title.webp
 �
 avatar_fangs_common�
 
 enMenacing Grin Avatar
 
-plMenacing Grin Avatar
-
 zhMenacing Grin Avatar
-'
-ja!アバター「不敵な笑み」
-0
-uk*Аватар «Грізний оскал»
+
+plMenacing Grin Avatar
 
 ptMenacing Grin Avatar
 
@@ -28524,19 +28520,19 @@ F
 !
 frAvatar de sourire menaçant
 0
+uk*Аватар «Грізний оскал»
+'
+ja!アバター「不敵な笑み」
+0
 ru*Аватар «Грозный оскал».png
 �
 avatar_wh_Guilliman_legendary�
 
 enRoboute Guilliman Avatar
 
-plRoboute Guilliman Avatar
-
 zhRoboute Guilliman Avatar
-6
-ja0アバター「ロブート・グィリマン」
-$
-ukАватар Roboute Guilliman
+
+plRoboute Guilliman Avatar
 
 ptRoboute Guilliman Avatar
 
@@ -28544,25 +28540,29 @@ $
 
 frAvatar Roboute Guilliman
 $
+ukАватар Roboute Guilliman
+6
+ja0アバター「ロブート・グィリマン」
+$
 ruАватар Roboute Guilliman.webp
 �
 avatar_eagle_common_12h�
 
 enEagle Avatar
 
-plEagle Avatar
-
 zhEagle Avatar
-
-jaアバター「鷹」
-
-ukАватар «Орел»
+
+plEagle Avatar
 
 ptEagle Avatar
 
 esEagle Avatar
 
 frAvatar d'aigle
+
+ukАватар «Орел»
+
+jaアバター「鷹」
 
 ruАватар «Орёл».png
 �
@@ -28570,19 +28570,19 @@ $
 "
 enSteel Shield Animated Avatar
 "
-plSteel Shield Animated Avatar
-"
 zhSteel Shield Animated Avatar
-?
-ja9アニメーション付きアバター「鋼鉄の盾」
-C
-uk=Анімований аватар «Сталевий щит»
+"
+plSteel Shield Animated Avatar
 "
 ptSteel Shield Animated Avatar
 "
 esSteel Shield Animated Avatar
 $
 frAvatar animé Bouclier d'acier
+C
+uk=Анімований аватар «Сталевий щит»
+?
+ja9アニメーション付きアバター「鋼鉄の盾」
 I
 ruCАнимированный аватар «Стальной щит».webp
 �
@@ -28590,19 +28590,19 @@ I
 #
 enShining Crown Animated Avatar
 #
-plShining Crown Animated Avatar
-#
 zhShining Crown Animated Avatar
-T
-jaNアニメーション付きアバター「シャイニング・クラウン」
-E
-uk?Анімований аватар «Осяйна корона»
+#
+plShining Crown Animated Avatar
 #
 ptShining Crown Animated Avatar
 #
 esShining Crown Animated Avatar
 &
 fr Avatar animé Couronne brillante
+E
+uk?Анімований аватар «Осяйна корона»
+T
+jaNアニメーション付きアバター「シャイニング・クラウン」
 S
 ruMАнимированный аватар «Сверкающая корона».webp
 �
@@ -28610,19 +28610,19 @@ S
 
 enLeaves of the Glen Avatar
 
-plLeaves of the Glen Avatar
-
 zhLeaves of the Glen Avatar
-6
-ja0アバター「山間の谷にそよぐ草葉」
-0
-uk*Аватар «Листя ущелини»
+
+plLeaves of the Glen Avatar
 
 ptLeaves of the Glen Avatar
 
 esLeaves of the Glen Avatar
 
 frAvatar Feuilles du vallon
+0
+uk*Аватар «Листя ущелини»
+6
+ja0アバター「山間の谷にそよぐ草葉」
 +
 ru%Аватар «Трилистник».webp
 �
@@ -28630,19 +28630,19 @@ S
 
 enFairy Lights Avatar
 
-plFairy Lights Avatar
-
 zhFairy Lights Avatar
-'
-ja!アバター「妖精の灯り」
-D
-uk>Аватар «Різнокольорова гірлянда»
+
+plFairy Lights Avatar
 
 ptFairy Lights Avatar
 
 esFairy Lights Avatar
 #
 frAvatar de guirlande lumineuse
+D
+uk>Аватар «Різнокольорова гірлянда»
+'
+ja!アバター「妖精の灯り」
 @
 ru:Аватар «Разноцветная гирлянда».png
 �
@@ -28650,19 +28650,19 @@ D
 
 enBattle Buddies Fan Avatar
 
-plBattle Buddies Fan Avatar
-
 zhBattle Buddies Fan Avatar
-0
-ja*アバター「Battle Buddies ファン」
->
-uk8Аватар «Вболівальник Battle Buddies»
+
+plBattle Buddies Fan Avatar
 
 ptBattle Buddies Fan Avatar
 
 esBattle Buddies Fan Avatar
 ,
 fr&Avatar du passionné de Battle Buddies
+>
+uk8Аватар «Вболівальник Battle Buddies»
+0
+ja*アバター「Battle Buddies ファン」
 8
 ru2Аватар «Болельщик Battle Buddies».webp
 �
@@ -28670,13 +28670,9 @@ D
 "
 enBrother Wolf Animated Avatar
 "
-plBrother Wolf Animated Avatar
-"
 zhBrother Wolf Animated Avatar
-H
-jaBアニメーション付きアバター「ブラザーウルフ」
-E
-uk?Анімований аватар «Вовчик-братик»
+"
+plBrother Wolf Animated Avatar
 "
 ptBrother Wolf Animated Avatar
 "
@@ -28684,19 +28680,19 @@ E
 "
 frAvatar animé de Frère loup
 E
+uk?Анімований аватар «Вовчик-братик»
+H
+jaBアニメーション付きアバター「ブラザーウルフ」
+E
 ru?Анимированный аватар «Серый брат».webp
 �
 avatar_PreSeasonQuest_S3_unique�
 
 enSeason 3 Avatar
 
-plSeason 3 Avatar
-
 zhSeason 3 Avatar
-&
-ja アバター「シーズン 3」
-#
-ukАватар «Сезон 3»
+
+plSeason 3 Avatar
 
 ptSeason 3 Avatar
 
@@ -28704,19 +28700,19 @@ E
 
 frAvatar Saison 3
 #
+ukАватар «Сезон 3»
+&
+ja アバター「シーズン 3」
+#
 ruАватар «Сезон 3».webp
 �
 avatar_bb2022_world_2�
 /
 en)avatars/Items/avatar_bb2022_world_2/Title
 /
-pl)avatars/Items/avatar_bb2022_world_2/Title
-/
 zh)avatars/Items/avatar_bb2022_world_2/Title
 /
-ja)avatars/Items/avatar_bb2022_world_2/Title
-/
-uk)avatars/Items/avatar_bb2022_world_2/Title
+pl)avatars/Items/avatar_bb2022_world_2/Title
 /
 pt)avatars/Items/avatar_bb2022_world_2/Title
 /
@@ -28724,19 +28720,19 @@ E
 /
 fr)avatars/Items/avatar_bb2022_world_2/Title
 /
+uk)avatars/Items/avatar_bb2022_world_2/Title
+/
+ja)avatars/Items/avatar_bb2022_world_2/Title
+/
 ru)avatars/Items/avatar_bb2022_world_2/Title.webp
 �
 avatar_RioCarnival_legendary�
 
 enCarnavalesco Avatar
 
-plCarnavalesco Avatar
-
 zhCarnavalesco Avatar
--
-ja'アバター「カーニバレスコ」
-
-ukАватар Carnavalesco
+
+plCarnavalesco Avatar
 
 ptCarnavalesco Avatar
 
@@ -28744,19 +28740,19 @@ E
 
 frAvatar Carnavalesco
 
+ukАватар Carnavalesco
+-
+ja'アバター「カーニバレスコ」
+
 ruАватар Carnavalesco.webp
 �
 avatar_2024_spring_4�
 
 enHouse Harkonnen Avatar
 
-plHouse Harkonnen Avatar
-
 zhHouse Harkonnen Avatar
--
-ja'アバター「ハルコンネン家」
-4
-uk.Аватар «Дім Харконненів»
+
+plHouse Harkonnen Avatar
 
 ptHouse Harkonnen Avatar
 
@@ -28764,19 +28760,19 @@ E
 
 frAvatar Maison Harkonnen
 4
+uk.Аватар «Дім Харконненів»
+-
+ja'アバター「ハルコンネン家」
+4
 ru.Аватар «Дом Харконненов».webp
 �
 avatar_bb2022_world_4�
 /
 en)avatars/Items/avatar_bb2022_world_4/Title
 /
-pl)avatars/Items/avatar_bb2022_world_4/Title
-/
 zh)avatars/Items/avatar_bb2022_world_4/Title
 /
-ja)avatars/Items/avatar_bb2022_world_4/Title
-/
-uk)avatars/Items/avatar_bb2022_world_4/Title
+pl)avatars/Items/avatar_bb2022_world_4/Title
 /
 pt)avatars/Items/avatar_bb2022_world_4/Title
 /
@@ -28784,25 +28780,29 @@ E
 /
 fr)avatars/Items/avatar_bb2022_world_4/Title
 /
+uk)avatars/Items/avatar_bb2022_world_4/Title
+/
+ja)avatars/Items/avatar_bb2022_world_4/Title
+/
 ru)avatars/Items/avatar_bb2022_world_4/Title.webp
 �
 avatar_trident2_unique�
  
 enGladiator's Trident Avatar
  
-plGladiator's Trident Avatar
- 
 zhGladiator's Trident Avatar
--
-ja'アバター「剣闘士の三又槍」
-8
-uk2Аватар «Тризуб гладіатора»
+ 
+plGladiator's Trident Avatar
  
 ptGladiator's Trident Avatar
  
 esGladiator's Trident Avatar
 "
 frAvatar trident du gladiateur
+8
+uk2Аватар «Тризуб гладіатора»
+-
+ja'アバター「剣闘士の三又槍」
 <
 ru6Аватар «Трезубец гладиатора».webp
 �
@@ -28810,19 +28810,19 @@ E
 )
 en#Quacky Ab"duck"tion Animated Avatar
 )
-pl#Quacky Ab"duck"tion Animated Avatar
-)
 zh#Quacky Ab"duck"tion Animated Avatar
-H
-jaBアニメーション付きアバター「まさクヮの誘拐」
-S
-ukMАнімований аватар «Скаченіле викрадення»
+)
+pl#Quacky Ab"duck"tion Animated Avatar
 )
 pt#Quacky Ab"duck"tion Animated Avatar
 )
 es#Quacky Ab"duck"tion Animated Avatar
 )
 fr#Avatar animé Enlèvement de canard
+S
+ukMАнімований аватар «Скаченіле викрадення»
+H
+jaBアニメーション付きアバター「まさクヮの誘拐」
 Y
 ruSАнимированный аватар «НешУТОЧНОЕ похищение».webp
 �
@@ -28830,19 +28830,19 @@ Y
 
 enHey lol Fan Avatar
 
-plHey lol Fan Avatar
-
 zhHey lol Fan Avatar
-)
-ja#アバター「Hey lol ファン」
-7
-uk1Аватар «Вболівальник Hey lol»
+
+plHey lol Fan Avatar
 
 ptHey lol Fan Avatar
 
 esHey lol Fan Avatar
 %
 frAvatar du passionné de Hey lol
+7
+uk1Аватар «Вболівальник Hey lol»
+)
+ja#アバター「Hey lol ファン」
 1
 ru+Аватар «Болельщик Hey lol».webp
 �
@@ -28850,19 +28850,19 @@ Y
 
 enPoisoned Rose Avatar
 
-plPoisoned Rose Avatar
-
 zhPoisoned Rose Avatar
-%
-jaアバター「Poisoned Rose」
-4
-uk.Аватар «Отруйна троянда»
+
+plPoisoned Rose Avatar
 
 ptPoisoned Rose Avatar
 
 esPoisoned Rose Avatar
 
 frAvatar Rose empoisonnée
+4
+uk.Аватар «Отруйна троянда»
+%
+jaアバター「Poisoned Rose」
 0
 ru*Аватар «Ядовитая роза».webp
 �
@@ -28870,19 +28870,19 @@ Y
 
 enForever Alive Avatar
 
-plForever Alive Avatar
-
 zhForever Alive Avatar
-9
-ja3アバター「フォーエバー・アライブ」
-,
-uk&Аватар «Вічне життя»
+
+plForever Alive Avatar
 
 ptForever Alive Avatar
 
 esForever Alive Avatar
 !
 frAvatar Vivant pour toujours
+,
+uk&Аватар «Вічне життя»
+9
+ja3アバター「フォーエバー・アライブ」
 .
 ru(Аватар «Неумирающий».webp
 �
@@ -28890,19 +28890,19 @@ Y
 
 enТест
 
-plТест
-
 zhТест
 
-jaТест
-
-ukТест
+plТест
 
 ptТест
 
 esТест
 
 frТест
+
+ukТест
+
+jaТест
 4
 ru.Аватар «Щупальца Балора».webp
 �
@@ -28910,19 +28910,19 @@ Y
 
 enApathy Avatar
 
-plApathy Avatar
-
 zhApathy Avatar
-
-jaアバター「Apathy」
-
-ukАватар Apathy
+
+plApathy Avatar
 
 ptApathy Avatar
 
 esApathy Avatar
 
 frAvatar d'Apathy
+
+ukАватар Apathy
+
+jaアバター「Apathy」
 
 ruАватар Apathy.webp
 �
@@ -28930,19 +28930,19 @@ Y
 
 enCryptic Cypher Avatar
 
-plCryptic Cypher Avatar
-
 zhCryptic Cypher Avatar
-$
-jaアバター「暗号の鍵」
-5
-uk/Аватар «Нейрокриптограф»
+
+plCryptic Cypher Avatar
 
 ptCryptic Cypher Avatar
 
 esCryptic Cypher Avatar
 
 frAvatar du Code crypté
+5
+uk/Аватар «Нейрокриптограф»
+$
+jaアバター「暗号の鍵」
 5
 ru/Аватар «Нейрокриптограф».png
 �
@@ -28950,19 +28950,19 @@ $
 
 enGingerbread Man Avatar
 
-plGingerbread Man Avatar
-
 zhGingerbread Man Avatar
-9
-ja3アバター「ジンジャーブレッドマン」
-:
-uk4Аватар «Імбирний чоловічок»
+
+plGingerbread Man Avatar
 
 ptGingerbread Man Avatar
 
 esGingerbread Man Avatar
 )
 fr#Avatar du Bonhomme en pain d'épice
+:
+uk4Аватар «Імбирний чоловічок»
+9
+ja3アバター「ジンジャーブレッドマン」
 :
 ru4Аватар «Имбирный человечек».png
 �
@@ -28970,19 +28970,19 @@ $
 
 enCryptic Cypher Avatar
 
-plCryptic Cypher Avatar
-
 zhCryptic Cypher Avatar
-$
-jaアバター「暗号の鍵」
-5
-uk/Аватар «Нейрокриптограф»
+
+plCryptic Cypher Avatar
 
 ptCryptic Cypher Avatar
 
 esCryptic Cypher Avatar
 
 frAvatar du Code crypté
+5
+uk/Аватар «Нейрокриптограф»
+$
+jaアバター「暗号の鍵」
 5
 ru/Аватар «Нейрокриптограф».png
 �
@@ -28990,13 +28990,9 @@ $
 
 enCryptic Cypher Avatar
 
-plCryptic Cypher Avatar
-
 zhCryptic Cypher Avatar
-$
-jaアバター「暗号の鍵」
-5
-uk/Аватар «Нейрокриптограф»
+
+plCryptic Cypher Avatar
 
 ptCryptic Cypher Avatar
 
@@ -29004,19 +29000,19 @@ $
 
 frAvatar du Code crypté
 5
+uk/Аватар «Нейрокриптограф»
+$
+jaアバター「暗号の鍵」
+5
 ru/Аватар «Нейрокриптограф».png
 �
 $avatar_progressive_bp_39_ruby_paid_3�
 >
 en8storage/Items/avatar_progressive_bp_39_ruby_paid_3/Title
 >
-pl8storage/Items/avatar_progressive_bp_39_ruby_paid_3/Title
->
 zh8storage/Items/avatar_progressive_bp_39_ruby_paid_3/Title
 >
-ja8storage/Items/avatar_progressive_bp_39_ruby_paid_3/Title
->
-uk8storage/Items/avatar_progressive_bp_39_ruby_paid_3/Title
+pl8storage/Items/avatar_progressive_bp_39_ruby_paid_3/Title
 >
 pt8storage/Items/avatar_progressive_bp_39_ruby_paid_3/Title
 >
@@ -29024,19 +29020,19 @@ $avatar_progressive_bp_39_ruby_paid_3�
 >
 fr8storage/Items/avatar_progressive_bp_39_ruby_paid_3/Title
 >
+uk8storage/Items/avatar_progressive_bp_39_ruby_paid_3/Title
+>
+ja8storage/Items/avatar_progressive_bp_39_ruby_paid_3/Title
+>
 ru8storage/Items/avatar_progressive_bp_39_ruby_paid_3/Title.webp
 �
 avatar_totem_unique�
 
 enThunderbird Avatar
 
-plThunderbird Avatar
-
 zhThunderbird Avatar
--
-ja'アバター「サンダーバード」
-!
-ukАватар «Тотем»
+
+plThunderbird Avatar
 
 ptThunderbird Avatar
 
@@ -29044,19 +29040,19 @@ $avatar_progressive_bp_39_ruby_paid_3�
 
 frAvatar Oiseau-tonnerre
 !
+ukАватар «Тотем»
+-
+ja'アバター「サンダーバード」
+!
 ruАватар «Тотем».webp
 �
 avatar_progressive_bp_41_paid_5�
 
 enTurkish Avatar
 
-plTurkish Avatar
-
 zhTurkish Avatar
-*
-ja$アバター「ターキッシュ」
-!
-ukАватар «Турок»
+
+plTurkish Avatar
 
 ptTurkish Avatar
 
@@ -29064,25 +29060,29 @@ $avatar_progressive_bp_39_ruby_paid_3�
 
 frAvatar de Turkish
 !
+ukАватар «Турок»
+*
+ja$アバター「ターキッシュ」
+!
 ruАватар «Турок».webp
 �
 avatar_ASIA_Vengeance_rare_31d�
 
 enVengeance Fan Avatar
 
-plVengeance Fan Avatar
-
 zhVengeance Fan Avatar
-+
-ja%アバター「Vengeance ファン」
-9
-uk3Аватар «Вболівальник Vengeance»
+
+plVengeance Fan Avatar
 
 ptVengeance Fan Avatar
 
 esVengeance Fan Avatar
 '
 fr!Avatar du passionné de Vengeance
+9
+uk3Аватар «Вболівальник Vengeance»
++
+ja%アバター「Vengeance ファン」
 3
 ru-Аватар «Болельщик Vengeance».webp
 �
@@ -29090,13 +29090,9 @@ $avatar_progressive_bp_39_ruby_paid_3�
 
 enNotorious Avatar
 
-plNotorious Avatar
-
 zhNotorious Avatar
-!
-jaアバター「Notorious」
-
-ukАватар Notorious
+
+plNotorious Avatar
 
 ptNotorious Avatar
 
@@ -29104,25 +29100,29 @@ $avatar_progressive_bp_39_ruby_paid_3�
 
 frAvatar de Notorious
 
+ukАватар Notorious
+!
+jaアバター「Notorious」
+
 ruАватар Notorious.webp
 �
 avatar_smiley_angry_common_168h�
 $
 en"Don't Drive Me Crazy!" Avatar
 $
-pl"Don't Drive Me Crazy!" Avatar
-$
 zh"Don't Drive Me Crazy!" Avatar
-(
-ja"アバター「怒らせるな!」
-/
-uk)Аватар: «Та як же так?!»
+$
+pl"Don't Drive Me Crazy!" Avatar
 $
 pt"Don't Drive Me Crazy!" Avatar
 $
 es"Don't Drive Me Crazy!" Avatar
 (
 fr"Avatar « Arrête ton char ! »
+/
+uk)Аватар: «Та як же так?!»
+(
+ja"アバター「怒らせるな!」
 0
 ru*Аватар «Да как так-то?!».png
 �
@@ -29130,19 +29130,19 @@ $
 
 enLet's Play Avatar
 
-plLet's Play Avatar
-
 zhLet's Play Avatar
-"
-jaアバター「Let's Play」
-(
-uk"Аватар «Зіграємо?»
+
+plLet's Play Avatar
 
 ptLet's Play Avatar
 
 esLet's Play Avatar
 
 frAvatar Jouons
+(
+uk"Аватар «Зіграємо?»
+"
+jaアバター「Let's Play」
 &
 ru Аватар «Сыграем?».webp
 �
@@ -29150,13 +29150,9 @@ $
 
 en毛熊的告诫头像
 
-pl毛熊的告诫头像
-
 zh毛熊的告诫头像
 
-ja毛熊的告诫头像
-
-uk毛熊的告诫头像
+pl毛熊的告诫头像
 
 pt毛熊的告诫头像
 
@@ -29164,19 +29160,19 @@ $
 
 fr毛熊的告诫头像
 
+uk毛熊的告诫头像
+
+ja毛熊的告诫头像
+
 ru毛熊的告诫头像.webp
 �
 avatar_yha2024_rare_2�
 
 en鹰酱的凝视头像
 
-pl鹰酱的凝视头像
-
 zh鹰酱的凝视头像
 
-ja鹰酱的凝视头像
-
-uk鹰酱的凝视头像
+pl鹰酱的凝视头像
 
 pt鹰酱的凝视头像
 
@@ -29184,19 +29180,19 @@ $
 
 fr鹰酱的凝视头像
 
+uk鹰酱的凝视头像
+
+ja鹰酱的凝视头像
+
 ru鹰酱的凝视头像.webp
 �
 avatar_EU_Bedbug_legendary�
 
 enBedbug Avatar
 
-plBedbug Avatar
-
 zhBedbug Avatar
-
-jaアバター「Bedbug」
-
-ukАватар Bedbug
+
+plBedbug Avatar
 
 ptBedbug Avatar
 
@@ -29204,19 +29200,19 @@ $
 
 frAvatar de Bedbug
 
+ukАватар Bedbug
+
+jaアバター「Bedbug」
+
 ruАватар Bedbug.webp
 �
 avatar_Megalodon_unique�
 
 enPikeosaurus Avatar
 
-plPikeosaurus Avatar
-
 zhPikeosaurus Avatar
-0
-ja*アバター「パイクオサウルス」
-'
-uk!Аватар «Щукозавр»
+
+plPikeosaurus Avatar
 
 ptPikeosaurus Avatar
 
@@ -29224,25 +29220,29 @@ $
 
 frAvatar du Brochetosaure
 '
+uk!Аватар «Щукозавр»
+0
+ja*アバター「パイクオサウルス」
+'
 ru!Аватар «Щукозавр».webp
 �
 avatar_2024_spring_9�
 
 enThe "Beast" Rabban Avatar
 
-plThe "Beast" Rabban Avatar
-
 zhThe "Beast" Rabban Avatar
-6
-ja0アバター「ビースト・ラッバーン」
-,
-uk&Аватар «Звір Раббан»
+
+plThe "Beast" Rabban Avatar
 
 ptThe "Beast" Rabban Avatar
 
 esThe "Beast" Rabban Avatar
 $
 frAvatar Rabban « la Bête »
+,
+uk&Аватар «Звір Раббан»
+6
+ja0アバター「ビースト・ラッバーン」
 .
 ru(Аватар «Зверь Раббан».webp
 �
@@ -29250,13 +29250,9 @@ $
 
 enAngry Leprechaun Avatar
 
-plAngry Leprechaun Avatar
-
 zhAngry Leprechaun Avatar
-3
-ja-アバター「怒ったレプラカーン」
-6
-uk0Аватар «Гнівний лепрекон»
+
+plAngry Leprechaun Avatar
 
 ptAngry Leprechaun Avatar
 
@@ -29264,25 +29260,29 @@ $
 !
 frAvatar du farfadet remonté
 6
+uk0Аватар «Гнівний лепрекон»
+3
+ja-アバター「怒ったレプラカーン」
+6
 ru0Аватар «Гневный лепрекон».png
 �
 avatar_aquilla_legendary_anim�
 %
 enImperial Aquila Animated Avatar
 %
-plImperial Aquila Animated Avatar
-%
 zhImperial Aquila Animated Avatar
-T
-jaNアニメーション付きアバター「インペリアル・アクィラ」
-.
-uk(Анімований аватар Aquila
+%
+plImperial Aquila Animated Avatar
 %
 ptImperial Aquila Animated Avatar
 %
 esImperial Aquila Animated Avatar
 )
 fr#Avatar animé de l'Aquila impérial
+.
+uk(Анімований аватар Aquila
+T
+jaNアニメーション付きアバター「インペリアル・アクィラ」
 4
 ru.Анимированный аватар Aquila.webp
 �
@@ -29290,19 +29290,19 @@ T
 #
 enCall of the Icebreaker Avatar
 #
-plCall of the Icebreaker Avatar
-#
 zhCall of the Icebreaker Avatar
-9
-ja3アバター「アイスブレーカーの招集」
-;
-uk5Аватар «У пошуках Криголама»
+#
+plCall of the Icebreaker Avatar
 #
 ptCall of the Icebreaker Avatar
 #
 esCall of the Icebreaker Avatar
 &
 fr Avatar de l'appel du brise-glace
+;
+uk5Аватар «У пошуках Криголама»
+9
+ja3アバター「アイスブレーカーの招集」
 9
 ru3Аватар «В поисках Ледокола».png
 �
@@ -29310,19 +29310,19 @@ T
 
 enIsrael Adesanya Avatar
 
-plIsrael Adesanya Avatar
-
 zhIsrael Adesanya Avatar
-'
-ja!アバター「Israel Adesanya」
-"
-ukАватар Israel Adesanya
+
+plIsrael Adesanya Avatar
 
 ptIsrael Adesanya Avatar
 
 esIsrael Adesanya Avatar
 
 frAvatar d'Israel Adesanya
+"
+ukАватар Israel Adesanya
+'
+ja!アバター「Israel Adesanya」
 6
 ru0Аватар «Исраэль Адесанья».webp
 �
@@ -29330,19 +29330,19 @@ T
 
 en"WoT turns 10!" Avatar
 
-pl"WoT turns 10!" Avatar
-
 zh"WoT turns 10!" Avatar
-*
-ja$アバター「WoT が 10 周年!」
-4
-uk.Аватар «10 років перемог!»
+
+pl"WoT turns 10!" Avatar
 
 pt"WoT turns 10!" Avatar
 
 es"WoT turns 10!" Avatar
 $
 frAvatar « WoT a 10 ans ! »
+4
+uk.Аватар «10 років перемог!»
+*
+ja$アバター「WoT が 10 周年!」
 ,
 ru&Аватар «10 лет побед!».png
 �
@@ -29350,19 +29350,19 @@ $avatar_BlitzCup25_NA_TEAM3_legendary�
 
 enAPEX Diamond Avatar
 
-plAPEX Diamond Avatar
-
 zhAPEX Diamond Avatar
-/
-ja)アバター「APEX ダイヤモンド」
-=
-uk7Діамантовий аватар команди APEX
+
+plAPEX Diamond Avatar
 
 ptAPEX Diamond Avatar
 
 esAPEX Diamond Avatar
 
 frAvatar d'APEX de diamant
+=
+uk7Діамантовий аватар команди APEX
+/
+ja)アバター「APEX ダイヤモンド」
 A
 ru;Бриллиантовый аватар команды APEX.webp
 �
@@ -29370,19 +29370,19 @@ A
 
 enJokers Fan Avatar
 
-plJokers Fan Avatar
-
 zhJokers Fan Avatar
-(
-ja"アバター「Jokers ファン」
-6
-uk0Аватар «Вболівальник Jokers»
+
+plJokers Fan Avatar
 
 ptJokers Fan Avatar
 
 esJokers Fan Avatar
 $
 frAvatar du passionné de Jokers
+6
+uk0Аватар «Вболівальник Jokers»
+(
+ja"アバター「Jokers ファン」
 0
 ru*Аватар «Болельщик Jokers».webp
 �
@@ -29390,13 +29390,9 @@ $
 
 enREIGN Avatar
 
-plREIGN Avatar
-
 zhREIGN Avatar
-
-jaアバター「REIGN」
-
-ukАватар REIGN
+
+plREIGN Avatar
 
 ptREIGN Avatar
 
@@ -29404,25 +29400,29 @@ $
 
 frAvatar de REIGN
 
+ukАватар REIGN
+
+jaアバター「REIGN」
+
 ruАватар REIGN.png
 �
 avatar_AprilParadox_legendary�
 
 enGolden Paradox
 
-plGolden Paradox
-
 zhGolden Paradox
-$
-jaゴールデンパラドクス
-7
-uk1Аватар: «Оце так парадокс!»
+
+plGolden Paradox
 
 ptGolden Paradox
 
 esGolden Paradox
 
 frParadoxe doré
+7
+uk1Аватар: «Оце так парадокс!»
+$
+jaゴールデンパラドクス
 6
 ru0Аватар «Вот это парадокс!».webp
 �
@@ -29430,19 +29430,19 @@ $
 
 enDebris Killer Avatar
 
-plDebris Killer Avatar
-
 zhDebris Killer Avatar
-*
-ja$アバター「宇宙の掃除人」
->
-uk8Аватар «Винищувач астероїдів»
+
+plDebris Killer Avatar
 
 ptDebris Killer Avatar
 
 esDebris Killer Avatar
 #
 frAvatar Destructeur de débris
+>
+uk8Аватар «Винищувач астероїдів»
+*
+ja$アバター「宇宙の掃除人」
 D
 ru>Аватар «Уничтожитель астероидов».webp
 �
@@ -29450,13 +29450,9 @@ D
 
 en7STAR Avatar
 
-pl7STAR Avatar
-
 zh7STAR Avatar
-
-jaアバター「7STAR」
-
-ukАватар 7STAR
+
+pl7STAR Avatar
 
 pt7STAR Avatar
 
@@ -29464,19 +29460,19 @@ D
 
 frAvatar de 7STAR
 
+ukАватар 7STAR
+
+jaアバター「7STAR」
+
 ruАватар 7STAR.png
 �
 avatar_blitz_masters_legendary�
 
 enBlitz Masters Avatar
 
-plBlitz Masters Avatar
-
 zhBlitz Masters Avatar
-%
-jaアバター「Blitz Masters」
- 
-ukАватар Blitz Masters
+
+plBlitz Masters Avatar
 
 ptBlitz Masters Avatar
 
@@ -29484,19 +29480,19 @@ D
 
 frAvatar Maîtres de Blitz
  
+ukАватар Blitz Masters
+%
+jaアバター「Blitz Masters」
+ 
 ruАватар Blitz Masters.webp
 �
 avatar_twitch�
 
 enTwitch Hero Avatar
 
-plTwitch Hero Avatar
-
 zhTwitch Hero Avatar
-(
-ja"アバター「Twitch の英雄」
-(
-uk"Аватар «Twitch-герой»
+
+plTwitch Hero Avatar
 
 ptTwitch Hero Avatar
 
@@ -29504,25 +29500,29 @@ D
  
 frAvatar de héros de Twitch
 (
+uk"Аватар «Twitch-герой»
+(
+ja"アバター「Twitch の英雄」
+(
 ru"Аватар «Twitch-герой».png
 �
 avatar_progressive_bp_3_free_1�
 
 enIdentifier Avatar
 
-plIdentifier Avatar
-
 zhIdentifier Avatar
-!
-jaアバター「識別機」
--
-uk'Аватар «Розпізнавач»
+
+plIdentifier Avatar
 
 ptIdentifier Avatar
 
 esIdentifier Avatar
  
 frAvatar de l'identificateur
+-
+uk'Аватар «Розпізнавач»
+!
+jaアバター「識別機」
 4
 ru.Аватар «Распознаватель».png
 �
@@ -29530,13 +29530,9 @@ D
 
 enRevenant Avatar
 
-plRevenant Avatar
-
 zhRevenant Avatar
- 
-jaアバター「Revenant」
-
-ukАватар Revenant
+
+plRevenant Avatar
 
 ptRevenant Avatar
 
@@ -29544,25 +29540,29 @@ D
 
 frAvatar de Revenant
 
+ukАватар Revenant
+ 
+jaアバター「Revenant」
+
 ruАватар Revenant.webp
 �
 avatar_progressive_bp_3_free_4�
 
 enIdentifier Avatar
 
-plIdentifier Avatar
-
 zhIdentifier Avatar
-!
-jaアバター「識別機」
--
-uk'Аватар «Розпізнавач»
+
+plIdentifier Avatar
 
 ptIdentifier Avatar
 
 esIdentifier Avatar
  
 frAvatar de l'identificateur
+-
+uk'Аватар «Розпізнавач»
+!
+jaアバター「識別機」
 4
 ru.Аватар «Распознаватель».png
 �
@@ -29570,19 +29570,19 @@ D
 
 enIdentifier Avatar
 
-plIdentifier Avatar
-
 zhIdentifier Avatar
-!
-jaアバター「識別機」
--
-uk'Аватар «Розпізнавач»
+
+plIdentifier Avatar
 
 ptIdentifier Avatar
 
 esIdentifier Avatar
  
 frAvatar de l'identificateur
+-
+uk'Аватар «Розпізнавач»
+!
+jaアバター「識別機」
 4
 ru.Аватар «Распознаватель».png
 �
@@ -29590,19 +29590,19 @@ D
 
 enCenturion Avatar
 
-plCenturion Avatar
-
 zhCenturion Avatar
-$
-jaアバター「百人隊長」
-!
-ukАватар «Лицар»
+
+plCenturion Avatar
 
 ptCenturion Avatar
 
 esCenturion Avatar
 
 frAvatar de centurion
+!
+ukАватар «Лицар»
+$
+jaアバター「百人隊長」
 #
 ruАватар «Рыцарь».png
 �
@@ -29610,19 +29610,19 @@ $
 
 enExtreme Hazard Avatar
 
-plExtreme Hazard Avatar
-
 zhExtreme Hazard Avatar
-*
-ja$アバター「最大の危険物」
->
-uk8Аватар «Особливо небезпечний»
+
+plExtreme Hazard Avatar
 
 ptExtreme Hazard Avatar
 
 esExtreme Hazard Avatar
 
 frAvatar du danger extrême
+>
+uk8Аватар «Особливо небезпечний»
+*
+ja$アバター「最大の危険物」
 .
 ru(Аватар «Особо опасен».png
 �
@@ -29630,19 +29630,19 @@ $
 
 enHandmade Ornament Avatar
 
-plHandmade Ornament Avatar
-
 zhHandmade Ornament Avatar
-3
-ja-アバター「手作りオーナメント」
-:
-uk4Аватар «Саморобна прикраса»
+
+plHandmade Ornament Avatar
 
 ptHandmade Ornament Avatar
 
 esHandmade Ornament Avatar
 %
 frAvatar Ornement fait à la main
+:
+uk4Аватар «Саморобна прикраса»
+3
+ja-アバター「手作りオーナメント」
 3
 ru-Аватар «Сделано с душой».webp
 �
@@ -29650,13 +29650,9 @@ $
 
 enRote Nova Avatar
 
-plRote Nova Avatar
-
 zhRote Nova Avatar
-!
-jaアバター「Rote Nova」
-
-ukАватар Rote Nova
+
+plRote Nova Avatar
 
 ptRote Nova Avatar
 
@@ -29664,25 +29660,29 @@ $
 
 frAvatar de Rote Nova
 
+ukАватар Rote Nova
+!
+jaアバター「Rote Nova」
+
 ruАватар Rote Nova.webp
 �
 avatar_mashroom_unique�
 
 enSteer Clear Avatar
 
-plSteer Clear Avatar
-
 zhSteer Clear Avatar
-$
-jaアバター「味見厳禁」
-*
-uk$Аватар «Ідіть собі»
+
+plSteer Clear Avatar
 
 ptSteer Clear Avatar
 
 esSteer Clear Avatar
 !
 frAvatar Se tenir à l'écart
+*
+uk$Аватар «Ідіть собі»
+$
+jaアバター「味見厳禁」
 2
 ru,Аватар «Проходите мимо».webp
 �
@@ -29690,13 +29690,9 @@ $
 
 enT69 Kingpin Avatar
 
-plT69 Kingpin Avatar
-
 zhT69 Kingpin Avatar
-#
-jaアバター「T69 Kingpin」
-"
-ukАватар «T69 Kingpin»
+
+plT69 Kingpin Avatar
 
 ptT69 Kingpin Avatar
 
@@ -29704,25 +29700,29 @@ $
 
 frAvatar T69 Kingpin
 "
+ukАватар «T69 Kingpin»
+#
+jaアバター「T69 Kingpin」
+"
 ruАватар «T69 Kingpin».webp
 �
 avatar_progressive_bp_21_free_4�
 
 enMail Call Avatar
 
-plMail Call Avatar
-
 zhMail Call Avatar
-0
-ja*アバター「拝啓、戦地の君へ」
-0
-uk*Аватар «Польова пошта»
+
+plMail Call Avatar
 
 ptMail Call Avatar
 
 esMail Call Avatar
 
 frAvatar Courrier
+0
+uk*Аватар «Польова пошта»
+0
+ja*アバター「拝啓、戦地の君へ」
 0
 ru*Аватар «Полевая почта».webp
 �
@@ -29730,13 +29730,9 @@ $
 ,
 en&Аватар «4 года побед»
 ,
-pl&Аватар «4 года побед»
-,
 zh&Аватар «4 года побед»
 ,
-ja&Аватар «4 года побед»
-,
-uk&Аватар «4 года побед»
+pl&Аватар «4 года побед»
 ,
 pt&Аватар «4 года побед»
 ,
@@ -29744,25 +29740,29 @@ $
 ,
 fr&Аватар «4 года побед»
 ,
+uk&Аватар «4 года побед»
+,
+ja&Аватар «4 года побед»
+,
 ru&Аватар «4 года побед».webp
 �
 avatar_progressive_bp_21_free_2�
 
 enMail Call Avatar
 
-plMail Call Avatar
-
 zhMail Call Avatar
-0
-ja*アバター「拝啓、戦地の君へ」
-0
-uk*Аватар «Польова пошта»
+
+plMail Call Avatar
 
 ptMail Call Avatar
 
 esMail Call Avatar
 
 frAvatar Courrier
+0
+uk*Аватар «Польова пошта»
+0
+ja*アバター「拝啓、戦地の君へ」
 0
 ru*Аватар «Полевая почта».webp
 �
@@ -29770,19 +29770,19 @@ $avatar_defender_caern_legendary_anim�
 
 enWinged Animated Avatar
 
-plWinged Animated Avatar
-
 zhWinged Animated Avatar
-?
-ja9アニメーション付きアバター「飛翔の翼」
->
-uk8Анімований аватар «Окрилений»
+
+plWinged Animated Avatar
 
 ptWinged Animated Avatar
 
 esWinged Animated Avatar
 
 frAvatar animé Ailé
+>
+uk8Анімований аватар «Окрилений»
+?
+ja9アニメーション付きアバター「飛翔の翼」
 F
 ru@Анимированный аватар «Окрылённый».webp
 �
@@ -29790,19 +29790,19 @@ F
 
 enDefending Champion Avatar
 
-plDefending Champion Avatar
-
 zhDefending Champion Avatar
--
-ja'アバター「現チャンピオン」
-2
-uk,Аватар «Діючий чемпіон»
+
+plDefending Champion Avatar
 
 ptDefending Champion Avatar
 
 esDefending Champion Avatar
 !
 frAvatar de champion en titre
+2
+uk,Аватар «Діючий чемпіон»
+-
+ja'アバター「現チャンピオン」
 <
 ru6Аватар «Действующий чемпион».webp
 �
@@ -29810,19 +29810,19 @@ F
 $
 en"Don't Drive Me Crazy!" Avatar
 $
-pl"Don't Drive Me Crazy!" Avatar
-$
 zh"Don't Drive Me Crazy!" Avatar
-(
-ja"アバター「怒らせるな!」
-/
-uk)Аватар: «Та як же так?!»
+$
+pl"Don't Drive Me Crazy!" Avatar
 $
 pt"Don't Drive Me Crazy!" Avatar
 $
 es"Don't Drive Me Crazy!" Avatar
 (
 fr"Avatar « Arrête ton char ! »
+/
+uk)Аватар: «Та як же так?!»
+(
+ja"アバター「怒らせるな!」
 0
 ru*Аватар «Да как так-то?!».png
 �
@@ -29830,13 +29830,9 @@ $
 
 enMail Call Avatar
 
-plMail Call Avatar
-
 zhMail Call Avatar
-0
-ja*アバター「拝啓、戦地の君へ」
-0
-uk*Аватар «Польова пошта»
+
+plMail Call Avatar
 
 ptMail Call Avatar
 
@@ -29844,19 +29840,19 @@ $
 
 frAvatar Courrier
 0
+uk*Аватар «Польова пошта»
+0
+ja*アバター「拝啓、戦地の君へ」
+0
 ru*Аватар «Полевая почта».webp
 �
 avatar_progressive_bp_54_free_2�
 
 enThe Mercenaries Avatar
 
-plThe Mercenaries Avatar
-
 zhThe Mercenaries Avatar
-*
-ja$アバター「マーセナリー」
-'
-uk!Аватар «Найманці»
+
+plThe Mercenaries Avatar
 
 ptThe Mercenaries Avatar
 
@@ -29864,19 +29860,19 @@ $
 
 frAvatar Les mercenaires
 '
+uk!Аватар «Найманці»
+*
+ja$アバター「マーセナリー」
+'
 ru!Аватар «Наёмники».webp
 �
 avatar_halloween2021_5�
 0
 en*avatars/Items/avatar_halloween2021_5/Title
 0
-pl*avatars/Items/avatar_halloween2021_5/Title
-0
 zh*avatars/Items/avatar_halloween2021_5/Title
 0
-ja*avatars/Items/avatar_halloween2021_5/Title
-0
-uk*avatars/Items/avatar_halloween2021_5/Title
+pl*avatars/Items/avatar_halloween2021_5/Title
 0
 pt*avatars/Items/avatar_halloween2021_5/Title
 0
@@ -29884,19 +29880,19 @@ $
 0
 fr*avatars/Items/avatar_halloween2021_5/Title
 0
+uk*avatars/Items/avatar_halloween2021_5/Title
+0
+ja*avatars/Items/avatar_halloween2021_5/Title
+0
 ru*avatars/Items/avatar_halloween2021_5/Title.png
 �
 avatar_halloween2021_4�
 0
 en*avatars/Items/avatar_halloween2021_4/Title
 0
-pl*avatars/Items/avatar_halloween2021_4/Title
-0
 zh*avatars/Items/avatar_halloween2021_4/Title
 0
-ja*avatars/Items/avatar_halloween2021_4/Title
-0
-uk*avatars/Items/avatar_halloween2021_4/Title
+pl*avatars/Items/avatar_halloween2021_4/Title
 0
 pt*avatars/Items/avatar_halloween2021_4/Title
 0
@@ -29904,25 +29900,29 @@ $
 0
 fr*avatars/Items/avatar_halloween2021_4/Title
 0
+uk*avatars/Items/avatar_halloween2021_4/Title
+0
+ja*avatars/Items/avatar_halloween2021_4/Title
+0
 ru*avatars/Items/avatar_halloween2021_4/Title.png
 �
 avatar_bp_38_bundle�
 
 enSwale Avatar
 
-plSwale Avatar
-
 zhSwale Avatar
-
-jaアバター「Swale」
-
-ukАватар Swale
+
+plSwale Avatar
 
 ptSwale Avatar
 
 esSwale Avatar
 
 frAvatar Noue
+
+ukАватар Swale
+
+jaアバター「Swale」
 
 ruАватар «Топь».webp
 �
@@ -29930,13 +29930,9 @@ $
 0
 en*avatars/Items/avatar_halloween2021_1/Title
 0
-pl*avatars/Items/avatar_halloween2021_1/Title
-0
 zh*avatars/Items/avatar_halloween2021_1/Title
 0
-ja*avatars/Items/avatar_halloween2021_1/Title
-0
-uk*avatars/Items/avatar_halloween2021_1/Title
+pl*avatars/Items/avatar_halloween2021_1/Title
 0
 pt*avatars/Items/avatar_halloween2021_1/Title
 0
@@ -29944,19 +29940,19 @@ $
 0
 fr*avatars/Items/avatar_halloween2021_1/Title
 0
+uk*avatars/Items/avatar_halloween2021_1/Title
+0
+ja*avatars/Items/avatar_halloween2021_1/Title
+0
 ru*avatars/Items/avatar_halloween2021_1/Title.png
 �
 avatar_progressive_rank_5�
 
 enavatar_progressive_rank_5
 
-plavatar_progressive_rank_5
-
 zhavatar_progressive_rank_5
 
-jaavatar_progressive_rank_5
-
-ukavatar_progressive_rank_5
+plavatar_progressive_rank_5
 
 ptavatar_progressive_rank_5
 
@@ -29964,19 +29960,19 @@ $
 
 fravatar_progressive_rank_5
 
+ukavatar_progressive_rank_5
+
+jaavatar_progressive_rank_5
+
 ruavatar_progressive_rank_5.png
 �
 avatar_halloween2021_3�
 0
 en*avatars/Items/avatar_halloween2021_3/Title
 0
-pl*avatars/Items/avatar_halloween2021_3/Title
-0
 zh*avatars/Items/avatar_halloween2021_3/Title
 0
-ja*avatars/Items/avatar_halloween2021_3/Title
-0
-uk*avatars/Items/avatar_halloween2021_3/Title
+pl*avatars/Items/avatar_halloween2021_3/Title
 0
 pt*avatars/Items/avatar_halloween2021_3/Title
 0
@@ -29984,25 +29980,29 @@ $
 0
 fr*avatars/Items/avatar_halloween2021_3/Title
 0
+uk*avatars/Items/avatar_halloween2021_3/Title
+0
+ja*avatars/Items/avatar_halloween2021_3/Title
+0
 ru*avatars/Items/avatar_halloween2021_3/Title.png
 �
 avatar_clover_legendary�
 
 enLucky Clover Avatar
 
-plLucky Clover Avatar
-
 zhLucky Clover Avatar
-0
-ja*アバター「幸運のクローバー」
-2
-uk,Аватар «Конюшина удачі»
+
+plLucky Clover Avatar
 
 ptLucky Clover Avatar
 
 esLucky Clover Avatar
 '
 fr!Avatar Trèfle à quatre feuilles
+2
+uk,Аватар «Конюшина удачі»
+0
+ja*アバター「幸運のクローバー」
 .
 ru(Аватар «Клевер удачи».webp
 �
@@ -30010,13 +30010,9 @@ $
 0
 en*avatars/Items/avatar_halloween2021_2/Title
 0
-pl*avatars/Items/avatar_halloween2021_2/Title
-0
 zh*avatars/Items/avatar_halloween2021_2/Title
 0
-ja*avatars/Items/avatar_halloween2021_2/Title
-0
-uk*avatars/Items/avatar_halloween2021_2/Title
+pl*avatars/Items/avatar_halloween2021_2/Title
 0
 pt*avatars/Items/avatar_halloween2021_2/Title
 0
@@ -30024,19 +30020,19 @@ $
 0
 fr*avatars/Items/avatar_halloween2021_2/Title
 0
+uk*avatars/Items/avatar_halloween2021_2/Title
+0
+ja*avatars/Items/avatar_halloween2021_2/Title
+0
 ru*avatars/Items/avatar_halloween2021_2/Title.png
 �
 avatar_mt_rare_14d�
 "
 enMedium Tank Commander Avatar
 "
-plMedium Tank Commander Avatar
-"
 zhMedium Tank Commander Avatar
-$
-jaアバター「中戦車長」
-,
-uk&Аватар «Командир СТ»
+"
+plMedium Tank Commander Avatar
 "
 ptMedium Tank Commander Avatar
 "
@@ -30044,19 +30040,19 @@ $
 %
 frAvatar Commandant de char moyen
 ,
+uk&Аватар «Командир СТ»
+$
+jaアバター「中戦車長」
+,
 ru&Аватар «Командир СТ».webp
 �
 avatar_sword_legendary�
 
 enExcalibur Avatar
 
-plExcalibur Avatar
-
 zhExcalibur Avatar
--
-ja'アバター「エクスカリバー」
-7
-uk1Аватар «Меч короля Артура»
+
+plExcalibur Avatar
 
 ptExcalibur Avatar
 
@@ -30064,19 +30060,19 @@ $
 
 frAvatar Excalibur
 7
+uk1Аватар «Меч короля Артура»
+-
+ja'アバター「エクスカリバー」
+7
 ru1Аватар «Меч короля Артура».webp
 �
 avatar_progressive_rank_9�
 
 enavatar_progressive_rank_9
 
-plavatar_progressive_rank_9
-
 zhavatar_progressive_rank_9
 
-jaavatar_progressive_rank_9
-
-ukavatar_progressive_rank_9
+plavatar_progressive_rank_9
 
 ptavatar_progressive_rank_9
 
@@ -30084,25 +30080,29 @@ $
 
 fravatar_progressive_rank_9
 
+ukavatar_progressive_rank_9
+
+jaavatar_progressive_rank_9
+
 ruavatar_progressive_rank_9.png
 �
 "avatar_EU_Apathy_BSC_fans_rare_31d�
 
 enApathy Fan Avatar
 
-plApathy Fan Avatar
-
 zhApathy Fan Avatar
-(
-ja"アバター「Apathy ファン」
-6
-uk0Аватар «Вболівальник Apathy»
+
+plApathy Fan Avatar
 
 ptApathy Fan Avatar
 
 esApathy Fan Avatar
 #
 frAvatar du passionné d'Apathy
+6
+uk0Аватар «Вболівальник Apathy»
+(
+ja"アバター「Apathy ファン」
 0
 ru*Аватар «Болельщик Apathy».webp
 �
@@ -30110,19 +30110,19 @@ $
 
 enCenturion Avatar
 
-plCenturion Avatar
-
 zhCenturion Avatar
-$
-jaアバター「百人隊長」
-!
-ukАватар «Лицар»
+
+plCenturion Avatar
 
 ptCenturion Avatar
 
 esCenturion Avatar
 
 frAvatar de centurion
+!
+ukАватар «Лицар»
+$
+jaアバター「百人隊長」
 #
 ruАватар «Рыцарь».png
 �
@@ -30130,19 +30130,19 @@ $
 
 enSilver Snowflake Avatar
 
-plSilver Snowflake Avatar
-
 zhSilver Snowflake Avatar
-$
-jaアバター「銀の雪片」
-5
-uk/Аватар «Срібна сніжинка».
+
+plSilver Snowflake Avatar
 
 ptSilver Snowflake Avatar
 
 esSilver Snowflake Avatar
 (
 fr"Avatar de flocon de neige argenté
+5
+uk/Аватар «Срібна сніжинка».
+$
+jaアバター「銀の雪片」
 <
 ru6Аватар «Серебряная снежинка».png
 �
@@ -30150,19 +30150,19 @@ $
 
 enPro Player Avatar
 
-plPro Player Avatar
-
 zhPro Player Avatar
--
-ja'アバター「プロプレイヤー」
--
-uk'Аватар «Професіонал»
+
+plPro Player Avatar
 
 ptPro Player Avatar
 
 esPro Player Avatar
 $
 frAvatar du joueur professionnel
+-
+uk'Аватар «Професіонал»
+-
+ja'アバター「プロプレイヤー」
 /
 ru)Аватар «Профессионал».png
 �
@@ -30170,19 +30170,19 @@ $
 
 enBlitz Ornaments Avatar
 
-plBlitz Ornaments Avatar
-
 zhBlitz Ornaments Avatar
-0
-ja*アバター「Blitz オーナメント」
--
-uk'Аватар «Прикраси Blitz»
+
+plBlitz Ornaments Avatar
 
 ptBlitz Ornaments Avatar
 
 esBlitz Ornaments Avatar
 
 frAvatar Ornements de Blitz
+-
+uk'Аватар «Прикраси Blitz»
+0
+ja*アバター「Blitz オーナメント」
 /
 ru)Аватар «Украшения Blitz».webp
 �
@@ -30190,19 +30190,19 @@ $
 
 enSea Wanderer Avatar
 
-plSea Wanderer Avatar
-
 zhSea Wanderer Avatar
-'
-ja!アバター「浜辺の旅人」
-6
-uk0Аватар «Морський бродяга»
+
+plSea Wanderer Avatar
 
 ptSea Wanderer Avatar
 
 esSea Wanderer Avatar
 
 frAvatar Vagabond des mers
+6
+uk0Аватар «Морський бродяга»
+'
+ja!アバター「浜辺の旅人」
 4
 ru.Аватар «Морской бродяга».webp
 �
@@ -30210,19 +30210,19 @@ $
 
 enForest Foragers Avatar
 
-plForest Foragers Avatar
-
 zhForest Foragers Avatar
-'
-ja!アバター「森の採集者」
-:
-uk4Аватар «Лісові збиральники»
+
+plForest Foragers Avatar
 
 ptForest Foragers Avatar
 
 esForest Foragers Avatar
 "
 frAvatar Ramasseurs forestiers
+:
+uk4Аватар «Лісові збиральники»
+'
+ja!アバター「森の採集者」
 (
 ru"Аватар «Дары леса».webp
 �
@@ -30230,19 +30230,19 @@ $
 
 enBlitz Ornaments Avatar
 
-plBlitz Ornaments Avatar
-
 zhBlitz Ornaments Avatar
-0
-ja*アバター「Blitz オーナメント」
--
-uk'Аватар «Прикраси Blitz»
+
+plBlitz Ornaments Avatar
 
 ptBlitz Ornaments Avatar
 
 esBlitz Ornaments Avatar
 
 frAvatar Ornements de Blitz
+-
+uk'Аватар «Прикраси Blitz»
+0
+ja*アバター「Blitz オーナメント」
 /
 ru)Аватар «Украшения Blitz».webp
 �
@@ -30250,13 +30250,9 @@ $
 
 enFennec Fox Avatar
 
-plFennec Fox Avatar
-
 zhFennec Fox Avatar
 
-jaFennec Fox Avatar
-
-ukFennec Fox Avatar
+plFennec Fox Avatar
 
 ptFennec Fox Avatar
 
@@ -30264,25 +30260,29 @@ $
 
 frAvatar Renard des Sables
 
+ukFennec Fox Avatar
+
+jaFennec Fox Avatar
+
 ruFennec Fox Avatar.webp
 �
 avatar_progressive_bp_71_free_1�
 
 enForest Foragers Avatar
 
-plForest Foragers Avatar
-
 zhForest Foragers Avatar
-'
-ja!アバター「森の採集者」
-:
-uk4Аватар «Лісові збиральники»
+
+plForest Foragers Avatar
 
 ptForest Foragers Avatar
 
 esForest Foragers Avatar
 "
 frAvatar Ramasseurs forestiers
+:
+uk4Аватар «Лісові збиральники»
+'
+ja!アバター「森の採集者」
 (
 ru"Аватар «Дары леса».webp
 �
@@ -30290,13 +30290,9 @@ $
 
 enCook’s Camper Avatar
 
-plCook’s Camper Avatar
-
 zhCook’s Camper Avatar
--
-ja'アバター「グルメなワゴン」
-6
-uk0Аватар «Фургончик кухаря»
+
+plCook’s Camper Avatar
 
 ptCook’s Camper Avatar
 
@@ -30304,19 +30300,19 @@ $
 
 frAvatar Labo ambulant
 6
+uk0Аватар «Фургончик кухаря»
+-
+ja'アバター「グルメなワゴン」
+6
 ru0Аватар «Фургончик повара».webp
 �
 avatar_CC_Harington_legendary�
 
 enHarington Avatar
 
-plHarington Avatar
-
 zhHarington Avatar
-!
-jaアバター「Harington」
-
-ukАватар Harington
+
+plHarington Avatar
 
 ptHarington Avatar
 
@@ -30324,25 +30320,29 @@ $
 
 frAvatar Harington
 
+ukАватар Harington
+!
+jaアバター「Harington」
+
 ruАватар Harington.webp
 �
 avatar_progressive_bp_34_paid_2�
 
 enEra of Prosperity Avatar
 
-plEra of Prosperity Avatar
-
 zhEra of Prosperity Avatar
-$
-jaアバター「栄華の時」
-8
-uk2Аватар «Епоха процвітання»
+
+plEra of Prosperity Avatar
 
 ptEra of Prosperity Avatar
 
 esEra of Prosperity Avatar
 $
 frAvatar Ère de la prospérité
+8
+uk2Аватар «Епоха процвітання»
+$
+jaアバター「栄華の時」
 .
 ru(Аватар «Эра расцвета».webp
 �
@@ -30350,19 +30350,19 @@ $
 
 enErythromorpha Avatar
 
-plErythromorpha Avatar
-
 zhErythromorpha Avatar
-0
-ja*アバター「エリスロモルファ」
- 
-ukАватар Erythromorpha
+
+plErythromorpha Avatar
 
 ptErythromorpha Avatar
 
 esErythromorpha Avatar
 
 frAvatar Erythromorpha
+ 
+ukАватар Erythromorpha
+0
+ja*アバター「エリスロモルファ」
 -
 ru'Аватар «Эритроморфа».webp
 �
@@ -30370,19 +30370,19 @@ $
 
 enInterceptor Frankie
 
-plInterceptor Frankie
-
 zhInterceptor Frankie
-
-ja迎撃者フランキー
-+
-uk%Перехоплювач Френкі
+
+plInterceptor Frankie
 
 ptInterceptor Frankie
 
 esInterceptor Frankie
 
 frFranckie l'intercepteur
++
+uk%Перехоплювач Френкі
+
+ja迎撃者フランキー
 )
 ru#Перехватчик Френки.png
 �
@@ -30390,19 +30390,19 @@ $
 
 enCity is Ours! Avatar
 
-plCity is Ours! Avatar
-
 zhCity is Ours! Avatar
-$
-jaアバター「City's Ours!」
-+
-uk%Аватар «Місто наше!»
+
+plCity is Ours! Avatar
 
 ptCity is Ours! Avatar
 
 esCity is Ours! Avatar
 $
 frAvatar La ville est à nous !
++
+uk%Аватар «Місто наше!»
+$
+jaアバター「City's Ours!」
 )
 ru#Аватар «Город наш!».webp
 �
@@ -30410,13 +30410,9 @@ $
 
 enPatroller Avatar
 
-plPatroller Avatar
-
 zhPatroller Avatar
-*
-ja$アバター「パトローラー」
-
-ukАватар Patroller
+
+plPatroller Avatar
 
 ptPatroller Avatar
 
@@ -30424,25 +30420,29 @@ $
 
 frAvatar Patroller
 
+ukАватар Patroller
+*
+ja$アバター「パトローラー」
+
 ruАватар Patroller.webp
 �
  avatar_rbyt22_NAEagle_unique_31d�
 
 en#RBYT22: Sky Lord
 
-pl#RBYT22: Sky Lord
-
 zh#RBYT22: Sky Lord
-$
-ja#RBYT22: 天空コマンダー
-(
-uk"#RBYT22: Господар неба
+
+pl#RBYT22: Sky Lord
 
 pt#RBYT22: Sky Lord
 
 es#RBYT22: Sky Lord
 !
 fr#RBYT22 : Seigneur du ciel
+(
+uk"#RBYT22: Господар неба
+$
+ja#RBYT22: 天空コマンダー
 $
 ru#RBYT22: Хозяин неба.webp
 �
@@ -30450,19 +30450,19 @@ $
 
 enSound Storm Avatar
 
-plSound Storm Avatar
-
 zhSound Storm Avatar
-#
-jaアバター「Sound Storm」
-2
-uk,Аватар «Врубай гучніше»
+
+plSound Storm Avatar
 
 ptSound Storm Avatar
 
 esSound Storm Avatar
 
 frAvatar Tempête sonore
+2
+uk,Аватар «Врубай гучніше»
+#
+jaアバター「Sound Storm」
 +
 ru%Аватар «Радиоволна».webp
 �
@@ -30470,13 +30470,9 @@ $
 
 en同行相伴7周年头像
 
-pl同行相伴7周年头像
-
 zh同行相伴7周年头像
 
-ja同行相伴7周年头像
-
-uk同行相伴7周年头像
+pl同行相伴7周年头像
 
 pt同行相伴7周年头像
 
@@ -30484,19 +30480,19 @@ $
 
 fr同行相伴7周年头像
 
+uk同行相伴7周年头像
+
+ja同行相伴7周年头像
+
 ru同行相伴7周年头像.webp
 �
 avatar_progressive_bp_64_free_1�
 
 enTropical Getaway Avatar
 
-plTropical Getaway Avatar
-
 zhTropical Getaway Avatar
-*
-ja$アバター「南国への誘い」
->
-uk8Аватар «Тропічний відпочинок»
+
+plTropical Getaway Avatar
 
 ptTropical Getaway Avatar
 
@@ -30504,25 +30500,29 @@ $
  
 frAvatar Excursion tropicale
 >
+uk8Аватар «Тропічний відпочинок»
+*
+ja$アバター「南国への誘い」
+>
 ru8Аватар «Тропические каникулы».webp
 �
 $avatar_BlitzCup25_NA_TEAM2_legendary�
 
 enOblivion Diamond Avatar
 
-plOblivion Diamond Avatar
-
 zhOblivion Diamond Avatar
-3
-ja-アバター「Oblivion ダイヤモンド」
-A
-uk;Діамантовий аватар команди Oblivion
+
+plOblivion Diamond Avatar
 
 ptOblivion Diamond Avatar
 
 esOblivion Diamond Avatar
 "
 frAvatar d'Oblivion de diamant
+A
+uk;Діамантовий аватар команди Oblivion
+3
+ja-アバター「Oblivion ダイヤモンド」
 E
 ru?Бриллиантовый аватар команды Oblivion.webp
 �
@@ -30530,19 +30530,19 @@ E
 
 enCyborg Zero Avatar
 
-plCyborg Zero Avatar
-
 zhCyborg Zero Avatar
-0
-ja*アバター「サイボーグ・ゼロ」
-#
-ukАватар «Кіборг»
+
+plCyborg Zero Avatar
 
 ptCyborg Zero Avatar
 
 esCyborg Zero Avatar
 
 frAvatar du Cyborg Zero
+#
+ukАватар «Кіборг»
+0
+ja*アバター「サイボーグ・ゼロ」
 #
 ruАватар «Киборг».png
 �
@@ -30550,19 +30550,19 @@ E
 
 enNoNames Fan Avatar
 
-plNoNames Fan Avatar
-
 zhNoNames Fan Avatar
-)
-ja#アバター「NoNames ファン」
-7
-uk1Аватар «Вболівальник NoNames»
+
+plNoNames Fan Avatar
 
 ptNoNames Fan Avatar
 
 esNoNames Fan Avatar
 %
 frAvatar du passionné de NoNames
+7
+uk1Аватар «Вболівальник NoNames»
+)
+ja#アバター「NoNames ファン」
 1
 ru+Аватар «Болельщик NoNames».webp
 �
@@ -30570,19 +30570,19 @@ E
 
 enSound Storm Avatar
 
-plSound Storm Avatar
-
 zhSound Storm Avatar
-#
-jaアバター「Sound Storm」
-2
-uk,Аватар «Врубай гучніше»
+
+plSound Storm Avatar
 
 ptSound Storm Avatar
 
 esSound Storm Avatar
 
 frAvatar Tempête sonore
+2
+uk,Аватар «Врубай гучніше»
+#
+jaアバター「Sound Storm」
 +
 ru%Аватар «Радиоволна».webp
 �
@@ -30590,19 +30590,19 @@ E
 
 enCyborg Zero Avatar
 
-plCyborg Zero Avatar
-
 zhCyborg Zero Avatar
-0
-ja*アバター「サイボーグ・ゼロ」
-#
-ukАватар «Кіборг»
+
+plCyborg Zero Avatar
 
 ptCyborg Zero Avatar
 
 esCyborg Zero Avatar
 
 frAvatar du Cyborg Zero
+#
+ukАватар «Кіборг»
+0
+ja*アバター「サイボーグ・ゼロ」
 #
 ruАватар «Киборг».png
 �
@@ -30610,19 +30610,19 @@ E
 +
 en%Diamond Tournament Participant Avatar
 +
-pl%Diamond Tournament Participant Avatar
-+
 zh%Diamond Tournament Participant Avatar
-;
-ja5アバター「Diamond トーナメント参加者」
-M
-ukGАватар «Учасник Діамантового турніру»
++
+pl%Diamond Tournament Participant Avatar
 +
 pt%Diamond Tournament Participant Avatar
 +
 es%Diamond Tournament Participant Avatar
 +
 fr%Avatar Participant du Tournoi Diamant
+M
+ukGАватар «Учасник Діамантового турніру»
+;
+ja5アバター「Diamond トーナメント参加者」
 S
 ruMАватар «Участник Бриллиантового турнира».webp
 �
@@ -30630,19 +30630,19 @@ S
 
 enCyborg Zero Avatar
 
-plCyborg Zero Avatar
-
 zhCyborg Zero Avatar
-0
-ja*アバター「サイボーグ・ゼロ」
-#
-ukАватар «Кіборг»
+
+plCyborg Zero Avatar
 
 ptCyborg Zero Avatar
 
 esCyborg Zero Avatar
 
 frAvatar du Cyborg Zero
+#
+ukАватар «Кіборг»
+0
+ja*アバター「サイボーグ・ゼロ」
 #
 ruАватар «Киборг».png
 �
@@ -30650,19 +30650,19 @@ S
 
 enCyborg Zero Avatar
 
-plCyborg Zero Avatar
-
 zhCyborg Zero Avatar
-0
-ja*アバター「サイボーグ・ゼロ」
-#
-ukАватар «Кіборг»
+
+plCyborg Zero Avatar
 
 ptCyborg Zero Avatar
 
 esCyborg Zero Avatar
 
 frAvatar du Cyborg Zero
+#
+ukАватар «Кіборг»
+0
+ja*アバター「サイボーグ・ゼロ」
 #
 ruАватар «Киборг».png
 �
@@ -30670,19 +30670,19 @@ S
 
 enRoaring Tiger Avatar
 
-plRoaring Tiger Avatar
-
 zhRoaring Tiger Avatar
-$
-jaアバター「吼える虎」
-4
-uk.Аватар «Тигр, що гарчить»
+
+plRoaring Tiger Avatar
 
 ptRoaring Tiger Avatar
 
 esRoaring Tiger Avatar
 
 frAvatar de tigre rugissant
+4
+uk.Аватар «Тигр, що гарчить»
+$
+jaアバター「吼える虎」
 .
 ru(Аватар «Рычащий тигр».png
 �
@@ -30690,19 +30690,19 @@ $
 
 enCyborg Zero Avatar
 
-plCyborg Zero Avatar
-
 zhCyborg Zero Avatar
-0
-ja*アバター「サイボーグ・ゼロ」
-#
-ukАватар «Кіборг»
+
+plCyborg Zero Avatar
 
 ptCyborg Zero Avatar
 
 esCyborg Zero Avatar
 
 frAvatar du Cyborg Zero
+#
+ukАватар «Кіборг»
+0
+ja*アバター「サイボーグ・ゼロ」
 #
 ruАватар «Киборг».png
 �
@@ -30710,19 +30710,19 @@ $
 
 enSound Storm Avatar
 
-plSound Storm Avatar
-
 zhSound Storm Avatar
-#
-jaアバター「Sound Storm」
-2
-uk,Аватар «Врубай гучніше»
+
+plSound Storm Avatar
 
 ptSound Storm Avatar
 
 esSound Storm Avatar
 
 frAvatar Tempête sonore
+2
+uk,Аватар «Врубай гучніше»
+#
+jaアバター「Sound Storm」
 +
 ru%Аватар «Радиоволна».webp
 �
@@ -30730,19 +30730,19 @@ $
 
 enCyborg Zero Avatar
 
-plCyborg Zero Avatar
-
 zhCyborg Zero Avatar
-0
-ja*アバター「サイボーグ・ゼロ」
-#
-ukАватар «Кіборг»
+
+plCyborg Zero Avatar
 
 ptCyborg Zero Avatar
 
 esCyborg Zero Avatar
 
 frAvatar du Cyborg Zero
+#
+ukАватар «Кіборг»
+0
+ja*アバター「サイボーグ・ゼロ」
 #
 ruАватар «Киборг».png
 �
@@ -30750,19 +30750,19 @@ $
 
 enBerserker's Axe Avatar
 
-plBerserker's Axe Avatar
-
 zhBerserker's Axe Avatar
-'
-ja!アバター「狂戦士の斧」
-2
-uk,Аватар «Сокира вікінга»
+
+plBerserker's Axe Avatar
 
 ptBerserker's Axe Avatar
 
 esBerserker's Axe Avatar
 
 frAvatar hache du berserker
+2
+uk,Аватар «Сокира вікінга»
+'
+ja!アバター「狂戦士の斧」
 0
 ru*Аватар «Топор викинга».png
 �
@@ -30770,19 +30770,19 @@ $
 !
 enRisen from the Grave Avatar
 !
-plRisen from the Grave Avatar
-!
 zhRisen from the Grave Avatar
--
-ja'アバター「墓場からの復活」
-=
-uk7Аватар «Повсталий із мертвих»
+!
+plRisen from the Grave Avatar
 !
 ptRisen from the Grave Avatar
 !
 esRisen from the Grave Avatar
 %
 frAvatar Revenu d'entre les morts
+=
+uk7Аватар «Повсталий із мертвих»
+-
+ja'アバター「墓場からの復活」
 ?
 ru9Аватар «Восставший из мёртвых».png
 �
@@ -30790,19 +30790,19 @@ $
 
 enCyborg Zero Avatar
 
-plCyborg Zero Avatar
-
 zhCyborg Zero Avatar
-0
-ja*アバター「サイボーグ・ゼロ」
-#
-ukАватар «Кіборг»
+
+plCyborg Zero Avatar
 
 ptCyborg Zero Avatar
 
 esCyborg Zero Avatar
 
 frAvatar du Cyborg Zero
+#
+ukАватар «Кіборг»
+0
+ja*アバター「サイボーグ・ゼロ」
 #
 ruАватар «Киборг».png
 �
@@ -30810,13 +30810,9 @@ $
 
 enCyborg Zero Avatar
 
-plCyborg Zero Avatar
-
 zhCyborg Zero Avatar
-0
-ja*アバター「サイボーグ・ゼロ」
-#
-ukАватар «Кіборг»
+
+plCyborg Zero Avatar
 
 ptCyborg Zero Avatar
 
@@ -30824,25 +30820,29 @@ $
 
 frAvatar du Cyborg Zero
 #
+ukАватар «Кіборг»
+0
+ja*アバター「サイボーグ・ゼロ」
+#
 ruАватар «Киборг».png
 �
 avatar_progressive_bp_46_paid_1�
 
 enSound Storm Avatar
 
-plSound Storm Avatar
-
 zhSound Storm Avatar
-#
-jaアバター「Sound Storm」
-2
-uk,Аватар «Врубай гучніше»
+
+plSound Storm Avatar
 
 ptSound Storm Avatar
 
 esSound Storm Avatar
 
 frAvatar Tempête sonore
+2
+uk,Аватар «Врубай гучніше»
+#
+jaアバター「Sound Storm」
 +
 ru%Аватар «Радиоволна».webp
 �
@@ -30850,19 +30850,19 @@ $
 
 enSound Storm Avatar
 
-plSound Storm Avatar
-
 zhSound Storm Avatar
-#
-jaアバター「Sound Storm」
-2
-uk,Аватар «Врубай гучніше»
+
+plSound Storm Avatar
 
 ptSound Storm Avatar
 
 esSound Storm Avatar
 
 frAvatar Tempête sonore
+2
+uk,Аватар «Врубай гучніше»
+#
+jaアバター「Sound Storm」
 +
 ru%Аватар «Радиоволна».webp
 �
@@ -30870,19 +30870,19 @@ $
 
 en#RBYT22: Adventure Seeker
 
-pl#RBYT22: Adventure Seeker
-
 zh#RBYT22: Adventure Seeker
-!
-ja#RBYT22: 冒険シーカー
-&
-uk #RBYT22: Шукач пригод
+
+pl#RBYT22: Adventure Seeker
 
 pt#RBYT22: Adventure Seeker
 
 es#RBYT22: Adventure Seeker
 %
 fr#RBYT22 : Chercheur d'aventure
+&
+uk #RBYT22: Шукач пригод
+!
+ja#RBYT22: 冒険シーカー
 6
 ru0#RBYT22: Искатель приключений.webp
 �
@@ -30890,13 +30890,9 @@ $
 
 enWargaming Squad
 
-plWargaming Squad
-
 zhWargaming Squad
-
-jaWargaming スクワッド
-
-ukЗагін Wargaming
+
+plWargaming Squad
 
 ptWargaming Squad
 
@@ -30904,19 +30900,19 @@ $
 
 frÉquipe Wargaming
 
+ukЗагін Wargaming
+
+jaWargaming スクワッド
+
 ruОтряд Wargaming.webp
 �
 avatar_Junior_rare�
 
 enJunior Avatar
 
-plJunior Avatar
-
 zhJunior Avatar
-*
-ja$アバター「期待のポープ」
-!
-ukАватар «Юніор»
+
+plJunior Avatar
 
 ptJunior Avatar
 
@@ -30924,25 +30920,29 @@ $
 
 frAvatar Junior
 !
+ukАватар «Юніор»
+*
+ja$アバター「期待のポープ」
+!
 ruАватар «Юниор».webp
 �
 avatar_YellowSub_legendary_anim�
 %
 enFully Submerged Animated Avatar
 %
-plFully Submerged Animated Avatar
-%
 zhFully Submerged Animated Avatar
-B
-ja<アニメーション付きアバター「深みに Dive!」
-I
-ukCАнімований аватар «Повне занурення»
+%
+plFully Submerged Animated Avatar
 %
 ptFully Submerged Animated Avatar
 %
 esFully Submerged Animated Avatar
 '
 fr!Avatar animé Totalement immergé
+I
+ukCАнімований аватар «Повне занурення»
+B
+ja<アニメーション付きアバター「深みに Dive!」
 S
 ruMАнимированный аватар «Полное погружение».webp
 �
@@ -30950,19 +30950,19 @@ $avatar_progressive_bp_33_ruby_paid_2�
 4
 en.Аватар «Немой проводник»
 4
-pl.Аватар «Немой проводник»
-4
 zh.Аватар «Немой проводник»
 4
-ja.Аватар «Немой проводник»
-4
-uk.Аватар «Немой проводник»
+pl.Аватар «Немой проводник»
 4
 pt.Аватар «Немой проводник»
 4
 es.Аватар «Немой проводник»
 4
 fr.Аватар «Немой проводник»
+4
+uk.Аватар «Немой проводник»
+4
+ja.Аватар «Немой проводник»
 6
 ru0Аватар «Разбуженный маяк».webp
 �
@@ -30970,19 +30970,19 @@ $avatar_progressive_bp_33_ruby_paid_2�
 
 enFrozen Heart Avatar
 
-plFrozen Heart Avatar
-
 zhFrozen Heart Avatar
-'
-ja!アバター「氷のハート」
-0
-uk*Аватар «Крижане серце»
+
+plFrozen Heart Avatar
 
 ptFrozen Heart Avatar
 
 esFrozen Heart Avatar
 
 frAvatar du Cœur gelé
+0
+uk*Аватар «Крижане серце»
+'
+ja!アバター「氷のハート」
 2
 ru,Аватар «Ледяное сердце».webp
 �
@@ -30990,19 +30990,19 @@ $avatar_progressive_bp_33_ruby_paid_2�
 
 enAurora Avatar
 
-plAurora Avatar
-
 zhAurora Avatar
-
-jaアバター「Aurora」
-0
-uk*Аватар «Полярне сяйво»
+
+plAurora Avatar
 
 ptAurora Avatar
 
 esAurora Avatar
 
 frAvatar Aurore
+0
+uk*Аватар «Полярне сяйво»
+
+jaアバター「Aurora」
 
 ruАватар Aurora.webp
 �
@@ -31010,19 +31010,19 @@ $avatar_progressive_bp_33_ruby_paid_2�
  
 enWild Honey Animated Avatar
  
-plWild Honey Animated Avatar
- 
 zhWild Honey Animated Avatar
-K
-jaEアニメーション付きアバター「ワイルド・ハニー」
-=
-uk7Анімований аватар «Дикий мед»
+ 
+plWild Honey Animated Avatar
  
 ptWild Honey Animated Avatar
  
 esWild Honey Animated Avatar
  
 frAvatar animé Miel sauvage
+=
+uk7Анімований аватар «Дикий мед»
+K
+jaEアニメーション付きアバター「ワイルド・ハニー」
 C
 ru=Анимированный аватар «Дикий мёд».webp
 �
@@ -31030,19 +31030,19 @@ C
 
 enAre We Home Yet? Avatar
 
-plAre We Home Yet? Avatar
-
 zhAre We Home Yet? Avatar
-.
-ja(アバター「で、いつ帰るの?」
-0
-uk*Аватар «А коли додому?»
+
+plAre We Home Yet? Avatar
 
 ptAre We Home Yet? Avatar
 
 esAre We Home Yet? Avatar
 *
 fr$Avatar On est déjà à la maison ?
+0
+uk*Аватар «А коли додому?»
+.
+ja(アバター「で、いつ帰るの?」
 0
 ru*Аватар «А когда домой?».webp
 �
@@ -31050,13 +31050,9 @@ C
 
 enAre We Home Yet? Avatar
 
-plAre We Home Yet? Avatar
-
 zhAre We Home Yet? Avatar
-.
-ja(アバター「で、いつ帰るの?」
-0
-uk*Аватар «А коли додому?»
+
+plAre We Home Yet? Avatar
 
 ptAre We Home Yet? Avatar
 
@@ -31064,19 +31060,19 @@ C
 *
 fr$Avatar On est déjà à la maison ?
 0
+uk*Аватар «А коли додому?»
+.
+ja(アバター「で、いつ帰るの?」
+0
 ru*Аватар «А когда домой?».webp
 �
 avatar_snowman_rare�
 
 enSnowman Avatar
 
-plSnowman Avatar
-
 zhSnowman Avatar
-$
-jaアバター「雪だるま」
-'
-uk!Аватар «Сніговик»
+
+plSnowman Avatar
 
 ptSnowman Avatar
 
@@ -31084,19 +31080,19 @@ $
 !
 frAvatar de bonhomme de neige
 '
+uk!Аватар «Сніговик»
+$
+jaアバター「雪だるま」
+'
 ru!Аватар «Снеговик».png
 �
 avatar_2024_spring_3�
 
 enGurney Halleck Avatar
 
-plGurney Halleck Avatar
-
 zhGurney Halleck Avatar
-3
-ja-アバター「ガーニイ・ハレック」
-.
-uk(Аватар «Ґурні Галлек»
+
+plGurney Halleck Avatar
 
 ptGurney Halleck Avatar
 
@@ -31104,19 +31100,19 @@ $
 
 frAvatar Gurney Halleck
 .
+uk(Аватар «Ґурні Галлек»
+3
+ja-アバター「ガーニイ・ハレック」
+.
 ru(Аватар «Гурни Халлек».webp
 �
 avatar_2024_spring_2�
 
 enThe Fremen Avatar
 
-plThe Fremen Avatar
-
 zhThe Fremen Avatar
-$
-jaアバター「フレメン」
-%
-ukАватар «Фрімени»
+
+plThe Fremen Avatar
 
 ptThe Fremen Avatar
 
@@ -31124,19 +31120,19 @@ $
 
 frL'avatar Fremen
 %
+ukАватар «Фрімени»
+$
+jaアバター「フレメン」
+%
 ruАватар «Фремены».webp
 �
 avatar_eagle_common�
 
 enEagle Avatar
 
-plEagle Avatar
-
 zhEagle Avatar
-
-jaアバター「鷹」
-
-ukАватар «Орел»
+
+plEagle Avatar
 
 ptEagle Avatar
 
@@ -31144,25 +31140,29 @@ $
 
 frAvatar d'aigle
 
+ukАватар «Орел»
+
+jaアバター「鷹」
+
 ruАватар «Орёл».png
 �
 'avatar_progressive_midnight_predator_11�
 
 enMidnight Predator Avatar
 
-plMidnight Predator Avatar
-
 zhMidnight Predator Avatar
--
-ja'アバター「真夜中の捕食者」
-6
-uk0Аватар «Опівнічний хижак»
+
+plMidnight Predator Avatar
 
 ptMidnight Predator Avatar
 
 esMidnight Predator Avatar
 $
 frAvatar du prédateur de minuit
+6
+uk0Аватар «Опівнічний хижак»
+-
+ja'アバター「真夜中の捕食者」
 8
 ru2Аватар «Полуночный хищник».webp
 �
@@ -31170,13 +31170,9 @@ $
 
 enPrivate Snowy Avatar
 
-plPrivate Snowy Avatar
-
 zhPrivate Snowy Avatar
-0
-ja*アバター「クリスマスの相棒」
-0
-uk*Аватар «Рядовий Санти»
+
+plPrivate Snowy Avatar
 
 ptPrivate Snowy Avatar
 
@@ -31184,25 +31180,29 @@ $
 
 frAvatar Soldat de neige
 0
+uk*Аватар «Рядовий Санти»
+0
+ja*アバター「クリスマスの相棒」
+0
 ru*Аватар «Рядовой Санты».webp
 �
 'avatar_progressive_midnight_predator_10�
 
 enMidnight Predator Avatar
 
-plMidnight Predator Avatar
-
 zhMidnight Predator Avatar
--
-ja'アバター「真夜中の捕食者」
-6
-uk0Аватар «Опівнічний хижак»
+
+plMidnight Predator Avatar
 
 ptMidnight Predator Avatar
 
 esMidnight Predator Avatar
 $
 frAvatar du prédateur de minuit
+6
+uk0Аватар «Опівнічний хижак»
+-
+ja'アバター「真夜中の捕食者」
 8
 ru2Аватар «Полуночный хищник».png
 �
@@ -31210,19 +31210,19 @@ $
 !
 enChristmas Decoration Avatar
 !
-plChristmas Decoration Avatar
-!
 zhChristmas Decoration Avatar
--
-ja'アバター「クリスマス装飾」
-8
-uk2Аватар «Святкова прикраса»
+!
+plChristmas Decoration Avatar
 !
 ptChristmas Decoration Avatar
 !
 esChristmas Decoration Avatar
 $
 frAvatar de décoration de Noël
+8
+uk2Аватар «Святкова прикраса»
+-
+ja'アバター「クリスマス装飾」
 @
 ru:Аватар «Праздничное украшение».png
 �
@@ -31230,13 +31230,9 @@ $
 
 enMilla Jovovich Avatar
 
-plMilla Jovovich Avatar
-
 zhMilla Jovovich Avatar
-9
-ja3アバター「ミラ・ジョヴォヴィッチ」
-0
-uk*Аватар «Мілла Йовович»
+
+plMilla Jovovich Avatar
 
 ptMilla Jovovich Avatar
 
@@ -31244,25 +31240,29 @@ $
 
 frAvatar de Milla Jovovich
 0
+uk*Аватар «Мілла Йовович»
+9
+ja3アバター「ミラ・ジョヴォヴィッチ」
+0
 ru*Аватар «Милла Йовович».webp
 �
 avatar_2024_spring_1�
 
 enHouse Atreides Avatar
 
-plHouse Atreides Avatar
-
 zhHouse Atreides Avatar
--
-ja'アバター「アトレイデス家」
-,
-uk&Аватар «Дім Атрідів»
+
+plHouse Atreides Avatar
 
 ptHouse Atreides Avatar
 
 esHouse Atreides Avatar
 
 frAvatar Maison Atréides
+,
+uk&Аватар «Дім Атрідів»
+-
+ja'アバター「アトレイデス家」
 2
 ru,Аватар «Дом Атрейдесов».webp
 �
@@ -31270,13 +31270,9 @@ $
 +
 en%Аватар «Нескромный»
 +
-pl%Аватар «Нескромный»
-+
 zh%Аватар «Нескромный»
 +
-ja%Аватар «Нескромный»
-+
-uk%Аватар «Нескромный»
+pl%Аватар «Нескромный»
 +
 pt%Аватар «Нескромный»
 +
@@ -31284,19 +31280,19 @@ $
 +
 fr%Аватар «Нескромный»
 +
+uk%Аватар «Нескромный»
++
+ja%Аватар «Нескромный»
++
 ru%Аватар «Нескромный».webp
 �
 avatar_cc_roanvdb�
 
 enRoanvdb's Avatar
 
-plRoanvdb's Avatar
-
 zhRoanvdb's Avatar
-
-jaアバター「Roanvdb」
-
-ukАватар Roanvdb
+
+plRoanvdb's Avatar
 
 ptRoanvdb's Avatar
 
@@ -31304,25 +31300,29 @@ $
 
 frAvatar de Roanvdb
 
+ukАватар Roanvdb
+
+jaアバター「Roanvdb」
+
 ruАватар Roanvdb.webp
 �
 avatar_khaki_star_common_72h�
 
 enBattle Star Avatar
 
-plBattle Star Avatar
-
 zhBattle Star Avatar
-*
-ja$アバター「バトルスター」
-.
-uk(Аватар «Бойова зірка»
+
+plBattle Star Avatar
 
 ptBattle Star Avatar
 
 esBattle Star Avatar
 #
 frAvatar de l'étoile de guerre
+.
+uk(Аватар «Бойова зірка»
+*
+ja$アバター「バトルスター」
 0
 ru*Аватар «Боевая звезда».png
 �
@@ -31330,19 +31330,19 @@ $
 $
 enFremen Warrior Animated Avatar
 $
-plFremen Warrior Animated Avatar
-$
 zhFremen Warrior Animated Avatar
-H
-jaBアニメーション付きアバター「フレメンの戦士」
-S
-ukMАнімований аватар «Фріменська воїтелька»
+$
+plFremen Warrior Animated Avatar
 $
 ptFremen Warrior Animated Avatar
 $
 esFremen Warrior Animated Avatar
 %
 frAvatar animé Guerrière Fremen
+S
+ukMАнімований аватар «Фріменська воїтелька»
+H
+jaBアニメーション付きアバター「フレメンの戦士」
 K
 ruEАнимированный аватар «Воин фременов».webp
 �
@@ -31350,13 +31350,9 @@ K
  
 enEvolution of Energy Avatar
  
-plEvolution of Energy Avatar
- 
 zhEvolution of Energy Avatar
-9
-ja3アバター「進化を遂げるエネルギー」
-6
-uk0Аватар «Еволюція енергії»
+ 
+plEvolution of Energy Avatar
  
 ptEvolution of Energy Avatar
  
@@ -31364,25 +31360,29 @@ K
 %
 frAvatar Évolution de l'énergie
 6
+uk0Аватар «Еволюція енергії»
+9
+ja3アバター「進化を遂げるエネルギー」
+6
 ru0Аватар «Эволюция энергии».webp
 �
 avatar_progressive_bp_69_free_1�
 
 enRadar Detection Avatar
 
-plRadar Detection Avatar
-
 zhRadar Detection Avatar
-*
-ja$アバター「レーダー検知」
-F
-uk@Аватар «Радіолокаційне виявлення»
+
+plRadar Detection Avatar
 
 ptRadar Detection Avatar
 
 esRadar Detection Avatar
 
 frAvatar Détection radar
+F
+uk@Аватар «Радіолокаційне виявлення»
+*
+ja$アバター「レーダー検知」
 4
 ru.Аватар «Радарный захват».webp
 �
@@ -31390,19 +31390,19 @@ F
 
 enTrophy Place Avatar
 
-plTrophy Place Avatar
-
 zhTrophy Place Avatar
-0
-ja*アバター「勝利のトロフィー」
-/
-uk)Аватар «На п'єдесталі»
+
+plTrophy Place Avatar
 
 ptTrophy Place Avatar
 
 esTrophy Place Avatar
  
 frAvatar du Trophée gagnant
+/
+uk)Аватар «На п'єдесталі»
+0
+ja*アバター「勝利のトロフィー」
 0
 ru*Аватар «На пьедестале».webp
 �
@@ -31410,19 +31410,19 @@ F
 %
 enNaval Maneuvers Animated Avatar
 %
-plNaval Maneuvers Animated Avatar
-%
 zhNaval Maneuvers Animated Avatar
-E
-ja?アニメーション付きアバター「アヒルの水兵」
-I
-ukCАнімований аватар «Водні процедури»
+%
+plNaval Maneuvers Animated Avatar
 %
 ptNaval Maneuvers Animated Avatar
 %
 esNaval Maneuvers Animated Avatar
 &
 fr Avatar animé Manœuvres navales
+I
+ukCАнімований аватар «Водні процедури»
+E
+ja?アニメーション付きアバター「アヒルの水兵」
 Q
 ruKАнимированный аватар «Водные процедуры».webp
 �
@@ -31430,19 +31430,19 @@ Q
 
 enRadar Detection Avatar
 
-plRadar Detection Avatar
-
 zhRadar Detection Avatar
-*
-ja$アバター「レーダー検知」
-F
-uk@Аватар «Радіолокаційне виявлення»
+
+plRadar Detection Avatar
 
 ptRadar Detection Avatar
 
 esRadar Detection Avatar
 
 frAvatar Détection radar
+F
+uk@Аватар «Радіолокаційне виявлення»
+*
+ja$アバター「レーダー検知」
 4
 ru.Аватар «Радарный захват».webp
 �
@@ -31450,13 +31450,9 @@ F
 
 enHouse Corrino Avatar
 
-plHouse Corrino Avatar
-
 zhHouse Corrino Avatar
-$
-jaアバター「コリノ家」
-,
-uk&Аватар «Дім Корріно»
+
+plHouse Corrino Avatar
 
 ptHouse Corrino Avatar
 
@@ -31464,19 +31460,19 @@ $
 
 frAvatar Maison Corrino
 ,
+uk&Аватар «Дім Корріно»
+$
+jaアバター「コリノ家」
+,
 ru&Аватар «Дом Коррино».webp
 �
 avatar_progressive_bp_58_paid_4�
 
 enImperative Design Avatar
 
-plImperative Design Avatar
-
 zhImperative Design Avatar
-0
-ja*アバター「絶対なるデザイン」
-<
-uk6Аватар «Невідкладний проєкт»
+
+plImperative Design Avatar
 
 ptImperative Design Avatar
 
@@ -31484,25 +31480,29 @@ $
 "
 frAvatar Design incontournable
 <
+uk6Аватар «Невідкладний проєкт»
+0
+ja*アバター「絶対なるデザイン」
+<
 ru6Аватар «Императивный дизайн».webp
 �
 avatar_progressive_bp_15_free_4�
 
 enTrophy Place Avatar
 
-plTrophy Place Avatar
-
 zhTrophy Place Avatar
-0
-ja*アバター「勝利のトロフィー」
-/
-uk)Аватар «На п'єдесталі»
+
+plTrophy Place Avatar
 
 ptTrophy Place Avatar
 
 esTrophy Place Avatar
  
 frAvatar du Trophée gagnant
+/
+uk)Аватар «На п'єдесталі»
+0
+ja*アバター「勝利のトロフィー」
 0
 ru*Аватар «На пьедестале».webp
 �
@@ -31510,13 +31510,9 @@ $
 *
 en$Аватар «8 лет побед»
 *
-pl$Аватар «8 лет побед»
-*
 zh$Аватар «8 лет побед»
 *
-ja$Аватар «8 лет побед»
-*
-uk$Аватар «8 лет побед»
+pl$Аватар «8 лет побед»
 *
 pt$Аватар «8 лет побед»
 *
@@ -31524,19 +31520,19 @@ $
 *
 fr$Аватар «8 лет побед»
 *
+uk$Аватар «8 лет побед»
+*
+ja$Аватар «8 лет побед»
+*
 ru$Аватар «8 лет побед».webp
 �
 avatar_bp_34_bundle�
 
 enAeonix Aurum Avatar
 
-plAeonix Aurum Avatar
-
 zhAeonix Aurum Avatar
-$
-jaアバター「Aeonix Aurum」
-
-ukАватар Aeonix Aurum
+
+plAeonix Aurum Avatar
 
 ptAeonix Aurum Avatar
 
@@ -31544,19 +31540,19 @@ $
 
 frAvatar Aeonix Aurum
 
+ukАватар Aeonix Aurum
+$
+jaアバター「Aeonix Aurum」
+
 ruАватар Aeonix Aurum.webp
 �
 avatar_2024_villa_6�
 
 enPekomon Avatar
 
-plPekomon Avatar
-
 zhPekomon Avatar
-$
-jaアバター「ぺこもん」
-
-ukАватар Pekomon
+
+plPekomon Avatar
 
 ptPekomon Avatar
 
@@ -31564,25 +31560,29 @@ $
 
 frAvatar Pekomon
 
+ukАватар Pekomon
+$
+jaアバター「ぺこもん」
+
 ruАватар Pekomon.webp
 �
 avatar_progressive_bp_42_free_2�
 
 enIngrid Lindholm Avatar
 
-plIngrid Lindholm Avatar
-
 zhIngrid Lindholm Avatar
-?
-ja9アバター「イングリッド・リンドホルム」
-6
-uk0Аватар «Інгрід Ліндхольм»
+
+plIngrid Lindholm Avatar
 
 ptIngrid Lindholm Avatar
 
 esIngrid Lindholm Avatar
 
 frAvatar Ingrid Lindholm
+6
+uk0Аватар «Інгрід Ліндхольм»
+?
+ja9アバター「イングリッド・リンドホルム」
 6
 ru0Аватар «Ингрид Линдхольм».webp
 �
@@ -31590,19 +31590,19 @@ $
 '
 en!Twister Season Participant Avatar
 '
-pl!Twister Season Participant Avatar
-'
 zh!Twister Season Participant Avatar
-?
-ja9アバター「ツイスターシーズンの参加者」
-:
-uk4Аватар «Учасник сезону Twister»
+'
+pl!Twister Season Participant Avatar
 '
 pt!Twister Season Participant Avatar
 '
 es!Twister Season Participant Avatar
 0
 fr*Avatar de participant de la saison Twister
+:
+uk4Аватар «Учасник сезону Twister»
+?
+ja9アバター「ツイスターシーズンの参加者」
 <
 ru6Аватар «Участник сезона Twister».png
 �
@@ -31610,19 +31610,19 @@ $
 
 enФонарик
 
-plФонарик
-
 zhФонарик
 
-jaФонарик
-
-ukФонарик
+plФонарик
 
 ptФонарик
 
 esФонарик
 
 frФонарик
+
+ukФонарик
+
+jaФонарик
 
 ruДракон.png
 �
@@ -31630,19 +31630,19 @@ $
 
 enIngrid Lindholm Avatar
 
-plIngrid Lindholm Avatar
-
 zhIngrid Lindholm Avatar
-?
-ja9アバター「イングリッド・リンドホルム」
-6
-uk0Аватар «Інгрід Ліндхольм»
+
+plIngrid Lindholm Avatar
 
 ptIngrid Lindholm Avatar
 
 esIngrid Lindholm Avatar
 
 frAvatar Ingrid Lindholm
+6
+uk0Аватар «Інгрід Ліндхольм»
+?
+ja9アバター「イングリッド・リンドホルム」
 6
 ru0Аватар «Ингрид Линдхольм».webp
 �
@@ -31650,19 +31650,19 @@ $
 
 enAPEX Fan Diamond Avatar
 
-plAPEX Fan Diamond Avatar
-
 zhAPEX Fan Diamond Avatar
-;
-ja5アバター「APEX ファン・ダイヤモンド」
-X
-ukRДіамантовий аватар уболівальника команди APEX
+
+plAPEX Fan Diamond Avatar
 
 ptAPEX Fan Diamond Avatar
 
 esAPEX Fan Diamond Avatar
 ,
 fr&Avatar du passionné d'APEX de diamant
+X
+ukRДіамантовий аватар уболівальника команди APEX
+;
+ja5アバター「APEX ファン・ダイヤモンド」
 V
 ruPБриллиантовый аватар болельщика команды APEX.webp
 �
@@ -31670,13 +31670,9 @@ V
 
 enBreach Avatar
 
-plBreach Avatar
-
 zhBreach Avatar
-!
-jaアバター「突破口」
-)
-uk#Аватар «Пробивний»
+
+plBreach Avatar
 
 ptBreach Avatar
 
@@ -31684,19 +31680,19 @@ V
 
 frAvatar de brèche
 )
+uk#Аватар «Пробивний»
+!
+jaアバター「突破口」
+)
 ru#Аватар «Пробивной».png
 �
 avatar_progressive_bp_42_free_4�
 
 enIngrid Lindholm Avatar
 
-plIngrid Lindholm Avatar
-
 zhIngrid Lindholm Avatar
-?
-ja9アバター「イングリッド・リンドホルム」
-6
-uk0Аватар «Інгрід Ліндхольм»
+
+plIngrid Lindholm Avatar
 
 ptIngrid Lindholm Avatar
 
@@ -31704,25 +31700,29 @@ V
 
 frAvatar Ingrid Lindholm
 6
+uk0Аватар «Інгрід Ліндхольм»
+?
+ja9アバター「イングリッド・リンドホルム」
+6
 ru0Аватар «Ингрид Линдхольм».webp
 �
 avatar_2024_spring_5�
 
 enThe "Beast" Rabban Avatar
 
-plThe "Beast" Rabban Avatar
-
 zhThe "Beast" Rabban Avatar
-6
-ja0アバター「ビースト・ラッバーン」
-,
-uk&Аватар «Звір Раббан»
+
+plThe "Beast" Rabban Avatar
 
 ptThe "Beast" Rabban Avatar
 
 esThe "Beast" Rabban Avatar
 $
 frAvatar Rabban « la Bête »
+,
+uk&Аватар «Звір Раббан»
+6
+ja0アバター「ビースト・ラッバーン」
 .
 ru(Аватар «Зверь Раббан».webp
 �
@@ -31730,13 +31730,9 @@ $
 
 enThe Bene Gesserit Avatar
 
-plThe Bene Gesserit Avatar
-
 zhThe Bene Gesserit Avatar
-0
-ja*アバター「ベネ・ゲセリット」
-0
-uk*Аватар «Бене Ґессерит»
+
+plThe Bene Gesserit Avatar
 
 ptThe Bene Gesserit Avatar
 
@@ -31744,25 +31740,29 @@ $
 
 frAvatar Bene Gesserit
 0
+uk*Аватар «Бене Ґессерит»
+0
+ja*アバター「ベネ・ゲセリット」
+0
 ru*Аватар «Бене Гессерит».webp
 �
 avatar_progressive_bp_5_free_2�
 
 enIce Axe Avatar
 
-plIce Axe Avatar
-
 zhIce Axe Avatar
-$
-jaアバター「ピッケル」
-'
-uk!Аватар «Кригоруб»
+
+plIce Axe Avatar
 
 ptIce Axe Avatar
 
 esIce Axe Avatar
 !
 frAvatar de la hache de glace
+'
+uk!Аватар «Кригоруб»
+$
+jaアバター「ピッケル」
 %
 ruАватар «Ледоруб».png
 �
@@ -31770,13 +31770,9 @@ $
 
 enBoomerang Avatar
 
-plBoomerang Avatar
-
 zhBoomerang Avatar
-'
-ja!アバター「ブーメラン」
-'
-uk!Аватар «Бумеранг»
+
+plBoomerang Avatar
 
 ptBoomerang Avatar
 
@@ -31784,25 +31780,29 @@ $
 
 frAvatar du boomerang
 '
+uk!Аватар «Бумеранг»
+'
+ja!アバター「ブーメラン」
+'
 ru!Аватар «Бумеранг».webp
 �
 avatar_progressive_bp_5_free_3�
 
 enIce Axe Avatar
 
-plIce Axe Avatar
-
 zhIce Axe Avatar
-$
-jaアバター「ピッケル」
-'
-uk!Аватар «Кригоруб»
+
+plIce Axe Avatar
 
 ptIce Axe Avatar
 
 esIce Axe Avatar
 !
 frAvatar de la hache de glace
+'
+uk!Аватар «Кригоруб»
+$
+jaアバター「ピッケル」
 %
 ruАватар «Ледоруб».png
 �
@@ -31810,19 +31810,19 @@ $
 
 enIce Axe Avatar
 
-plIce Axe Avatar
-
 zhIce Axe Avatar
-$
-jaアバター「ピッケル」
-'
-uk!Аватар «Кригоруб»
+
+plIce Axe Avatar
 
 ptIce Axe Avatar
 
 esIce Axe Avatar
 !
 frAvatar de la hache de glace
+'
+uk!Аватар «Кригоруб»
+$
+jaアバター「ピッケル」
 %
 ruАватар «Ледоруб».png
 �
@@ -31830,19 +31830,19 @@ $
 #
 enKiko Loureiro Animated Avatar
 #
-plKiko Loureiro Animated Avatar
-#
 zhKiko Loureiro Animated Avatar
-K
-jaEアニメーション付きアバター「キコ・ルーレイロ」
-C
-uk=Анімований аватар «Кіко Лорейро»
+#
+plKiko Loureiro Animated Avatar
 #
 ptKiko Loureiro Animated Avatar
 #
 esKiko Loureiro Animated Avatar
 !
 frAvatar animé Kiko Loureiro
+C
+uk=Анімований аватар «Кіко Лорейро»
+K
+jaEアニメーション付きアバター「キコ・ルーレイロ」
 I
 ruCАнимированный аватар «Кико Лорейро».webp
 �
@@ -31850,19 +31850,19 @@ I
 
 enFrigid Elsa
 
-plFrigid Elsa
-
 zhFrigid Elsa
-
-ja極寒のエルサ
-
-ukХолодна Ельза
+
+plFrigid Elsa
 
 ptFrigid Elsa
 
 esFrigid Elsa
 
 frElsa la froide
+
+ukХолодна Ельза
+
+ja極寒のエルサ
 !
 ruХолодная Эльза.png
 �
@@ -31870,19 +31870,19 @@ I
 
 enOrigin Fan Avatar
 
-plOrigin Fan Avatar
-
 zhOrigin Fan Avatar
-(
-ja"アバター「Origin ファン」
-6
-uk0Аватар «Вболівальник Origin»
+
+plOrigin Fan Avatar
 
 ptOrigin Fan Avatar
 
 esOrigin Fan Avatar
 #
 frAvatar du passionné d'Origin
+6
+uk0Аватар «Вболівальник Origin»
+(
+ja"アバター「Origin ファン」
 0
 ru*Аватар «Болельщик Origin».webp
 �
@@ -31890,19 +31890,19 @@ I
 
 enNaval Maneuvers Avatar
 
-plNaval Maneuvers Avatar
-
 zhNaval Maneuvers Avatar
-*
-ja$アバター「アヒルの水兵」
-4
-uk.Аватар «Водні процедури»
+
+plNaval Maneuvers Avatar
 
 ptNaval Maneuvers Avatar
 
 esNaval Maneuvers Avatar
 
 frAvatar Manœuvres navales
+4
+uk.Аватар «Водні процедури»
+*
+ja$アバター「アヒルの水兵」
 6
 ru0Аватар «Водные процедуры».webp
 �
@@ -31910,13 +31910,9 @@ I
 
 enChallenger Avatar
 
-plChallenger Avatar
-
 zhChallenger Avatar
-!
-jaアバター「挑戦者」
-+
-uk%Аватар «Претендент»
+
+plChallenger Avatar
 
 ptChallenger Avatar
 
@@ -31924,19 +31920,19 @@ I
 
 frAvatar du challenger
 +
+uk%Аватар «Претендент»
+!
+jaアバター「挑戦者」
++
 ru%Аватар «Претендент».webp
 �
 avatar_glory_legendary�
 
 enTriumph of Glory Avatar
 
-plTriumph of Glory Avatar
-
 zhTriumph of Glory Avatar
-'
-ja!アバター「栄光の勝利」
-+
-uk%Аватар «Тріумфатор»
+
+plTriumph of Glory Avatar
 
 ptTriumph of Glory Avatar
 
@@ -31944,25 +31940,29 @@ I
 %
 frAvatar du triomphe de la gloire
 +
+uk%Аватар «Тріумфатор»
+'
+ja!アバター「栄光の勝利」
++
 ru%Аватар «Триумфатор».png
 �
 avatar_LightSide_legendary�
 
 enThe Light Side Avatar
 
-plThe Light Side Avatar
-
 zhThe Light Side Avatar
-*
-ja$アバター「ライトサイド」
-2
-uk,Аватар «Світла сторона»
+
+plThe Light Side Avatar
 
 ptThe Light Side Avatar
 
 esThe Light Side Avatar
 
 frAvatar du côté clair
+2
+uk,Аватар «Світла сторона»
+*
+ja$アバター「ライトサイド」
 4
 ru.Аватар «Светлая сторона».webp
 �
@@ -31970,19 +31970,19 @@ I
 
 enThe Constellation Avatar
 
-plThe Constellation Avatar
-
 zhThe Constellation Avatar
-*
-ja$アバター「織りなす星座」
-#
-ukАватар «Плеяди»
+
+plThe Constellation Avatar
 
 ptThe Constellation Avatar
 
 esThe Constellation Avatar
 
 frAvatar Constellation
+#
+ukАватар «Плеяди»
+*
+ja$アバター「織りなす星座」
 #
 ruАватар «Плеяда».webp
 �
@@ -31990,19 +31990,19 @@ I
 
 enElbphilharmonie Avatar
 
-plElbphilharmonie Avatar
-
 zhElbphilharmonie Avatar
 
-jaElbphilharmonie Avatar
-<
-uk6Аватар «Ельбська філармонія»
+plElbphilharmonie Avatar
 
 ptElbphilharmonie Avatar
 
 esElbphilharmonie Avatar
 
 frAvatar Elbphilharmonie
+<
+uk6Аватар «Ельбська філармонія»
+
+jaElbphilharmonie Avatar
 
 ruElbphilharmonie Avatar.webp
 �
@@ -32010,19 +32010,19 @@ I
 
 enRacing Helmet Avatar
 
-plRacing Helmet Avatar
-
 zhRacing Helmet Avatar
-6
-ja0アバター「レーシングヘルメット」
-(
-uk"Аватар «На драйві»
+
+plRacing Helmet Avatar
 
 ptRacing Helmet Avatar
 
 esRacing Helmet Avatar
  
 frAvatar de casque de pilote
+(
+uk"Аватар «На драйві»
+6
+ja0アバター「レーシングヘルメット」
 (
 ru"Аватар «На драйве».webp
 �
@@ -32030,19 +32030,19 @@ I
 
 enSpace Corps Avatar
 
-plSpace Corps Avatar
-
 zhSpace Corps Avatar
-$
-jaアバター「宇宙兵団」
-0
-uk*Аватар «Повний відрив»
+
+plSpace Corps Avatar
 
 ptSpace Corps Avatar
 
 esSpace Corps Avatar
 
 frAvatar des Space Corps
+0
+uk*Аватар «Повний відрив»
+$
+jaアバター「宇宙兵団」
 .
 ru(Аватар «Полный отрыв».png
 �
@@ -32050,19 +32050,19 @@ $
 
 enSpace Corps Avatar
 
-plSpace Corps Avatar
-
 zhSpace Corps Avatar
-$
-jaアバター「宇宙兵団」
-0
-uk*Аватар «Повний відрив»
+
+plSpace Corps Avatar
 
 ptSpace Corps Avatar
 
 esSpace Corps Avatar
 
 frAvatar des Space Corps
+0
+uk*Аватар «Повний відрив»
+$
+jaアバター「宇宙兵団」
 .
 ru(Аватар «Полный отрыв».png
 �
@@ -32070,13 +32070,9 @@ $
 
 enApathy Avatar
 
-plApathy Avatar
-
 zhApathy Avatar
-
-jaアバター「Apathy」
-
-ukАватар Apathy
+
+plApathy Avatar
 
 ptApathy Avatar
 
@@ -32084,25 +32080,29 @@ $
 
 frAvatar d'Apathy
 
+ukАватар Apathy
+
+jaアバター「Apathy」
+
 ruАватар Apathy.webp
 �
 avatar_progressive_bp_10_paid_5�
 
 enRacing Helmet Avatar
 
-plRacing Helmet Avatar
-
 zhRacing Helmet Avatar
-6
-ja0アバター「レーシングヘルメット」
-(
-uk"Аватар «На драйві»
+
+plRacing Helmet Avatar
 
 ptRacing Helmet Avatar
 
 esRacing Helmet Avatar
  
 frAvatar de casque de pilote
+(
+uk"Аватар «На драйві»
+6
+ja0アバター「レーシングヘルメット」
 (
 ru"Аватар «На драйве».webp
 �
@@ -32110,19 +32110,19 @@ $
 
 enSpace Corps Avatar
 
-plSpace Corps Avatar
-
 zhSpace Corps Avatar
-$
-jaアバター「宇宙兵団」
-0
-uk*Аватар «Повний відрив»
+
+plSpace Corps Avatar
 
 ptSpace Corps Avatar
 
 esSpace Corps Avatar
 
 frAvatar des Space Corps
+0
+uk*Аватар «Повний відрив»
+$
+jaアバター「宇宙兵団」
 .
 ru(Аватар «Полный отрыв».png
 �
@@ -32130,19 +32130,19 @@ $
 
 enHeadliner Avatar
 
-plHeadliner Avatar
-
 zhHeadliner Avatar
-$
-jaアバター「大スター」
-)
-uk#Аватар «Хедлайнер»
+
+plHeadliner Avatar
 
 ptHeadliner Avatar
 
 esHeadliner Avatar
 
 frAvatar de la vedette
+)
+uk#Аватар «Хедлайнер»
+$
+jaアバター「大スター」
 *
 ru$Аватар «Хедлайнер».png
 �
@@ -32150,19 +32150,19 @@ $
 
 enGold League Avatar
 
-plGold League Avatar
-
 zhGold League Avatar
-'
-ja!ゴールドリーグアバター
-,
-uk&Аватар «Золота Ліга»
+
+plGold League Avatar
 
 ptGold League Avatar
 
 esGold League Avatar
 
 frAvatar de Gold League
+,
+uk&Аватар «Золота Ліга»
+'
+ja!ゴールドリーグアバター
 .
 ru(Аватар «Золотая Лига».webp
 �
@@ -32170,19 +32170,19 @@ $
 #
 enThe Defenders Animated Avatar
 #
-plThe Defenders Animated Avatar
-#
 zhThe Defenders Animated Avatar
-@
-ja:アニメーション付きアバター「The Defenders」
-5
-uk/Анімований аватар The Defenders
+#
+plThe Defenders Animated Avatar
 #
 ptThe Defenders Animated Avatar
 #
 esThe Defenders Animated Avatar
 #
 frAvatar animé des Défenseurs
+5
+uk/Анімований аватар The Defenders
+@
+ja:アニメーション付きアバター「The Defenders」
 ;
 ru5Анимированный аватар The Defenders.webp
 �
@@ -32190,19 +32190,19 @@ $avatar_progressive_bp_33_ruby_paid_3�
 4
 en.Аватар «Немой проводник»
 4
-pl.Аватар «Немой проводник»
-4
 zh.Аватар «Немой проводник»
 4
-ja.Аватар «Немой проводник»
-4
-uk.Аватар «Немой проводник»
+pl.Аватар «Немой проводник»
 4
 pt.Аватар «Немой проводник»
 4
 es.Аватар «Немой проводник»
 4
 fr.Аватар «Немой проводник»
+4
+uk.Аватар «Немой проводник»
+4
+ja.Аватар «Немой проводник»
 6
 ru0Аватар «Разбуженный маяк».webp
 �
@@ -32210,19 +32210,19 @@ $avatar_progressive_bp_33_ruby_paid_3�
 
 enSpace Corps Avatar
 
-plSpace Corps Avatar
-
 zhSpace Corps Avatar
-$
-jaアバター「宇宙兵団」
-0
-uk*Аватар «Повний відрив»
+
+plSpace Corps Avatar
 
 ptSpace Corps Avatar
 
 esSpace Corps Avatar
 
 frAvatar des Space Corps
+0
+uk*Аватар «Повний відрив»
+$
+jaアバター「宇宙兵団」
 .
 ru(Аватар «Полный отрыв».png
 �
@@ -32230,19 +32230,19 @@ $
 
 enSpace Corps Avatar
 
-plSpace Corps Avatar
-
 zhSpace Corps Avatar
-$
-jaアバター「宇宙兵団」
-0
-uk*Аватар «Повний відрив»
+
+plSpace Corps Avatar
 
 ptSpace Corps Avatar
 
 esSpace Corps Avatar
 
 frAvatar des Space Corps
+0
+uk*Аватар «Повний відрив»
+$
+jaアバター「宇宙兵団」
 .
 ru(Аватар «Полный отрыв».png
 �
@@ -32250,19 +32250,19 @@ $
 
 enSpace Corps Avatar
 
-plSpace Corps Avatar
-
 zhSpace Corps Avatar
-$
-jaアバター「宇宙兵団」
-0
-uk*Аватар «Повний відрив»
+
+plSpace Corps Avatar
 
 ptSpace Corps Avatar
 
 esSpace Corps Avatar
 
 frAvatar des Space Corps
+0
+uk*Аватар «Повний відрив»
+$
+jaアバター「宇宙兵団」
 .
 ru(Аватар «Полный отрыв».png
 �
@@ -32270,19 +32270,19 @@ $
 #
 enDave Mustaine Animated Avatar
 #
-plDave Mustaine Animated Avatar
-#
 zhDave Mustaine Animated Avatar
-N
-jaHアニメーション付きアバター「デイヴ・ムステイン」
-C
-uk=Анімований аватар «Дейв Мастейн»
+#
+plDave Mustaine Animated Avatar
 #
 ptDave Mustaine Animated Avatar
 #
 esDave Mustaine Animated Avatar
 !
 frAvatar animé Dave Mustaine
+C
+uk=Анімований аватар «Дейв Мастейн»
+N
+jaHアニメーション付きアバター「デイヴ・ムステイン」
 I
 ruCАнимированный аватар «Дэйв Мастейн».webp
 �
@@ -32290,19 +32290,19 @@ I
 
 enSpace Corps Avatar
 
-plSpace Corps Avatar
-
 zhSpace Corps Avatar
-$
-jaアバター「宇宙兵団」
-0
-uk*Аватар «Повний відрив»
+
+plSpace Corps Avatar
 
 ptSpace Corps Avatar
 
 esSpace Corps Avatar
 
 frAvatar des Space Corps
+0
+uk*Аватар «Повний відрив»
+$
+jaアバター「宇宙兵団」
 .
 ru(Аватар «Полный отрыв».png
 �
@@ -32310,13 +32310,9 @@ $
 
 enThe Constellation Avatar
 
-plThe Constellation Avatar
-
 zhThe Constellation Avatar
-*
-ja$アバター「織りなす星座」
-#
-ukАватар «Плеяди»
+
+plThe Constellation Avatar
 
 ptThe Constellation Avatar
 
@@ -32324,19 +32320,19 @@ $
 
 frAvatar Constellation
 #
+ukАватар «Плеяди»
+*
+ja$アバター「織りなす星座」
+#
 ruАватар «Плеяда».webp
 �
 avatar_PreSeasonQuest_S2_unique�
 
 enSeason 2 Avatar
 
-plSeason 2 Avatar
-
 zhSeason 2 Avatar
-&
-ja アバター「シーズン 2」
-#
-ukАватар «Сезон 2»
+
+plSeason 2 Avatar
 
 ptSeason 2 Avatar
 
@@ -32344,25 +32340,29 @@ $
 
 frAvatar Saison 2
 #
+ukАватар «Сезон 2»
+&
+ja アバター「シーズン 2」
+#
 ruАватар «Сезон 2».webp
 �
 !avatar_NA_DragonWarriors_rare_31d�
  
 enDragon Warriors Fan Avatar
  
-plDragon Warriors Fan Avatar
- 
 zhDragon Warriors Fan Avatar
-1
-ja+アバター「Dragon Warriors ファン」
-?
-uk9Аватар «Вболівальник Dragon Warriors»
+ 
+plDragon Warriors Fan Avatar
  
 ptDragon Warriors Fan Avatar
  
 esDragon Warriors Fan Avatar
 -
 fr'Avatar du passionné de Dragon Warriors
+?
+uk9Аватар «Вболівальник Dragon Warriors»
+1
+ja+アバター「Dragon Warriors ファン」
 9
 ru3Аватар «Болельщик Dragon Warriors».webp
 �
@@ -32370,19 +32370,19 @@ $
 
 enSpace Corps Avatar
 
-plSpace Corps Avatar
-
 zhSpace Corps Avatar
-$
-jaアバター「宇宙兵団」
-0
-uk*Аватар «Повний відрив»
+
+plSpace Corps Avatar
 
 ptSpace Corps Avatar
 
 esSpace Corps Avatar
 
 frAvatar des Space Corps
+0
+uk*Аватар «Повний відрив»
+$
+jaアバター「宇宙兵団」
 .
 ru(Аватар «Полный отрыв».png
 �
@@ -32390,19 +32390,19 @@ $
 
 enDiamond Trophy Avatar
 
-plDiamond Trophy Avatar
-
 zhDiamond Trophy Avatar
-<
-ja6アバター「ダイアモンド・トロフィー」
-:
-uk4Аватар «Діамантовий трофей»
+
+plDiamond Trophy Avatar
 
 ptDiamond Trophy Avatar
 
 esDiamond Trophy Avatar
 #
 frAvatar du Trophée de diamant
+:
+uk4Аватар «Діамантовий трофей»
+<
+ja6アバター「ダイアモンド・トロフィー」
 >
 ru8Аватар «Бриллиантовый трофей».png
 �
@@ -32410,19 +32410,19 @@ $
 
 enSoul Spectre Avatar
 
-plSoul Spectre Avatar
-
 zhSoul Spectre Avatar
-
-jaアバター「死神」
-.
-uk(Аватар «Викрадач душ»
+
+plSoul Spectre Avatar
 
 ptSoul Spectre Avatar
 
 esSoul Spectre Avatar
 !
 frAvatar du spectre de l'âme
+.
+uk(Аватар «Викрадач душ»
+
+jaアバター「死神」
 2
 ru,Аватар «Похититель душ».png
 �
@@ -32430,19 +32430,19 @@ $
 
 en#RBYT22: Wise Guardian
 
-pl#RBYT22: Wise Guardian
-
 zh#RBYT22: Wise Guardian
-'
-ja!#RBYT22: 慧眼ガーディアン
-0
-uk*#RBYT22: Зберігач мудрості
+
+pl#RBYT22: Wise Guardian
 
 pt#RBYT22: Wise Guardian
 
 es#RBYT22: Wise Guardian
 
 fr#RBYT22 : Gardien sage
+0
+uk*#RBYT22: Зберігач мудрості
+'
+ja!#RBYT22: 慧眼ガーディアン
 2
 ru,#RBYT22: Хранитель мудрости.webp
 �
@@ -32450,19 +32450,19 @@ $
 
 enShamrock Avatar
 
-plShamrock Avatar
-
 zhShamrock Avatar
-*
-ja$アバター「シャムロック」
-)
-uk#Аватар «Трилисник»
+
+plShamrock Avatar
 
 ptShamrock Avatar
 
 esShamrock Avatar
 
 frAvatar du trèfle
+)
+uk#Аватар «Трилисник»
+*
+ja$アバター「シャムロック」
 +
 ru%Аватар «Трилистник».png
 �
@@ -32470,13 +32470,9 @@ $
 
 enGingerbread Man Avatar
 
-plGingerbread Man Avatar
-
 zhGingerbread Man Avatar
-9
-ja3アバター「ジンジャーブレッドマン」
-:
-uk4Аватар «Імбирний чоловічок»
+
+plGingerbread Man Avatar
 
 ptGingerbread Man Avatar
 
@@ -32484,25 +32480,29 @@ $
 )
 fr#Avatar du Bonhomme en pain d'épice
 :
+uk4Аватар «Імбирний чоловічок»
+9
+ja3アバター「ジンジャーブレッドマン」
+:
 ru4Аватар «Имбирный человечек».png
 �
 avatar_agility_legendary�
 
 enDeft Ninja Avatar
 
-plDeft Ninja Avatar
-
 zhDeft Ninja Avatar
-'
-ja!アバター「巧みな忍者」
-4
-uk.Аватар «Спритний ніндзя»
+
+plDeft Ninja Avatar
 
 ptDeft Ninja Avatar
 
 esDeft Ninja Avatar
 
 frAvatar de Deft Ninja
+4
+uk.Аватар «Спритний ніндзя»
+'
+ja!アバター「巧みな忍者」
 0
 ru*Аватар «Ловкий ниндзя».png
 �
@@ -32510,19 +32510,19 @@ $
 
 enWill of Steel Avatar
 
-plWill of Steel Avatar
-
 zhWill of Steel Avatar
-$
-jaアバター「鋼の意志」
-.
-uk(Аватар «Залізна воля»
+
+plWill of Steel Avatar
 
 ptWill of Steel Avatar
 
 esWill of Steel Avatar
 
 frAvatar Volonté d'acier
+.
+uk(Аватар «Залізна воля»
+$
+jaアバター「鋼の意志」
 0
 ru*Аватар «Железная воля».png
 �
@@ -32530,19 +32530,19 @@ $
 
 en"Treasure hunt!" Avatar
 
-pl"Treasure hunt!" Avatar
-
 zh"Treasure hunt!" Avatar
-*
-ja$アバター「お宝を求めて」
-?
-uk9Аватар «Полювання за скарбами»
+
+pl"Treasure hunt!" Avatar
 
 pt"Treasure hunt!" Avatar
 
 es"Treasure hunt!" Avatar
 )
 fr#Avatar « Chasse au trésor ! »
+?
+uk9Аватар «Полювання за скарбами»
+*
+ja$アバター「お宝を求めて」
 9
 ru3Аватар «В поисках сокровищ».webp
 �
@@ -32550,13 +32550,9 @@ $
 
 enEaster Ducky Avatar
 
-plEaster Ducky Avatar
-
 zhEaster Ducky Avatar
-0
-ja*アバター「イースターアヒル」
-8
-uk2Аватар «Великодня качечка»
+
+plEaster Ducky Avatar
 
 ptEaster Ducky Avatar
 
@@ -32564,25 +32560,29 @@ $
 
 frAvatar Canard de Pâques
 8
+uk2Аватар «Великодня качечка»
+0
+ja*アバター「イースターアヒル」
+8
 ru2Аватар «Пасхальная уточка».webp
 �
 avatar_progressive_bp_5_paid_6�
 #
 enCall of the Icebreaker Avatar
 #
-plCall of the Icebreaker Avatar
-#
 zhCall of the Icebreaker Avatar
-9
-ja3アバター「アイスブレーカーの招集」
-;
-uk5Аватар «У пошуках Криголама»
+#
+plCall of the Icebreaker Avatar
 #
 ptCall of the Icebreaker Avatar
 #
 esCall of the Icebreaker Avatar
 &
 fr Avatar de l'appel du brise-glace
+;
+uk5Аватар «У пошуках Криголама»
+9
+ja3アバター「アイスブレーカーの招集」
 9
 ru3Аватар «В поисках Ледокола».png
 �
@@ -32590,19 +32590,19 @@ $
 
 enBest Friend Avatar
 
-plBest Friend Avatar
-
 zhBest Friend Avatar
--
-ja'アバター「ベストフレンド」
-2
-uk,Аватар «Найкращий друг»
+
+plBest Friend Avatar
 
 ptBest Friend Avatar
 
 esBest Friend Avatar
 
 frAvatar Meilleur ami
+2
+uk,Аватар «Найкращий друг»
+-
+ja'アバター「ベストフレンド」
 ,
 ru&Аватар «Лучший друг».webp
 �
@@ -32610,19 +32610,19 @@ $
 
 enBauble Avatar
 
-plBauble Avatar
-
 zhBauble Avatar
-
-jaアバター「宝石」
-0
-uk*Аватар «Ялинкова куля»
+
+plBauble Avatar
 
 ptBauble Avatar
 
 esBauble Avatar
 
 frAvatar boule de neige
+0
+uk*Аватар «Ялинкова куля»
+
+jaアバター「宝石」
 ,
 ru&Аватар «Ёлочный шар».png
 �
@@ -32630,13 +32630,9 @@ $
 !
 enHeavy Tank Commander Avatar
 !
-plHeavy Tank Commander Avatar
-!
 zhHeavy Tank Commander Avatar
-$
-jaアバター「重戦車長」
-,
-uk&Аватар «Командир ВТ»
+!
+plHeavy Tank Commander Avatar
 !
 ptHeavy Tank Commander Avatar
 !
@@ -32644,25 +32640,29 @@ $
 %
 frAvatar Commandant de char lourd
 ,
+uk&Аватар «Командир ВТ»
+$
+jaアバター「重戦車長」
+,
 ru&Аватар «Командир ТТ».webp
 �
 avatar_progressive_bp_5_paid_7�
 #
 enCall of the Icebreaker Avatar
 #
-plCall of the Icebreaker Avatar
-#
 zhCall of the Icebreaker Avatar
-9
-ja3アバター「アイスブレーカーの招集」
-;
-uk5Аватар «У пошуках Криголама»
+#
+plCall of the Icebreaker Avatar
 #
 ptCall of the Icebreaker Avatar
 #
 esCall of the Icebreaker Avatar
 &
 fr Avatar de l'appel du brise-glace
+;
+uk5Аватар «У пошуках Криголама»
+9
+ja3アバター「アイスブレーカーの招集」
 9
 ru3Аватар «В поисках Ледокола».png
 �
@@ -32670,13 +32670,9 @@ $
 
 enSoldier's Knife Avatar
 
-plSoldier's Knife Avatar
-
 zhSoldier's Knife Avatar
-*
-ja$アバター「戦士のナイフ」
-,
-uk&Аватар «Ніж солдата»
+
+plSoldier's Knife Avatar
 
 ptSoldier's Knife Avatar
 
@@ -32684,25 +32680,29 @@ $
 
 frAvatar couteau du soldat
 ,
+uk&Аватар «Ніж солдата»
+*
+ja$アバター「戦士のナイフ」
+,
 ru&Аватар «Нож солдата».webp
 �
 avatar_valentine_legendary�
 
 enBlitz-stricken Avatar
 
-plBlitz-stricken Avatar
-
 zhBlitz-stricken Avatar
-$
-jaアバター「Blitz の恋」
--
-uk'Аватар «В саме серце»
+
+plBlitz-stricken Avatar
 
 ptBlitz-stricken Avatar
 
 esBlitz-stricken Avatar
 
 frAvatar du coup de foudre
+-
+uk'Аватар «В саме серце»
+$
+jaアバター「Blitz の恋」
 1
 ru+Аватар «В самое сердце».png
 �
@@ -32710,19 +32710,19 @@ $
 
 enWorking Gear Avatar
 
-plWorking Gear Avatar
-
 zhWorking Gear Avatar
-0
-ja*アバター「ワーキング・ギア」
-
-ukАватар Working Gear
+
+plWorking Gear Avatar
 
 ptWorking Gear Avatar
 
 esWorking Gear Avatar
 
 frAvatar Outils mécaniques
+
+ukАватар Working Gear
+0
+ja*アバター「ワーキング・ギア」
 6
 ru0Аватар «Рабочий механизм».webp
 �
@@ -32730,19 +32730,19 @@ $
 #
 enCall of the Icebreaker Avatar
 #
-plCall of the Icebreaker Avatar
-#
 zhCall of the Icebreaker Avatar
-9
-ja3アバター「アイスブレーカーの招集」
-;
-uk5Аватар «У пошуках Криголама»
+#
+plCall of the Icebreaker Avatar
 #
 ptCall of the Icebreaker Avatar
 #
 esCall of the Icebreaker Avatar
 &
 fr Avatar de l'appel du brise-glace
+;
+uk5Аватар «У пошуках Криголама»
+9
+ja3アバター「アイスブレーカーの招集」
 9
 ru3Аватар «В поисках Ледокола».png
 �
@@ -32750,19 +32750,19 @@ $
 
 enVenomous Hunter Avatar
 
-plVenomous Hunter Avatar
-
 zhVenomous Hunter Avatar
--
-ja'アバター「有毒なハンター」
-:
-uk4Аватар «Отруйний мисливець»
+
+plVenomous Hunter Avatar
 
 ptVenomous Hunter Avatar
 
 esVenomous Hunter Avatar
 !
 frAvatar du chasseur venimeux
+:
+uk4Аватар «Отруйний мисливець»
+-
+ja'アバター「有毒なハンター」
 6
 ru0Аватар «Ядовитый охотник».png
 �
@@ -32770,13 +32770,9 @@ $
  
 enQuacky Ab"duck"tion Avatar
  
-plQuacky Ab"duck"tion Avatar
- 
 zhQuacky Ab"duck"tion Avatar
--
-ja'アバター「まさクヮの誘拐」
->
-uk8Аватар «Скаченіле викрадення»
+ 
+plQuacky Ab"duck"tion Avatar
  
 ptQuacky Ab"duck"tion Avatar
  
@@ -32784,25 +32780,29 @@ $
 "
 frAvatar Enlèvement de canard
 >
+uk8Аватар «Скаченіле викрадення»
+-
+ja'アバター「まさクヮの誘拐」
+>
 ru8Аватар «НешУТОЧНОЕ похищение».webp
 �
 avatar_wolf_common_72h�
 
 enPredatory Gaze Avatar
 
-plPredatory Gaze Avatar
-
 zhPredatory Gaze Avatar
-$
-jaアバター「獣の凝視」
-.
-uk(Аватар «Хижий погляд»
+
+plPredatory Gaze Avatar
 
 ptPredatory Gaze Avatar
 
 esPredatory Gaze Avatar
 $
 frAvatar du regard de prédateur
+.
+uk(Аватар «Хижий погляд»
+$
+jaアバター「獣の凝視」
 0
 ru*Аватар «Хищный взгляд».png
 �
@@ -32810,19 +32810,19 @@ $
 #
 enCall of the Icebreaker Avatar
 #
-plCall of the Icebreaker Avatar
-#
 zhCall of the Icebreaker Avatar
-9
-ja3アバター「アイスブレーカーの招集」
-;
-uk5Аватар «У пошуках Криголама»
+#
+plCall of the Icebreaker Avatar
 #
 ptCall of the Icebreaker Avatar
 #
 esCall of the Icebreaker Avatar
 &
 fr Avatar de l'appel du brise-glace
+;
+uk5Аватар «У пошуках Криголама»
+9
+ja3アバター「アイスブレーカーの招集」
 9
 ru3Аватар «В поисках Ледокола».png
 �
@@ -32830,19 +32830,19 @@ $
 
 enAccordion Avatar
 
-plAccordion Avatar
-
 zhAccordion Avatar
--
-ja'アバター「アコーディオン」
-'
-uk!Аватар «Акордеон»
+
+plAccordion Avatar
 
 ptAccordion Avatar
 
 esAccordion Avatar
 
 frAvatar Accordéon
+'
+uk!Аватар «Акордеон»
+-
+ja'アバター「アコーディオン」
 )
 ru#Аватар «Аккордеон».webp
 �
@@ -32850,19 +32850,19 @@ $
 #
 enCall of the Icebreaker Avatar
 #
-plCall of the Icebreaker Avatar
-#
 zhCall of the Icebreaker Avatar
-9
-ja3アバター「アイスブレーカーの招集」
-;
-uk5Аватар «У пошуках Криголама»
+#
+plCall of the Icebreaker Avatar
 #
 ptCall of the Icebreaker Avatar
 #
 esCall of the Icebreaker Avatar
 &
 fr Avatar de l'appel du brise-glace
+;
+uk5Аватар «У пошуках Криголама»
+9
+ja3アバター「アイスブレーカーの招集」
 9
 ru3Аватар «В поисках Ледокола».png
 �
@@ -32870,19 +32870,19 @@ $
  
 en11 Victorious Years Avatar
  
-pl11 Victorious Years Avatar
- 
 zh11 Victorious Years Avatar
-*
-ja$アバター「誇らしい 11年」
-3
-uk-Аватар «11 років перемог»
+ 
+pl11 Victorious Years Avatar
  
 pt11 Victorious Years Avatar
  
 es11 Victorious Years Avatar
 '
 fr!Avatar de 11 années victorieuses
+3
+uk-Аватар «11 років перемог»
+*
+ja$アバター「誇らしい 11年」
 +
 ru%Аватар «11 лет побед».webp
 �
@@ -32890,13 +32890,9 @@ $
 
 enFeels Like Home Avatar
 
-plFeels Like Home Avatar
-
 zhFeels Like Home Avatar
-$
-jaアバター「俺の季節」
-&
-uk Аватар «Як вдома»
+
+plFeels Like Home Avatar
 
 ptFeels Like Home Avatar
 
@@ -32904,25 +32900,29 @@ $
 
 frAvatar Comme à la maison
 &
+uk Аватар «Як вдома»
+$
+jaアバター「俺の季節」
+&
 ru Аватар «Как дома».png
 �
 avatar_gold_eagle_legendary�
 
 enHawkeye Avatar
 
-plHawkeye Avatar
-
 zhHawkeye Avatar
-!
-jaアバター「鷹の目」
-*
-uk$Аватар «Пильне око»
+
+plHawkeye Avatar
 
 ptHawkeye Avatar
 
 esHawkeye Avatar
 
 frAvatar d'œil de lynx
+*
+uk$Аватар «Пильне око»
+!
+jaアバター「鷹の目」
 ,
 ru&Аватар «Зоркий глаз».png
 �
@@ -32930,19 +32930,19 @@ $
 
 enSocks Avatar
 
-plSocks Avatar
-
 zhSocks Avatar
 
-jaSocks Avatar
-
-ukSocks Avatar
+plSocks Avatar
 
 ptSocks Avatar
 
 esSocks Avatar
 
 frSocks Avatar
+
+ukSocks Avatar
+
+jaSocks Avatar
 !
 ruАватар «Носки».webp
 �
@@ -32950,19 +32950,19 @@ $
 
 enCenturion Avatar
 
-plCenturion Avatar
-
 zhCenturion Avatar
-$
-jaアバター「百人隊長」
-!
-ukАватар «Лицар»
+
+plCenturion Avatar
 
 ptCenturion Avatar
 
 esCenturion Avatar
 
 frAvatar de centurion
+!
+ukАватар «Лицар»
+$
+jaアバター「百人隊長」
 #
 ruАватар «Рыцарь».png
 �
@@ -32970,13 +32970,9 @@ $
 2
 en,storage/Items/avatar_bp_38_ruby_bundle/Title
 2
-pl,storage/Items/avatar_bp_38_ruby_bundle/Title
-2
 zh,storage/Items/avatar_bp_38_ruby_bundle/Title
 2
-ja,storage/Items/avatar_bp_38_ruby_bundle/Title
-2
-uk,storage/Items/avatar_bp_38_ruby_bundle/Title
+pl,storage/Items/avatar_bp_38_ruby_bundle/Title
 2
 pt,storage/Items/avatar_bp_38_ruby_bundle/Title
 2
@@ -32984,19 +32980,19 @@ $
 2
 fr,storage/Items/avatar_bp_38_ruby_bundle/Title
 2
+uk,storage/Items/avatar_bp_38_ruby_bundle/Title
+2
+ja,storage/Items/avatar_bp_38_ruby_bundle/Title
+2
 ru,storage/Items/avatar_bp_38_ruby_bundle/Title.webp
 �
 'avatar_Daredevil_Blitzbusters_legendary�
 #
 enDaredevil Blitzbusters Avatar
 #
-plDaredevil Blitzbusters Avatar
-#
 zhDaredevil Blitzbusters Avatar
 #
-jaDaredevil Blitzbusters Avatar
-#
-ukDaredevil Blitzbusters Avatar
+plDaredevil Blitzbusters Avatar
 #
 ptDaredevil Blitzbusters Avatar
 #
@@ -33004,25 +33000,29 @@ $
 #
 frDaredevil Blitzbusters Avatar
 #
+ukDaredevil Blitzbusters Avatar
+#
+jaDaredevil Blitzbusters Avatar
+#
 ruDaredevil Blitzbusters Avatar.webp
 �
 avatar_khaki_star_common_168h�
 
 enBattle Star Avatar
 
-plBattle Star Avatar
-
 zhBattle Star Avatar
-*
-ja$アバター「バトルスター」
-.
-uk(Аватар «Бойова зірка»
+
+plBattle Star Avatar
 
 ptBattle Star Avatar
 
 esBattle Star Avatar
 #
 frAvatar de l'étoile de guerre
+.
+uk(Аватар «Бойова зірка»
+*
+ja$アバター「バトルスター」
 0
 ru*Аватар «Боевая звезда».png
 �
@@ -33030,19 +33030,19 @@ $
 
 enShaving Cream Avatar
 
-plShaving Cream Avatar
-
 zhShaving Cream Avatar
 
-jaShaving Cream Avatar
-
-ukShaving Cream Avatar
+plShaving Cream Avatar
 
 ptShaving Cream Avatar
 
 esShaving Cream Avatar
 
 frShaving Cream Avatar
+
+ukShaving Cream Avatar
+
+jaShaving Cream Avatar
 3
 ru-Аватар «Пена для бритья».webp
 �
@@ -33050,13 +33050,9 @@ $
 
 enSickle Avatar
 
-plSickle Avatar
-
 zhSickle Avatar
-
-jaアバター「鎌」
-
-ukАватар «Серп»
+
+plSickle Avatar
 
 ptSickle Avatar
 
@@ -33064,25 +33060,29 @@ $
 
 frAvatar de la faucille
 
+ukАватар «Серп»
+
+jaアバター「鎌」
+
 ruАватар «Серп».webp
 �
 avatar_progressive_bp_10_paid_3�
 
 enRacing Helmet Avatar
 
-plRacing Helmet Avatar
-
 zhRacing Helmet Avatar
-6
-ja0アバター「レーシングヘルメット」
-(
-uk"Аватар «На драйві»
+
+plRacing Helmet Avatar
 
 ptRacing Helmet Avatar
 
 esRacing Helmet Avatar
  
 frAvatar de casque de pilote
+(
+uk"Аватар «На драйві»
+6
+ja0アバター「レーシングヘルメット」
 (
 ru"Аватар «На драйве».webp
 �
@@ -33090,19 +33090,19 @@ $
 
 enChanging Landscape Avatar
 
-plChanging Landscape Avatar
-
 zhChanging Landscape Avatar
--
-ja'アバター「変わりゆく風景」
-4
-uk.Аватар «Зміна ландшафту»
+
+plChanging Landscape Avatar
 
 ptChanging Landscape Avatar
 
 esChanging Landscape Avatar
 "
 frAvatar Changement de paysage
+4
+uk.Аватар «Зміна ландшафту»
+-
+ja'アバター「変わりゆく風景」
 6
 ru0Аватар «Смена обстановки».webp
 �
@@ -33110,19 +33110,19 @@ $
 
 enRacing Helmet Avatar
 
-plRacing Helmet Avatar
-
 zhRacing Helmet Avatar
-6
-ja0アバター「レーシングヘルメット」
-(
-uk"Аватар «На драйві»
+
+plRacing Helmet Avatar
 
 ptRacing Helmet Avatar
 
 esRacing Helmet Avatar
  
 frAvatar de casque de pilote
+(
+uk"Аватар «На драйві»
+6
+ja0アバター「レーシングヘルメット」
 (
 ru"Аватар «На драйве».webp
 �
@@ -33130,19 +33130,19 @@ $
 
 enTop Secret Avatar
 
-plTop Secret Avatar
-
 zhTop Secret Avatar
-6
-ja0アバター「トップ・シークレット」
-0
-uk*Аватар «Цілком таємно»
+
+plTop Secret Avatar
 
 ptTop Secret Avatar
 
 esTop Secret Avatar
 
 frAvatar Top secret
+0
+uk*Аватар «Цілком таємно»
+6
+ja0アバター「トップ・シークレット」
 <
 ru6Аватар «Совершенно секретно».webp
 �
@@ -33150,19 +33150,19 @@ $
 
 enRacing Helmet Avatar
 
-plRacing Helmet Avatar
-
 zhRacing Helmet Avatar
-6
-ja0アバター「レーシングヘルメット」
-(
-uk"Аватар «На драйві»
+
+plRacing Helmet Avatar
 
 ptRacing Helmet Avatar
 
 esRacing Helmet Avatar
  
 frAvatar de casque de pilote
+(
+uk"Аватар «На драйві»
+6
+ja0アバター「レーシングヘルメット」
 (
 ru"Аватар «На драйве».webp
 �
@@ -33170,13 +33170,9 @@ $
 
 en"Blast Off!" Avatar
 
-pl"Blast Off!" Avatar
-
 zh"Blast Off!" Avatar
-
-jaアバター「発射!」
-1
-uk+Аватар «Просто космос!»
+
+pl"Blast Off!" Avatar
 
 pt"Blast Off!" Avatar
 
@@ -33184,19 +33180,19 @@ $
 !
 frAvatar « Décollez ! »
 1
+uk+Аватар «Просто космос!»
+
+jaアバター「発射!」
+1
 ru+Аватар «Просто космос!».png
 �
 avatar_progressive_bp_10_paid_4�
 
 enRacing Helmet Avatar
 
-plRacing Helmet Avatar
-
 zhRacing Helmet Avatar
-6
-ja0アバター「レーシングヘルメット」
-(
-uk"Аватар «На драйві»
+
+plRacing Helmet Avatar
 
 ptRacing Helmet Avatar
 
@@ -33204,19 +33200,19 @@ $
  
 frAvatar de casque de pilote
 (
+uk"Аватар «На драйві»
+6
+ja0アバター「レーシングヘルメット」
+(
 ru"Аватар «На драйве».webp
 �
 avatar_enigma�
 
 enCodebreaker Avatar
 
-plCodebreaker Avatar
-
 zhCodebreaker Avatar
-0
-ja*アバター「コードブレイカー」
-+
-uk%Аватар «Дешифратор»
+
+plCodebreaker Avatar
 
 ptCodebreaker Avatar
 
@@ -33224,25 +33220,29 @@ $
 
 frAvatar du décrypteur
 +
+uk%Аватар «Дешифратор»
+0
+ja*アバター「コードブレイカー」
++
 ru%Аватар «Дешифратор».webp
 �
 avatar_progressive_bp_35_paid_2�
 
 enOverexploited Avatar
 
-plOverexploited Avatar
-
 zhOverexploited Avatar
-6
-ja0アバター「ハーデスト・ワーカー」
- 
-ukАватар Overexploited
+
+plOverexploited Avatar
 
 ptOverexploited Avatar
 
 esOverexploited Avatar
 
 frAvatar Surexploité
+ 
+ukАватар Overexploited
+6
+ja0アバター「ハーデスト・ワーカー」
 *
 ru$Аватар «На пределе».webp
 �
@@ -33250,19 +33250,19 @@ $
 
 enDiamond Victor Avatar
 
-plDiamond Victor Avatar
-
 zhDiamond Victor Avatar
-3
-ja-アバター「ダイアモンドの勝者」
-B
-uk<Аватар «Діамантовий переможець»
+
+plDiamond Victor Avatar
 
 ptDiamond Victor Avatar
 
 esDiamond Victor Avatar
 !
 frAvatar Vainqueur de diamant
+B
+uk<Аватар «Діамантовий переможець»
+3
+ja-アバター「ダイアモンドの勝者」
 F
 ru@Аватар «Бриллиантовый победитель».webp
 �
@@ -33270,19 +33270,19 @@ F
 
 enDiamond Victor Avatar
 
-plDiamond Victor Avatar
-
 zhDiamond Victor Avatar
-3
-ja-アバター「ダイアモンドの勝者」
-B
-uk<Аватар «Діамантовий переможець»
+
+plDiamond Victor Avatar
 
 ptDiamond Victor Avatar
 
 esDiamond Victor Avatar
 !
 frAvatar Vainqueur de diamant
+B
+uk<Аватар «Діамантовий переможець»
+3
+ja-アバター「ダイアモンドの勝者」
 F
 ru@Аватар «Бриллиантовый победитель».webp
 �
@@ -33292,15 +33292,10 @@ F
 entest
 
 
-pltest
-
-
 zhtest
 
 
-jatest
-%
-ukАватар «Чемпіон»
+pltest
 
 
 pttest
@@ -33309,6 +33304,11 @@ F
 estest
 
 frAvatar de champion
+%
+ukАватар «Чемпіон»
+
+
+jatest
 
 
 rutest.webp
@@ -33317,19 +33317,19 @@ F
 
 enDiamond Victor Avatar
 
-plDiamond Victor Avatar
-
 zhDiamond Victor Avatar
-3
-ja-アバター「ダイアモンドの勝者」
-B
-uk<Аватар «Діамантовий переможець»
+
+plDiamond Victor Avatar
 
 ptDiamond Victor Avatar
 
 esDiamond Victor Avatar
 !
 frAvatar Vainqueur de diamant
+B
+uk<Аватар «Діамантовий переможець»
+3
+ja-アバター「ダイアモンドの勝者」
 F
 ru@Аватар «Бриллиантовый победитель».webp
 �
@@ -33337,13 +33337,9 @@ F
 
 enRacing Helmet Avatar
 
-plRacing Helmet Avatar
-
 zhRacing Helmet Avatar
-6
-ja0アバター「レーシングヘルメット」
-(
-uk"Аватар «На драйві»
+
+plRacing Helmet Avatar
 
 ptRacing Helmet Avatar
 
@@ -33351,25 +33347,29 @@ F
  
 frAvatar de casque de pilote
 (
+uk"Аватар «На драйві»
+6
+ja0アバター「レーシングヘルメット」
+(
 ru"Аватар «На драйве».webp
 �
 avatar_2026_enigma_anim�
 
 enBolt from the Blue Avatar
 
-plBolt from the Blue Avatar
-
 zhBolt from the Blue Avatar
-'
-ja!アバター「青天の霹靂」
-4
-uk.Аватар «Небесний розряд»
+
+plBolt from the Blue Avatar
 
 ptBolt from the Blue Avatar
 
 esBolt from the Blue Avatar
 
 frAvatar Coup de tonnerre
+4
+uk.Аватар «Небесний розряд»
+'
+ja!アバター「青天の霹靂」
 0
 ru*Аватар «Разряд молнии».webp
 �
@@ -33377,19 +33377,19 @@ F
 
 enSoul Conductor Avatar
 
-plSoul Conductor Avatar
-
 zhSoul Conductor Avatar
-*
-ja$アバター「幽魂の送り人」
-0
-uk*Аватар «Провідник душ»
+
+plSoul Conductor Avatar
 
 ptSoul Conductor Avatar
 
 esSoul Conductor Avatar
 !
 frAvatar Conducteur des âmes
+0
+uk*Аватар «Провідник душ»
+*
+ja$アバター「幽魂の送り人」
 0
 ru*Аватар «Проводник душ».webp
 �
@@ -33397,19 +33397,19 @@ F
 
 enPsifidota Zoa Avatar
 
-plPsifidota Zoa Avatar
-
 zhPsifidota Zoa Avatar
-6
-ja0アバター「プシフィドータ・ゾア」
- 
-ukАватар Psifidota Zoa
+
+plPsifidota Zoa Avatar
 
 ptPsifidota Zoa Avatar
 
 esPsifidota Zoa Avatar
 
 frAvatar Psifidota Zoa
+ 
+ukАватар Psifidota Zoa
+6
+ja0アバター「プシフィドータ・ゾア」
 +
 ru%Аватар «Зоомозаика».webp
 �
@@ -33417,13 +33417,9 @@ $avatar_progressive_rb_gold_eu_wins_7�
 
 enGold Victor Avatar
 
-plGold Victor Avatar
-
 zhGold Victor Avatar
--
-ja'アバター「ゴールドの勝者」
-:
-uk4Аватар «Золотий переможець»
+
+plGold Victor Avatar
 
 ptGold Victor Avatar
 
@@ -33431,25 +33427,29 @@ $avatar_progressive_rb_gold_eu_wins_7�
 
 frAvatar Vainqueur d'or
 :
+uk4Аватар «Золотий переможець»
+-
+ja'アバター「ゴールドの勝者」
+:
 ru4Аватар «Золотой победитель».webp
 �
 avatar_dog_unique�
 
 enFerocious Bulldog Avatar
 
-plFerocious Bulldog Avatar
-
 zhFerocious Bulldog Avatar
--
-ja'アバター「猛犬ブルドッグ」
-4
-uk.Аватар «Грізний бульдог»
+
+plFerocious Bulldog Avatar
 
 ptFerocious Bulldog Avatar
 
 esFerocious Bulldog Avatar
 
 frAvatar Bulldog féroce
+4
+uk.Аватар «Грізний бульдог»
+-
+ja'アバター「猛犬ブルドッグ」
 6
 ru0Аватар «Свирепый бульдог».webp
 �
@@ -33457,13 +33457,9 @@ $avatar_progressive_rb_gold_eu_wins_7�
 
 enWZ-111 Girl Avatar
 
-plWZ-111 Girl Avatar
-
 zhWZ-111 Girl Avatar
-(
-ja"アバター「WZ-111 ガール」
-
-ukАватар WZ-111 Girl
+
+plWZ-111 Girl Avatar
 
 ptWZ-111 Girl Avatar
 
@@ -33471,25 +33467,29 @@ $avatar_progressive_rb_gold_eu_wins_7�
 
 frAvatar WZ-111 Girl
 
+ukАватар WZ-111 Girl
+(
+ja"アバター「WZ-111 ガール」
+
 ruАватар WZ-111 Girl.webp
 �
 avatar_3years_legendary�
 
 en3 Victorious Years Avatar
 
-pl3 Victorious Years Avatar
-
 zh3 Victorious Years Avatar
-)
-ja#アバター「誇らしい 3年」
-0
-uk*Аватар «3 роки перемог»
+
+pl3 Victorious Years Avatar
 
 pt3 Victorious Years Avatar
 
 es3 Victorious Years Avatar
 &
 fr Avatar de 3 années victorieuses
+0
+uk*Аватар «3 роки перемог»
+)
+ja#アバター「誇らしい 3年」
 ,
 ru&Аватар «3 года побед».webp
 �
@@ -33497,19 +33497,19 @@ $avatar_progressive_rb_gold_eu_wins_7�
 
 enNew Year Mood Avatar
 
-plNew Year Mood Avatar
-
 zhNew Year Mood Avatar
-'
-ja!アバター「シャンパン」
-:
-uk4Аватар «Новорічний настрій»
+
+plNew Year Mood Avatar
 
 ptNew Year Mood Avatar
 
 esNew Year Mood Avatar
 $
 frAvatar d'ambiance du Nouvel An
+:
+uk4Аватар «Новорічний настрій»
+'
+ja!アバター「シャンパン」
 @
 ru:Аватар «Новогоднее настроение».png
 �
@@ -33517,19 +33517,19 @@ $
 
 enGas Mask Avatar
 
-plGas Mask Avatar
-
 zhGas Mask Avatar
-'
-ja!アバター「ガスマスク」
-4
-uk.Аватар «Хімічний захист»
+
+plGas Mask Avatar
 
 ptGas Mask Avatar
 
 esGas Mask Avatar
 
 frAvatar du Masque à gaz
+4
+uk.Аватар «Хімічний захист»
+'
+ja!アバター「ガスマスク」
 8
 ru2Аватар «Химическая защита».webp
 �
@@ -33537,19 +33537,19 @@ $
  
 enBZ-75 Girl Animated Avatar
  
-plBZ-75 Girl Animated Avatar
- 
 zhBZ-75 Girl Animated Avatar
-B
-ja<アニメーション付きアバター「BZ-75 ガール」
-3
-uk-Анімований аватар BZ-75 Girl
+ 
+plBZ-75 Girl Animated Avatar
  
 ptBZ-75 Girl Animated Avatar
  
 esBZ-75 Girl Animated Avatar
 
 frAvatar animé BZ-75 Girl
+3
+uk-Анімований аватар BZ-75 Girl
+B
+ja<アニメーション付きアバター「BZ-75 ガール」
 8
 ru2Анимированный аватар BZ-75 Girl.webp
 �
@@ -33557,19 +33557,19 @@ B
 
 enProud Veteran Avatar
 
-plProud Veteran Avatar
-
 zhProud Veteran Avatar
--
-ja'アバター「誇り高き古参兵」
-2
-uk,Аватар «Гордий ветеран»
+
+plProud Veteran Avatar
 
 ptProud Veteran Avatar
 
 esProud Veteran Avatar
 
 frAvatar Fier vétéran
+2
+uk,Аватар «Гордий ветеран»
+-
+ja'アバター「誇り高き古参兵」
 2
 ru,Аватар «Гордый ветеран».webp
 �
@@ -33577,13 +33577,9 @@ B
 
 enProud Veteran Avatar
 
-plProud Veteran Avatar
-
 zhProud Veteran Avatar
--
-ja'アバター「誇り高き古参兵」
-2
-uk,Аватар «Гордий ветеран»
+
+plProud Veteran Avatar
 
 ptProud Veteran Avatar
 
@@ -33591,25 +33587,29 @@ B
 
 frAvatar Fier vétéran
 2
+uk,Аватар «Гордий ветеран»
+-
+ja'アバター「誇り高き古参兵」
+2
 ru,Аватар «Гордый ветеран».webp
 �
 'avatar_progressive_rb_diamond_eu_wins_2�
 
 enDiamond Victor Avatar
 
-plDiamond Victor Avatar
-
 zhDiamond Victor Avatar
-3
-ja-アバター「ダイアモンドの勝者」
-B
-uk<Аватар «Діамантовий переможець»
+
+plDiamond Victor Avatar
 
 ptDiamond Victor Avatar
 
 esDiamond Victor Avatar
 !
 frAvatar Vainqueur de diamant
+B
+uk<Аватар «Діамантовий переможець»
+3
+ja-アバター「ダイアモンドの勝者」
 F
 ru@Аватар «Бриллиантовый победитель».webp
 �
@@ -33617,19 +33617,19 @@ F
 
 enDiamond Victor Avatar
 
-plDiamond Victor Avatar
-
 zhDiamond Victor Avatar
-3
-ja-アバター「ダイアモンドの勝者」
-B
-uk<Аватар «Діамантовий переможець»
+
+plDiamond Victor Avatar
 
 ptDiamond Victor Avatar
 
 esDiamond Victor Avatar
 !
 frAvatar Vainqueur de diamant
+B
+uk<Аватар «Діамантовий переможець»
+3
+ja-アバター「ダイアモンドの勝者」
 F
 ru@Аватар «Бриллиантовый победитель».webp
 �
@@ -33637,19 +33637,19 @@ F
 
 enDiamond Victor Avatar
 
-plDiamond Victor Avatar
-
 zhDiamond Victor Avatar
-3
-ja-アバター「ダイアモンドの勝者」
-B
-uk<Аватар «Діамантовий переможець»
+
+plDiamond Victor Avatar
 
 ptDiamond Victor Avatar
 
 esDiamond Victor Avatar
 !
 frAvatar Vainqueur de diamant
+B
+uk<Аватар «Діамантовий переможець»
+3
+ja-アバター「ダイアモンドの勝者」
 F
 ru@Аватар «Бриллиантовый победитель».webp
 �
@@ -33657,19 +33657,19 @@ F
 
 enCarrot Nose Avatar
 
-plCarrot Nose Avatar
-
 zhCarrot Nose Avatar
--
-ja'アバター「ニンジンのお鼻」
-0
-uk*Аватар «Ніс-морквинка»
+
+plCarrot Nose Avatar
 
 ptCarrot Nose Avatar
 
 esCarrot Nose Avatar
 
 frAvatar Nez en carotte
+0
+uk*Аватар «Ніс-морквинка»
+-
+ja'アバター「ニンジンのお鼻」
 .
 ru(Аватар «Нос-морковка».webp
 �
@@ -33677,19 +33677,19 @@ F
 
 enOverdrive Avatar
 
-plOverdrive Avatar
-
 zhOverdrive Avatar
-0
-ja*アバター「オーバードライブ」
-#
-ukАватар «Форсаж»
+
+plOverdrive Avatar
 
 ptOverdrive Avatar
 
 esOverdrive Avatar
 
 frAvatar Surmultiplication
+#
+ukАватар «Форсаж»
+0
+ja*アバター「オーバードライブ」
 )
 ru#Аватар «Овердрайв».webp
 �
@@ -33697,19 +33697,19 @@ F
 
 enSilver Victor Avatar
 
-plSilver Victor Avatar
-
 zhSilver Victor Avatar
--
-ja'アバター「シルバーの勝者」
-:
-uk4Аватар «Срібний переможець»
+
+plSilver Victor Avatar
 
 ptSilver Victor Avatar
 
 esSilver Victor Avatar
 
 frAvatar Vainqueur d'argent
+:
+uk4Аватар «Срібний переможець»
+-
+ja'アバター「シルバーの勝者」
 @
 ru:Аватар «Серебряный победитель».webp
 �
@@ -33717,13 +33717,9 @@ F
 
 enRote Nova Avatar
 
-plRote Nova Avatar
-
 zhRote Nova Avatar
-!
-jaアバター「Rote Nova」
-
-ukАватар Rote Nova
+
+plRote Nova Avatar
 
 ptRote Nova Avatar
 
@@ -33731,25 +33727,29 @@ F
 
 frAvatar de Rote Nova
 
+ukАватар Rote Nova
+!
+jaアバター「Rote Nova」
+
 ruАватар Rote Nova.webp
 �
 avatar_helmet_common�
 
 enCombat Helmet Avatar
 
-plCombat Helmet Avatar
-
 zhCombat Helmet Avatar
-0
-ja*アバター「戦闘用ヘルメット」
-0
-uk*Аватар «Захисна каска»
+
+plCombat Helmet Avatar
 
 ptCombat Helmet Avatar
 
 esCombat Helmet Avatar
  
 frAvatar de casque de combat
+0
+uk*Аватар «Захисна каска»
+0
+ja*アバター「戦闘用ヘルメット」
 2
 ru,Аватар «Защитная каска».png
 �
@@ -33757,19 +33757,19 @@ F
 
 enDiamond Victor Avatar
 
-plDiamond Victor Avatar
-
 zhDiamond Victor Avatar
-3
-ja-アバター「ダイアモンドの勝者」
-B
-uk<Аватар «Діамантовий переможець»
+
+plDiamond Victor Avatar
 
 ptDiamond Victor Avatar
 
 esDiamond Victor Avatar
 !
 frAvatar Vainqueur de diamant
+B
+uk<Аватар «Діамантовий переможець»
+3
+ja-アバター「ダイアモンドの勝者」
 F
 ru@Аватар «Бриллиантовый победитель».webp
 �
@@ -33777,13 +33777,9 @@ F
 
 enThe Defenders Avatar
 
-plThe Defenders Avatar
-
 zhThe Defenders Avatar
-%
-jaアバター「The Defenders」
- 
-ukАватар The Defenders
+
+plThe Defenders Avatar
 
 ptThe Defenders Avatar
 
@@ -33791,19 +33787,19 @@ F
 
 frAvatars des Défenseurs
  
+ukАватар The Defenders
+%
+jaアバター「The Defenders」
+ 
 ruАватар The Defenders.webp
 �
 !avatar_rbyt22_ASIATiger_legendary�
 
 en#RBYT22 Winner
 
-pl#RBYT22 Winner
-
 zh#RBYT22 Winner
 
-ja#RBYT22 Winner
-"
-ukПереможець #RBYT22
+pl#RBYT22 Winner
 
 pt#RBYT22 Winner
 
@@ -33811,25 +33807,29 @@ F
 
 frVainqueur du #RBYT22
 "
+ukПереможець #RBYT22
+
+ja#RBYT22 Winner
+"
 ruПобедитель #RBYT22.webp
 �
 avatar_progressive_bp_37_free_2�
  
 enUnder Investigation Avatar
  
-plUnder Investigation Avatar
- 
 zhUnder Investigation Avatar
-'
-ja!アバター「調査遂行中」
-1
-uk+Аватар «Розслідується»
+ 
+plUnder Investigation Avatar
  
 ptUnder Investigation Avatar
  
 esUnder Investigation Avatar
 
 frAvatar Enquête en cours
+1
+uk+Аватар «Розслідується»
+'
+ja!アバター「調査遂行中」
 4
 ru.Аватар «Под подозрением».webp
 �
@@ -33837,19 +33837,19 @@ F
 
 enMedal Count Avatar
 
-plMedal Count Avatar
-
 zhMedal Count Avatar
-*
-ja$アバター「勝利のメダル」
-4
-uk.Аватар «Медальний залік»
+
+plMedal Count Avatar
 
 ptMedal Count Avatar
 
 esMedal Count Avatar
 &
 fr Avatar du Compteur de médailles
+4
+uk.Аватар «Медальний залік»
+*
+ja$アバター「勝利のメダル」
 4
 ru.Аватар «Медальный зачёт».webp
 �
@@ -33857,19 +33857,19 @@ F
 
 enRight Direction Avatar
 
-plRight Direction Avatar
-
 zhRight Direction Avatar
-*
-ja$アバター「確かな足取り」
-=
-uk7Аватар «На правильному шляху»
+
+plRight Direction Avatar
 
 ptRight Direction Avatar
 
 esRight Direction Avatar
 
 frAvatar La bonne direction
+=
+uk7Аватар «На правильному шляху»
+*
+ja$アバター「確かな足取り」
 1
 ru+Аватар «На верном пути».webp
 �
@@ -33877,13 +33877,9 @@ F
 
 en#RBYT22: Tropic Stalker
 
-pl#RBYT22: Tropic Stalker
-
 zh#RBYT22: Tropic Stalker
--
-ja'#RBYT22: 密林サンダーストーム
-*
-uk$#RBYT22: Гроза тропіків
+
+pl#RBYT22: Tropic Stalker
 
 pt#RBYT22: Tropic Stalker
 
@@ -33891,25 +33887,29 @@ F
 "
 fr#RBYT22 : Traqueur tropical
 *
+uk$#RBYT22: Гроза тропіків
+-
+ja'#RBYT22: 密林サンダーストーム
+*
 ru$#RBYT22: Гроза тропиков.webp
 �
 avatar_progressive_bp_19_paid_4�
 
 enRight Direction Avatar
 
-plRight Direction Avatar
-
 zhRight Direction Avatar
-*
-ja$アバター「確かな足取り」
-=
-uk7Аватар «На правильному шляху»
+
+plRight Direction Avatar
 
 ptRight Direction Avatar
 
 esRight Direction Avatar
 
 frAvatar La bonne direction
+=
+uk7Аватар «На правильному шляху»
+*
+ja$アバター「確かな足取り」
 1
 ru+Аватар «На верном пути».webp
 �
@@ -33917,19 +33917,19 @@ F
 
 enRight Direction Avatar
 
-plRight Direction Avatar
-
 zhRight Direction Avatar
-*
-ja$アバター「確かな足取り」
-=
-uk7Аватар «На правильному шляху»
+
+plRight Direction Avatar
 
 ptRight Direction Avatar
 
 esRight Direction Avatar
 
 frAvatar La bonne direction
+=
+uk7Аватар «На правильному шляху»
+*
+ja$アバター「確かな足取り」
 1
 ru+Аватар «На верном пути».webp
 �
@@ -33937,19 +33937,19 @@ F
 
 enThe Dark Side Avatar
 
-plThe Dark Side Avatar
-
 zhThe Dark Side Avatar
-!
-jaアバター「暗黒面」
-0
-uk*Аватар «Темна сторона»
+
+plThe Dark Side Avatar
 
 ptThe Dark Side Avatar
 
 esThe Dark Side Avatar
 
 frAvatar du côté obscur
+0
+uk*Аватар «Темна сторона»
+!
+jaアバター「暗黒面」
 2
 ru,Аватар «Тёмная сторона».png
 �
@@ -33957,19 +33957,19 @@ F
 
 enRight Direction Avatar
 
-plRight Direction Avatar
-
 zhRight Direction Avatar
-*
-ja$アバター「確かな足取り」
-=
-uk7Аватар «На правильному шляху»
+
+plRight Direction Avatar
 
 ptRight Direction Avatar
 
 esRight Direction Avatar
 
 frAvatar La bonne direction
+=
+uk7Аватар «На правильному шляху»
+*
+ja$アバター「確かな足取り」
 1
 ru+Аватар «На верном пути».webp
 �
@@ -33977,19 +33977,19 @@ F
 
 enSecret Weapon Avatar
 
-plSecret Weapon Avatar
-
 zhSecret Weapon Avatar
-$
-jaアバター「秘密兵器」
-2
-uk,Аватар «Секретна зброя»
+
+plSecret Weapon Avatar
 
 ptSecret Weapon Avatar
 
 esSecret Weapon Avatar
 
 frAvatar Arme secrète
+2
+uk,Аватар «Секретна зброя»
+$
+jaアバター「秘密兵器」
 6
 ru0Аватар «Секретное оружие».webp
 �
@@ -33997,19 +33997,19 @@ $
 
 enOverdrive Avatar
 
-plOverdrive Avatar
-
 zhOverdrive Avatar
-0
-ja*アバター「オーバードライブ」
-#
-ukАватар «Форсаж»
+
+plOverdrive Avatar
 
 ptOverdrive Avatar
 
 esOverdrive Avatar
 
 frAvatar Surmultiplication
+#
+ukАватар «Форсаж»
+0
+ja*アバター「オーバードライブ」
 )
 ru#Аватар «Овердрайв».webp
 �
@@ -34017,19 +34017,19 @@ $
 
 enRight Direction Avatar
 
-plRight Direction Avatar
-
 zhRight Direction Avatar
-*
-ja$アバター「確かな足取り」
-=
-uk7Аватар «На правильному шляху»
+
+plRight Direction Avatar
 
 ptRight Direction Avatar
 
 esRight Direction Avatar
 
 frAvatar La bonne direction
+=
+uk7Аватар «На правильному шляху»
+*
+ja$アバター「確かな足取り」
 1
 ru+Аватар «На верном пути».webp
 �
@@ -34037,19 +34037,19 @@ $
 
 enHeadliner Avatar
 
-plHeadliner Avatar
-
 zhHeadliner Avatar
-$
-jaアバター「大スター」
-)
-uk#Аватар «Хедлайнер»
+
+plHeadliner Avatar
 
 ptHeadliner Avatar
 
 esHeadliner Avatar
 
 frAvatar de la vedette
+)
+uk#Аватар «Хедлайнер»
+$
+jaアバター「大スター」
 *
 ru$Аватар «Хедлайнер».png
 �
@@ -34057,19 +34057,19 @@ $
 
 enRight Direction Avatar
 
-plRight Direction Avatar
-
 zhRight Direction Avatar
-*
-ja$アバター「確かな足取り」
-=
-uk7Аватар «На правильному шляху»
+
+plRight Direction Avatar
 
 ptRight Direction Avatar
 
 esRight Direction Avatar
 
 frAvatar La bonne direction
+=
+uk7Аватар «На правильному шляху»
+*
+ja$アバター「確かな足取り」
 1
 ru+Аватар «На верном пути».webp
 �
@@ -34077,19 +34077,19 @@ $
 
 enExtreme Hazard Avatar
 
-plExtreme Hazard Avatar
-
 zhExtreme Hazard Avatar
-*
-ja$アバター「最大の危険物」
->
-uk8Аватар «Особливо небезпечний»
+
+plExtreme Hazard Avatar
 
 ptExtreme Hazard Avatar
 
 esExtreme Hazard Avatar
 
 frAvatar du danger extrême
+>
+uk8Аватар «Особливо небезпечний»
+*
+ja$アバター「最大の危険物」
 .
 ru(Аватар «Особо опасен».png
 �
@@ -34097,13 +34097,9 @@ $
 
 enBlasteroid Avatar
 
-plBlasteroid Avatar
-
 zhBlasteroid Avatar
-"
-jaアバター「Blasteroid」
-
-ukАватар Blasteroid
+
+plBlasteroid Avatar
 
 ptBlasteroid Avatar
 
@@ -34111,25 +34107,29 @@ $
 
 frAvatar Blasteroid
 
+ukАватар Blasteroid
+"
+jaアバター「Blasteroid」
+
 ruАватар Blasteroid.webp
 �
 avatar_VKCommunity_rare�
 
 enCommunity Member Avatar
 
-plCommunity Member Avatar
-
 zhCommunity Member Avatar
-9
-ja3アバター「コミュニティーメンバー」
-8
-uk2Аватар «Частина спільноти»
+
+plCommunity Member Avatar
 
 ptCommunity Member Avatar
 
 esCommunity Member Avatar
 %
 frAvatar Membre de la communauté
+8
+uk2Аватар «Частина спільноти»
+9
+ja3アバター「コミュニティーメンバー」
 6
 ru0Аватар «Часть сообщества».webp
 �
@@ -34137,13 +34137,9 @@ $
 0
 en*Аватар «Чиловый флекс»
 0
-pl*Аватар «Чиловый флекс»
-0
 zh*Аватар «Чиловый флекс»
 0
-ja*Аватар «Чиловый флекс»
-0
-uk*Аватар «Чиловый флекс»
+pl*Аватар «Чиловый флекс»
 0
 pt*Аватар «Чиловый флекс»
 0
@@ -34151,25 +34147,29 @@ $
 0
 fr*Аватар «Чиловый флекс»
 0
+uk*Аватар «Чиловый флекс»
+0
+ja*Аватар «Чиловый флекс»
+0
 ru*Аватар «Чиловый флекс».webp
 �
 avatar_progressive_bp_38_free_4�
 
 enChief Avatar
 
-plChief Avatar
-
 zhChief Avatar
-!
-jaアバター「チーフ」
-
-ukАватар «Чіф»
+
+plChief Avatar
 
 ptChief Avatar
 
 esChief Avatar
 
 frAvatar Chief
+
+ukАватар «Чіф»
+!
+jaアバター「チーフ」
 
 ruАватар «Чиф».webp
 �
@@ -34177,19 +34177,19 @@ $
 
 enChief Avatar
 
-plChief Avatar
-
 zhChief Avatar
-!
-jaアバター「チーフ」
-
-ukАватар «Чіф»
+
+plChief Avatar
 
 ptChief Avatar
 
 esChief Avatar
 
 frAvatar Chief
+
+ukАватар «Чіф»
+!
+jaアバター「チーフ」
 
 ruАватар «Чиф».webp
 �
@@ -34197,13 +34197,9 @@ $
 
 enSteel Hot Avatar
 
-plSteel Hot Avatar
-
 zhSteel Hot Avatar
-'
-ja!アバター「冷めない熱」
-/
-uk)Аватар «Все ще вогонь»
+
+plSteel Hot Avatar
 
 ptSteel Hot Avatar
 
@@ -34211,25 +34207,29 @@ $
  
 frAvatar Toujours aussi bien
 /
+uk)Аватар «Все ще вогонь»
+'
+ja!アバター「冷めない熱」
+/
 ru)Аватар «Всё ещё огонь».png
 �
 avatar_progressive_bp_52_free_4�
 
 enCryo-Lights Avatar
 
-plCryo-Lights Avatar
-
 zhCryo-Lights Avatar
-'
-ja!アバター「冷凍ライト」
-)
-uk#Аватар «Кріовогні»
+
+plCryo-Lights Avatar
 
 ptCryo-Lights Avatar
 
 esCryo-Lights Avatar
 
 frAvatar Cryolumières
+)
+uk#Аватар «Кріовогні»
+'
+ja!アバター「冷凍ライト」
 '
 ru!Аватар «Криоогни».webp
 �
@@ -34237,13 +34237,9 @@ $
 
 enCompetitor Avatar
 
-plCompetitor Avatar
-
 zhCompetitor Avatar
-*
-ja$アバター「実力派エース」
-%
-ukАватар «Фаворит»
+
+plCompetitor Avatar
 
 ptCompetitor Avatar
 
@@ -34251,19 +34247,19 @@ $
 
 frAvatar Compétiteur
 %
+ukАватар «Фаворит»
+*
+ja$アバター「実力派エース」
+%
 ruАватар «Фаворит».webp
 �
 avatar_progressive_bp_38_free_2�
 
 enChief Avatar
 
-plChief Avatar
-
 zhChief Avatar
-!
-jaアバター「チーフ」
-
-ukАватар «Чіф»
+
+plChief Avatar
 
 ptChief Avatar
 
@@ -34271,19 +34267,19 @@ $
 
 frAvatar Chief
 
+ukАватар «Чіф»
+!
+jaアバター「チーフ」
+
 ruАватар «Чиф».webp
 �
 avatar_smiley_love_common_168h�
 
 en"Lovestruck" Avatar
 
-pl"Lovestruck" Avatar
-
 zh"Lovestruck" Avatar
-!
-jaアバター「恋煩い」
-3
-uk-Аватар «Фугасом у рубку»
+
+pl"Lovestruck" Avatar
 
 pt"Lovestruck" Avatar
 
@@ -34291,25 +34287,29 @@ $
 #
 frAvatar « Coup de foudre »
 3
+uk-Аватар «Фугасом у рубку»
+!
+jaアバター「恋煩い」
+3
 ru-Аватар «Фугасом в рубку».png
 �
 avatar_bp_33_bundle�
 
 enSeawolf Avatar
 
-plSeawolf Avatar
-
 zhSeawolf Avatar
-
-jaアバター「Seawolf」
-0
-uk*Аватар «Морський вовк»
+
+plSeawolf Avatar
 
 ptSeawolf Avatar
 
 esSeawolf Avatar
 
 frAvatar Loup des mers
+0
+uk*Аватар «Морський вовк»
+
+jaアバター「Seawolf」
 .
 ru(Аватар «Морской Волк».webp
 �
@@ -34317,19 +34317,19 @@ $
 
 enGreat Viet Fan Avatar
 
-plGreat Viet Fan Avatar
-
 zhGreat Viet Fan Avatar
-,
-ja&アバター「Great Viet ファン」
-:
-uk4Аватар «Вболівальник Great Viet»
+
+plGreat Viet Fan Avatar
 
 ptGreat Viet Fan Avatar
 
 esGreat Viet Fan Avatar
 (
 fr"Avatar du passionné de Great Viet
+:
+uk4Аватар «Вболівальник Great Viet»
+,
+ja&アバター「Great Viet ファン」
 4
 ru.Аватар «Болельщик Great Viet».webp
 �
@@ -34337,19 +34337,19 @@ $
 
 enCryo-Lights Avatar
 
-plCryo-Lights Avatar
-
 zhCryo-Lights Avatar
-'
-ja!アバター「冷凍ライト」
-)
-uk#Аватар «Кріовогні»
+
+plCryo-Lights Avatar
 
 ptCryo-Lights Avatar
 
 esCryo-Lights Avatar
 
 frAvatar Cryolumières
+)
+uk#Аватар «Кріовогні»
+'
+ja!アバター「冷凍ライト」
 '
 ru!Аватар «Криоогни».webp
 �
@@ -34357,19 +34357,19 @@ $
 
 enCryo-Lights Avatar
 
-plCryo-Lights Avatar
-
 zhCryo-Lights Avatar
-'
-ja!アバター「冷凍ライト」
-)
-uk#Аватар «Кріовогні»
+
+plCryo-Lights Avatar
 
 ptCryo-Lights Avatar
 
 esCryo-Lights Avatar
 
 frAvatar Cryolumières
+)
+uk#Аватар «Кріовогні»
+'
+ja!アバター「冷凍ライト」
 '
 ru!Аватар «Криоогни».webp
 �
@@ -34377,19 +34377,19 @@ $
 
 enEye in the Sky Avatar
 
-plEye in the Sky Avatar
-
 zhEye in the Sky Avatar
-'
-ja!アバター「空からの目」
-)
-uk#Аватар «Очі в небі»
+
+plEye in the Sky Avatar
 
 ptEye in the Sky Avatar
 
 esEye in the Sky Avatar
 
 frAvatar Œil dans le ciel
+)
+uk#Аватар «Очі в небі»
+'
+ja!アバター「空からの目」
 +
 ru%Аватар «Глаз в небе».webp
 �
@@ -34397,19 +34397,19 @@ $
 
 enNitro Nova Avatar
 
-plNitro Nova Avatar
-
 zhNitro Nova Avatar
--
-ja'アバター「ニトロ・ノヴァ」
-+
-uk%Аватар «Нітрозірка»
+
+plNitro Nova Avatar
 
 ptNitro Nova Avatar
 
 esNitro Nova Avatar
 
 frAvatar de Nitro Nova
++
+uk%Аватар «Нітрозірка»
+-
+ja'アバター「ニトロ・ノヴァ」
 *
 ru$Аватар «Нитро Нова».webp
 �
@@ -34417,19 +34417,19 @@ $
 
 enSnow Globe Avatar
 
-plSnow Globe Avatar
-
 zhSnow Globe Avatar
--
-ja'アバター「スノーグローブ」
-.
-uk(Аватар «Снігова куля»
+
+plSnow Globe Avatar
 
 ptSnow Globe Avatar
 
 esSnow Globe Avatar
 
 frAvatar Boule à neige
+.
+uk(Аватар «Снігова куля»
+-
+ja'アバター「スノーグローブ」
 ,
 ru&Аватар «Снежный шар».webp
 �
@@ -34437,19 +34437,19 @@ $
 
 enMrs. Anderson Avatar
 
-plMrs. Anderson Avatar
-
 zhMrs. Anderson Avatar
-0
-ja*アバター「アンダーソン夫人」
-0
-uk*Аватар «Пані Андерсон»
+
+plMrs. Anderson Avatar
 
 ptMrs. Anderson Avatar
 
 esMrs. Anderson Avatar
 
 frAvatar Madame Anderson
+0
+uk*Аватар «Пані Андерсон»
+0
+ja*アバター「アンダーソン夫人」
 4
 ru.Аватар «Миссис Андерсон».webp
 �
@@ -34457,13 +34457,9 @@ $
  
 enPlatinum Tournament Avatar
  
-plPlatinum Tournament Avatar
- 
 zhPlatinum Tournament Avatar
->
-ja8アバター「トーナメント記念: プラチナ」
->
-uk8Аватар «Турнірний Платиновий»
+ 
+plPlatinum Tournament Avatar
  
 ptPlatinum Tournament Avatar
  
@@ -34471,25 +34467,29 @@ $
 
 frAvatar Tournoi de platine
 >
+uk8Аватар «Турнірний Платиновий»
+>
+ja8アバター「トーナメント記念: プラチナ」
+>
 ru8Аватар «Турнирный Платиновый».webp
 �
 avatar_tk_cl_anim�
 '
 en!To Next Adventure Animated Avatar
 '
-pl!To Next Adventure Animated Avatar
-'
 zh!To Next Adventure Animated Avatar
-E
-ja?アニメーション付きアバター「次なる冒険へ」
-H
-ukBАнімований аватар «До нових пригод»
+'
+pl!To Next Adventure Animated Avatar
 '
 pt!To Next Adventure Animated Avatar
 '
 es!To Next Adventure Animated Avatar
 ,
 fr&Avatar animé À la prochaine aventure
+H
+ukBАнімований аватар «До нових пригод»
+E
+ja?アニメーション付きアバター「次なる冒険へ」
 ]
 ruWАнимированный аватар «Навстречу приключениям».webp
 �
@@ -34497,19 +34497,19 @@ H
 
 enQuadrant Prototype Avatar
 
-plQuadrant Prototype Avatar
-
 zhQuadrant Prototype Avatar
-6
-ja0アバター「四分円のプロトタイプ」
-B
-uk<Аватар «Поквадрантний прототип»
+
+plQuadrant Prototype Avatar
 
 ptQuadrant Prototype Avatar
 
 esQuadrant Prototype Avatar
  
 frAvatar Prototype de cadran
+B
+uk<Аватар «Поквадрантний прототип»
+6
+ja0アバター「四分円のプロトタイプ」
 :
 ru4Аватар «Прототип квадранта».webp
 �
@@ -34517,19 +34517,19 @@ B
  
 enPrimacy Fan Diamond Avatar
  
-plPrimacy Fan Diamond Avatar
- 
 zhPrimacy Fan Diamond Avatar
->
-ja8アバター「Primacy ファン・ダイヤモンド」
-[
-ukUДіамантовий аватар уболівальника команди Primacy
+ 
+plPrimacy Fan Diamond Avatar
  
 ptPrimacy Fan Diamond Avatar
  
 esPrimacy Fan Diamond Avatar
 0
 fr*Avatar du passionné de Primacy de diamant
+[
+ukUДіамантовий аватар уболівальника команди Primacy
+>
+ja8アバター「Primacy ファン・ダイヤモンド」
 Y
 ruSБриллиантовый аватар болельщика команды Primacy.webp
 �
@@ -34537,19 +34537,19 @@ $avatar_BlitzCup25_EU_TEAM4_legendary�
 
 enUtopia Diamond Avatar
 
-plUtopia Diamond Avatar
-
 zhUtopia Diamond Avatar
-1
-ja+アバター「Utopia ダイヤモンド」
-?
-uk9Діамантовий аватар команди Utopia
+
+plUtopia Diamond Avatar
 
 ptUtopia Diamond Avatar
 
 esUtopia Diamond Avatar
  
 frAvatar d'Utopia de diamant
+?
+uk9Діамантовий аватар команди Utopia
+1
+ja+アバター「Utopia ダイヤモンド」
 C
 ru=Бриллиантовый аватар команды Utopia.webp
 �
@@ -34557,19 +34557,19 @@ C
 
 enSilent Service Avatar
 
-plSilent Service Avatar
-
 zhSilent Service Avatar
-$
-jaアバター「極秘部隊」
-0
-uk*Аватар «Таємна служба»
+
+plSilent Service Avatar
 
 ptSilent Service Avatar
 
 esSilent Service Avatar
 "
 frAvatar du Service silencieux
+0
+uk*Аватар «Таємна служба»
+$
+jaアバター「極秘部隊」
 0
 ru*Аватар «Тайная служба».webp
 �
@@ -34577,19 +34577,19 @@ $
 
 enGingy Avatar
 
-plGingy Avatar
-
 zhGingy Avatar
-$
-jaアバター「ジンジー」
-%
-ukАватар «Прянько»
+
+plGingy Avatar
 
 ptGingy Avatar
 
 esGingy Avatar
 )
 fr#Avatar de bonhomme de pain d'épice
+%
+ukАватар «Прянько»
+$
+jaアバター「ジンジー」
 !
 ruАватар «Пряня».webp
 �
@@ -34597,13 +34597,9 @@ $
 
 enSilent Service Avatar
 
-plSilent Service Avatar
-
 zhSilent Service Avatar
-$
-jaアバター「極秘部隊」
-0
-uk*Аватар «Таємна служба»
+
+plSilent Service Avatar
 
 ptSilent Service Avatar
 
@@ -34611,19 +34607,19 @@ $
 "
 frAvatar du Service silencieux
 0
+uk*Аватар «Таємна служба»
+$
+jaアバター「極秘部隊」
+0
 ru*Аватар «Тайная служба».webp
 �
 avatar_2025_hlwn_unique_1�
 
 enDaryl Dixon Avatar
 
-plDaryl Dixon Avatar
-
 zhDaryl Dixon Avatar
-3
-ja-アバター「ダリル・ディクソン」
-.
-uk(Аватар «Деріл Діксон»
+
+plDaryl Dixon Avatar
 
 ptDaryl Dixon Avatar
 
@@ -34631,25 +34627,29 @@ $
 
 frAvatar Daryl Dixon
 .
+uk(Аватар «Деріл Діксон»
+3
+ja-アバター「ダリル・ディクソン」
+.
 ru(Аватар «Дэрил Диксон».webp
 �
 avatar_CIS_GGT_rare_14d�
  
 enGUCCI GANG TEAM Fan Avatar
  
-plGUCCI GANG TEAM Fan Avatar
- 
 zhGUCCI GANG TEAM Fan Avatar
-1
-ja+アバター「GUCCI GANG TEAM ファン」
-?
-uk9Аватар «Вболівальник GUCCI GANG TEAM»
+ 
+plGUCCI GANG TEAM Fan Avatar
  
 ptGUCCI GANG TEAM Fan Avatar
  
 esGUCCI GANG TEAM Fan Avatar
 -
 fr'Avatar du passionné de GUCCI GANG TEAM
+?
+uk9Аватар «Вболівальник GUCCI GANG TEAM»
+1
+ja+アバター「GUCCI GANG TEAM ファン」
 9
 ru3Аватар «Болельщик GUCCI GANG TEAM».webp
 �
@@ -34657,19 +34657,19 @@ $
 !
 enLet's Get Mechanical Avatar
 !
-plLet's Get Mechanical Avatar
-!
 zhLet's Get Mechanical Avatar
-0
-ja*アバター「メカニックの出番」
-G
-ukAАватар «Візьмімося за інструменти»
+!
+plLet's Get Mechanical Avatar
 !
 ptLet's Get Mechanical Avatar
 !
 esLet's Get Mechanical Avatar
 %
 frAvatar Faisons de la mécanique
+G
+ukAАватар «Візьмімося за інструменти»
+0
+ja*アバター「メカニックの出番」
 @
 ru:Аватар «Пора механизироваться».webp
 �
@@ -34677,19 +34677,19 @@ G
 
 enTEAM ID Fan Avatar
 
-plTEAM ID Fan Avatar
-
 zhTEAM ID Fan Avatar
-)
-ja#アバター「TEAM ID ファン」
-7
-uk1Аватар «Вболівальник TEAM ID»
+
+plTEAM ID Fan Avatar
 
 ptTEAM ID Fan Avatar
 
 esTEAM ID Fan Avatar
 %
 frAvatar du passionné de TEAM ID
+7
+uk1Аватар «Вболівальник TEAM ID»
+)
+ja#アバター「TEAM ID ファン」
 1
 ru+Аватар «Болельщик TEAM ID».webp
 �
@@ -34697,13 +34697,9 @@ G
 
 enArabian Oryx Avatar
 
-plArabian Oryx Avatar
-
 zhArabian Oryx Avatar
 
-jaArabian Oryx Avatar
-
-ukArabian Oryx Avatar
+plArabian Oryx Avatar
 
 ptArabian Oryx Avatar
 
@@ -34711,25 +34707,29 @@ G
 
 frAvatar Oryx d'Arabie
 
+ukArabian Oryx Avatar
+
+jaArabian Oryx Avatar
+
 ruArabian Oryx Avatar.webp
 �
 avatar_progressive_bp_28_paid_6�
 
 enGingy Avatar
 
-plGingy Avatar
-
 zhGingy Avatar
-$
-jaアバター「ジンジー」
-%
-ukАватар «Прянько»
+
+plGingy Avatar
 
 ptGingy Avatar
 
 esGingy Avatar
 )
 fr#Avatar de bonhomme de pain d'épice
+%
+ukАватар «Прянько»
+$
+jaアバター「ジンジー」
 !
 ruАватар «Пряня».webp
 �
@@ -34737,19 +34737,19 @@ $
 
 enGingy Avatar
 
-plGingy Avatar
-
 zhGingy Avatar
-$
-jaアバター「ジンジー」
-%
-ukАватар «Прянько»
+
+plGingy Avatar
 
 ptGingy Avatar
 
 esGingy Avatar
 )
 fr#Avatar de bonhomme de pain d'épice
+%
+ukАватар «Прянько»
+$
+jaアバター「ジンジー」
 !
 ruАватар «Пряня».webp
 �
@@ -34757,19 +34757,19 @@ $
 
 enGingy Avatar
 
-plGingy Avatar
-
 zhGingy Avatar
-$
-jaアバター「ジンジー」
-%
-ukАватар «Прянько»
+
+plGingy Avatar
 
 ptGingy Avatar
 
 esGingy Avatar
 )
 fr#Avatar de bonhomme de pain d'épice
+%
+ukАватар «Прянько»
+$
+jaアバター「ジンジー」
 !
 ruАватар «Пряня».webp
 �
@@ -34777,13 +34777,9 @@ $
 
 enVarro Tigurius Avatar
 
-plVarro Tigurius Avatar
-
 zhVarro Tigurius Avatar
-6
-ja0アバター「ヴァロ・ティグリウス」
-!
-ukАватар Varro Tigurius
+
+plVarro Tigurius Avatar
 
 ptVarro Tigurius Avatar
 
@@ -34791,19 +34787,19 @@ $
 
 frAvatar Varro Tigurius
 !
+ukАватар Varro Tigurius
+6
+ja0アバター「ヴァロ・ティグリウス」
+!
 ruАватар Varro Tigurius.webp
 �
 avatar_ht_rare_14d�
 !
 enHeavy Tank Commander Avatar
 !
-plHeavy Tank Commander Avatar
-!
 zhHeavy Tank Commander Avatar
-$
-jaアバター「重戦車長」
-,
-uk&Аватар «Командир ВТ»
+!
+plHeavy Tank Commander Avatar
 !
 ptHeavy Tank Commander Avatar
 !
@@ -34811,19 +34807,19 @@ $
 %
 frAvatar Commandant de char lourd
 ,
+uk&Аватар «Командир ВТ»
+$
+jaアバター「重戦車長」
+,
 ru&Аватар «Командир ТТ».webp
 �
 avatar_Especiais_legendary�
 2
 en,[BOPE_] B. Operações Especiais Clan Avatar
 2
-pl,[BOPE_] B. Operações Especiais Clan Avatar
-2
 zh,[BOPE_] B. Operações Especiais Clan Avatar
-B
-ja<アバター「クラン [BOPE_] B. Operações Especiais」
-@
-uk:Аватар «Клан [BOPE_] B. Operações Especiais»
+2
+pl,[BOPE_] B. Operações Especiais Clan Avatar
 2
 pt,[BOPE_] B. Operações Especiais Clan Avatar
 2
@@ -34831,19 +34827,19 @@ B
 5
 fr/Avatar du clan [BOPE_] B. Operações Especiais
 @
+uk:Аватар «Клан [BOPE_] B. Operações Especiais»
+B
+ja<アバター「クラン [BOPE_] B. Operações Especiais」
+@
 ru:Аватар «Клан [BOPE_] B. Operações Especiais».webp
 �
 avatar_NA_Origin_legendary�
 
 enOrigin Avatar
 
-plOrigin Avatar
-
 zhOrigin Avatar
-
-jaアバター「Origin」
-
-ukАватар Origin
+
+plOrigin Avatar
 
 ptOrigin Avatar
 
@@ -34851,25 +34847,29 @@ B
 
 frAvatar d'Origin
 
+ukАватар Origin
+
+jaアバター「Origin」
+
 ruАватар Origin.webp
 �
 avatar_gold_bear_unique�
 
 enMighty Bear Avatar
 
-plMighty Bear Avatar
-
 zhMighty Bear Avatar
-$
-jaアバター「獰猛な熊」
-6
-uk0Аватар «Могутній ведмідь»
+
+plMighty Bear Avatar
 
 ptMighty Bear Avatar
 
 esMighty Bear Avatar
 
 frAvatar de l'ours puissant
+6
+uk0Аватар «Могутній ведмідь»
+$
+jaアバター「獰猛な熊」
 4
 ru.Аватар «Могучий медведь».png
 �
@@ -34877,19 +34877,19 @@ $
 
 enSearch for Wisdom Avatar
 
-plSearch for Wisdom Avatar
-
 zhSearch for Wisdom Avatar
-$
-jaアバター「武哲究理」
-4
-uk.Аватар «Пошуки мудрості»
+
+plSearch for Wisdom Avatar
 
 ptSearch for Wisdom Avatar
 
 esSearch for Wisdom Avatar
 
 frAvatar Quête de sagesse
+4
+uk.Аватар «Пошуки мудрості»
+$
+jaアバター「武哲究理」
 4
 ru.Аватар «Поиски мудрости».webp
 �
@@ -34897,13 +34897,9 @@ $
 
 en"Eureka!" Avatar
 
-pl"Eureka!" Avatar
-
 zh"Eureka!" Avatar
-(
-ja"アバター「ユリーイカ!」
-$
-ukАватар «Еврика!»
+
+pl"Eureka!" Avatar
 
 pt"Eureka!" Avatar
 
@@ -34911,25 +34907,29 @@ $
 
 frAvatar Eureka !
 $
+ukАватар «Еврика!»
+(
+ja"アバター「ユリーイカ!」
+$
 ruАватар «Эврика!».webp
 �
 avatar_progressive_bp_30_paid_3�
 
 enSearch for Wisdom Avatar
 
-plSearch for Wisdom Avatar
-
 zhSearch for Wisdom Avatar
-$
-jaアバター「武哲究理」
-4
-uk.Аватар «Пошуки мудрості»
+
+plSearch for Wisdom Avatar
 
 ptSearch for Wisdom Avatar
 
 esSearch for Wisdom Avatar
 
 frAvatar Quête de sagesse
+4
+uk.Аватар «Пошуки мудрості»
+$
+jaアバター「武哲究理」
 4
 ru.Аватар «Поиски мудрости».webp
 �
@@ -34937,19 +34937,19 @@ $
 
 enSearch for Wisdom Avatar
 
-plSearch for Wisdom Avatar
-
 zhSearch for Wisdom Avatar
-$
-jaアバター「武哲究理」
-4
-uk.Аватар «Пошуки мудрості»
+
+plSearch for Wisdom Avatar
 
 ptSearch for Wisdom Avatar
 
 esSearch for Wisdom Avatar
 
 frAvatar Quête de sagesse
+4
+uk.Аватар «Пошуки мудрості»
+$
+jaアバター「武哲究理」
 4
 ru.Аватар «Поиски мудрости».webp
 �
@@ -34957,19 +34957,19 @@ $
 
 enSearch for Wisdom Avatar
 
-plSearch for Wisdom Avatar
-
 zhSearch for Wisdom Avatar
-$
-jaアバター「武哲究理」
-4
-uk.Аватар «Пошуки мудрості»
+
+plSearch for Wisdom Avatar
 
 ptSearch for Wisdom Avatar
 
 esSearch for Wisdom Avatar
 
 frAvatar Quête de sagesse
+4
+uk.Аватар «Пошуки мудрості»
+$
+jaアバター「武哲究理」
 4
 ru.Аватар «Поиски мудрости».webp
 �
@@ -34977,13 +34977,9 @@ $
 
 enSearch for Wisdom Avatar
 
-plSearch for Wisdom Avatar
-
 zhSearch for Wisdom Avatar
-$
-jaアバター「武哲究理」
-4
-uk.Аватар «Пошуки мудрості»
+
+plSearch for Wisdom Avatar
 
 ptSearch for Wisdom Avatar
 
@@ -34991,25 +34987,29 @@ $
 
 frAvatar Quête de sagesse
 4
+uk.Аватар «Пошуки мудрості»
+$
+jaアバター「武哲究理」
+4
 ru.Аватар «Поиски мудрости».webp
 �
 "avatar_2024_september_10_legendary�
 
 enPawprint Avatar
 
-plPawprint Avatar
-
 zhPawprint Avatar
-*
-ja$アバター「犬の記念足型」
-0
-uk*Аватар «Відбиток лапи»
+
+plPawprint Avatar
 
 ptPawprint Avatar
 
 esPawprint Avatar
 
 frAvatar empreinte de patte
+0
+uk*Аватар «Відбиток лапи»
+*
+ja$アバター「犬の記念足型」
 2
 ru,Аватар «Отпечаток лапы».webp
 �
@@ -35017,19 +35017,19 @@ $
 "
 enRammer Wheel Animated Avatar
 "
-plRammer Wheel Animated Avatar
-"
 zhRammer Wheel Animated Avatar
-K
-jaEアニメーション付きアバター「ラマー's ハンドル」
-=
-uk7Анімований аватар «Кермо Rammer»
+"
+plRammer Wheel Animated Avatar
 "
 ptRammer Wheel Animated Avatar
 "
 esRammer Wheel Animated Avatar
 $
 frAvatar animé Volant du Rammer
+=
+uk7Анімований аватар «Кермо Rammer»
+K
+jaEアニメーション付きアバター「ラマー's ハンドル」
 R
 ruLАнимированный аватар «Руль от Костолома».webp
 �
@@ -35037,19 +35037,19 @@ R
 
 enFinn Avatar
 
-plFinn Avatar
-
 zhFinn Avatar
-!
-jaアバター「フィン」
-
-ukАватар «Фінн»
+
+plFinn Avatar
 
 ptFinn Avatar
 
 esFinn Avatar
 
 frAvatar de Finn
+
+ukАватар «Фінн»
+!
+jaアバター「フィン」
  
 ruАватар «Финн».webp
 �
@@ -35057,13 +35057,9 @@ R
 
 enSanta's Hat Avatar
 
-plSanta's Hat Avatar
-
 zhSanta's Hat Avatar
-*
-ja$アバター「サンタの帽子」
-,
-uk&Аватар «Шапка Санти»
+
+plSanta's Hat Avatar
 
 ptSanta's Hat Avatar
 
@@ -35071,25 +35067,29 @@ R
 &
 fr Avatar de chapeau du père Noël
 ,
+uk&Аватар «Шапка Санти»
+*
+ja$アバター「サンタの帽子」
+,
 ru&Аватар «Шапка Санты».png
 �
 avatar_progressive_bp_11_free_2�
 
 enWarm Embrace Avatar
 
-plWarm Embrace Avatar
-
 zhWarm Embrace Avatar
-'
-ja!アバター「温かい抱擁」
-9
-uk3Аватар «Полум’яні вітання»
+
+plWarm Embrace Avatar
 
 ptWarm Embrace Avatar
 
 esWarm Embrace Avatar
 
 frAvatar Accueil chaleureux
+9
+uk3Аватар «Полум’яні вітання»
+'
+ja!アバター「温かい抱擁」
 6
 ru0Аватар «Пламенный привет».webp
 �
@@ -35097,19 +35097,19 @@ $avatar_progressive_bp_33_ruby_paid_5�
 4
 en.Аватар «Немой проводник»
 4
-pl.Аватар «Немой проводник»
-4
 zh.Аватар «Немой проводник»
 4
-ja.Аватар «Немой проводник»
-4
-uk.Аватар «Немой проводник»
+pl.Аватар «Немой проводник»
 4
 pt.Аватар «Немой проводник»
 4
 es.Аватар «Немой проводник»
 4
 fr.Аватар «Немой проводник»
+4
+uk.Аватар «Немой проводник»
+4
+ja.Аватар «Немой проводник»
 6
 ru0Аватар «Разбуженный маяк».webp
 �
@@ -35117,13 +35117,9 @@ $avatar_progressive_bp_33_ruby_paid_5�
 
 enBlitz Wolf Avatar
 
-plBlitz Wolf Avatar
-
 zhBlitz Wolf Avatar
-'
-ja!アバター「Blitz ウルフ」
-%
-ukАватар «Вовк Blitz»
+
+plBlitz Wolf Avatar
 
 ptBlitz Wolf Avatar
 
@@ -35131,25 +35127,29 @@ $avatar_progressive_bp_33_ruby_paid_5�
 
 frAvatar Loup de Blitz
 %
+ukАватар «Вовк Blitz»
+'
+ja!アバター「Blitz ウルフ」
+%
 ruАватар «Волк Blitz».webp
 �
 avatar_hlw_2025_unique�
 
 enLet Them Lie Avatar
 
-plLet Them Lie Avatar
-
 zhLet Them Lie Avatar
-3
-ja-アバター「誰も起きてはならぬ」
-?
-uk9Аватар «Краще б їм не вставати»
+
+plLet Them Lie Avatar
 
 ptLet Them Lie Avatar
 
 esLet Them Lie Avatar
 
 frAvatar Reposez en paix
+?
+uk9Аватар «Краще б їм не вставати»
+3
+ja-アバター「誰も起きてはならぬ」
 .
 ru(Аватар «Спи спокойно».webp
 �
@@ -35157,19 +35157,19 @@ $avatar_progressive_bp_33_ruby_paid_5�
 
 enScarecrow Animated Avatar
 
-plScarecrow Animated Avatar
-
 zhScarecrow Animated Avatar
-E
-ja?アニメーション付きアバター「かかし恐ろし」
-:
-uk4Анімований аватар «Опудало»
+
+plScarecrow Animated Avatar
 
 ptScarecrow Animated Avatar
 
 esScarecrow Animated Avatar
  
 frAvatar animé Épouvantail
+:
+uk4Анімований аватар «Опудало»
+E
+ja?アニメーション付きアバター「かかし恐ろし」
 >
 ru8Анимированный аватар «Пугало».webp
 �
@@ -35177,19 +35177,19 @@ E
 
 enSignal Tap Avatar
 
-plSignal Tap Avatar
-
 zhSignal Tap Avatar
-0
-ja*アバター「シグナル・タップ」
->
-uk8Аватар «Відстеження сигналів»
+
+plSignal Tap Avatar
 
 ptSignal Tap Avatar
 
 esSignal Tap Avatar
 
 frAvatar Prise de signal
+>
+uk8Аватар «Відстеження сигналів»
+0
+ja*アバター「シグナル・タップ」
 2
 ru,Аватар «Радар-детектор».webp
 �
@@ -35197,13 +35197,9 @@ E
 
 enTEAM WOMBATS Avatar
 
-plTEAM WOMBATS Avatar
-
 zhTEAM WOMBATS Avatar
-$
-jaアバター「TEAM WOMBATS」
-
-ukАватар TEAM WOMBATS
+
+plTEAM WOMBATS Avatar
 
 ptTEAM WOMBATS Avatar
 
@@ -35211,25 +35207,29 @@ $
 
 frAvatar de TEAM WOMBATS
 
+ukАватар TEAM WOMBATS
+$
+jaアバター「TEAM WOMBATS」
+
 ruАватар TEAM WOMBATS.png
 �
 avatar_top2_legendary_anim_62d�
 "
 enTop-2 Rating Animated Avatar
 "
-plTop-2 Rating Animated Avatar
-"
 zhTop-2 Rating Animated Avatar
-K
-jaEアニメーション付きアバター「レーティング Top-2」
-E
-uk?Анімований аватар «Топ-2 рейтингу»
+"
+plTop-2 Rating Animated Avatar
 "
 ptTop-2 Rating Animated Avatar
 "
 esTop-2 Rating Animated Avatar
 %
 frAvatar animé Top 2 des cotées
+E
+uk?Анімований аватар «Топ-2 рейтингу»
+K
+jaEアニメーション付きアバター「レーティング Top-2」
 K
 ruEАнимированный аватар «Топ-2 рейтинга».webp
 �
@@ -35237,19 +35237,19 @@ K
 
 enHigh Score Avatar
 
-plHigh Score Avatar
-
 zhHigh Score Avatar
-+
-ja%アバター「目指せ新記録!」
-2
-uk,Аватар «Поб'ємо рекорд?»
+
+plHigh Score Avatar
 
 ptHigh Score Avatar
 
 esHigh Score Avatar
 
 frAvatar High Score
+2
+uk,Аватар «Поб'ємо рекорд?»
++
+ja%アバター「目指せ新記録!」
 1
 ru+Аватар «Побьём рекорд?».webp
 �
@@ -35257,19 +35257,19 @@ K
 
 enRevenant Fan Avatar
 
-plRevenant Fan Avatar
-
 zhRevenant Fan Avatar
-+
-ja%アバター「Vengeance ファン」
-8
-uk2Аватар «Вболівальник Revenant»
+
+plRevenant Fan Avatar
 
 ptRevenant Fan Avatar
 
 esRevenant Fan Avatar
 &
 fr Avatar du passionné de Revenant
+8
+uk2Аватар «Вболівальник Revenant»
++
+ja%アバター「Vengeance ファン」
 2
 ru,Аватар «Болельщик Revenant».webp
 �
@@ -35277,19 +35277,19 @@ K
 
 enMedal Count Avatar
 
-plMedal Count Avatar
-
 zhMedal Count Avatar
-*
-ja$アバター「勝利のメダル」
-4
-uk.Аватар «Медальний залік»
+
+plMedal Count Avatar
 
 ptMedal Count Avatar
 
 esMedal Count Avatar
 &
 fr Avatar du Compteur de médailles
+4
+uk.Аватар «Медальний залік»
+*
+ja$アバター「勝利のメダル」
 4
 ru.Аватар «Медальный зачёт».webp
 �
@@ -35297,13 +35297,9 @@ K
 
 enMedal Count Avatar
 
-plMedal Count Avatar
-
 zhMedal Count Avatar
-*
-ja$アバター「勝利のメダル」
-4
-uk.Аватар «Медальний залік»
+
+plMedal Count Avatar
 
 ptMedal Count Avatar
 
@@ -35311,25 +35307,29 @@ K
 &
 fr Avatar du Compteur de médailles
 4
+uk.Аватар «Медальний залік»
+*
+ja$アバター「勝利のメダル」
+4
 ru.Аватар «Медальный зачёт».webp
 �
 avatar_cy_77_legendary�
 
 enModified Lightning Avatar
 
-plModified Lightning Avatar
-
 zhModified Lightning Avatar
-'
-ja!アバター「改造型稲妻」
-B
-uk<Аватар «Модифікована блискавка»
+
+plModified Lightning Avatar
 
 ptModified Lightning Avatar
 
 esModified Lightning Avatar
 "
 frAvatar de l'éclair modifié
+B
+uk<Аватар «Модифікована блискавка»
+'
+ja!アバター「改造型稲妻」
 D
 ru>Аватар «Модифицированная молния».png
 �
@@ -35337,19 +35337,19 @@ D
 
 enHigh Score Avatar
 
-plHigh Score Avatar
-
 zhHigh Score Avatar
-+
-ja%アバター「目指せ新記録!」
-2
-uk,Аватар «Поб'ємо рекорд?»
+
+plHigh Score Avatar
 
 ptHigh Score Avatar
 
 esHigh Score Avatar
 
 frAvatar High Score
+2
+uk,Аватар «Поб'ємо рекорд?»
++
+ja%アバター「目指せ新記録!」
 1
 ru+Аватар «Побьём рекорд?».webp
 �
@@ -35357,13 +35357,9 @@ D
 
 enEye of Wisdom Avatar
 
-plEye of Wisdom Avatar
-
 zhEye of Wisdom Avatar
-$
-jaアバター「知恵の目」
-,
-uk&Аватар «Око мудреця»
+
+plEye of Wisdom Avatar
 
 ptEye of Wisdom Avatar
 
@@ -35371,25 +35367,29 @@ $
 $
 frAvatar de l'œil de la sagesse
 ,
+uk&Аватар «Око мудреця»
+$
+jaアバター「知恵の目」
+,
 ru&Аватар «Око мудреца».png
 �
 avatar_wows_collab�
 
 enLand & Sea Avatar
 
-plLand & Sea Avatar
-
 zhLand & Sea Avatar
-$
-jaアバター「陸海共闘」
-+
-uk%Аватар «Суша й море»
+
+plLand & Sea Avatar
 
 ptLand & Sea Avatar
 
 esLand & Sea Avatar
 
 frAvatar Terre et mer
++
+uk%Аватар «Суша й море»
+$
+jaアバター「陸海共闘」
 
 ruАватар Land & Sea.webp
 �
@@ -35397,19 +35397,19 @@ $
 
 enHigh Score Avatar
 
-plHigh Score Avatar
-
 zhHigh Score Avatar
-+
-ja%アバター「目指せ新記録!」
-2
-uk,Аватар «Поб'ємо рекорд?»
+
+plHigh Score Avatar
 
 ptHigh Score Avatar
 
 esHigh Score Avatar
 
 frAvatar High Score
+2
+uk,Аватар «Поб'ємо рекорд?»
++
+ja%アバター「目指せ新記録!」
 1
 ru+Аватар «Побьём рекорд?».webp
 �
@@ -35417,19 +35417,19 @@ $
 
 enTEAM ID Fan Avatar
 
-plTEAM ID Fan Avatar
-
 zhTEAM ID Fan Avatar
-)
-ja#アバター「TEAM ID ファン」
-7
-uk1Аватар «Вболівальник TEAM ID»
+
+plTEAM ID Fan Avatar
 
 ptTEAM ID Fan Avatar
 
 esTEAM ID Fan Avatar
 %
 frAvatar du passionné de TEAM ID
+7
+uk1Аватар «Вболівальник TEAM ID»
+)
+ja#アバター「TEAM ID ファン」
 1
 ru+Аватар «Болельщик TEAM ID».webp
 �
@@ -35437,19 +35437,19 @@ $
 
 enHigh Score Avatar
 
-plHigh Score Avatar
-
 zhHigh Score Avatar
-+
-ja%アバター「目指せ新記録!」
-2
-uk,Аватар «Поб'ємо рекорд?»
+
+plHigh Score Avatar
 
 ptHigh Score Avatar
 
 esHigh Score Avatar
 
 frAvatar High Score
+2
+uk,Аватар «Поб'ємо рекорд?»
++
+ja%アバター「目指せ新記録!」
 1
 ru+Аватар «Побьём рекорд?».webp
 �
@@ -35457,19 +35457,19 @@ $
 
 enHigh Score Avatar
 
-plHigh Score Avatar
-
 zhHigh Score Avatar
-+
-ja%アバター「目指せ新記録!」
-2
-uk,Аватар «Поб'ємо рекорд?»
+
+plHigh Score Avatar
 
 ptHigh Score Avatar
 
 esHigh Score Avatar
 
 frAvatar High Score
+2
+uk,Аватар «Поб'ємо рекорд?»
++
+ja%アバター「目指せ新記録!」
 1
 ru+Аватар «Побьём рекорд?».webp
 �
@@ -35477,19 +35477,19 @@ $
 
 enWill of Steel Avatar
 
-plWill of Steel Avatar
-
 zhWill of Steel Avatar
-$
-jaアバター「鋼の意志」
-.
-uk(Аватар «Залізна воля»
+
+plWill of Steel Avatar
 
 ptWill of Steel Avatar
 
 esWill of Steel Avatar
 
 frAvatar Volonté d'acier
+.
+uk(Аватар «Залізна воля»
+$
+jaアバター「鋼の意志」
 0
 ru*Аватар «Железная воля».png
 �
@@ -35497,19 +35497,19 @@ $
 
 enNew Year Mood Avatar
 
-plNew Year Mood Avatar
-
 zhNew Year Mood Avatar
-'
-ja!アバター「シャンパン」
-:
-uk4Аватар «Новорічний настрій»
+
+plNew Year Mood Avatar
 
 ptNew Year Mood Avatar
 
 esNew Year Mood Avatar
 $
 frAvatar d'ambiance du Nouvel An
+:
+uk4Аватар «Новорічний настрій»
+'
+ja!アバター「シャンパン」
 @
 ru:Аватар «Новогоднее настроение».png
 �
@@ -35517,13 +35517,9 @@ $
 
 enSoul Conductor Avatar
 
-plSoul Conductor Avatar
-
 zhSoul Conductor Avatar
-*
-ja$アバター「幽魂の送り人」
-0
-uk*Аватар «Провідник душ»
+
+plSoul Conductor Avatar
 
 ptSoul Conductor Avatar
 
@@ -35531,25 +35527,29 @@ $
 !
 frAvatar Conducteur des âmes
 0
+uk*Аватар «Провідник душ»
+*
+ja$アバター「幽魂の送り人」
+0
 ru*Аватар «Проводник душ».webp
 �
 avatar_progressive_bp_17_paid_8�
 
 enFlare Gun Avatar
 
-plFlare Gun Avatar
-
 zhFlare Gun Avatar
-$
-jaアバター「信号拳銃」
-*
-uk$Аватар «Ракетниця».
+
+plFlare Gun Avatar
 
 ptFlare Gun Avatar
 
 esFlare Gun Avatar
  
 frAvatar Fusée de détresse
+*
+uk$Аватар «Ракетниця».
+$
+jaアバター「信号拳銃」
 )
 ru#Аватар «Ракетница».webp
 �
@@ -35557,13 +35557,9 @@ $
 
 enChurchill W Avatar
 
-plChurchill W Avatar
-
 zhChurchill W Avatar
-#
-jaアバター「Churchill W」
-
-ukАватар Churchill W
+
+plChurchill W Avatar
 
 ptChurchill W Avatar
 
@@ -35571,19 +35567,19 @@ $
 
 frAvatar du Churchill W
 
+ukАватар Churchill W
+#
+jaアバター「Churchill W」
+
 ruАватар Churchill W.webp
 �
 avatar_progressive_bp_55_free_4�
 
 enParabox Avatar
 
-plParabox Avatar
-
 zhParabox Avatar
-*
-ja$アバター「パラボックス」
-'
-uk!Аватар «Парабокс»
+
+plParabox Avatar
 
 ptParabox Avatar
 
@@ -35591,25 +35587,29 @@ $
 
 frAvatar Parabox
 '
+uk!Аватар «Парабокс»
+*
+ja$アバター「パラボックス」
+'
 ru!Аватар «Парабокс».webp
 �
 avatar_joke2019_common_168h�
 
 enHeroic Kangaroo Avatar
 
-plHeroic Kangaroo Avatar
-
 zhHeroic Kangaroo Avatar
-0
-ja*アバター「英雄的カンガルー」
-B
-uk<Аватар «Австралійський стрибок»
+
+plHeroic Kangaroo Avatar
 
 ptHeroic Kangaroo Avatar
 
 esHeroic Kangaroo Avatar
 $
 frAvatar du kangourou héroïque
+B
+uk<Аватар «Австралійський стрибок»
+0
+ja*アバター「英雄的カンガルー」
 >
 ru8Аватар «Австралийский прыжок».png
 �
@@ -35617,13 +35617,9 @@ $avatar_progressive_bp_37_ruby_free_2�
 2
 en,Аватар «Куст хрюкающий»
 2
-pl,Аватар «Куст хрюкающий»
-2
 zh,Аватар «Куст хрюкающий»
 2
-ja,Аватар «Куст хрюкающий»
-2
-uk,Аватар «Куст хрюкающий»
+pl,Аватар «Куст хрюкающий»
 2
 pt,Аватар «Куст хрюкающий»
 2
@@ -35631,25 +35627,29 @@ $avatar_progressive_bp_37_ruby_free_2�
 2
 fr,Аватар «Куст хрюкающий»
 2
+uk,Аватар «Куст хрюкающий»
+2
+ja,Аватар «Куст хрюкающий»
+2
 ru,Аватар «Куст хрюкающий».webp
 �
 avatar_progressive_bp_49_free_1�
 
 en"Hit the Target!" Avatar
 
-pl"Hit the Target!" Avatar
-
 zh"Hit the Target!" Avatar
-1
-ja+アバター「ターゲットを撃て!」
-.
-uk(Аватар «Прямо в ціль!»
+
+pl"Hit the Target!" Avatar
 
 pt"Hit the Target!" Avatar
 
 es"Hit the Target!" Avatar
  
 frAvatar Toucher la cible !
+.
+uk(Аватар «Прямо в ціль!»
+1
+ja+アバター「ターゲットを撃て!」
 0
 ru*Аватар «Попади в цель!».webp
 �
@@ -35657,19 +35657,19 @@ $avatar_progressive_bp_37_ruby_free_2�
 
 enFlare Gun Avatar
 
-plFlare Gun Avatar
-
 zhFlare Gun Avatar
-$
-jaアバター「信号拳銃」
-*
-uk$Аватар «Ракетниця».
+
+plFlare Gun Avatar
 
 ptFlare Gun Avatar
 
 esFlare Gun Avatar
  
 frAvatar Fusée de détresse
+*
+uk$Аватар «Ракетниця».
+$
+jaアバター「信号拳銃」
 )
 ru#Аватар «Ракетница».webp
 �
@@ -35677,19 +35677,19 @@ $
 
 en"Hit the Target!" Avatar
 
-pl"Hit the Target!" Avatar
-
 zh"Hit the Target!" Avatar
-1
-ja+アバター「ターゲットを撃て!」
-.
-uk(Аватар «Прямо в ціль!»
+
+pl"Hit the Target!" Avatar
 
 pt"Hit the Target!" Avatar
 
 es"Hit the Target!" Avatar
  
 frAvatar Toucher la cible !
+.
+uk(Аватар «Прямо в ціль!»
+1
+ja+アバター「ターゲットを撃て!」
 0
 ru*Аватар «Попади в цель!».webp
 �
@@ -35697,19 +35697,19 @@ $
 
 en"Hit the Target!" Avatar
 
-pl"Hit the Target!" Avatar
-
 zh"Hit the Target!" Avatar
-1
-ja+アバター「ターゲットを撃て!」
-.
-uk(Аватар «Прямо в ціль!»
+
+pl"Hit the Target!" Avatar
 
 pt"Hit the Target!" Avatar
 
 es"Hit the Target!" Avatar
  
 frAvatar Toucher la cible !
+.
+uk(Аватар «Прямо в ціль!»
+1
+ja+アバター「ターゲットを撃て!」
 0
 ru*Аватар «Попади в цель!».webp
 �
@@ -35717,19 +35717,19 @@ $
 
 enFlare Gun Avatar
 
-plFlare Gun Avatar
-
 zhFlare Gun Avatar
-$
-jaアバター「信号拳銃」
-*
-uk$Аватар «Ракетниця».
+
+plFlare Gun Avatar
 
 ptFlare Gun Avatar
 
 esFlare Gun Avatar
  
 frAvatar Fusée de détresse
+*
+uk$Аватар «Ракетниця».
+$
+jaアバター「信号拳銃」
 )
 ru#Аватар «Ракетница».webp
 �
@@ -35739,16 +35739,10 @@ $
 enTEST
 
 
-plTEST
-
-
 zhTEST
 
 
-jaTEST
-
-
-ukTEST
+plTEST
 
 
 ptTEST
@@ -35760,25 +35754,31 @@ $
 frTEST
 
 
+ukTEST
+
+
+jaTEST
+
+
 ruTEST.webp
 �
 avatar_NA_Leverage2023_rare_31d�
 
 enLeverage Fan Avatar
 
-plLeverage Fan Avatar
-
 zhLeverage Fan Avatar
-*
-ja$アバター「Leverage ファン」
-8
-uk2Аватар «Вболівальник Leverage»
+
+plLeverage Fan Avatar
 
 ptLeverage Fan Avatar
 
 esLeverage Fan Avatar
 &
 fr Avatar du passionné de Leverage
+8
+uk2Аватар «Вболівальник Leverage»
+*
+ja$アバター「Leverage ファン」
 2
 ru,Аватар «Болельщик Leverage».webp
 �
@@ -35786,19 +35786,19 @@ $
 
 enHearthlight Avatar
 
-plHearthlight Avatar
-
 zhHearthlight Avatar
-*
-ja$アバター「ハースライト」
-2
-uk,Аватар «Світло вогнища»
+
+plHearthlight Avatar
 
 ptHearthlight Avatar
 
 esHearthlight Avatar
 
 frAvatar Au coin du feu
+2
+uk,Аватар «Світло вогнища»
+*
+ja$アバター「ハースライト」
 %
 ruАватар «Вьюжный».webp
 �
@@ -35806,19 +35806,19 @@ $
 
 enDark Magic Avatar
 
-plDark Magic Avatar
-
 zhDark Magic Avatar
-$
-jaアバター「闇の魔術」
-,
-uk&Аватар «Темна магія»
+
+plDark Magic Avatar
 
 ptDark Magic Avatar
 
 esDark Magic Avatar
 
 frAvatar Magie noire
+,
+uk&Аватар «Темна магія»
+$
+jaアバター「闇の魔術」
 .
 ru(Аватар «Тёмная магия».webp
 �
@@ -35826,13 +35826,9 @@ $
 
 enSuperpower Avatar
 
-plSuperpower Avatar
-
 zhSuperpower Avatar
--
-ja'アバター「スーパーパワー」
-)
-uk#Аватар «Суперсила»
+
+plSuperpower Avatar
 
 ptSuperpower Avatar
 
@@ -35840,25 +35836,29 @@ $
 
 frAvatar Superpuissance
 )
+uk#Аватар «Суперсила»
+-
+ja'アバター「スーパーパワー」
+)
 ru#Аватар «Суперсила».webp
 �
 avatar_anno_2024_legendary�
 
 enSpectacular Avatar
 
-plSpectacular Avatar
-
 zhSpectacular Avatar
-3
-ja-アバター「ドラマチックな光彩」
-,
-uk&Аватар «Неймовірно!»
+
+plSpectacular Avatar
 
 ptSpectacular Avatar
 
 esSpectacular Avatar
 
 frAvatar spectaculaire
+,
+uk&Аватар «Неймовірно!»
+3
+ja-アバター「ドラマチックな光彩」
 1
 ru+Аватар «Блистательный».webp
 �
@@ -35866,19 +35866,19 @@ $
 #
 enCrystal Heart Animated Avatar
 #
-plCrystal Heart Animated Avatar
-#
 zhCrystal Heart Animated Avatar
-N
-jaHアニメーション付きアバター「ハートのクリスタル」
-K
-ukEАнімований аватар «Кришталеве серце»
+#
+plCrystal Heart Animated Avatar
 #
 ptCrystal Heart Animated Avatar
 #
 esCrystal Heart Animated Avatar
 '
 fr!Avatar animé du Cœur de cristal
+K
+ukEАнімований аватар «Кришталеве серце»
+N
+jaHアニメーション付きアバター「ハートのクリスタル」
 U
 ruOАнимированный аватар «Хрустальное сердце».webp
 �
@@ -35886,19 +35886,19 @@ U
 
 enLet's Play Avatar
 
-plLet's Play Avatar
-
 zhLet's Play Avatar
-"
-jaアバター「Let's Play」
-(
-uk"Аватар «Зіграємо?»
+
+plLet's Play Avatar
 
 ptLet's Play Avatar
 
 esLet's Play Avatar
 
 frAvatar Jouons
+(
+uk"Аватар «Зіграємо?»
+"
+jaアバター「Let's Play」
 &
 ru Аватар «Сыграем?».webp
 �
@@ -35906,19 +35906,19 @@ U
 
 enFluffy Predator Avatar
 
-plFluffy Predator Avatar
-
 zhFluffy Predator Avatar
-'
-ja!アバター「フワフワ獣」
-A
-uk;Аватар «Пушистий і небезпечний»
+
+plFluffy Predator Avatar
 
 ptFluffy Predator Avatar
 
 esFluffy Predator Avatar
 $
 frAvatar de prédateur tout doux
+A
+uk;Аватар «Пушистий і небезпечний»
+'
+ja!アバター「フワフワ獣」
 3
 ru-Аватар «Пушист и опасен».png
 �
@@ -35926,19 +35926,19 @@ $
 
 enFlare Gun Avatar
 
-plFlare Gun Avatar
-
 zhFlare Gun Avatar
-$
-jaアバター「信号拳銃」
-*
-uk$Аватар «Ракетниця».
+
+plFlare Gun Avatar
 
 ptFlare Gun Avatar
 
 esFlare Gun Avatar
  
 frAvatar Fusée de détresse
+*
+uk$Аватар «Ракетниця».
+$
+jaアバター「信号拳銃」
 )
 ru#Аватар «Ракетница».webp
 �
@@ -35946,19 +35946,19 @@ $
 
 enFlare Gun Avatar
 
-plFlare Gun Avatar
-
 zhFlare Gun Avatar
-$
-jaアバター「信号拳銃」
-*
-uk$Аватар «Ракетниця».
+
+plFlare Gun Avatar
 
 ptFlare Gun Avatar
 
 esFlare Gun Avatar
  
 frAvatar Fusée de détresse
+*
+uk$Аватар «Ракетниця».
+$
+jaアバター「信号拳銃」
 )
 ru#Аватар «Ракетница».webp
 �
@@ -35966,19 +35966,19 @@ $
 
 enFlare Gun Avatar
 
-plFlare Gun Avatar
-
 zhFlare Gun Avatar
-$
-jaアバター「信号拳銃」
-*
-uk$Аватар «Ракетниця».
+
+plFlare Gun Avatar
 
 ptFlare Gun Avatar
 
 esFlare Gun Avatar
  
 frAvatar Fusée de détresse
+*
+uk$Аватар «Ракетниця».
+$
+jaアバター「信号拳銃」
 )
 ru#Аватар «Ракетница».webp
 �
@@ -35986,19 +35986,19 @@ $
 #
 enSong of Four Guardians Avatar
 #
-plSong of Four Guardians Avatar
-#
 zhSong of Four Guardians Avatar
-$
-jaアバター「神獣四歌」
-H
-ukBАватар «Пісня про чотирьох стражів»
+#
+plSong of Four Guardians Avatar
 #
 ptSong of Four Guardians Avatar
 #
 esSong of Four Guardians Avatar
 &
 fr Avatar Chant des quatre gardiens
+H
+ukBАватар «Пісня про чотирьох стражів»
+$
+jaアバター「神獣四歌」
 B
 ru<Аватар «Песнь о четырёх стражах».webp
 �
@@ -36006,19 +36006,19 @@ B
 
 enVictorious Avatar
 
-plVictorious Avatar
-
 zhVictorious Avatar
-!
-jaアバター「勝利者」
-+
-uk%Аватар «Переможець»
+
+plVictorious Avatar
 
 ptVictorious Avatar
 
 esVictorious Avatar
 
 frAvatar victorieux
++
+uk%Аватар «Переможець»
+!
+jaアバター「勝利者」
 +
 ru%Аватар «Победитель».png
 �
@@ -36026,19 +36026,19 @@ B
 
 enFlare Gun Avatar
 
-plFlare Gun Avatar
-
 zhFlare Gun Avatar
-$
-jaアバター「信号拳銃」
-*
-uk$Аватар «Ракетниця».
+
+plFlare Gun Avatar
 
 ptFlare Gun Avatar
 
 esFlare Gun Avatar
  
 frAvatar Fusée de détresse
+*
+uk$Аватар «Ракетниця».
+$
+jaアバター「信号拳銃」
 )
 ru#Аватар «Ракетница».webp
 �
@@ -36046,19 +36046,19 @@ $
 #
 enSong of Four Guardians Avatar
 #
-plSong of Four Guardians Avatar
-#
 zhSong of Four Guardians Avatar
-$
-jaアバター「神獣四歌」
-H
-ukBАватар «Пісня про чотирьох стражів»
+#
+plSong of Four Guardians Avatar
 #
 ptSong of Four Guardians Avatar
 #
 esSong of Four Guardians Avatar
 &
 fr Avatar Chant des quatre gardiens
+H
+ukBАватар «Пісня про чотирьох стражів»
+$
+jaアバター「神獣四歌」
 B
 ru<Аватар «Песнь о четырёх стражах».webp
 �
@@ -36066,13 +36066,9 @@ B
 
 enVictorious Avatar
 
-plVictorious Avatar
-
 zhVictorious Avatar
-!
-jaアバター「勝利者」
-+
-uk%Аватар «Переможець»
+
+plVictorious Avatar
 
 ptVictorious Avatar
 
@@ -36080,19 +36076,19 @@ B
 
 frAvatar victorieux
 +
+uk%Аватар «Переможець»
+!
+jaアバター「勝利者」
++
 ru%Аватар «Победитель».png
 �
 )avatar_progressive_rb_platinum_eu_wins_10�
 
 enPlatinum Victor Avatar
 
-plPlatinum Victor Avatar
-
 zhPlatinum Victor Avatar
--
-ja'アバター「プラチナの勝者」
-@
-uk:Аватар «Платиновий переможець»
+
+plPlatinum Victor Avatar
 
 ptPlatinum Victor Avatar
 
@@ -36100,25 +36096,29 @@ B
 !
 frAvatar Vainqueur de platine
 @
+uk:Аватар «Платиновий переможець»
+-
+ja'アバター「プラチナの勝者」
+@
 ru:Аватар «Платиновый победитель».webp
 �
 avatar_progressive_bp_14_paid_3�
 
 enMaximum Overload Avatar
 
-plMaximum Overload Avatar
-
 zhMaximum Overload Avatar
-?
-ja9アバター「マキシマム・オーバーロード」
-C
-uk=Аватар «Максимально заряджений!»
+
+plMaximum Overload Avatar
 
 ptMaximum Overload Avatar
 
 esMaximum Overload Avatar
  
 frAvatar Surcharge maximale
+C
+uk=Аватар «Максимально заряджений!»
+?
+ja9アバター「マキシマム・オーバーロード」
 =
 ru7Аватар «Максимально заряжен!».webp
 �
@@ -36126,19 +36126,19 @@ C
 
 enMaximum Overload Avatar
 
-plMaximum Overload Avatar
-
 zhMaximum Overload Avatar
-?
-ja9アバター「マキシマム・オーバーロード」
-C
-uk=Аватар «Максимально заряджений!»
+
+plMaximum Overload Avatar
 
 ptMaximum Overload Avatar
 
 esMaximum Overload Avatar
  
 frAvatar Surcharge maximale
+C
+uk=Аватар «Максимально заряджений!»
+?
+ja9アバター「マキシマム・オーバーロード」
 =
 ru7Аватар «Максимально заряжен!».webp
 �
@@ -36146,13 +36146,9 @@ C
  
 enEvolution of Energy Avatar
  
-plEvolution of Energy Avatar
- 
 zhEvolution of Energy Avatar
-9
-ja3アバター「進化を遂げるエネルギー」
-6
-uk0Аватар «Еволюція енергії»
+ 
+plEvolution of Energy Avatar
  
 ptEvolution of Energy Avatar
  
@@ -36160,25 +36156,29 @@ C
 %
 frAvatar Évolution de l'énergie
 6
+uk0Аватар «Еволюція енергії»
+9
+ja3アバター「進化を遂げるエネルギー」
+6
 ru0Аватар «Эволюция энергии».webp
 �
 avatar_coconut_legendary_anim�
 $
 enTropical Drink Animated Avatar
 $
-plTropical Drink Animated Avatar
-$
 zhTropical Drink Animated Avatar
-Q
-jaKアニメーション付きアバター「トロピカル・ドリンク」
-O
-ukIАнімований аватар «Тропічний коктейль»
+$
+plTropical Drink Animated Avatar
 $
 ptTropical Drink Animated Avatar
 $
 esTropical Drink Animated Avatar
 %
 frAvatar animé Boisson tropicale
+O
+ukIАнімований аватар «Тропічний коктейль»
+Q
+jaKアニメーション付きアバター「トロピカル・ドリンク」
 Y
 ruSАнимированный аватар «Тропический коктейль».webp
 �
@@ -36186,13 +36186,9 @@ Y
 2
 en,storage/Items/avatar_animated_newbiebp/Title
 2
-pl,storage/Items/avatar_animated_newbiebp/Title
-2
 zh,storage/Items/avatar_animated_newbiebp/Title
 2
-ja,storage/Items/avatar_animated_newbiebp/Title
-2
-uk,storage/Items/avatar_animated_newbiebp/Title
+pl,storage/Items/avatar_animated_newbiebp/Title
 2
 pt,storage/Items/avatar_animated_newbiebp/Title
 2
@@ -36200,25 +36196,29 @@ Y
 2
 fr,storage/Items/avatar_animated_newbiebp/Title
 2
+uk,storage/Items/avatar_animated_newbiebp/Title
+2
+ja,storage/Items/avatar_animated_newbiebp/Title
+2
 ru,storage/Items/avatar_animated_newbiebp/Title.webp
 �
 avatar_progressive_bp_68_paid_2�
 
 enChampion of Antrim Avatar
 
-plChampion of Antrim Avatar
-
 zhChampion of Antrim Avatar
-0
-ja*アバター「アントリムの王者」
-4
-uk.Аватар «Чемпіон Антріма»
+
+plChampion of Antrim Avatar
 
 ptChampion of Antrim Avatar
 
 esChampion of Antrim Avatar
 
 frAvatar Champion d'Antrim
+4
+uk.Аватар «Чемпіон Антріма»
+0
+ja*アバター「アントリムの王者」
 4
 ru.Аватар «Чемпион Антрима».webp
 �
@@ -36226,13 +36226,9 @@ Y
 
 enRote Nova Avatar
 
-plRote Nova Avatar
-
 zhRote Nova Avatar
-!
-jaアバター「Rote Nova」
-
-ukАватар Rote Nova
+
+plRote Nova Avatar
 
 ptRote Nova Avatar
 
@@ -36240,25 +36236,29 @@ Y
 
 frAvatar de Rote Nova
 
+ukАватар Rote Nova
+!
+jaアバター「Rote Nova」
+
 ruАватар Rote Nova.webp
 �
 avatar_progressive_bp_68_paid_6�
 
 enChampion of Antrim Avatar
 
-plChampion of Antrim Avatar
-
 zhChampion of Antrim Avatar
-0
-ja*アバター「アントリムの王者」
-4
-uk.Аватар «Чемпіон Антріма»
+
+plChampion of Antrim Avatar
 
 ptChampion of Antrim Avatar
 
 esChampion of Antrim Avatar
 
 frAvatar Champion d'Antrim
+4
+uk.Аватар «Чемпіон Антріма»
+0
+ja*アバター「アントリムの王者」
 4
 ru.Аватар «Чемпион Антрима».webp
 �
@@ -36266,13 +36266,9 @@ Y
 )
 en#6 Years Celebration Animated Avatar
 )
-pl#6 Years Celebration Animated Avatar
-)
 zh#6 Years Celebration Animated Avatar
 )
-ja#6 Years Celebration Animated Avatar
-)
-uk#6 Years Celebration Animated Avatar
+pl#6 Years Celebration Animated Avatar
 )
 pt#6 Years Celebration Animated Avatar
 )
@@ -36280,25 +36276,29 @@ Y
 )
 fr#6 Years Celebration Animated Avatar
 )
+uk#6 Years Celebration Animated Avatar
+)
+ja#6 Years Celebration Animated Avatar
+)
 ru#6 Years Celebration Animated Avatar.webp
 �
 !avatar_christmas_ball_ver2_common�
 !
 enChristmas Decoration Avatar
 !
-plChristmas Decoration Avatar
-!
 zhChristmas Decoration Avatar
--
-ja'アバター「クリスマス装飾」
-8
-uk2Аватар «Святкова прикраса»
+!
+plChristmas Decoration Avatar
 !
 ptChristmas Decoration Avatar
 !
 esChristmas Decoration Avatar
 $
 frAvatar de décoration de Noël
+8
+uk2Аватар «Святкова прикраса»
+-
+ja'アバター「クリスマス装飾」
 @
 ru:Аватар «Праздничное украшение».png
 �
@@ -36306,19 +36306,19 @@ $
 
 enSMAAAASHIN' Avatar
 
-plSMAAAASHIN' Avatar
-
 zhSMAAAASHIN' Avatar
-*
-ja$アバター「バッテン木槌」
-'
-uk!Аватар «Калатало»
+
+plSMAAAASHIN' Avatar
 
 ptSMAAAASHIN' Avatar
 
 esSMAAAASHIN' Avatar
 
 frAvatar du SPROUTCH
+'
+uk!Аватар «Калатало»
+*
+ja$アバター「バッテン木槌」
 )
 ru#Аватар «Колотушка».png
 �
@@ -36326,19 +36326,19 @@ $
 
 enUnlimited Avatar
 
-plUnlimited Avatar
-
 zhUnlimited Avatar
--
-ja'アバター「アンリミテッド」
-$
-ukАватар «Без меж»
+
+plUnlimited Avatar
 
 ptUnlimited Avatar
 
 esUnlimited Avatar
 
 frAvatar illimité
+$
+ukАватар «Без меж»
+-
+ja'アバター「アンリミテッド」
 *
 ru$Аватар «Без границ».webp
 �
@@ -36346,13 +36346,9 @@ $
 
 enDraugr Avatar
 
-plDraugr Avatar
-
 zhDraugr Avatar
-$
-jaアバター「ドラウグ」
-#
-ukАватар «Драугр»
+
+plDraugr Avatar
 
 ptDraugr Avatar
 
@@ -36360,25 +36356,29 @@ $
 
 frAvatar Draugr
 #
+ukАватар «Драугр»
+$
+jaアバター「ドラウグ」
+#
 ruАватар «Драугр».webp
 �
 avatar_progressive_bp_56_free_1�
 
 enOrbital Path Avatar
 
-plOrbital Path Avatar
-
 zhOrbital Path Avatar
-'
-ja!アバター「衛星の軌道」
-6
-uk0Аватар «Орбітальний шлях»
+
+plOrbital Path Avatar
 
 ptOrbital Path Avatar
 
 esOrbital Path Avatar
 
 frAvatar Voie orbitale
+6
+uk0Аватар «Орбітальний шлях»
+'
+ja!アバター「衛星の軌道」
 6
 ru0Аватар «Орбитальный путь».webp
 �
@@ -36386,13 +36386,9 @@ $
 
 enT-1000 Avatar
 
-plT-1000 Avatar
-
 zhT-1000 Avatar
-
-jaアバター「T-1000」
-
-ukАватар «Т-1000»
+
+plT-1000 Avatar
 
 ptT-1000 Avatar
 
@@ -36400,25 +36396,29 @@ $
 
 frAvatar du T-1000
 
+ukАватар «Т-1000»
+
+jaアバター「T-1000」
+
 ruАватар «Т-1000».webp
 �
 avatar_progressive_bp_56_free_3�
 
 enOrbital Path Avatar
 
-plOrbital Path Avatar
-
 zhOrbital Path Avatar
-'
-ja!アバター「衛星の軌道」
-6
-uk0Аватар «Орбітальний шлях»
+
+plOrbital Path Avatar
 
 ptOrbital Path Avatar
 
 esOrbital Path Avatar
 
 frAvatar Voie orbitale
+6
+uk0Аватар «Орбітальний шлях»
+'
+ja!アバター「衛星の軌道」
 6
 ru0Аватар «Орбитальный путь».webp
 �
@@ -36426,19 +36426,19 @@ $
 
 enTime Messenger Avatar
 
-plTime Messenger Avatar
-
 zhTime Messenger Avatar
--
-ja'アバター「未来からの使者」
-E
-uk?Аватар «Посланець із майбутнього»
+
+plTime Messenger Avatar
 
 ptTime Messenger Avatar
 
 esTime Messenger Avatar
 
 frAvatar Messager du temps
+E
+uk?Аватар «Посланець із майбутнього»
+-
+ja'アバター「未来からの使者」
 ?
 ru9Аватар «Посланник из будущего».webp
 �
@@ -36446,13 +36446,9 @@ E
 
 enBaihu's Strength Avatar
 
-plBaihu's Strength Avatar
-
 zhBaihu's Strength Avatar
-$
-jaアバター「白虎の力」
-+
-uk%Аватар «Сила Бай-Ху»
+
+plBaihu's Strength Avatar
 
 ptBaihu's Strength Avatar
 
@@ -36460,19 +36456,19 @@ $
 
 frAvatar Force de Baihu
 +
+uk%Аватар «Сила Бай-Ху»
+$
+jaアバター「白虎の力」
++
 ru%Аватар «Сила Бай-Ху».webp
 �
 avatar_progressive_bp_29_paid_2�
 
 enSarah J. Connor Avatar
 
-plSarah J. Connor Avatar
-
 zhSarah J. Connor Avatar
-*
-ja$アバター「サラ・コナー」
-,
-uk&Аватар «Сара Коннор»
+
+plSarah J. Connor Avatar
 
 ptSarah J. Connor Avatar
 
@@ -36480,25 +36476,29 @@ $
  
 frAvatar de Sarah J. Connor
 ,
+uk&Аватар «Сара Коннор»
+*
+ja$アバター「サラ・コナー」
+,
 ru&Аватар «Сара Коннор».webp
 �
 avatar_progressive_bp_56_free_2�
 
 enOrbital Path Avatar
 
-plOrbital Path Avatar
-
 zhOrbital Path Avatar
-'
-ja!アバター「衛星の軌道」
-6
-uk0Аватар «Орбітальний шлях»
+
+plOrbital Path Avatar
 
 ptOrbital Path Avatar
 
 esOrbital Path Avatar
 
 frAvatar Voie orbitale
+6
+uk0Аватар «Орбітальний шлях»
+'
+ja!アバター「衛星の軌道」
 6
 ru0Аватар «Орбитальный путь».webp
 �
@@ -36506,13 +36506,9 @@ $
 
 enJohn Connor Avatar
 
-plJohn Connor Avatar
-
 zhJohn Connor Avatar
--
-ja'アバター「ジョン・コナー」
-,
-uk&Аватар «Джон Коннор»
+
+plJohn Connor Avatar
 
 ptJohn Connor Avatar
 
@@ -36520,25 +36516,29 @@ $
 
 frAvatar de John Connor
 ,
+uk&Аватар «Джон Коннор»
+-
+ja'アバター「ジョン・コナー」
+,
 ru&Аватар «Джон Коннор».webp
 �
 avatar_year_2020�
 
 enTo New Horizons Avatar
 
-plTo New Horizons Avatar
-
 zhTo New Horizons Avatar
--
-ja'アバター「新しい地平線へ」
-0
-uk*Аватар «Новий початок»
+
+plTo New Horizons Avatar
 
 ptTo New Horizons Avatar
 
 esTo New Horizons Avatar
 &
 fr Avatar Vers de nouveaux horizons
+0
+uk*Аватар «Новий початок»
+-
+ja'アバター「新しい地平線へ」
 .
 ru(Аватар «Новое начало».png
 �
@@ -36546,13 +36546,9 @@ $avatar_progressive_bp_38_ruby_paid_1�
 <
 en6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
-pl6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
-<
 zh6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
-ja6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
-<
-uk6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+pl6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
 pt6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
@@ -36560,19 +36556,19 @@ $avatar_progressive_bp_38_ruby_paid_1�
 <
 fr6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
+uk6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+<
+ja6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+<
 ru6storage/Items/avatar_progressive_bp_38_ruby_paid/Title.webp
 �
 avatar_progressive_bp_56_free_4�
 
 enOrbital Path Avatar
 
-plOrbital Path Avatar
-
 zhOrbital Path Avatar
-'
-ja!アバター「衛星の軌道」
-6
-uk0Аватар «Орбітальний шлях»
+
+plOrbital Path Avatar
 
 ptOrbital Path Avatar
 
@@ -36580,19 +36576,19 @@ $avatar_progressive_bp_38_ruby_paid_1�
 
 frAvatar Voie orbitale
 6
+uk0Аватар «Орбітальний шлях»
+'
+ja!アバター「衛星の軌道」
+6
 ru0Аватар «Орбитальный путь».webp
 �
 avatar_progressive_bp_29_paid_5�
 
 enT-800 Avatar
 
-plT-800 Avatar
-
 zhT-800 Avatar
-
-jaアバター「T-800」
-
-ukАватар «Т-800»
+
+plT-800 Avatar
 
 ptT-800 Avatar
 
@@ -36600,25 +36596,29 @@ $avatar_progressive_bp_38_ruby_paid_1�
 
 frAvatar du T-800
 
+ukАватар «Т-800»
+
+jaアバター「T-800」
+
 ruАватар «Т-800».webp
 �
 avatar_victory2019�
 
 enV Avatar
 
-plV Avatar
-
 zhV Avatar
-
-jaアバター「V」
-
-ukАватар «V»
+
+plV Avatar
 
 ptV Avatar
 
 esV Avatar
 
 frAvatar V
+
+ukАватар «V»
+
+jaアバター「V」
 
 ruАватар V.png
 �
@@ -36626,13 +36626,9 @@ $avatar_progressive_bp_38_ruby_paid_1�
 
 enChampion of Antrim Avatar
 
-plChampion of Antrim Avatar
-
 zhChampion of Antrim Avatar
-0
-ja*アバター「アントリムの王者」
-4
-uk.Аватар «Чемпіон Антріма»
+
+plChampion of Antrim Avatar
 
 ptChampion of Antrim Avatar
 
@@ -36640,25 +36636,29 @@ $avatar_progressive_bp_38_ruby_paid_1�
 
 frAvatar Champion d'Antrim
 4
+uk.Аватар «Чемпіон Антріма»
+0
+ja*アバター「アントリムの王者」
+4
 ru.Аватар «Чемпион Антрима».webp
 �
 avatar_progressive_2025_un_3�
 
 enUnpacker Avatar
 
-plUnpacker Avatar
-
 zhUnpacker Avatar
-$
-jaアバター「開封の儀」
-/
-uk)Аватар «Розпаковувач»
+
+plUnpacker Avatar
 
 ptUnpacker Avatar
 
 esUnpacker Avatar
 
 frAvatar Déballeur
+/
+uk)Аватар «Розпаковувач»
+$
+jaアバター「開封の儀」
 +
 ru%Аватар «Распаковка».webp
 �
@@ -36666,19 +36666,19 @@ $
 
 enGolden Duck Avatar
 
-plGolden Duck Avatar
-
 zhGolden Duck Avatar
--
-ja'アバター「金ピカのアヒル」
-0
-uk*Аватар «Золоте каченя»
+
+plGolden Duck Avatar
 
 ptGolden Duck Avatar
 
 esGolden Duck Avatar
 
 frAvatar Canard doré
+0
+uk*Аватар «Золоте каченя»
+-
+ja'アバター「金ピカのアヒル」
 .
 ru(Аватар «Золотая утка».webp
 �
@@ -36686,19 +36686,19 @@ $
 
 enMedjay Commander Avatar
 
-plMedjay Commander Avatar
-
 zhMedjay Commander Avatar
-1
-ja+アバター「Medjay のキャプテン」
-.
-uk(Аватар «Командир Medjay»
+
+plMedjay Commander Avatar
 
 ptMedjay Commander Avatar
 
 esMedjay Commander Avatar
 !
 frAvatar Commandant du Medjay
+.
+uk(Аватар «Командир Medjay»
+1
+ja+アバター「Medjay のキャプテン」
 4
 ru.Аватар «Командир Меджая».webp
 �
@@ -36706,19 +36706,19 @@ $
 
 enLucky Clover Avatar
 
-plLucky Clover Avatar
-
 zhLucky Clover Avatar
-0
-ja*アバター「幸運のクローバー」
-2
-uk,Аватар «Конюшина удачі»
+
+plLucky Clover Avatar
 
 ptLucky Clover Avatar
 
 esLucky Clover Avatar
 '
 fr!Avatar Trèfle à quatre feuilles
+2
+uk,Аватар «Конюшина удачі»
+0
+ja*アバター「幸運のクローバー」
 .
 ru(Аватар «Клевер удачи».webp
 �
@@ -36726,19 +36726,19 @@ $
 
 enHardcore Fan Avatar
 
-plHardcore Fan Avatar
-
 zhHardcore Fan Avatar
-*
-ja$アバター「根強いファン」
-/
-uk)Аватар «Вболівальник»
+
+plHardcore Fan Avatar
 
 ptHardcore Fan Avatar
 
 esHardcore Fan Avatar
 )
 fr#Avatar du passionné inconditionnel
+/
+uk)Аватар «Вболівальник»
+*
+ja$アバター「根強いファン」
 )
 ru#Аватар «Болельщик».webp
 �
@@ -36746,13 +36746,9 @@ $
 
 enTeam ICFC Avatar
 
-plTeam ICFC Avatar
-
 zhTeam ICFC Avatar
-!
-jaアバター「Team ICFC」
-
-ukАватар Team ICFC
+
+plTeam ICFC Avatar
 
 ptTeam ICFC Avatar
 
@@ -36760,19 +36756,19 @@ $
 
 frAvatar de Team ICFC
 
+ukАватар Team ICFC
+!
+jaアバター「Team ICFC」
+
 ruАватар Team ICFC.webp
 �
 avatar_BlitzXCup24_EU_HAHA_leg�
 
 enGoblins Avatar
 
-plGoblins Avatar
-
 zhGoblins Avatar
-
-jaアバター「Goblins」
-
-ukАватар Goblins
+
+plGoblins Avatar
 
 ptGoblins Avatar
 
@@ -36780,25 +36776,29 @@ $
 
 frAvatar de Goblins
 
+ukАватар Goblins
+
+jaアバター「Goblins」
+
 ruАватар Goblins.webp
 �
 avatar_garland_common�
 
 enTwinkling Lights Avatar
 
-plTwinkling Lights Avatar
-
 zhTwinkling Lights Avatar
--
-ja'アバター「キラキラライト」
-:
-uk4Аватар «Мерехтливі вогники»
+
+plTwinkling Lights Avatar
 
 ptTwinkling Lights Avatar
 
 esTwinkling Lights Avatar
 '
 fr!Avatar de lumières scintillantes
+:
+uk4Аватар «Мерехтливі вогники»
+-
+ja'アバター「キラキラライト」
 8
 ru2Аватар «Мерцающие огоньки».png
 �
@@ -36806,19 +36806,19 @@ $
 
 enMighty Bear Avatar
 
-plMighty Bear Avatar
-
 zhMighty Bear Avatar
-$
-jaアバター「獰猛な熊」
-6
-uk0Аватар «Могутній ведмідь»
+
+plMighty Bear Avatar
 
 ptMighty Bear Avatar
 
 esMighty Bear Avatar
 
 frAvatar de l'ours puissant
+6
+uk0Аватар «Могутній ведмідь»
+$
+jaアバター「獰猛な熊」
 4
 ru.Аватар «Могучий медведь».png
 �
@@ -36826,19 +36826,19 @@ $
 
 enChief Watcher Avatar
 
-plChief Watcher Avatar
-
 zhChief Watcher Avatar
-6
-ja0アバター「チーフ・ウォッチャー」
-8
-uk2Аватар «Головний Дозорний»
+
+plChief Watcher Avatar
 
 ptChief Watcher Avatar
 
 esChief Watcher Avatar
 %
 frAvatar de l'Observateur en chef
+8
+uk2Аватар «Головний Дозорний»
+6
+ja0アバター「チーフ・ウォッチャー」
 6
 ru0Аватар «Главный Дозорный».webp
 �
@@ -36846,13 +36846,9 @@ $
 
 enBlazing Avatar
 
-plBlazing Avatar
-
 zhBlazing Avatar
-*
-ja$アバター「道を切り開く」
-/
-uk)Аватар «Блискавичний»
+
+plBlazing Avatar
 
 ptBlazing Avatar
 
@@ -36860,25 +36856,29 @@ $
 
 frAvatar flamboyant
 /
+uk)Аватар «Блискавичний»
+*
+ja$アバター「道を切り開く」
+/
 ru)Аватар «Молниеносный».png
 �
 avatar_progressive_bp_44_free_4�
 
 enMolière Avatar
 
-plMolière Avatar
-
 zhMolière Avatar
-'
-ja!アバター「モリエール」
-#
-ukАватар «Мольєр»
+
+plMolière Avatar
 
 ptMolière Avatar
 
 esMolière Avatar
 
 frAvatar Molière
+#
+ukАватар «Мольєр»
+'
+ja!アバター「モリエール」
 #
 ruАватар «Мольер».webp
 �
@@ -36886,13 +36886,9 @@ $
 
 enRacing Helmet Avatar
 
-plRacing Helmet Avatar
-
 zhRacing Helmet Avatar
-6
-ja0アバター「レーシングヘルメット」
-(
-uk"Аватар «На драйві»
+
+plRacing Helmet Avatar
 
 ptRacing Helmet Avatar
 
@@ -36900,25 +36896,29 @@ $
  
 frAvatar de casque de pilote
 (
+uk"Аватар «На драйві»
+6
+ja0アバター「レーシングヘルメット」
+(
 ru"Аватар «На драйве».webp
 �
 avatar_DuneWorm_legendary_anim�
 
 enSandworm Animated Avatar
 
-plSandworm Animated Avatar
-
 zhSandworm Animated Avatar
-E
-ja?アニメーション付きアバター「サンドワーム」
-G
-ukAАнімований аватар «Піщаний хробак»
+
+plSandworm Animated Avatar
 
 ptSandworm Animated Avatar
 
 esSandworm Animated Avatar
 "
 frAvatar animé Ver des sables
+G
+ukAАнімований аватар «Піщаний хробак»
+E
+ja?アニメーション付きアバター「サンドワーム」
 M
 ruGАнимированный аватар «Песчаный червь».webp
 �
@@ -36926,19 +36926,19 @@ M
 
 enSquad Essentials Avatar
 
-plSquad Essentials Avatar
-
 zhSquad Essentials Avatar
-*
-ja$アバター「部隊の必需品」
-0
-uk*Аватар «Усе необхідне»
+
+plSquad Essentials Avatar
 
 ptSquad Essentials Avatar
 
 esSquad Essentials Avatar
 
 frAvatar Besoins du groupe
+0
+uk*Аватар «Усе необхідне»
+*
+ja$アバター「部隊の必需品」
 :
 ru4Аватар «Базовое снаряжение».webp
 �
@@ -36946,19 +36946,19 @@ M
 (
 en"Fluffenträger Rug Animated Avatar
 (
-pl"Fluffenträger Rug Animated Avatar
-(
 zh"Fluffenträger Rug Animated Avatar
-W
-jaQアニメーション付きアバター「フワフワトレーガーのラグ」
-E
-uk?Анімований аватар «Килим Fluffenträger»
+(
+pl"Fluffenträger Rug Animated Avatar
 (
 pt"Fluffenträger Rug Animated Avatar
 (
 es"Fluffenträger Rug Animated Avatar
 &
 fr Avatar animé Fluffenträger Rug
+E
+uk?Анімований аватар «Килим Fluffenträger»
+W
+jaQアニメーション付きアバター「フワフワトレーガーのラグ」
 Q
 ruKАнимированный аватар «Его Ворсейшество».webp
 �
@@ -36966,19 +36966,19 @@ Q
 
 enMolière Avatar
 
-plMolière Avatar
-
 zhMolière Avatar
-'
-ja!アバター「モリエール」
-#
-ukАватар «Мольєр»
+
+plMolière Avatar
 
 ptMolière Avatar
 
 esMolière Avatar
 
 frAvatar Molière
+#
+ukАватар «Мольєр»
+'
+ja!アバター「モリエール」
 #
 ruАватар «Мольер».webp
 �
@@ -36986,19 +36986,19 @@ Q
 
 enDiamond League Avatar
 
-plDiamond League Avatar
-
 zhDiamond League Avatar
--
-ja'ダイヤモンドリーグアバター
-4
-uk.Аватар «Діамантова Ліга»
+
+plDiamond League Avatar
 
 ptDiamond League Avatar
 
 esDiamond League Avatar
 
 frAvatar de Diamond League
+4
+uk.Аватар «Діамантова Ліга»
+-
+ja'ダイヤモンドリーグアバター
 :
 ru4Аватар «Бриллиантовая Лига».png
 �
@@ -37006,19 +37006,19 @@ Q
 
 enPeak Concealment Avatar
 
-plPeak Concealment Avatar
-
 zhPeak Concealment Avatar
-*
-ja$アバター「隠蔽性の頂点」
-<
-uk6Аватар «Відмінне маскування»
+
+plPeak Concealment Avatar
 
 ptPeak Concealment Avatar
 
 esPeak Concealment Avatar
 $
 frAvatar Dissimulation de pointe
+<
+uk6Аватар «Відмінне маскування»
+*
+ja$アバター「隠蔽性の頂点」
 5
 ru/Аватар «Камуфлированный».webp
 �
@@ -37026,19 +37026,19 @@ $
 
 enMolière Avatar
 
-plMolière Avatar
-
 zhMolière Avatar
-'
-ja!アバター「モリエール」
-#
-ukАватар «Мольєр»
+
+plMolière Avatar
 
 ptMolière Avatar
 
 esMolière Avatar
 
 frAvatar Molière
+#
+ukАватар «Мольєр»
+'
+ja!アバター「モリエール」
 #
 ruАватар «Мольер».webp
 �
@@ -37046,19 +37046,19 @@ $
 
 enReign Fan Avatar
 
-plReign Fan Avatar
-
 zhReign Fan Avatar
-'
-ja!アバター「Reign ファン」
-5
-uk/Аватар «Вболівальник Reign»
+
+plReign Fan Avatar
 
 ptReign Fan Avatar
 
 esReign Fan Avatar
 #
 frAvatar du passionné de Reign
+5
+uk/Аватар «Вболівальник Reign»
+'
+ja!アバター「Reign ファン」
 /
 ru)Аватар «Болельщик Reign».webp
 �
@@ -37066,19 +37066,19 @@ $
 
 enShort Fuse Avatar
 
-plShort Fuse Avatar
-
 zhShort Fuse Avatar
-$
-jaアバター「一触即発」
-6
-uk0Аватар «Вибуховий снаряд»
+
+plShort Fuse Avatar
 
 ptShort Fuse Avatar
 
 esShort Fuse Avatar
 
 frAvatar de soupe au lait
+6
+uk0Аватар «Вибуховий снаряд»
+$
+jaアバター「一触即発」
 4
 ru.Аватар «Взрывной снаряд».png
 �
@@ -37086,19 +37086,19 @@ $
 
 enLife Goes On Avatar
 
-plLife Goes On Avatar
-
 zhLife Goes On Avatar
-$
-jaアバター「Life Goes On」
-4
-uk.Аватар «Де твій капелюх?»
+
+plLife Goes On Avatar
 
 ptLife Goes On Avatar
 
 esLife Goes On Avatar
 
 frAvatar La vie continue
+4
+uk.Аватар «Де твій капелюх?»
+$
+jaアバター「Life Goes On」
 2
 ru,Аватар «Где твоя шляпа?».webp
 �
@@ -37106,19 +37106,19 @@ $
 
 enSpacefleet Avatar
 
-plSpacefleet Avatar
-
 zhSpacefleet Avatar
-$
-jaアバター「宇宙船隊」
-3
-uk-Аватар «Космічний флот».
+
+plSpacefleet Avatar
 
 ptSpacefleet Avatar
 
 esSpacefleet Avatar
 "
 frAvatar de la flotte spatiale
+3
+uk-Аватар «Космічний флот».
+$
+jaアバター「宇宙船隊」
 6
 ru0Аватар «Космический флот».png
 �
@@ -37126,13 +37126,9 @@ $
 
 enMolière Avatar
 
-plMolière Avatar
-
 zhMolière Avatar
-'
-ja!アバター「モリエール」
-#
-ukАватар «Мольєр»
+
+plMolière Avatar
 
 ptMolière Avatar
 
@@ -37140,25 +37136,29 @@ $
 
 frAvatar Molière
 #
+ukАватар «Мольєр»
+'
+ja!アバター「モリエール」
+#
 ruАватар «Мольер».webp
 �
 avatar_progressive_bp_8_free_4�
 
 enSpacefleet Avatar
 
-plSpacefleet Avatar
-
 zhSpacefleet Avatar
-$
-jaアバター「宇宙船隊」
-3
-uk-Аватар «Космічний флот».
+
+plSpacefleet Avatar
 
 ptSpacefleet Avatar
 
 esSpacefleet Avatar
 "
 frAvatar de la flotte spatiale
+3
+uk-Аватар «Космічний флот».
+$
+jaアバター「宇宙船隊」
 6
 ru0Аватар «Космический флот».png
 �
@@ -37166,13 +37166,9 @@ $
 
 enLeprechaun's Gold Avatar
 
-plLeprechaun's Gold Avatar
-
 zhLeprechaun's Gold Avatar
-9
-ja3アバター「レプラコーンのゴールド」
-6
-uk0Аватар «Золото лепрекона»
+
+plLeprechaun's Gold Avatar
 
 ptLeprechaun's Gold Avatar
 
@@ -37180,25 +37176,29 @@ $
 
 frAvatar Or du farfadet
 6
+uk0Аватар «Золото лепрекона»
+9
+ja3アバター「レプラコーンのゴールド」
+6
 ru0Аватар «Золото лепрекона».webp
 �
 avatar_progressive_bp_8_free_1�
 
 enSpacefleet Avatar
 
-plSpacefleet Avatar
-
 zhSpacefleet Avatar
-$
-jaアバター「宇宙船隊」
-3
-uk-Аватар «Космічний флот».
+
+plSpacefleet Avatar
 
 ptSpacefleet Avatar
 
 esSpacefleet Avatar
 "
 frAvatar de la flotte spatiale
+3
+uk-Аватар «Космічний флот».
+$
+jaアバター「宇宙船隊」
 6
 ru0Аватар «Космический флот».png
 �
@@ -37206,19 +37206,19 @@ $
 %
 enCybernetic Lion Animated Avatar
 %
-plCybernetic Lion Animated Avatar
-%
 zhCybernetic Lion Animated Avatar
-H
-jaBアニメーション付きアバター「電脳世界の獅子」
-<
-uk6Анімований аватар «Кіберлев»
+%
+plCybernetic Lion Animated Avatar
 %
 ptCybernetic Lion Animated Avatar
 %
 esCybernetic Lion Animated Avatar
 &
 fr Avatar animé Lion cybernétique
+<
+uk6Анімований аватар «Кіберлев»
+H
+jaBアニメーション付きアバター「電脳世界の獅子」
 B
 ru<Анимированный аватар «Киберлев».webp
 �
@@ -37226,13 +37226,9 @@ B
 3
 en-Анимированный аватар ZOMBI
 3
-pl-Анимированный аватар ZOMBI
-3
 zh-Анимированный аватар ZOMBI
 3
-ja-Анимированный аватар ZOMBI
-3
-uk-Анимированный аватар ZOMBI
+pl-Анимированный аватар ZOMBI
 3
 pt-Анимированный аватар ZOMBI
 3
@@ -37240,25 +37236,29 @@ B
 3
 fr-Анимированный аватар ZOMBI
 3
+uk-Анимированный аватар ZOMBI
+3
+ja-Анимированный аватар ZOMBI
+3
 ru-Анимированный аватар ZOMBI.webp
 �
 avatar_progressive_bp_8_free_3�
 
 enSpacefleet Avatar
 
-plSpacefleet Avatar
-
 zhSpacefleet Avatar
-$
-jaアバター「宇宙船隊」
-3
-uk-Аватар «Космічний флот».
+
+plSpacefleet Avatar
 
 ptSpacefleet Avatar
 
 esSpacefleet Avatar
 "
 frAvatar de la flotte spatiale
+3
+uk-Аватар «Космічний флот».
+$
+jaアバター「宇宙船隊」
 6
 ru0Аватар «Космический флот».png
 �
@@ -37266,19 +37266,19 @@ $
 
 enSilver Tournament Avatar
 
-plSilver Tournament Avatar
-
 zhSilver Tournament Avatar
->
-ja8アバター「トーナメント記念: シルバー」
-8
-uk2Аватар «Турнірний Срібний»
+
+plSilver Tournament Avatar
 
 ptSilver Tournament Avatar
 
 esSilver Tournament Avatar
 
 frAvatar Tournoi d'argent
+8
+uk2Аватар «Турнірний Срібний»
+>
+ja8アバター「トーナメント記念: シルバー」
 >
 ru8Аватар «Турнирный Серебряный».webp
 �
@@ -37286,19 +37286,19 @@ $
 
 enUncharted Realms Avatar
 
-plUncharted Realms Avatar
-
 zhUncharted Realms Avatar
-*
-ja$アバター「未知なる領域」
-4
-uk.Аватар «Незвідані світи»
+
+plUncharted Realms Avatar
 
 ptUncharted Realms Avatar
 
 esUncharted Realms Avatar
 !
 frAvatar Royaumes inexplorés
+4
+uk.Аватар «Незвідані світи»
+*
+ja$アバター「未知なる領域」
 8
 ru2Аватар «Неизведанные миры».webp
 �
@@ -37306,19 +37306,19 @@ $
 
 enUncharted Realms Avatar
 
-plUncharted Realms Avatar
-
 zhUncharted Realms Avatar
-*
-ja$アバター「未知なる領域」
-4
-uk.Аватар «Незвідані світи»
+
+plUncharted Realms Avatar
 
 ptUncharted Realms Avatar
 
 esUncharted Realms Avatar
 !
 frAvatar Royaumes inexplorés
+4
+uk.Аватар «Незвідані світи»
+*
+ja$アバター「未知なる領域」
 8
 ru2Аватар «Неизведанные миры».webp
 �
@@ -37326,19 +37326,19 @@ $
 
 enSpacefleet Avatar
 
-plSpacefleet Avatar
-
 zhSpacefleet Avatar
-$
-jaアバター「宇宙船隊」
-3
-uk-Аватар «Космічний флот».
+
+plSpacefleet Avatar
 
 ptSpacefleet Avatar
 
 esSpacefleet Avatar
 "
 frAvatar de la flotte spatiale
+3
+uk-Аватар «Космічний флот».
+$
+jaアバター「宇宙船隊」
 6
 ru0Аватар «Космический флот».png
 �
@@ -37347,15 +37347,11 @@ $
 en
 Dab Avatar
 
-pl
-Dab Avatar
-
 zh
 Dab Avatar
-
-jaアバター「Dab」
-
-ukАватар Dab
+
+pl
+Dab Avatar
 
 pt
 Dab Avatar
@@ -37366,25 +37362,29 @@ Dab Avatar
 fr
 Avatar Dab
 
+ukАватар Dab
+
+jaアバター「Dab」
+
 ruАватар Dab.webp
 �
 avatar_octopus_legendary�
 
 enSea Monster Avatar
 
-plSea Monster Avatar
-
 zhSea Monster Avatar
--
-ja'アバター「海のモンスター」
-:
-uk4Аватар «Морське чудовисько»
+
+plSea Monster Avatar
 
 ptSea Monster Avatar
 
 esSea Monster Avatar
 
 frAvatar Monstre marin
+:
+uk4Аватар «Морське чудовисько»
+-
+ja'アバター「海のモンスター」
 2
 ru,Аватар «Морской монстр».webp
 �
@@ -37392,19 +37392,19 @@ Avatar Dab
 
 enCandy Cane Avatar
 
-plCandy Cane Avatar
-
 zhCandy Cane Avatar
-0
-ja*アバター「キャンディケイン」
-<
-uk6Аватар «Карамельна тростина»
+
+plCandy Cane Avatar
 
 ptCandy Cane Avatar
 
 esCandy Cane Avatar
 &
 fr Avatar de bâton de sucre d'orge
+<
+uk6Аватар «Карамельна тростина»
+0
+ja*アバター「キャンディケイン」
 :
 ru4Аватар «Карамельная трость».png
 �
@@ -37412,13 +37412,9 @@ Avatar Dab
 
 enWargamer Avatar
 
-plWargamer Avatar
-
 zhWargamer Avatar
- 
-jaアバター「Wargamer」
-)
-uk#Аватар «Варгеймер»
+
+plWargamer Avatar
 
 ptWargamer Avatar
 
@@ -37426,25 +37422,29 @@ Avatar Dab
 
 frAvatar Wargamer
 )
+uk#Аватар «Варгеймер»
+ 
+jaアバター「Wargamer」
+)
 ru#Аватар «Варгеймер».png
 �
 avatar_snowflake_ver2_common�
 
 enRoyal Snowflake Avatar
 
-plRoyal Snowflake Avatar
-
 zhRoyal Snowflake Avatar
-'
-ja!アバター「高貴な雪片」
-?
-uk9Аватар «Королівська сніжинка».
+
+plRoyal Snowflake Avatar
 
 ptRoyal Snowflake Avatar
 
 esRoyal Snowflake Avatar
 %
 frAvatar de flocon de neige royal
+?
+uk9Аватар «Королівська сніжинка».
+'
+ja!アバター「高貴な雪片」
 >
 ru8Аватар «Королевская снежинка».png
 �
@@ -37452,13 +37452,9 @@ $avatar_progressive_bp_38_ruby_paid_3�
 <
 en6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
-pl6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
-<
 zh6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
-ja6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
-<
-uk6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+pl6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
 pt6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
@@ -37466,19 +37462,19 @@ $avatar_progressive_bp_38_ruby_paid_3�
 <
 fr6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
 <
+uk6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+<
+ja6storage/Items/avatar_progressive_bp_38_ruby_paid/Title
+<
 ru6storage/Items/avatar_progressive_bp_38_ruby_paid/Title.webp
 �
 avatar_Beehive_legendary�
 
 enWild Honey Avatar
 
-plWild Honey Avatar
-
 zhWild Honey Avatar
-0
-ja*アバター「ワイルド・ハニー」
-(
-uk"Аватар «Дикий мед»
+
+plWild Honey Avatar
 
 ptWild Honey Avatar
 
@@ -37486,25 +37482,29 @@ $avatar_progressive_bp_38_ruby_paid_3�
 
 frAvatar Miel sauvage
 (
+uk"Аватар «Дикий мед»
+0
+ja*アバター「ワイルド・ハニー」
+(
 ru"Аватар «Дикий мёд».webp
 �
 avatar_july22_bear�
 
 enAfter Winter Sleep Avatar
 
-plAfter Winter Sleep Avatar
-
 zhAfter Winter Sleep Avatar
-'
-ja!アバター「冬眠の後で」
-?
-uk9Аватар «Після зимової сплячки»
+
+plAfter Winter Sleep Avatar
 
 ptAfter Winter Sleep Avatar
 
 esAfter Winter Sleep Avatar
 
 frAvatar Fin d'hibernation
+?
+uk9Аватар «Після зимової сплячки»
+'
+ja!アバター「冬眠の後で」
 ;
 ru5Аватар «После зимней спячки».webp
 �
@@ -37512,13 +37512,9 @@ $avatar_progressive_bp_38_ruby_paid_3�
 
 enGravitas Avatar
 
-plGravitas Avatar
-
 zhGravitas Avatar
- 
-jaアバター「Gravitas」
-
-ukАватар Gravitas
+
+plGravitas Avatar
 
 ptGravitas Avatar
 
@@ -37526,19 +37522,19 @@ $avatar_progressive_bp_38_ruby_paid_3�
 
 frAvatar de Gravitas
 
+ukАватар Gravitas
+ 
+jaアバター「Gravitas」
+
 ruАватар Gravitas.webp
 �
 avatar_trick_unique�
 
 enVizard of Guile Avatar
 
-plVizard of Guile Avatar
-
 zhVizard of Guile Avatar
-'
-ja!アバター「狡猾な仮面」
-0
-uk*Аватар «Маска хитруна»
+
+plVizard of Guile Avatar
 
 ptVizard of Guile Avatar
 
@@ -37546,25 +37542,29 @@ $avatar_progressive_bp_38_ruby_paid_3�
 &
 fr Avatar du masque de la fourberie
 0
+uk*Аватар «Маска хитруна»
+'
+ja!アバター「狡猾な仮面」
+0
 ru*Аватар «Маска хитреца».png
 �
 avatar_ofest_legendary_anim�
 
 enAccordion Animated Avatar
 
-plAccordion Animated Avatar
-
 zhAccordion Animated Avatar
-H
-jaBアニメーション付きアバター「アコーディオン」
-<
-uk6Анімований аватар «Акордеон»
+
+plAccordion Animated Avatar
 
 ptAccordion Animated Avatar
 
 esAccordion Animated Avatar
 
 frAvatar animé Accordéon
+<
+uk6Анімований аватар «Акордеон»
+H
+jaBアニメーション付きアバター「アコーディオン」
 D
 ru>Анимированный аватар «Аккордеон».webp
 �
@@ -37572,19 +37572,19 @@ D
 #
 enForever Alive Animated Avatar
 #
-plForever Alive Animated Avatar
-#
 zhForever Alive Animated Avatar
-T
-jaNアニメーション付きアバター「フォーエバー・アライブ」
-A
-uk;Анімований аватар «Вічне життя»
+#
+plForever Alive Animated Avatar
 #
 ptForever Alive Animated Avatar
 #
 esForever Alive Animated Avatar
 (
 fr"Avatar animé Vivant pour toujours
+A
+uk;Анімований аватар «Вічне життя»
+T
+jaNアニメーション付きアバター「フォーエバー・アライブ」
 I
 ruCАнимированный аватар «Неумирающий».webp
 �
@@ -37592,19 +37592,19 @@ I
 
 enDefending Champion Avatar
 
-plDefending Champion Avatar
-
 zhDefending Champion Avatar
--
-ja'アバター「現チャンピオン」
-2
-uk,Аватар «Діючий чемпіон»
+
+plDefending Champion Avatar
 
 ptDefending Champion Avatar
 
 esDefending Champion Avatar
 !
 frAvatar de champion en titre
+2
+uk,Аватар «Діючий чемпіон»
+-
+ja'アバター「現チャンピオン」
 <
 ru6Аватар «Действующий чемпион».webp
 �
@@ -37612,19 +37612,19 @@ I
 
 enEraser Avatar
 
-plEraser Avatar
-
 zhEraser Avatar
-
-jaアバター「抹消」
-#
-ukАватар «Стирач»
+
+plEraser Avatar
 
 ptEraser Avatar
 
 esEraser Avatar
 
 frAvatar de l'effaceur
+#
+ukАватар «Стирач»
+
+jaアバター「抹消」
 )
 ru#Аватар «Стиратель».png
 �
@@ -37632,13 +37632,9 @@ I
 
 enLeverage Avatar
 
-plLeverage Avatar
-
 zhLeverage Avatar
- 
-jaアバター「Leverage」
-
-ukАватар Leverage
+
+plLeverage Avatar
 
 ptLeverage Avatar
 
@@ -37646,25 +37642,29 @@ I
 
 frAvatar de Leverage
 
+ukАватар Leverage
+ 
+jaアバター「Leverage」
+
 ruАватар Leverage.webp
 �
 $avatar_platinum_league_unique_31d_v2�
 
 enPlatinum League Avatar
 
-plPlatinum League Avatar
-
 zhPlatinum League Avatar
-'
-ja!プラチナリーグアバター
-2
-uk,Аватар «Платинова Ліга»
+
+plPlatinum League Avatar
 
 ptPlatinum League Avatar
 
 esPlatinum League Avatar
 
 frAvatar de Platinum League
+2
+uk,Аватар «Платинова Ліга»
+'
+ja!プラチナリーグアバター
 4
 ru.Аватар «Платиновая Лига».webp
 �
@@ -37672,19 +37672,19 @@ $avatar_platinum_league_unique_31d_v2�
 
 enGas Mask Avatar
 
-plGas Mask Avatar
-
 zhGas Mask Avatar
-'
-ja!アバター「ガスマスク」
-4
-uk.Аватар «Хімічний захист»
+
+plGas Mask Avatar
 
 ptGas Mask Avatar
 
 esGas Mask Avatar
 
 frAvatar du Masque à gaz
+4
+uk.Аватар «Хімічний захист»
+'
+ja!アバター「ガスマスク」
 8
 ru2Аватар «Химическая защита».webp
 �
@@ -37692,13 +37692,9 @@ $avatar_platinum_league_unique_31d_v2�
 
 enElectric Shock Avatar
 
-plElectric Shock Avatar
-
 zhElectric Shock Avatar
-0
-ja*アバター「ビリビリショック」
-+
-uk%Аватар «Електрошок»
+
+plElectric Shock Avatar
 
 ptElectric Shock Avatar
 
@@ -37706,25 +37702,29 @@ $avatar_platinum_league_unique_31d_v2�
 
 frAvatar Choc électrique
 +
+uk%Аватар «Електрошок»
+0
+ja*アバター「ビリビリショック」
++
 ru%Аватар «Электрошок».webp
 �
 "avatar_december2023_legendary_anim�
 1
 en+"Merry Bloomin' Christmas!" Animated Avatar
 1
-pl+"Merry Bloomin' Christmas!" Animated Avatar
-1
 zh+"Merry Bloomin' Christmas!" Animated Avatar
-X
-jaRアニメーション付きアバター「笑顔咲くメリークリスマス!」
-Q
-ukKАнімований аватар «З Різдвом і все таке!»
+1
+pl+"Merry Bloomin' Christmas!" Animated Avatar
 1
 pt+"Merry Bloomin' Christmas!" Animated Avatar
 1
 es+"Merry Bloomin' Christmas!" Animated Avatar
 /
 fr)Avatar animé « Délicieux Noël ! »
+Q
+ukKАнімований аватар «З Різдвом і все таке!»
+X
+jaRアニメーション付きアバター「笑顔咲くメリークリスマス!」
 n
 ruhАнимированный аватар «Счастливого цветущего Рождества».webp
 �
@@ -37732,13 +37732,9 @@ n
 
 enKRoKoDiLiANz Avatar
 
-plKRoKoDiLiANz Avatar
-
 zhKRoKoDiLiANz Avatar
-$
-jaアバター「KRoKoDiLiANz」
-
-ukАватар KRoKoDiLiANz
+
+plKRoKoDiLiANz Avatar
 
 ptKRoKoDiLiANz Avatar
 
@@ -37746,19 +37742,19 @@ $
 
 frAvatar KRoKoDiLiANz
 
+ukАватар KRoKoDiLiANz
+$
+jaアバター「KRoKoDiLiANz」
+
 ruАватар KRoKoDiLiANz.webp
 �
 avatar_tanker_rare�
 
 enTanker Day Avatar
 
-plTanker Day Avatar
-
 zhTanker Day Avatar
-'
-ja!アバター「戦車兵の日」
-0
-uk*Аватар «День танкіста»
+
+plTanker Day Avatar
 
 ptTanker Day Avatar
 
@@ -37766,25 +37762,29 @@ $
 
 frAvatar Tanker Day
 0
+uk*Аватар «День танкіста»
+'
+ja!アバター「戦車兵の日」
+0
 ru*Аватар «День танкиста».png
 �
 avatar_ChineseDragon_legendary�
 
 enArcane Dragon Avatar
 
-plArcane Dragon Avatar
-
 zhArcane Dragon Avatar
-*
-ja$アバター「伝説の守護龍」
-.
-uk(Аватар «Володар неба»
+
+plArcane Dragon Avatar
 
 ptArcane Dragon Avatar
 
 esArcane Dragon Avatar
 
 frAvatar Dragon des arcanes
+.
+uk(Аватар «Володар неба»
+*
+ja$アバター「伝説の守護龍」
 2
 ru,Аватар «Властелин неба».webp
 �
@@ -37792,19 +37792,19 @@ $
 
 enFlame of Liberty Avatar
 
-plFlame of Liberty Avatar
-
 zhFlame of Liberty Avatar
-$
-jaアバター「自由の炎」
-3
-uk-Аватар «Полум'я свободи»
+
+plFlame of Liberty Avatar
 
 ptFlame of Liberty Avatar
 
 esFlame of Liberty Avatar
 (
 fr"Avatar de la Flamme de la Liberté
+3
+uk-Аватар «Полум'я свободи»
+$
+jaアバター「自由の炎」
 0
 ru*Аватар «Пламя свободы».png
 �
@@ -37812,13 +37812,9 @@ $
 
 en"Dab Life" Avatar
 
-pl"Dab Life" Avatar
-
 zh"Dab Life" Avatar
-$
-jaアバター「ダブ三昧」
-
-ukАватар «Деб!»
+
+pl"Dab Life" Avatar
 
 pt"Dab Life" Avatar
 
@@ -37826,25 +37822,29 @@ $
 
 frAvatar « Comme Dab »
 
+ukАватар «Деб!»
+$
+jaアバター「ダブ三昧」
+
 ruАватар «Дэб!».png
 �
 avatar_clover_4x_common_168h�
 
 enIrish Luck Avatar
 
-plIrish Luck Avatar
-
 zhIrish Luck Avatar
-3
-ja-アバター「アイルランドの幸運」
-)
-uk#Аватар «Щасливчик»
+
+plIrish Luck Avatar
 
 ptIrish Luck Avatar
 
 esIrish Luck Avatar
 (
 fr"Avatar de la chance de l'Irlandais
+)
+uk#Аватар «Щасливчик»
+3
+ja-アバター「アイルランドの幸運」
 -
 ru'Аватар «Счастливчик».png
 �
@@ -37852,13 +37852,9 @@ $
 
 enAerial Avatar
 
-plAerial Avatar
-
 zhAerial Avatar
-
-jaアバター「Aerial」
-
-ukАватар Aerial
+
+plAerial Avatar
 
 ptAerial Avatar
 
@@ -37866,19 +37862,19 @@ $
 
 frAvatar Aerial
 
+ukАватар Aerial
+
+jaアバター「Aerial」
+
 ruАватар Aerial.webp
 �
 avatar_bp_37_ruby_bundle�
 )
 en#Аватар «Мимикрист»
 )
-pl#Аватар «Мимикрист»
-)
 zh#Аватар «Мимикрист»
 )
-ja#Аватар «Мимикрист»
-)
-uk#Аватар «Мимикрист»
+pl#Аватар «Мимикрист»
 )
 pt#Аватар «Мимикрист»
 )
@@ -37886,19 +37882,19 @@ $
 )
 fr#Аватар «Мимикрист»
 )
+uk#Аватар «Мимикрист»
+)
+ja#Аватар «Мимикрист»
+)
 ru#Аватар «Мимикрист».webp
 �
 avatar_top4_10_legendary_62d�
 
 enTop Rating Avatar
 
-plTop Rating Avatar
-
 zhTop Rating Avatar
-3
-ja-アバター「レーティングトップ」
-.
-uk(Аватар «Топ рейтингу»
+
+plTop Rating Avatar
 
 ptTop Rating Avatar
 
@@ -37906,25 +37902,29 @@ $
 
 frAvatar Top des cotées
 .
+uk(Аватар «Топ рейтингу»
+3
+ja-アバター「レーティングトップ」
+.
 ru(Аватар «Топ рейтинга».webp
 �
 avatar_progressive_bp_9_paid_2�
 
 enBadge of Victory Avatar
 
-plBadge of Victory Avatar
-
 zhBadge of Victory Avatar
-*
-ja$アバター「勝利のバッジ」
-6
-uk0Аватар «Тріумф переможця»
+
+plBadge of Victory Avatar
 
 ptBadge of Victory Avatar
 
 esBadge of Victory Avatar
 #
 frAvatar Insigne de la victoire
+6
+uk0Аватар «Тріумф переможця»
+*
+ja$アバター「勝利のバッジ」
 8
 ru2Аватар «Триумф победителя».webp
 �
@@ -37932,13 +37932,9 @@ $
 
 enTitan-150 Avatar
 
-plTitan-150 Avatar
-
 zhTitan-150 Avatar
-!
-jaアバター「Titan-150」
-
-ukАватар Titan-150
+
+plTitan-150 Avatar
 
 ptTitan-150 Avatar
 
@@ -37946,25 +37942,29 @@ $
 
 frAvatar Titan-150
 
+ukАватар Titan-150
+!
+jaアバター「Titan-150」
+
 ruАватар Titan-150.webp
 �
 $avatar_leaderbord_silver_2025_unique�
 
 enSilver Tournament Avatar
 
-plSilver Tournament Avatar
-
 zhSilver Tournament Avatar
->
-ja8アバター「トーナメント記念: シルバー」
-8
-uk2Аватар «Турнірний Срібний»
+
+plSilver Tournament Avatar
 
 ptSilver Tournament Avatar
 
 esSilver Tournament Avatar
 
 frAvatar Tournoi d'argent
+8
+uk2Аватар «Турнірний Срібний»
+>
+ja8アバター「トーナメント記念: シルバー」
 >
 ru8Аватар «Турнирный Серебряный».webp
 �
@@ -37972,19 +37972,19 @@ $avatar_leaderbord_silver_2025_unique�
 
 enSpace Voyager Avatar
 
-plSpace Voyager Avatar
-
 zhSpace Voyager Avatar
--
-ja'アバター「星のさすらい人」
-?
-uk9Аватар «Космічний мандрівник».
+
+plSpace Voyager Avatar
 
 ptSpace Voyager Avatar
 
 esSpace Voyager Avatar
 $
 frAvatar du Voyageur de l'espace
+?
+uk9Аватар «Космічний мандрівник».
+-
+ja'アバター「星のさすらい人」
 >
 ru8Аватар «Космический странник».webp
 �
@@ -37992,13 +37992,9 @@ $
 
 enREIGN Avatar
 
-plREIGN Avatar
-
 zhREIGN Avatar
-
-jaアバター「REIGN」
-
-ukАватар REIGN
+
+plREIGN Avatar
 
 ptREIGN Avatar
 
@@ -38006,19 +38002,19 @@ $
 
 frAvatar de REIGN
 
+ukАватар REIGN
+
+jaアバター「REIGN」
+
 ruАватар REIGN.png
 �
 avatar_bp_28_bundle�
 
 enFrosty Avatar
 
-plFrosty Avatar
-
 zhFrosty Avatar
-
-jaアバター「Frosty」
-
-ukАватар Frosty
+
+plFrosty Avatar
 
 ptFrosty Avatar
 
@@ -38026,19 +38022,19 @@ $
 
 frAvatar du Frosty
 
+ukАватар Frosty
+
+jaアバター「Frosty」
+
 ruАватар Frosty.webp
 �
 avatar_speeder_legendary�
 
 enBlazing Avatar
 
-plBlazing Avatar
-
 zhBlazing Avatar
-*
-ja$アバター「道を切り開く」
-/
-uk)Аватар «Блискавичний»
+
+plBlazing Avatar
 
 ptBlazing Avatar
 
@@ -38046,19 +38042,19 @@ $
 
 frAvatar flamboyant
 /
+uk)Аватар «Блискавичний»
+*
+ja$アバター「道を切り開く」
+/
 ru)Аватар «Молниеносный».png
 �
 avatar_yha2024_rare_1_14d�
 &
 en 兔子的问候头像（14天）
 &
-pl 兔子的问候头像（14天）
-&
 zh 兔子的问候头像（14天）
 &
-ja 兔子的问候头像（14天）
-&
-uk 兔子的问候头像（14天）
+pl 兔子的问候头像（14天）
 &
 pt 兔子的问候头像（14天）
 &
@@ -38066,25 +38062,29 @@ $
 &
 fr 兔子的问候头像（14天）
 &
+uk 兔子的问候头像（14天）
+&
+ja 兔子的问候头像（14天）
+&
 ru 兔子的问候头像（14天）.webp
 �
 "avatar_progressive_tenvsten_wins_3�
 
 enChamp Avatar
 
-plChamp Avatar
-
 zhChamp Avatar
-$
-jaアバター「チャンプ」
-%
-ukАватар «Чемпіон»
+
+plChamp Avatar
 
 ptChamp Avatar
 
 esChamp Avatar
 
 frAvatar de Champion
+%
+ukАватар «Чемпіон»
+$
+jaアバター「チャンプ」
 
 ruАватар «Чамп».webp
 �
@@ -38092,13 +38092,9 @@ $
 
 enApathy Avatar
 
-plApathy Avatar
-
 zhApathy Avatar
-
-jaアバター「Apathy」
-
-ukАватар Apathy
+
+plApathy Avatar
 
 ptApathy Avatar
 
@@ -38106,19 +38102,19 @@ $
 
 frAvatar d'Apathy
 
+ukАватар Apathy
+
+jaアバター「Apathy」
+
 ruАватар Apathy.webp
 �
 avatar_smiley_evil_rare�
  
 en"Let's Crush This!" Avatar
  
-pl"Let's Crush This!" Avatar
- 
 zh"Let's Crush This!" Avatar
-(
-ja"アバター「ぶっ壊すぞ!」
-'
-uk!Аватар «Дам жару!»
+ 
+pl"Let's Crush This!" Avatar
  
 pt"Let's Crush This!" Avatar
  
@@ -38126,25 +38122,29 @@ $
 "
 frAvatar « Écrasons-les »
 '
+uk!Аватар «Дам жару!»
+(
+ja"アバター「ぶっ壊すぞ!」
+'
 ru!Аватар «Дам жару!».png
 �
 avatar_srr9_anim�
 
 enRed-Hot Animated Avatar
 
-plRed-Hot Animated Avatar
-
 zhRed-Hot Animated Avatar
-B
-ja<アニメーション付きアバター「赤熱の閃き」
-@
-uk:Анімований аватар «Розпечений»
+
+plRed-Hot Animated Avatar
 
 ptRed-Hot Animated Avatar
 
 esRed-Hot Animated Avatar
 %
 frAvatar animé Chauffé au rouge
+@
+uk:Анімований аватар «Розпечений»
+B
+ja<アニメーション付きアバター「赤熱の閃き」
 M
 ruGАнимированный аватар «Калёное железо».webp
 �
@@ -38152,19 +38152,19 @@ M
 
 enEye in the Sky Avatar
 
-plEye in the Sky Avatar
-
 zhEye in the Sky Avatar
-'
-ja!アバター「空からの目」
-)
-uk#Аватар «Очі в небі»
+
+plEye in the Sky Avatar
 
 ptEye in the Sky Avatar
 
 esEye in the Sky Avatar
 
 frAvatar Œil dans le ciel
+)
+uk#Аватар «Очі в небі»
+'
+ja!アバター「空からの目」
 +
 ru%Аватар «Глаз в небе».webp
 �
@@ -38172,19 +38172,19 @@ M
 
 enTropical Getaway Avatar
 
-plTropical Getaway Avatar
-
 zhTropical Getaway Avatar
-*
-ja$アバター「南国への誘い」
->
-uk8Аватар «Тропічний відпочинок»
+
+plTropical Getaway Avatar
 
 ptTropical Getaway Avatar
 
 esTropical Getaway Avatar
  
 frAvatar Excursion tropicale
+>
+uk8Аватар «Тропічний відпочинок»
+*
+ja$アバター「南国への誘い」
 >
 ru8Аватар «Тропические каникулы».webp
 �
@@ -38192,19 +38192,19 @@ M
 
 enForever Alive Avatar
 
-plForever Alive Avatar
-
 zhForever Alive Avatar
-9
-ja3アバター「フォーエバー・アライブ」
-,
-uk&Аватар «Вічне життя»
+
+plForever Alive Avatar
 
 ptForever Alive Avatar
 
 esForever Alive Avatar
 !
 frAvatar Vivant pour toujours
+,
+uk&Аватар «Вічне життя»
+9
+ja3アバター「フォーエバー・アライブ」
 .
 ru(Аватар «Неумирающий».webp
 �
@@ -38212,19 +38212,19 @@ M
 
 enPancake Destroyers Avatar
 
-plPancake Destroyers Avatar
-
 zhPancake Destroyers Avatar
-3
-ja-アバター「パンケーキの破壊者」
-G
-ukAАватар «Командир млинцевих військ»
+
+plPancake Destroyers Avatar
 
 ptPancake Destroyers Avatar
 
 esPancake Destroyers Avatar
 "
 frAvatar pancakes destructeurs
+G
+ukAАватар «Командир млинцевих військ»
+3
+ja-アバター「パンケーキの破壊者」
 A
 ru;Аватар «Командир блинных войск».webp
 �
@@ -38232,13 +38232,9 @@ A
 
 enTropical Getaway Avatar
 
-plTropical Getaway Avatar
-
 zhTropical Getaway Avatar
-*
-ja$アバター「南国への誘い」
->
-uk8Аватар «Тропічний відпочинок»
+
+plTropical Getaway Avatar
 
 ptTropical Getaway Avatar
 
@@ -38246,19 +38242,19 @@ A
  
 frAvatar Excursion tropicale
 >
+uk8Аватар «Тропічний відпочинок»
+*
+ja$アバター「南国への誘い」
+>
 ru8Аватар «Тропические каникулы».webp
 �
 avatar_wisdom_legendary�
 
 enEye of Wisdom Avatar
 
-plEye of Wisdom Avatar
-
 zhEye of Wisdom Avatar
-$
-jaアバター「知恵の目」
-,
-uk&Аватар «Око мудреця»
+
+plEye of Wisdom Avatar
 
 ptEye of Wisdom Avatar
 
@@ -38266,25 +38262,29 @@ $
 $
 frAvatar de l'œil de la sagesse
 ,
+uk&Аватар «Око мудреця»
+$
+jaアバター「知恵の目」
+,
 ru&Аватар «Око мудреца».png
 �
 $avatar_progressive_bp_33_ruby_free_3�
 6
 en0Аватар «Разбуженный маяк»
 6
-pl0Аватар «Разбуженный маяк»
-6
 zh0Аватар «Разбуженный маяк»
 6
-ja0Аватар «Разбуженный маяк»
-6
-uk0Аватар «Разбуженный маяк»
+pl0Аватар «Разбуженный маяк»
 6
 pt0Аватар «Разбуженный маяк»
 6
 es0Аватар «Разбуженный маяк»
 6
 fr0Аватар «Разбуженный маяк»
+6
+uk0Аватар «Разбуженный маяк»
+6
+ja0Аватар «Разбуженный маяк»
 :
 ru4Аватар «Поворот реальности».webp
 �
@@ -38292,19 +38292,19 @@ $avatar_progressive_bp_33_ruby_free_3�
  
 enSnow Globe Animated Avatar
  
-plSnow Globe Animated Avatar
- 
 zhSnow Globe Animated Avatar
-H
-jaBアニメーション付きアバター「スノーグローブ」
-C
-uk=Анімований аватар «Снігова куля»
+ 
+plSnow Globe Animated Avatar
  
 ptSnow Globe Animated Avatar
  
 esSnow Globe Animated Avatar
 "
 frAvatar animé Boule à neige
+C
+uk=Анімований аватар «Снігова куля»
+H
+jaBアニメーション付きアバター「スノーグローブ」
 G
 ruAАнимированный аватар «Снежный шар».webp
 �
@@ -38312,19 +38312,19 @@ G
 
 enSquad Essentials Avatar
 
-plSquad Essentials Avatar
-
 zhSquad Essentials Avatar
-*
-ja$アバター「部隊の必需品」
-0
-uk*Аватар «Усе необхідне»
+
+plSquad Essentials Avatar
 
 ptSquad Essentials Avatar
 
 esSquad Essentials Avatar
 
 frAvatar Besoins du groupe
+0
+uk*Аватар «Усе необхідне»
+*
+ja$アバター「部隊の必需品」
 :
 ru4Аватар «Базовое снаряжение».webp
 �
@@ -38332,13 +38332,9 @@ G
 
 enExcalibur Avatar
 
-plExcalibur Avatar
-
 zhExcalibur Avatar
--
-ja'アバター「エクスカリバー」
-7
-uk1Аватар «Меч короля Артура»
+
+plExcalibur Avatar
 
 ptExcalibur Avatar
 
@@ -38346,25 +38342,29 @@ G
 
 frAvatar Excalibur
 7
+uk1Аватар «Меч короля Артура»
+-
+ja'アバター「エクスカリバー」
+7
 ru1Аватар «Меч короля Артура».webp
 �
 avatar_elk_legendary_anim�
 
 enMoose Animated Avatar
 
-plMoose Animated Avatar
-
 zhMoose Animated Avatar
-?
-ja9アニメーション付きアバター「ヘラジカ」
-4
-uk.Анімований аватар «Лось»
+
+plMoose Animated Avatar
 
 ptMoose Animated Avatar
 
 esMoose Animated Avatar
 
 frAvatar animé Élan
+4
+uk.Анімований аватар «Лось»
+?
+ja9アニメーション付きアバター「ヘラジカ」
 @
 ru:Анимированный аватар «Сохатый».webp
 �
@@ -38372,19 +38372,19 @@ G
 )
 en#Mysterious Stranger Animated Avatar
 )
-pl#Mysterious Stranger Animated Avatar
-)
 zh#Mysterious Stranger Animated Avatar
-N
-jaHアニメーション付きアバター「ミステリアスな面影」
-U
-ukOАнімований аватар «Таємничий незнайомець»
+)
+pl#Mysterious Stranger Animated Avatar
 )
 pt#Mysterious Stranger Animated Avatar
 )
 es#Mysterious Stranger Animated Avatar
 )
 fr#Avatar animé Étranger mystérieux
+U
+ukOАнімований аватар «Таємничий незнайомець»
+N
+jaHアニメーション付きアバター「ミステリアスな面影」
 [
 ruUАнимированный аватар «Таинственная личность».webp
 �
@@ -38392,19 +38392,19 @@ U
 
 enBig Bang Avatar
 
-plBig Bang Avatar
-
 zhBig Bang Avatar
-'
-ja!アバター「ビッグバン」
-)
-uk#Аватар «Вибуховий»
+
+plBig Bang Avatar
 
 ptBig Bang Avatar
 
 esBig Bang Avatar
 
 frAvatar du Big Bang
+)
+uk#Аватар «Вибуховий»
+'
+ja!アバター「ビッグバン」
 '
 ru!Аватар «Взрывной».png
 �
@@ -38412,19 +38412,19 @@ U
 *
 en$Primaris Intercessor Animated Avatar
 *
-pl$Primaris Intercessor Animated Avatar
-*
 zh$Primaris Intercessor Animated Avatar
-`
-jaZアニメーション付きアバター「プライマリス・インターセッサー」
-3
-uk-Анімований аватар Intercessor
+*
+pl$Primaris Intercessor Animated Avatar
 *
 pt$Primaris Intercessor Animated Avatar
 *
 es$Primaris Intercessor Animated Avatar
 *
 fr$Avatar animé du Médiateur Primaris
+3
+uk-Анімований аватар Intercessor
+`
+jaZアニメーション付きアバター「プライマリス・インターセッサー」
 9
 ru3Анимированный аватар Intercessor.webp
 �
@@ -38432,19 +38432,19 @@ U
 
 enCritical Moment Avatar
 
-plCritical Moment Avatar
-
 zhCritical Moment Avatar
-'
-ja!アバター「決定的瞬間」
-:
-uk4Аватар «Вирішальний момент»
+
+plCritical Moment Avatar
 
 ptCritical Moment Avatar
 
 esCritical Moment Avatar
 
 frAvatar du moment critique
+:
+uk4Аватар «Вирішальний момент»
+'
+ja!アバター「決定的瞬間」
 4
 ru.Аватар «Решающий момент».png
 �
@@ -38452,13 +38452,9 @@ U
 
 enFree Wind Avatar
 
-plFree Wind Avatar
-
 zhFree Wind Avatar
-!
-jaアバター「Free Wind」
-0
-uk*Аватар «Вільний Вітер»
+
+plFree Wind Avatar
 
 ptFree Wind Avatar
 
@@ -38466,19 +38462,19 @@ U
 
 frAvatar Free Wind
 0
+uk*Аватар «Вільний Вітер»
+!
+jaアバター「Free Wind」
+0
 ru*Аватар «Вольный Ветер».webp
 �
 avatar_bb2022_world_1�
 /
 en)avatars/Items/avatar_bb2022_world_1/Title
 /
-pl)avatars/Items/avatar_bb2022_world_1/Title
-/
 zh)avatars/Items/avatar_bb2022_world_1/Title
 /
-ja)avatars/Items/avatar_bb2022_world_1/Title
-/
-uk)avatars/Items/avatar_bb2022_world_1/Title
+pl)avatars/Items/avatar_bb2022_world_1/Title
 /
 pt)avatars/Items/avatar_bb2022_world_1/Title
 /
@@ -38486,25 +38482,29 @@ U
 /
 fr)avatars/Items/avatar_bb2022_world_1/Title
 /
+uk)avatars/Items/avatar_bb2022_world_1/Title
+/
+ja)avatars/Items/avatar_bb2022_world_1/Title
+/
 ru)avatars/Items/avatar_bb2022_world_1/Title.webp
 �
 avatar_elephant_legendary�
 
 enWar Elephant Avatar
 
-plWar Elephant Avatar
-
 zhWar Elephant Avatar
-
-jaアバター「戦象」
-.
-uk(Аватар «Бойовий слон»
+
+plWar Elephant Avatar
 
 ptWar Elephant Avatar
 
 esWar Elephant Avatar
 &
 fr Avatar de l'éléphant de guerre
+.
+uk(Аватар «Бойовий слон»
+
+jaアバター「戦象」
 ,
 ru&Аватар «Боевой слон».png
 �
@@ -38512,13 +38512,9 @@ U
 
 enGold Victor Avatar
 
-plGold Victor Avatar
-
 zhGold Victor Avatar
--
-ja'アバター「ゴールドの勝者」
-:
-uk4Аватар «Золотий переможець»
+
+plGold Victor Avatar
 
 ptGold Victor Avatar
 
@@ -38526,25 +38522,29 @@ U
 
 frAvatar Vainqueur d'or
 :
+uk4Аватар «Золотий переможець»
+-
+ja'アバター「ゴールドの勝者」
+:
 ru4Аватар «Золотой победитель».webp
 �
 avatar_EU_Rejects_rare_31d�
 
 enRejects Fan Avatar
 
-plRejects Fan Avatar
-
 zhRejects Fan Avatar
-)
-ja#アバター「Rejects ファン」
-7
-uk1Аватар «Вболівальник Rejects»
+
+plRejects Fan Avatar
 
 ptRejects Fan Avatar
 
 esRejects Fan Avatar
 %
 frAvatar du passionné de Rejects
+7
+uk1Аватар «Вболівальник Rejects»
+)
+ja#アバター「Rejects ファン」
 1
 ru+Аватар «Болельщик Rejects».webp
 �
@@ -38552,19 +38552,19 @@ U
 
 enRoyal Snowflake Avatar
 
-plRoyal Snowflake Avatar
-
 zhRoyal Snowflake Avatar
-'
-ja!アバター「高貴な雪片」
-?
-uk9Аватар «Королівська сніжинка».
+
+plRoyal Snowflake Avatar
 
 ptRoyal Snowflake Avatar
 
 esRoyal Snowflake Avatar
 %
 frAvatar de flocon de neige royal
+?
+uk9Аватар «Королівська сніжинка».
+'
+ja!アバター「高貴な雪片」
 >
 ru8Аватар «Королевская снежинка».png
 �
@@ -38572,19 +38572,19 @@ U
 
 enBullet-Tooth Tony Avatar
 
-plBullet-Tooth Tony Avatar
-
 zhBullet-Tooth Tony Avatar
-<
-ja6アバター「ブレットトゥース・トニー」
-.
-uk(Аватар «Тоні Кулезуб»
+
+plBullet-Tooth Tony Avatar
 
 ptBullet-Tooth Tony Avatar
 
 esBullet-Tooth Tony Avatar
 #
 frAvatar de Tony Dents de plomb
+.
+uk(Аватар «Тоні Кулезуб»
+<
+ja6アバター「ブレットトゥース・トニー」
 6
 ru0Аватар «Тони Пуля-в-Зубах».webp
 �
@@ -38592,13 +38592,9 @@ U
 
 en[APX] Apex Clan Avatar
 
-pl[APX] Apex Clan Avatar
-
 zh[APX] Apex Clan Avatar
-,
-ja&アバター「クラン [APX] Apex」
-*
-uk$Аватар «Клан [APX] Apex»
+
+pl[APX] Apex Clan Avatar
 
 pt[APX] Apex Clan Avatar
 
@@ -38606,25 +38602,29 @@ U
 
 frAvatar du clan [APX] Apex
 *
+uk$Аватар «Клан [APX] Apex»
+,
+ja&アバター「クラン [APX] Apex」
+*
 ru$Аватар «Клан [APX] Apex».webp
 �
 avatar_purp_lightning_legendary�
 
 enThe Blitz Order Avatar
 
-plThe Blitz Order Avatar
-
 zhThe Blitz Order Avatar
-$
-jaアバター「Blitz 命令」
-8
-uk2Аватар «Багряна блискавка»
+
+plThe Blitz Order Avatar
 
 ptThe Blitz Order Avatar
 
 esThe Blitz Order Avatar
  
 frAvatar de l'ordre de Blitz
+8
+uk2Аватар «Багряна блискавка»
+$
+jaアバター「Blitz 命令」
 4
 ru.Аватар «Багровая молния».png
 �
@@ -38632,13 +38632,9 @@ $
 2
 en,Blitz Ultimate Cup North America 2022 Avatar
 2
-pl,Blitz Ultimate Cup North America 2022 Avatar
-2
 zh,Blitz Ultimate Cup North America 2022 Avatar
-=
-ja7アバター「Blitz Ultimate Cup North America 2022」
-8
-uk2Аватар Blitz Ultimate Cup North America 2022
+2
+pl,Blitz Ultimate Cup North America 2022 Avatar
 2
 pt,Blitz Ultimate Cup North America 2022 Avatar
 2
@@ -38646,25 +38642,29 @@ $
 2
 fr,Avatar Blitz Ultimate Cup North America 2022
 8
+uk2Аватар Blitz Ultimate Cup North America 2022
+=
+ja7アバター「Blitz Ultimate Cup North America 2022」
+8
 ru2Аватар Blitz Ultimate Cup North America 2022.webp
 �
 avatar_winterlovegloves_unique�
 
 enCrystal Heart Avatar
 
-plCrystal Heart Avatar
-
 zhCrystal Heart Avatar
-3
-ja-アバター「ハートのクリスタル」
-6
-uk0Аватар «Кришталеве серце»
+
+plCrystal Heart Avatar
 
 ptCrystal Heart Avatar
 
 esCrystal Heart Avatar
  
 frAvatar du Cœur de cristal
+6
+uk0Аватар «Кришталеве серце»
+3
+ja-アバター「ハートのクリスタル」
 :
 ru4Аватар «Хрустальное сердце».webp
 �
@@ -38672,19 +38672,19 @@ $
 
 enProud Peacock Avatar
 
-plProud Peacock Avatar
-
 zhProud Peacock Avatar
-*
-ja$アバター「誇り高き孔雀」
-.
-uk(Аватар «Гордий павич»
+
+plProud Peacock Avatar
 
 ptProud Peacock Avatar
 
 esProud Peacock Avatar
 
 frAvatar du paon fier
+.
+uk(Аватар «Гордий павич»
+*
+ja$アバター「誇り高き孔雀」
 0
 ru*Аватар «Гордый павлин».png
 �
@@ -38692,19 +38692,19 @@ $
 
 en4 Victorious Years Avatar
 
-pl4 Victorious Years Avatar
-
 zh4 Victorious Years Avatar
-)
-ja#アバター「誇らしい 4年」
-0
-uk*Аватар «4 роки перемог»
+
+pl4 Victorious Years Avatar
 
 pt4 Victorious Years Avatar
 
 es4 Victorious Years Avatar
 &
 fr Avatar de 4 années victorieuses
+0
+uk*Аватар «4 роки перемог»
+)
+ja#アバター「誇らしい 4年」
 ,
 ru&Аватар «4 года побед».webp
 �
@@ -38712,13 +38712,9 @@ $
 
 enKvAqva Avatar
 
-plKvAqva Avatar
-
 zhKvAqva Avatar
-
-jaアバター「KvAqva」
-
-ukАватар KvAqva
+
+plKvAqva Avatar
 
 ptKvAqva Avatar
 
@@ -38726,25 +38722,29 @@ $
 
 frAvatar de KvAqva
 
+ukАватар KvAqva
+
+jaアバター「KvAqva」
+
 ruАватар KvAqva.webp
 �
 &avatar_progressive_midnight_predator_4�
 
 enMidnight Predator Avatar
 
-plMidnight Predator Avatar
-
 zhMidnight Predator Avatar
--
-ja'アバター「真夜中の捕食者」
-6
-uk0Аватар «Опівнічний хижак»
+
+plMidnight Predator Avatar
 
 ptMidnight Predator Avatar
 
 esMidnight Predator Avatar
 $
 frAvatar du prédateur de minuit
+6
+uk0Аватар «Опівнічний хижак»
+-
+ja'アバター「真夜中の捕食者」
 8
 ru2Аватар «Полуночный хищник».png
 �
@@ -38752,13 +38752,9 @@ $
 
 enSeason 6 Avatar
 
-plSeason 6 Avatar
-
 zhSeason 6 Avatar
-&
-ja アバター「シーズン 6」
-#
-ukАватар «Сезон 6»
+
+plSeason 6 Avatar
 
 ptSeason 6 Avatar
 
@@ -38766,19 +38762,19 @@ $
 
 frAvatar Saison 6
 #
+ukАватар «Сезон 6»
+&
+ja アバター「シーズン 6」
+#
 ruАватар «Сезон 6».webp
 �
 avatar_ra1d_2020_rare_30d�
 
 enRA1D Avatar
 
-plRA1D Avatar
-
 zhRA1D Avatar
-
-jaアバター「RA1D」
-
-ukАватар RA1D
+
+plRA1D Avatar
 
 ptRA1D Avatar
 
@@ -38786,19 +38782,19 @@ $
 
 frAvatar de RA1D
 
+ukАватар RA1D
+
+jaアバター「RA1D」
+
 ruАватар RA1D.png
 �
 avatar_td_legendary�
 %
 enTank Destroyer Commander Avatar
 %
-plTank Destroyer Commander Avatar
-%
 zhTank Destroyer Commander Avatar
-'
-ja!アバター「駆逐戦車長」
-3
-uk-Аватар «Командир ПТ-САУ»
+%
+plTank Destroyer Commander Avatar
 %
 ptTank Destroyer Commander Avatar
 %
@@ -38806,19 +38802,19 @@ $
 ,
 fr&Avatar Commandant de chasseur de chars
 3
+uk-Аватар «Командир ПТ-САУ»
+'
+ja!アバター「駆逐戦車長」
+3
 ru-Аватар «Командир ПТ-САУ».webp
 �
 "avatar_NA_DragonWarriors_legendary�
 
 enDragon Warriors Avatar
 
-plDragon Warriors Avatar
-
 zhDragon Warriors Avatar
-'
-ja!アバター「Dragon Warriors」
-"
-ukАватар Dragon Warriors
+
+plDragon Warriors Avatar
 
 ptDragon Warriors Avatar
 
@@ -38826,19 +38822,19 @@ $
 
 frAvatar de Dragon Warriors
 "
+ukАватар Dragon Warriors
+'
+ja!アバター「Dragon Warriors」
+"
 ruАватар Dragon Warriors.webp
 �
 avatar_bp_59_bundle�
 
 enA-Signaler Avatar
 
-plA-Signaler Avatar
-
 zhA-Signaler Avatar
-"
-jaアバター「A-Signaler」
-
-ukАватар A-Signaler
+
+plA-Signaler Avatar
 
 ptA-Signaler Avatar
 
@@ -38846,25 +38842,29 @@ $
 
 frAvatar A-Signaler
 
+ukАватар A-Signaler
+"
+jaアバター「A-Signaler」
+
 ruАватар A-Signaler.webp
 �
 avatar_progressive_bp_39_paid_1�
 
 enSea Wanderer Avatar
 
-plSea Wanderer Avatar
-
 zhSea Wanderer Avatar
-'
-ja!アバター「浜辺の旅人」
-6
-uk0Аватар «Морський бродяга»
+
+plSea Wanderer Avatar
 
 ptSea Wanderer Avatar
 
 esSea Wanderer Avatar
 
 frAvatar Vagabond des mers
+6
+uk0Аватар «Морський бродяга»
+'
+ja!アバター「浜辺の旅人」
 4
 ru.Аватар «Морской бродяга».webp
 �
@@ -38872,19 +38872,19 @@ $
 
 enSea Wanderer Avatar
 
-plSea Wanderer Avatar
-
 zhSea Wanderer Avatar
-'
-ja!アバター「浜辺の旅人」
-6
-uk0Аватар «Морський бродяга»
+
+plSea Wanderer Avatar
 
 ptSea Wanderer Avatar
 
 esSea Wanderer Avatar
 
 frAvatar Vagabond des mers
+6
+uk0Аватар «Морський бродяга»
+'
+ja!アバター「浜辺の旅人」
 4
 ru.Аватар «Морской бродяга».webp
 �
@@ -38892,19 +38892,19 @@ $
 
 enNight Hunter Avatar
 
-plNight Hunter Avatar
-
 zhNight Hunter Avatar
-$
-jaアバター「夜の狩人」
-6
-uk0Аватар «Нічний мисливець»
+
+plNight Hunter Avatar
 
 ptNight Hunter Avatar
 
 esNight Hunter Avatar
 !
 frAvatar du chasseur nocturne
+6
+uk0Аватар «Нічний мисливець»
+$
+jaアバター「夜の狩人」
 2
 ru,Аватар «Ночной охотник».png
 �
@@ -38912,19 +38912,19 @@ $
 
 enSea Wanderer Avatar
 
-plSea Wanderer Avatar
-
 zhSea Wanderer Avatar
-'
-ja!アバター「浜辺の旅人」
-6
-uk0Аватар «Морський бродяга»
+
+plSea Wanderer Avatar
 
 ptSea Wanderer Avatar
 
 esSea Wanderer Avatar
 
 frAvatar Vagabond des mers
+6
+uk0Аватар «Морський бродяга»
+'
+ja!アバター「浜辺の旅人」
 4
 ru.Аватар «Морской бродяга».webp
 �
@@ -38932,19 +38932,19 @@ $
 
 enStellar Traveller Avatar
 
-plStellar Traveller Avatar
-
 zhStellar Traveller Avatar
-$
-jaアバター「星の旅人」
-:
-uk4Аватар «Зоряний мандрівник»
+
+plStellar Traveller Avatar
 
 ptStellar Traveller Avatar
 
 esStellar Traveller Avatar
 "
 frAvatar du voyageur stellaire
+:
+uk4Аватар «Зоряний мандрівник»
+$
+jaアバター「星の旅人」
 8
 ru2Аватар «Звёздный странник».png
 �
@@ -38952,19 +38952,19 @@ $
 
 enStellar Traveller Avatar
 
-plStellar Traveller Avatar
-
 zhStellar Traveller Avatar
-$
-jaアバター「星の旅人」
-:
-uk4Аватар «Зоряний мандрівник»
+
+plStellar Traveller Avatar
 
 ptStellar Traveller Avatar
 
 esStellar Traveller Avatar
 "
 frAvatar du voyageur stellaire
+:
+uk4Аватар «Зоряний мандрівник»
+$
+jaアバター「星の旅人」
 8
 ru2Аватар «Звёздный странник».png
 �
@@ -38972,19 +38972,19 @@ $
 
 enStellar Traveller Avatar
 
-plStellar Traveller Avatar
-
 zhStellar Traveller Avatar
-$
-jaアバター「星の旅人」
-:
-uk4Аватар «Зоряний мандрівник»
+
+plStellar Traveller Avatar
 
 ptStellar Traveller Avatar
 
 esStellar Traveller Avatar
 "
 frAvatar du voyageur stellaire
+:
+uk4Аватар «Зоряний мандрівник»
+$
+jaアバター「星の旅人」
 8
 ru2Аватар «Звёздный странник».png
 �
@@ -38992,19 +38992,19 @@ $
 #
 enMeaty Delight Animated Avatar
 #
-plMeaty Delight Animated Avatar
-#
 zhMeaty Delight Animated Avatar
-N
-jaHアニメーション付きアバター「ミーツ・ディライト」
-L
-ukFАнімований аватар «М'ясний делікатес»
+#
+plMeaty Delight Animated Avatar
 #
 ptMeaty Delight Animated Avatar
 #
 esMeaty Delight Animated Avatar
 $
 frAvatar animé Délice de chair
+L
+ukFАнімований аватар «М'ясний делікатес»
+N
+jaHアニメーション付きアバター「ミーツ・ディライト」
 Q
 ruKАнимированный аватар «Мясной деликатес».webp
 �
@@ -39012,19 +39012,19 @@ Q
 
 enImposter Avatar
 
-plImposter Avatar
-
 zhImposter Avatar
- 
-jaアバター「Imposter」
--
-uk'Аватар «Самозванець»
+
+plImposter Avatar
 
 ptImposter Avatar
 
 esImposter Avatar
 
 frAvatar Imposteur
+-
+uk'Аватар «Самозванець»
+ 
+jaアバター「Imposter」
 '
 ru!Аватар «Лазутчик».webp
 �
@@ -39032,19 +39032,19 @@ Q
 
 en"Who's the Boss?" Avatar
 
-pl"Who's the Boss?" Avatar
-
 zh"Who's the Boss?" Avatar
-)
-ja#アバター「我こそが BOSS」
-,
-uk&Аватар «Хто тут Бос?»
+
+pl"Who's the Boss?" Avatar
 
 pt"Who's the Boss?" Avatar
 
 es"Who's the Boss?" Avatar
 
 frAvatar Qui est le boss ?
+,
+uk&Аватар «Хто тут Бос?»
+)
+ja#アバター「我こそが BOSS」
 .
 ru(Аватар «Кто тут Босс?».webp
 �
@@ -39052,13 +39052,9 @@ Q
 
 enSteel Eagle Avatar
 
-plSteel Eagle Avatar
-
 zhSteel Eagle Avatar
-$
-jaアバター「鋼鉄の鷲」
-0
-uk*Аватар «Сталевий орел»
+
+plSteel Eagle Avatar
 
 ptSteel Eagle Avatar
 
@@ -39066,19 +39062,19 @@ $
 
 frAvatar d'aigle d'acier
 0
+uk*Аватар «Сталевий орел»
+$
+jaアバター「鋼鉄の鷲」
+0
 ru*Аватар «Стальной орёл».webp
 �
 avatar_ASIA_RoteNova_legendary�
 
 enRote Nova Avatar
 
-plRote Nova Avatar
-
 zhRote Nova Avatar
-!
-jaアバター「Rote Nova」
-
-ukАватар Rote Nova
+
+plRote Nova Avatar
 
 ptRote Nova Avatar
 
@@ -39086,25 +39082,29 @@ $
 
 frAvatar de Rote Nova
 
+ukАватар Rote Nova
+!
+jaアバター「Rote Nova」
+
 ruАватар Rote Nova.webp
 �
 avatar_CatBoss_unique�
 
 enCat Boss Avatar
 
-plCat Boss Avatar
-
 zhCat Boss Avatar
- 
-jaアバター「Cat Boss」
-
-ukАватар Cat Boss
+
+plCat Boss Avatar
 
 ptCat Boss Avatar
 
 esCat Boss Avatar
 
 frAvatar du Boss chat
+
+ukАватар Cat Boss
+ 
+jaアバター「Cat Boss」
 
 ruАватар Cat Boss.webp
 �
@@ -39113,15 +39113,11 @@ $
 en
 Dab Avatar
 
-pl
-Dab Avatar
-
 zh
 Dab Avatar
-
-jaアバター「Dab」
-
-ukАватар Dab
+
+pl
+Dab Avatar
 
 pt
 Dab Avatar
@@ -39132,19 +39128,19 @@ Dab Avatar
 fr
 Avatar Dab
 
+ukАватар Dab
+
+jaアバター「Dab」
+
 ruАватар Dab.webp
 �
 avatar_BlitzCup25fan_rare�
 
 enBlitz Diamond Cup Avatar
 
-plBlitz Diamond Cup Avatar
-
 zhBlitz Diamond Cup Avatar
-)
-ja#アバター「Blitz Diamond Cup」
-$
-ukАватар Blitz Diamond Cup
+
+plBlitz Diamond Cup Avatar
 
 ptBlitz Diamond Cup Avatar
 
@@ -39152,19 +39148,19 @@ $
 
 frAvatar Blitz Diamond Cup
 $
+ukАватар Blitz Diamond Cup
+)
+ja#アバター「Blitz Diamond Cup」
+$
 ruАватар Blitz Diamond Cup.webp
 �
 avatar_progressive_bp_21_paid_3�
 
 enAlpine Dreams Avatar
 
-plAlpine Dreams Avatar
-
 zhAlpine Dreams Avatar
--
-ja'アバター「アルプスの郷愁」
-2
-uk,Аватар «Альпійські сни»
+
+plAlpine Dreams Avatar
 
 ptAlpine Dreams Avatar
 
@@ -39172,25 +39168,29 @@ $
 
 frAvatar Rêves alpins
 2
+uk,Аватар «Альпійські сни»
+-
+ja'アバター「アルプスの郷愁」
+2
 ru,Аватар «Альпийские сны».webp
 �
 avatar_progressive_rank_1�
 
 enTankery Way Avatar
 
-plTankery Way Avatar
-
 zhTankery Way Avatar
-!
-jaアバター「戦車道」
-0
-uk*Аватар «Шлях танкіста»
+
+plTankery Way Avatar
 
 ptTankery Way Avatar
 
 esTankery Way Avatar
 
 frAvatar Voie du tankiste
+0
+uk*Аватар «Шлях танкіста»
+!
+jaアバター「戦車道」
 0
 ru*Аватар «Путь танкиста».png
 �
@@ -39198,19 +39198,19 @@ $
 
 enTankery Way Avatar
 
-plTankery Way Avatar
-
 zhTankery Way Avatar
-!
-jaアバター「戦車道」
-0
-uk*Аватар «Шлях танкіста»
+
+plTankery Way Avatar
 
 ptTankery Way Avatar
 
 esTankery Way Avatar
 
 frAvatar Voie du tankiste
+0
+uk*Аватар «Шлях танкіста»
+!
+jaアバター「戦車道」
 0
 ru*Аватар «Путь танкиста».png
 �
@@ -39218,13 +39218,9 @@ $
 
 enTankery Way Avatar
 
-plTankery Way Avatar
-
 zhTankery Way Avatar
-!
-jaアバター「戦車道」
-0
-uk*Аватар «Шлях танкіста»
+
+plTankery Way Avatar
 
 ptTankery Way Avatar
 
@@ -39232,19 +39228,19 @@ $
 
 frAvatar Voie du tankiste
 0
+uk*Аватар «Шлях танкіста»
+!
+jaアバター「戦車道」
+0
 ru*Аватар «Путь танкиста».png
 �
 avatar_progressive_rank_4�
 
 enavatar_progressive_rank_4
 
-plavatar_progressive_rank_4
-
 zhavatar_progressive_rank_4
 
-jaavatar_progressive_rank_4
-
-ukavatar_progressive_rank_4
+plavatar_progressive_rank_4
 
 ptavatar_progressive_rank_4
 
@@ -39252,19 +39248,19 @@ $
 
 fravatar_progressive_rank_4
 
+ukavatar_progressive_rank_4
+
+jaavatar_progressive_rank_4
+
 ruavatar_progressive_rank_4.png
 �
 avatar_BlitzXCup24_EU_L0S1_leg�
 
 enTrueShadows Avatar
 
-plTrueShadows Avatar
-
 zhTrueShadows Avatar
-#
-jaアバター「TrueShadows」
-
-ukАватар TrueShadows
+
+plTrueShadows Avatar
 
 ptTrueShadows Avatar
 
@@ -39272,25 +39268,29 @@ $
 
 frAvatar de TrueShadows
 
+ukАватар TrueShadows
+#
+jaアバター「TrueShadows」
+
 ruАватар TrueShadows.webp
 �
 avatar_progressive_bp_65_free_2�
 
 enHandmade Ornament Avatar
 
-plHandmade Ornament Avatar
-
 zhHandmade Ornament Avatar
-3
-ja-アバター「手作りオーナメント」
-:
-uk4Аватар «Саморобна прикраса»
+
+plHandmade Ornament Avatar
 
 ptHandmade Ornament Avatar
 
 esHandmade Ornament Avatar
 %
 frAvatar Ornement fait à la main
+:
+uk4Аватар «Саморобна прикраса»
+3
+ja-アバター「手作りオーナメント」
 3
 ru-Аватар «Сделано с душой».webp
 �
@@ -39298,13 +39298,9 @@ $
 
 enBrave Stand Avatar
 
-plBrave Stand Avatar
-
 zhBrave Stand Avatar
-'
-ja!アバター「勇敢な態度」
-6
-uk0Аватар «Твердий характер»
+
+plBrave Stand Avatar
 
 ptBrave Stand Avatar
 
@@ -39312,25 +39308,29 @@ $
 %
 frAvatar de la posture courageuse
 6
+uk0Аватар «Твердий характер»
+'
+ja!アバター「勇敢な態度」
+6
 ru0Аватар «Твёрдый характер».png
 �
 avatar_progressive_rassenay_4�
 
 enUltimate Destroyer Avatar
 
-plUltimate Destroyer Avatar
-
 zhUltimate Destroyer Avatar
-*
-ja$アバター「究極の破壊者」
->
-uk8Аватар «Абсолютний руйнівник»
+
+plUltimate Destroyer Avatar
 
 ptUltimate Destroyer Avatar
 
 esUltimate Destroyer Avatar
 "
 frAvatar du destructeur ultime
+>
+uk8Аватар «Абсолютний руйнівник»
+*
+ja$アバター「究極の破壊者」
 B
 ru<Аватар «Абсолютный разрушитель».png
 �
@@ -39338,19 +39338,19 @@ B
 
 enUltimate Destroyer Avatar
 
-plUltimate Destroyer Avatar
-
 zhUltimate Destroyer Avatar
-*
-ja$アバター「究極の破壊者」
->
-uk8Аватар «Абсолютний руйнівник»
+
+plUltimate Destroyer Avatar
 
 ptUltimate Destroyer Avatar
 
 esUltimate Destroyer Avatar
 "
 frAvatar du destructeur ultime
+>
+uk8Аватар «Абсолютний руйнівник»
+*
+ja$アバター「究極の破壊者」
 B
 ru<Аватар «Абсолютный разрушитель».png
 �
@@ -39358,19 +39358,19 @@ B
 "
 enTop-3 Rating Animated Avatar
 "
-plTop-3 Rating Animated Avatar
-"
 zhTop-3 Rating Animated Avatar
-K
-jaEアニメーション付きアバター「レーティング Top-3」
-E
-uk?Анімований аватар «Топ-3 рейтингу»
+"
+plTop-3 Rating Animated Avatar
 "
 ptTop-3 Rating Animated Avatar
 "
 esTop-3 Rating Animated Avatar
 %
 frAvatar animé Top 3 des cotées
+E
+uk?Анімований аватар «Топ-3 рейтингу»
+K
+jaEアニメーション付きアバター「レーティング Top-3」
 K
 ruEАнимированный аватар «Топ-3 рейтинга».webp
 �
@@ -39378,19 +39378,19 @@ K
 
 enFUWAMOCO Animated Avatar
 
-plFUWAMOCO Animated Avatar
-
 zhFUWAMOCO Animated Avatar
-;
-ja5アニメーション付きアバター「FUWAMOCO」
-0
-uk*Анімований аватар FUWAMOCO
+
+plFUWAMOCO Animated Avatar
 
 ptFUWAMOCO Animated Avatar
 
 esFUWAMOCO Animated Avatar
 
 frAvatar animé FUWAMOCO
+0
+uk*Анімований аватар FUWAMOCO
+;
+ja5アニメーション付きアバター「FUWAMOCO」
 6
 ru0Анимированный аватар FUWAMOCO.webp
 �
@@ -39398,19 +39398,19 @@ K
 
 enUltimate Destroyer Avatar
 
-plUltimate Destroyer Avatar
-
 zhUltimate Destroyer Avatar
-*
-ja$アバター「究極の破壊者」
->
-uk8Аватар «Абсолютний руйнівник»
+
+plUltimate Destroyer Avatar
 
 ptUltimate Destroyer Avatar
 
 esUltimate Destroyer Avatar
 "
 frAvatar du destructeur ultime
+>
+uk8Аватар «Абсолютний руйнівник»
+*
+ja$アバター「究極の破壊者」
 B
 ru<Аватар «Абсолютный разрушитель».png
 �
@@ -39418,19 +39418,19 @@ B
 
 enUltimate Destroyer Avatar
 
-plUltimate Destroyer Avatar
-
 zhUltimate Destroyer Avatar
-*
-ja$アバター「究極の破壊者」
->
-uk8Аватар «Абсолютний руйнівник»
+
+plUltimate Destroyer Avatar
 
 ptUltimate Destroyer Avatar
 
 esUltimate Destroyer Avatar
 "
 frAvatar du destructeur ultime
+>
+uk8Аватар «Абсолютний руйнівник»
+*
+ja$アバター「究極の破壊者」
 B
 ru<Аватар «Абсолютный разрушитель».png
 �
@@ -39438,13 +39438,9 @@ B
 
 enSeason 5 Avatar
 
-plSeason 5 Avatar
-
 zhSeason 5 Avatar
-&
-ja アバター「シーズン 5」
-#
-ukАватар «Сезон 5»
+
+plSeason 5 Avatar
 
 ptSeason 5 Avatar
 
@@ -39452,25 +39448,29 @@ B
 
 frAvatar Saison 5
 #
+ukАватар «Сезон 5»
+&
+ja アバター「シーズン 5」
+#
 ruАватар «Сезон 5».webp
 �
 avatar_progressive_bp_56_paid_5�
 
 enDebris Killer Avatar
 
-plDebris Killer Avatar
-
 zhDebris Killer Avatar
-*
-ja$アバター「宇宙の掃除人」
->
-uk8Аватар «Винищувач астероїдів»
+
+plDebris Killer Avatar
 
 ptDebris Killer Avatar
 
 esDebris Killer Avatar
 #
 frAvatar Destructeur de débris
+>
+uk8Аватар «Винищувач астероїдів»
+*
+ja$アバター「宇宙の掃除人」
 D
 ru>Аватар «Уничтожитель астероидов».webp
 �
@@ -39478,13 +39478,9 @@ D
 
 en7STAR Avatar
 
-pl7STAR Avatar
-
 zh7STAR Avatar
-
-jaアバター「7STAR」
-
-ukАватар 7STAR
+
+pl7STAR Avatar
 
 pt7STAR Avatar
 
@@ -39492,25 +39488,29 @@ D
 
 frAvatar de 7STAR
 
+ukАватар 7STAR
+
+jaアバター「7STAR」
+
 ruАватар 7STAR.png
 �
 avatar_progressive_bp_56_paid_6�
 
 enDebris Killer Avatar
 
-plDebris Killer Avatar
-
 zhDebris Killer Avatar
-*
-ja$アバター「宇宙の掃除人」
->
-uk8Аватар «Винищувач астероїдів»
+
+plDebris Killer Avatar
 
 ptDebris Killer Avatar
 
 esDebris Killer Avatar
 #
 frAvatar Destructeur de débris
+>
+uk8Аватар «Винищувач астероїдів»
+*
+ja$アバター「宇宙の掃除人」
 D
 ru>Аватар «Уничтожитель астероидов».webp
 �
@@ -39518,19 +39518,19 @@ D
 
 enDebris Killer Avatar
 
-plDebris Killer Avatar
-
 zhDebris Killer Avatar
-*
-ja$アバター「宇宙の掃除人」
->
-uk8Аватар «Винищувач астероїдів»
+
+plDebris Killer Avatar
 
 ptDebris Killer Avatar
 
 esDebris Killer Avatar
 #
 frAvatar Destructeur de débris
+>
+uk8Аватар «Винищувач астероїдів»
+*
+ja$アバター「宇宙の掃除人」
 D
 ru>Аватар «Уничтожитель астероидов».webp
 �
@@ -39538,19 +39538,19 @@ D
 
 enDebris Killer Avatar
 
-plDebris Killer Avatar
-
 zhDebris Killer Avatar
-*
-ja$アバター「宇宙の掃除人」
->
-uk8Аватар «Винищувач астероїдів»
+
+plDebris Killer Avatar
 
 ptDebris Killer Avatar
 
 esDebris Killer Avatar
 #
 frAvatar Destructeur de débris
+>
+uk8Аватар «Винищувач астероїдів»
+*
+ja$アバター「宇宙の掃除人」
 D
 ru>Аватар «Уничтожитель астероидов».webp
 �
@@ -39558,13 +39558,9 @@ D
 
 enAyame Avatar
 
-plAyame Avatar
-
 zhAyame Avatar
-!
-jaアバター「あやめ」
-
-ukАватар «Аяме»
+
+plAyame Avatar
 
 ptAyame Avatar
 
@@ -39572,19 +39568,19 @@ D
 
 frAvatar Ayame
 
+ukАватар «Аяме»
+!
+jaアバター「あやめ」
+
 ruАватар «Аямэ».webp
 �
 avatar_progressive_bp_21_free_3�
 
 enMail Call Avatar
 
-plMail Call Avatar
-
 zhMail Call Avatar
-0
-ja*アバター「拝啓、戦地の君へ」
-0
-uk*Аватар «Польова пошта»
+
+plMail Call Avatar
 
 ptMail Call Avatar
 
@@ -39592,25 +39588,29 @@ D
 
 frAvatar Courrier
 0
+uk*Аватар «Польова пошта»
+0
+ja*アバター「拝啓、戦地の君へ」
+0
 ru*Аватар «Полевая почта».webp
 �
 avatar_progressive_bp_48_free_3�
 
 enStinky Cat Avatar
 
-plStinky Cat Avatar
-
 zhStinky Cat Avatar
-3
-ja-アバター「ネコのスティンキー」
-.
-uk(Аватар «Кіт-волоцюга»
+
+plStinky Cat Avatar
 
 ptStinky Cat Avatar
 
 esStinky Cat Avatar
 
 frAvatar Chat puant
+.
+uk(Аватар «Кіт-волоцюга»
+3
+ja-アバター「ネコのスティンキー」
 *
 ru$Аватар «Драный кот».webp
 �
@@ -39618,13 +39618,9 @@ D
 
 enTürkiye Playoff Avatar
 
-plTürkiye Playoff Avatar
-
 zhTürkiye Playoff Avatar
-(
-ja"アバター「Türkiye Playoff」
-#
-ukАватар Türkiye Playoff
+
+plTürkiye Playoff Avatar
 
 ptTürkiye Playoff Avatar
 
@@ -39632,25 +39628,29 @@ D
 
 frAvatar Türkiye Playoff
 #
+ukАватар Türkiye Playoff
+(
+ja"アバター「Türkiye Playoff」
+#
 ruАватар Türkiye Playoff.webp
 �
  avatar_wolves_balance_common_12h�
 
 enWild Rage Avatar
 
-plWild Rage Avatar
-
 zhWild Rage Avatar
-$
-jaアバター「獣の怒り」
-,
-uk&Аватар «Дикий норов»
+
+plWild Rage Avatar
 
 ptWild Rage Avatar
 
 esWild Rage Avatar
 
 frAvatar de rage sauvage
+,
+uk&Аватар «Дикий норов»
+$
+jaアバター「獣の怒り」
 *
 ru$Аватар «Дикий нрав».png
 �
@@ -39658,19 +39658,19 @@ $
 "
 en5 Seconds to Midnight Avatar
 "
-pl5 Seconds to Midnight Avatar
-"
 zh5 Seconds to Midnight Avatar
-9
-ja3アバター「真夜中のカウントダウン」
-A
-uk;Аватар «П'ять хвилин до півночі»
+"
+pl5 Seconds to Midnight Avatar
 "
 pt5 Seconds to Midnight Avatar
 "
 es5 Seconds to Midnight Avatar
 $
 frAvatar 5 secondes avant minuit
+A
+uk;Аватар «П'ять хвилин до півночі»
+9
+ja3アバター「真夜中のカウントダウン」
 ;
 ru5Аватар «Без пяти двенадцать».webp
 �
@@ -39678,19 +39678,19 @@ $
 
 enPeak Concealment Avatar
 
-plPeak Concealment Avatar
-
 zhPeak Concealment Avatar
-*
-ja$アバター「隠蔽性の頂点」
-<
-uk6Аватар «Відмінне маскування»
+
+plPeak Concealment Avatar
 
 ptPeak Concealment Avatar
 
 esPeak Concealment Avatar
 $
 frAvatar Dissimulation de pointe
+<
+uk6Аватар «Відмінне маскування»
+*
+ja$アバター「隠蔽性の頂点」
 5
 ru/Аватар «Камуфлированный».webp
 �
@@ -39698,19 +39698,19 @@ $
 
 en"Eureka!" Avatar
 
-pl"Eureka!" Avatar
-
 zh"Eureka!" Avatar
-(
-ja"アバター「ユリーイカ!」
-$
-ukАватар «Еврика!»
+
+pl"Eureka!" Avatar
 
 pt"Eureka!" Avatar
 
 es"Eureka!" Avatar
 
 frAvatar Eureka !
+$
+ukАватар «Еврика!»
+(
+ja"アバター「ユリーイカ!」
 $
 ruАватар «Эврика!».webp
 �
@@ -39718,19 +39718,19 @@ $
 
 en"Eureka!" Avatar
 
-pl"Eureka!" Avatar
-
 zh"Eureka!" Avatar
-(
-ja"アバター「ユリーイカ!」
-$
-ukАватар «Еврика!»
+
+pl"Eureka!" Avatar
 
 pt"Eureka!" Avatar
 
 es"Eureka!" Avatar
 
 frAvatar Eureka !
+$
+ukАватар «Еврика!»
+(
+ja"アバター「ユリーイカ!」
 $
 ruАватар «Эврика!».webp
 �
@@ -39738,19 +39738,19 @@ $
 
 en"Eureka!" Avatar
 
-pl"Eureka!" Avatar
-
 zh"Eureka!" Avatar
-(
-ja"アバター「ユリーイカ!」
-$
-ukАватар «Еврика!»
+
+pl"Eureka!" Avatar
 
 pt"Eureka!" Avatar
 
 es"Eureka!" Avatar
 
 frAvatar Eureka !
+$
+ukАватар «Еврика!»
+(
+ja"アバター「ユリーイカ!」
 $
 ruАватар «Эврика!».webp
 �
@@ -39758,19 +39758,19 @@ $
 
 en"Eureka!" Avatar
 
-pl"Eureka!" Avatar
-
 zh"Eureka!" Avatar
-(
-ja"アバター「ユリーイカ!」
-$
-ukАватар «Еврика!»
+
+pl"Eureka!" Avatar
 
 pt"Eureka!" Avatar
 
 es"Eureka!" Avatar
 
 frAvatar Eureka !
+$
+ukАватар «Еврика!»
+(
+ja"アバター「ユリーイカ!」
 $
 ruАватар «Эврика!».webp
 �
@@ -39778,13 +39778,9 @@ $
 
 en"Eureka!" Avatar
 
-pl"Eureka!" Avatar
-
 zh"Eureka!" Avatar
-(
-ja"アバター「ユリーイカ!」
-$
-ukАватар «Еврика!»
+
+pl"Eureka!" Avatar
 
 pt"Eureka!" Avatar
 
@@ -39792,25 +39788,29 @@ $
 
 frAvatar Eureka !
 $
+ukАватар «Еврика!»
+(
+ja"アバター「ユリーイカ!」
+$
 ruАватар «Эврика!».webp
 �
 avatar_power_legendary�
 
 enBrute Force Avatar
 
-plBrute Force Avatar
-
 zhBrute Force Avatar
-!
-jaアバター「馬鹿力」
-*
-uk$Аватар «Груба сила»
+
+plBrute Force Avatar
 
 ptBrute Force Avatar
 
 esBrute Force Avatar
 
 frAvatar de la force brute
+*
+uk$Аватар «Груба сила»
+!
+jaアバター「馬鹿力」
 ,
 ru&Аватар «Грубая сила».png
 �
@@ -39818,13 +39818,9 @@ $
 
 enPortugal Playoff Avatar
 
-plPortugal Playoff Avatar
-
 zhPortugal Playoff Avatar
-(
-ja"アバター「Portugal Playoff」
-#
-ukАватар Portugal Playoff
+
+plPortugal Playoff Avatar
 
 ptPortugal Playoff Avatar
 
@@ -39832,25 +39828,29 @@ $
 
 frAvatar Portugal Playoff
 #
+ukАватар Portugal Playoff
+(
+ja"アバター「Portugal Playoff」
+#
 ruАватар Portugal Playoff.webp
 �
 "avatar_progressive_vampiric_wins_8�
 
 enForged in Battle Avatar
 
-plForged in Battle Avatar
-
 zhForged in Battle Avatar
-$
-jaアバター「百戦錬磨」
-<
-uk6Аватар «Бойове загартування»
+
+plForged in Battle Avatar
 
 ptForged in Battle Avatar
 
 esForged in Battle Avatar
 
 frAvatar Forgé au combat
+<
+uk6Аватар «Бойове загартування»
+$
+jaアバター「百戦錬磨」
 2
 ru,Аватар «Боевая закалка».png
 �
@@ -39858,13 +39858,9 @@ $
 
 enLegion Avatar
 
-plLegion Avatar
-
 zhLegion Avatar
-
-jaアバター「Legion」
-
-ukАватар Legion
+
+plLegion Avatar
 
 ptLegion Avatar
 
@@ -39872,19 +39868,19 @@ $
 
 frAvatar de Legion
 
+ukАватар Legion
+
+jaアバター「Legion」
+
 ruАватар Legion.png
 �
 avatar_blitzwolf_rare_na�
 
 enBlitz Wolf Avatar
 
-plBlitz Wolf Avatar
-
 zhBlitz Wolf Avatar
-'
-ja!アバター「Blitz ウルフ」
-%
-ukАватар «Вовк Blitz»
+
+plBlitz Wolf Avatar
 
 ptBlitz Wolf Avatar
 
@@ -39892,25 +39888,29 @@ $
 
 frAvatar Loup de Blitz
 %
+ukАватар «Вовк Blitz»
+'
+ja!アバター「Blitz ウルフ」
+%
 ruАватар «Волк Blitz».webp
 �
 "avatar_progressive_tenvsten_wins_1�
 
 enChamp Avatar
 
-plChamp Avatar
-
 zhChamp Avatar
-$
-jaアバター「チャンプ」
-%
-ukАватар «Чемпіон»
+
+plChamp Avatar
 
 ptChamp Avatar
 
 esChamp Avatar
 
 frAvatar de Champion
+%
+ukАватар «Чемпіон»
+$
+jaアバター「チャンプ」
 
 ruАватар «Чамп».webp
 �
@@ -39918,19 +39918,19 @@ $
 
 enRuby Lotus Avatar
 
-plRuby Lotus Avatar
-
 zhRuby Lotus Avatar
-!
-jaアバター「玉の蓮」
-9
-uk3Аватар на «Рубіновий лотос»
+
+plRuby Lotus Avatar
 
 ptRuby Lotus Avatar
 
 esRuby Lotus Avatar
 
 frAvatar du lotus de rubis
+9
+uk3Аватар на «Рубіновий лотос»
+!
+jaアバター「玉の蓮」
 4
 ru.Аватар «Рубиновый лотос».png
 �
@@ -39938,19 +39938,19 @@ $
 
 enForged in Battle Avatar
 
-plForged in Battle Avatar
-
 zhForged in Battle Avatar
-$
-jaアバター「百戦錬磨」
-<
-uk6Аватар «Бойове загартування»
+
+plForged in Battle Avatar
 
 ptForged in Battle Avatar
 
 esForged in Battle Avatar
 
 frAvatar Forgé au combat
+<
+uk6Аватар «Бойове загартування»
+$
+jaアバター「百戦錬磨」
 2
 ru,Аватар «Боевая закалка».png
 �
@@ -39958,19 +39958,19 @@ $
 
 enColliding Comet Avatar
 
-plColliding Comet Avatar
-
 zhColliding Comet Avatar
-*
-ja$アバター「衝突する彗星」
-C
-uk=Аватар «Траєкторія на зіткнення»
+
+plColliding Comet Avatar
 
 ptColliding Comet Avatar
 
 esColliding Comet Avatar
 !
 frAvatar Collision de comète
+C
+uk=Аватар «Траєкторія на зіткнення»
+*
+ja$アバター「衝突する彗星」
 4
 ru.Аватар «Огненная комета».webp
 �
@@ -39978,13 +39978,9 @@ C
 4
 en.Аватар «Вселенская имба»
 4
-pl.Аватар «Вселенская имба»
-4
 zh.Аватар «Вселенская имба»
 4
-ja.Аватар «Вселенская имба»
-4
-uk.Аватар «Вселенская имба»
+pl.Аватар «Вселенская имба»
 4
 pt.Аватар «Вселенская имба»
 4
@@ -39992,19 +39988,19 @@ C
 4
 fr.Аватар «Вселенская имба»
 4
+uk.Аватар «Вселенская имба»
+4
+ja.Аватар «Вселенская имба»
+4
 ru.Аватар «Вселенская имба».webp
 �
 avatar_bp_17_bundle�
 
 enKryos Avatar
 
-plKryos Avatar
-
 zhKryos Avatar
-
-jaアバター「Kryos」
-
-ukАватар Kryos
+
+plKryos Avatar
 
 ptKryos Avatar
 
@@ -40012,19 +40008,19 @@ C
 
 frAvatar Kryos
 
+ukАватар Kryos
+
+jaアバター「Kryos」
+
 ruАватар Kryos.webp
 �
  avatar_hey_lol_eg_2020_legendary�
 
 enHey lol Avatar
 
-plHey lol Avatar
-
 zhHey lol Avatar
-
-jaアバター「Hey lol」
-
-ukАватар Hey lol
+
+plHey lol Avatar
 
 ptHey lol Avatar
 
@@ -40032,19 +40028,19 @@ C
 
 frAvatar de Hey lol
 
+ukАватар Hey lol
+
+jaアバター「Hey lol」
+
 ruАватар Hey lol.png
 �
 avatar_sp_chest�
  
 enLegendary Avatar Container
  
-plLegendary Avatar Container
- 
 zhLegendary Avatar Container
-*
-ja$伝説的アバターのコンテナ
-C
-uk=Контейнер з легендарним аватаром
+ 
+plLegendary Avatar Container
  
 ptLegendary Avatar Container
  
@@ -40052,25 +40048,29 @@ C
 $
 frConteneur d'avatar légendaire
 C
+uk=Контейнер з легендарним аватаром
+*
+ja$伝説的アバターのコンテナ
+C
 ru=Контейнер с легендарным аватаром.webp
 �
 avatar_owl_legendary�
 
 enNight Hunter Avatar
 
-plNight Hunter Avatar
-
 zhNight Hunter Avatar
-$
-jaアバター「夜の狩人」
-6
-uk0Аватар «Нічний мисливець»
+
+plNight Hunter Avatar
 
 ptNight Hunter Avatar
 
 esNight Hunter Avatar
 !
 frAvatar du chasseur nocturne
+6
+uk0Аватар «Нічний мисливець»
+$
+jaアバター「夜の狩人」
 2
 ru,Аватар «Ночной охотник».png
 �
@@ -40078,19 +40078,19 @@ $
 %
 en"Happy Birthday, Blitz!" Avatar
 %
-pl"Happy Birthday, Blitz!" Avatar
-%
 zh"Happy Birthday, Blitz!" Avatar
-=
-ja7アバター「ハッピーバースデー、Blitz !」
-?
-uk9Аватар «З днем народження, Blitz!»
+%
+pl"Happy Birthday, Blitz!" Avatar
 %
 pt"Happy Birthday, Blitz!" Avatar
 %
 es"Happy Birthday, Blitz!" Avatar
 2
 fr,Avatar « Joyeux anniversaire, Blitz ! »
+?
+uk9Аватар «З днем народження, Blitz!»
+=
+ja7アバター「ハッピーバースデー、Blitz !」
 ;
 ru5Аватар «С днём рождения, Blitz!».png
 �
@@ -40098,19 +40098,19 @@ $
 
 enGold League Avatar
 
-plGold League Avatar
-
 zhGold League Avatar
--
-ja'アバター「ゴールドリーグ」
-,
-uk&Аватар «Золота Ліга»
+
+plGold League Avatar
 
 ptGold League Avatar
 
 esGold League Avatar
 
 frAvatar de la Ligue Or
+,
+uk&Аватар «Золота Ліга»
+-
+ja'アバター「ゴールドリーグ」
 .
 ru(Аватар «Золотая Лига».webp
 �
@@ -40118,19 +40118,19 @@ $
 
 enCandy Cane Avatar
 
-plCandy Cane Avatar
-
 zhCandy Cane Avatar
-0
-ja*アバター「キャンディケイン」
-<
-uk6Аватар «Карамельна тростина»
+
+plCandy Cane Avatar
 
 ptCandy Cane Avatar
 
 esCandy Cane Avatar
 &
 fr Avatar de bâton de sucre d'orge
+<
+uk6Аватар «Карамельна тростина»
+0
+ja*アバター「キャンディケイン」
 :
 ru4Аватар «Карамельная трость».png
 �
@@ -40138,19 +40138,19 @@ $
 
 enUprising Avatar
 
-plUprising Avatar
-
 zhUprising Avatar
- 
-jaアバター「Uprising」
-
-ukАватар Uprising
+
+plUprising Avatar
 
 ptUprising Avatar
 
 esUprising Avatar
 
 frAvatar de Uprising
+
+ukАватар Uprising
+ 
+jaアバター「Uprising」
 
 ruАватар Uprising.webp
 �
@@ -40158,13 +40158,9 @@ $
 
 enOrigin Avatar
 
-plOrigin Avatar
-
 zhOrigin Avatar
-
-jaアバター「Origin」
-
-ukАватар Origin
+
+plOrigin Avatar
 
 ptOrigin Avatar
 
@@ -40172,25 +40168,29 @@ $
 
 frAvatar d'Origin
 
+ukАватар Origin
+
+jaアバター「Origin」
+
 ruАватар Origin.webp
 �
  avatar_november24_legendary_anim�
 #
 enIntergalactic Animated Avatar
 #
-plIntergalactic Animated Avatar
-#
 zhIntergalactic Animated Avatar
-W
-jaQアニメーション付きアバター「インターギャラクティック」
-F
-uk@Анімований аватар «Інтергалактик»
+#
+plIntergalactic Animated Avatar
 #
 ptIntergalactic Animated Avatar
 #
 esIntergalactic Animated Avatar
 #
 frAvatar animé intergalactique
+F
+uk@Анімований аватар «Інтергалактик»
+W
+jaQアニメーション付きアバター「インターギャラクティック」
 L
 ruFАнимированный аватар «Интергалактик».webp
 �
@@ -40198,19 +40198,19 @@ L
 %
 enEnemy Crew Brew Animated Avatar
 %
-plEnemy Crew Brew Animated Avatar
-%
 zhEnemy Crew Brew Animated Avatar
-K
-jaEアニメーション付きアバター「エネミードリンク」
-[
-ukUАнімований аватар «Варево з ворожого екіпажу»
+%
+plEnemy Crew Brew Animated Avatar
 %
 ptEnemy Crew Brew Animated Avatar
 %
 esEnemy Crew Brew Animated Avatar
 /
 fr)Avatar animé Bouillon d'équipage ennemi
+[
+ukUАнімований аватар «Варево з ворожого екіпажу»
+K
+jaEアニメーション付きアバター「エネミードリンク」
 M
 ruGАнимированный аватар «Танковый отвар».webp
 �
@@ -40218,19 +40218,19 @@ $avatar_BlitzCup25_SG_TEAM2_legendary�
 
 enRaiders Diamond Avatar
 
-plRaiders Diamond Avatar
-
 zhRaiders Diamond Avatar
-2
-ja,アバター「Raiders ダイヤモンド」
-@
-uk:Діамантовий аватар команди Raiders
+
+plRaiders Diamond Avatar
 
 ptRaiders Diamond Avatar
 
 esRaiders Diamond Avatar
 "
 frAvatar de Raiders de diamant
+@
+uk:Діамантовий аватар команди Raiders
+2
+ja,アバター「Raiders ダイヤモンド」
 D
 ru>Бриллиантовый аватар команды Raiders.webp
 �
@@ -40238,13 +40238,9 @@ D
 
 enThunder Avatar
 
-plThunder Avatar
-
 zhThunder Avatar
-
-jaアバター「雷」
-
-ukАватар «Грім»
+
+plThunder Avatar
 
 ptThunder Avatar
 
@@ -40252,25 +40248,29 @@ D
 
 frAvatar du Tonnerre
 
+ukАватар «Грім»
+
+jaアバター「雷」
+
 ruАватар «Гром».png
 �
 avatar_legacytop16_unique�
 
 enLegacy Challenger Avatar
 
-plLegacy Challenger Avatar
-
 zhLegacy Challenger Avatar
-(
-ja"アバター「Legacy 挑戦者」
-2
-uk,Аватар «Претендент Legacy»
+
+plLegacy Challenger Avatar
 
 ptLegacy Challenger Avatar
 
 esLegacy Challenger Avatar
 &
 fr Avatar du challenger d'héritage
+2
+uk,Аватар «Претендент Legacy»
+(
+ja"アバター「Legacy 挑戦者」
 3
 ru-Аватар «Претендент: Legacy».webp
 �
@@ -40278,13 +40278,9 @@ D
 
 enBronze Tournament Avatar
 
-plBronze Tournament Avatar
-
 zhBronze Tournament Avatar
->
-ja8アバター「トーナメント記念: ブロンズ」
-<
-uk6Аватар «Турнірний Бронзовий»
+
+plBronze Tournament Avatar
 
 ptBronze Tournament Avatar
 
@@ -40292,19 +40288,19 @@ D
 
 frAvatar Tournoi de bronze
 <
+uk6Аватар «Турнірний Бронзовий»
+>
+ja8アバター「トーナメント記念: ブロンズ」
+<
 ru6Аватар «Турнирный Бронзовый».webp
 �
 avatar_APAC_Uprising_legendary�
 
 enUprising Avatar
 
-plUprising Avatar
-
 zhUprising Avatar
- 
-jaアバター「Uprising」
-
-ukАватар Uprising
+
+plUprising Avatar
 
 ptUprising Avatar
 
@@ -40312,25 +40308,29 @@ D
 
 frAvatar de Uprising
 
+ukАватар Uprising
+ 
+jaアバター「Uprising」
+
 ruАватар Uprising.webp
 �
 #avatar_smiley_face_palm_common_168h�
 
 en"Enemy Hit?!" Avatar
 
-pl"Enemy Hit?!" Avatar
-
 zh"Enemy Hit?!" Avatar
-&
-ja アバター「敵に命中!?」
-)
-uk#Аватар «Влучення?!»
+
+pl"Enemy Hit?!" Avatar
 
 pt"Enemy Hit?!" Avatar
 
 es"Enemy Hit?!" Avatar
 '
 fr!Avatar « Ennemi touché ?! »
+)
+uk#Аватар «Влучення?!»
+&
+ja アバター「敵に命中!?」
 +
 ru%Аватар «Попадание?!».png
 �
@@ -40338,19 +40338,19 @@ D
 
 enRadio Telescope Avatar
 
-plRadio Telescope Avatar
-
 zhRadio Telescope Avatar
-'
-ja!アバター「電波望遠鏡」
-1
-uk+Аватар «Радіотелескоп»
+
+plRadio Telescope Avatar
 
 ptRadio Telescope Avatar
 
 esRadio Telescope Avatar
 
 frAvatar Radiotélescope
+1
+uk+Аватар «Радіотелескоп»
+'
+ja!アバター「電波望遠鏡」
 1
 ru+Аватар «Радиотелескоп».webp
 �
@@ -40358,19 +40358,19 @@ D
 
 enRadio Telescope Avatar
 
-plRadio Telescope Avatar
-
 zhRadio Telescope Avatar
-'
-ja!アバター「電波望遠鏡」
-1
-uk+Аватар «Радіотелескоп»
+
+plRadio Telescope Avatar
 
 ptRadio Telescope Avatar
 
 esRadio Telescope Avatar
 
 frAvatar Radiotélescope
+1
+uk+Аватар «Радіотелескоп»
+'
+ja!アバター「電波望遠鏡」
 1
 ru+Аватар «Радиотелескоп».webp
 �
@@ -40378,13 +40378,9 @@ D
 
 enRadio Telescope Avatar
 
-plRadio Telescope Avatar
-
 zhRadio Telescope Avatar
-'
-ja!アバター「電波望遠鏡」
-1
-uk+Аватар «Радіотелескоп»
+
+plRadio Telescope Avatar
 
 ptRadio Telescope Avatar
 
@@ -40392,25 +40388,29 @@ D
 
 frAvatar Radiotélescope
 1
+uk+Аватар «Радіотелескоп»
+'
+ja!アバター「電波望遠鏡」
+1
 ru+Аватар «Радиотелескоп».webp
 �
 avatar_progressive_bp_46_free_4�
 
 enSonic Wave Avatar
 
-plSonic Wave Avatar
-
 zhSonic Wave Avatar
-"
-jaアバター「Sonic Wave」
-0
-uk*Аватар «Музична хвиля»
+
+plSonic Wave Avatar
 
 ptSonic Wave Avatar
 
 esSonic Wave Avatar
 
 frAvatar Onde sonore
+0
+uk*Аватар «Музична хвиля»
+"
+jaアバター「Sonic Wave」
 &
 ru Аватар «Бьёт бит».webp
 �
@@ -40418,13 +40418,9 @@ D
 
 enHeavenly Niu Avatar
 
-plHeavenly Niu Avatar
-
 zhHeavenly Niu Avatar
-!
-jaアバター「牛大王」
-.
-uk(Аватар «Небесний Ніу»
+
+plHeavenly Niu Avatar
 
 ptHeavenly Niu Avatar
 
@@ -40432,19 +40428,19 @@ D
 
 frAvatar du Niu céleste
 .
+uk(Аватар «Небесний Ніу»
+!
+jaアバター「牛大王」
+.
 ru(Аватар «Небесный Ниу».png
 �
 avatar_TankDay_rare�
 
 enHeads Up! Avatar
 
-plHeads Up! Avatar
-
 zhHeads Up! Avatar
-(
-ja"アバター「気をつけろ!」
-1
-uk+Аватар «Бережи голову!»
+
+plHeads Up! Avatar
 
 ptHeads Up! Avatar
 
@@ -40452,25 +40448,29 @@ D
 
 frAvatar Têtes hautes !
 1
+uk+Аватар «Бережи голову!»
+(
+ja"アバター「気をつけろ!」
+1
 ru+Аватар «Береги голову!».webp
 �
 avatar_progressive_bp_46_free_1�
 
 enSonic Wave Avatar
 
-plSonic Wave Avatar
-
 zhSonic Wave Avatar
-"
-jaアバター「Sonic Wave」
-0
-uk*Аватар «Музична хвиля»
+
+plSonic Wave Avatar
 
 ptSonic Wave Avatar
 
 esSonic Wave Avatar
 
 frAvatar Onde sonore
+0
+uk*Аватар «Музична хвиля»
+"
+jaアバター「Sonic Wave」
 &
 ru Аватар «Бьёт бит».webp
 �
@@ -40478,19 +40478,19 @@ D
 
 enSonic Wave Avatar
 
-plSonic Wave Avatar
-
 zhSonic Wave Avatar
-"
-jaアバター「Sonic Wave」
-0
-uk*Аватар «Музична хвиля»
+
+plSonic Wave Avatar
 
 ptSonic Wave Avatar
 
 esSonic Wave Avatar
 
 frAvatar Onde sonore
+0
+uk*Аватар «Музична хвиля»
+"
+jaアバター「Sonic Wave」
 &
 ru Аватар «Бьёт бит».webp
 �
@@ -40498,19 +40498,19 @@ D
 
 enTankograph Avatar
 
-plTankograph Avatar
-
 zhTankograph Avatar
-0
-ja*アバター「パンツァーグラフ」
-)
-uk#Аватар «Танкограф»
+
+plTankograph Avatar
 
 ptTankograph Avatar
 
 esTankograph Avatar
 
 frAvatar Charographe
+)
+uk#Аватар «Танкограф»
+0
+ja*アバター「パンツァーグラフ」
 )
 ru#Аватар «Танкограф».webp
 �
@@ -40518,13 +40518,9 @@ D
 (
 en"2025战火杯冠军赛顶尖选手
 (
-pl"2025战火杯冠军赛顶尖选手
-(
 zh"2025战火杯冠军赛顶尖选手
 (
-ja"2025战火杯冠军赛顶尖选手
-(
-uk"2025战火杯冠军赛顶尖选手
+pl"2025战火杯冠军赛顶尖选手
 (
 pt"2025战火杯冠军赛顶尖选手
 (
@@ -40532,25 +40528,29 @@ D
 (
 fr"2025战火杯冠军赛顶尖选手
 (
+uk"2025战火杯冠军赛顶尖选手
+(
+ja"2025战火杯冠军赛顶尖选手
+(
 ru"2025战火杯冠军赛顶尖选手.webp
 �
 avatar_2years_legendary�
 
 en2 Victorious Years Avatar
 
-pl2 Victorious Years Avatar
-
 zh2 Victorious Years Avatar
-)
-ja#アバター「誇らしい 2年」
-0
-uk*Аватар «2 роки перемог»
+
+pl2 Victorious Years Avatar
 
 pt2 Victorious Years Avatar
 
 es2 Victorious Years Avatar
 &
 fr Avatar de 2 années victorieuses
+0
+uk*Аватар «2 роки перемог»
+)
+ja#アバター「誇らしい 2年」
 ,
 ru&Аватар «2 года побед».webp
 �
@@ -40558,13 +40558,9 @@ D
 
 enBLTZ9000 Avatar
 
-plBLTZ9000 Avatar
-
 zhBLTZ9000 Avatar
- 
-jaアバター「BLTZ9000」
 
-ukBLTZ9000 Avatar
+plBLTZ9000 Avatar
 
 ptBLTZ9000 Avatar
 
@@ -40572,19 +40568,19 @@ D
 
 frAvatar BLTZ9000
 
+ukBLTZ9000 Avatar
+ 
+jaアバター「BLTZ9000」
+
 ruBLTZ9000 Avatar.webp
 �
 avatar_progressive_bp_32_free_4�
 
 enTankograph Avatar
 
-plTankograph Avatar
-
 zhTankograph Avatar
-0
-ja*アバター「パンツァーグラフ」
-)
-uk#Аватар «Танкограф»
+
+plTankograph Avatar
 
 ptTankograph Avatar
 
@@ -40592,25 +40588,29 @@ D
 
 frAvatar Charographe
 )
+uk#Аватар «Танкограф»
+0
+ja*アバター「パンツァーグラフ」
+)
 ru#Аватар «Танкограф».webp
 �
 avatar_progressive_boss_wins_3�
 
 enFortium Source Avatar
 
-plFortium Source Avatar
-
 zhFortium Source Avatar
-$
-jaフォルティウムの原石
-6
-uk0Аватар «Джерело Фортіуму»
+
+plFortium Source Avatar
 
 ptFortium Source Avatar
 
 esFortium Source Avatar
 
 frAvatar Source de Fortium
+6
+uk0Аватар «Джерело Фортіуму»
+$
+jaフォルティウムの原石
 8
 ru2Аватар «Источник Фортиума».webp
 �
@@ -40618,13 +40618,9 @@ $
 
 enHoodlum Joe
 
-plHoodlum Joe
-
 zhHoodlum Joe
-
-jaチンピラのジョー
-
-ukГромила Джо
+
+plHoodlum Joe
 
 ptHoodlum Joe
 
@@ -40632,25 +40628,29 @@ $
 
 frJoe le voyou
 
+ukГромила Джо
+
+jaチンピラのジョー
+
 ruГромила Джо.png
 �
 avatar_halloween2020_raider_4�
 
 enFreaky Grock
 
-plFreaky Grock
-
 zhFreaky Grock
-
-ja異常なグロック
-#
-ukМоторошний Грок
+
+plFreaky Grock
 
 ptFreaky Grock
 
 esFreaky Grock
 
 frGrock le clown
+#
+ukМоторошний Грок
+
+ja異常なグロック
 
 ruЖуткий Грок.png
 �
@@ -40658,19 +40658,19 @@ $
 
 enNameless
 
-plNameless
-
 zhNameless
-
-ja	ナナシ
-
-ukБезіменна
+
+plNameless
 
 ptNameless
 
 esNameless
 
 frSans nom
+
+ukБезіменна
+
+ja	ナナシ
 
 ruБезымянная.png
 �
@@ -40678,19 +40678,19 @@ $
 
 enWorthy Avatar
 
-plWorthy Avatar
-
 zhWorthy Avatar
-*
-ja$アバター「正当な継承者」
-<
-uk6Аватар «Зухвалий переможець»
+
+plWorthy Avatar
 
 ptWorthy Avatar
 
 esWorthy Avatar
 
 frAvatar de mérite
+<
+uk6Аватар «Зухвалий переможець»
+*
+ja$アバター「正当な継承者」
 :
 ru4Аватар «Дерзкий победитель».png
 �
@@ -40698,19 +40698,19 @@ $
 
 enBadge of Victory Avatar
 
-plBadge of Victory Avatar
-
 zhBadge of Victory Avatar
-*
-ja$アバター「勝利のバッジ」
-6
-uk0Аватар «Тріумф переможця»
+
+plBadge of Victory Avatar
 
 ptBadge of Victory Avatar
 
 esBadge of Victory Avatar
 #
 frAvatar Insigne de la victoire
+6
+uk0Аватар «Тріумф переможця»
+*
+ja$アバター「勝利のバッジ」
 8
 ru2Аватар «Триумф победителя».webp
 �
@@ -40718,19 +40718,19 @@ $
 
 enGraSqueakati Avatar
 
-plGraSqueakati Avatar
-
 zhGraSqueakati Avatar
--
-ja'アバター「グヮッフィティ」
-%
-ukАватар «Кряфіті»
+
+plGraSqueakati Avatar
 
 ptGraSqueakati Avatar
 
 esGraSqueakati Avatar
 
 frAvatar Graffiti de canard
+%
+ukАватар «Кряфіті»
+-
+ja'アバター「グヮッフィティ」
 '
 ru!Аватар «Кряффити».webp
 �
@@ -40738,13 +40738,9 @@ $avatar_progressive_bp_37_ruby_paid_5�
 2
 en,Аватар «Куст крякающий»
 2
-pl,Аватар «Куст крякающий»
-2
 zh,Аватар «Куст крякающий»
 2
-ja,Аватар «Куст крякающий»
-2
-uk,Аватар «Куст крякающий»
+pl,Аватар «Куст крякающий»
 2
 pt,Аватар «Куст крякающий»
 2
@@ -40752,19 +40748,19 @@ $avatar_progressive_bp_37_ruby_paid_5�
 2
 fr,Аватар «Куст крякающий»
 2
+uk,Аватар «Куст крякающий»
+2
+ja,Аватар «Куст крякающий»
+2
 ru,Аватар «Куст крякающий».webp
 �
 avatar_saychees_legendary_eu�
 
 enSay CHEESE! Avatar
 
-plSay CHEESE! Avatar
-
 zhSay CHEESE! Avatar
-+
-ja%アバター「はい、チーズ!」
-.
-uk(Аватар «Скажіть: Сир!»
+
+plSay CHEESE! Avatar
 
 ptSay CHEESE! Avatar
 
@@ -40772,25 +40768,29 @@ $avatar_progressive_bp_37_ruby_paid_5�
 
 frAvatar Dites CHEESE !
 .
+uk(Аватар «Скажіть: Сир!»
++
+ja%アバター「はい、チーズ!」
+.
 ru(Аватар «Скажите: Сыр!».webp
 �
 $avatar_progressive_bp_33_ruby_free_2�
 6
 en0Аватар «Разбуженный маяк»
 6
-pl0Аватар «Разбуженный маяк»
-6
 zh0Аватар «Разбуженный маяк»
 6
-ja0Аватар «Разбуженный маяк»
-6
-uk0Аватар «Разбуженный маяк»
+pl0Аватар «Разбуженный маяк»
 6
 pt0Аватар «Разбуженный маяк»
 6
 es0Аватар «Разбуженный маяк»
 6
 fr0Аватар «Разбуженный маяк»
+6
+uk0Аватар «Разбуженный маяк»
+6
+ja0Аватар «Разбуженный маяк»
 :
 ru4Аватар «Поворот реальности».webp
 �
@@ -40798,19 +40798,19 @@ $avatar_progressive_bp_33_ruby_free_2�
 
 enNotorious Fan Avatar
 
-plNotorious Fan Avatar
-
 zhNotorious Fan Avatar
-+
-ja%アバター「Notorious ファン」
-9
-uk3Аватар «Вболівальник Notorious»
+
+plNotorious Fan Avatar
 
 ptNotorious Fan Avatar
 
 esNotorious Fan Avatar
 '
 fr!Avatar du passionné de Notorious
+9
+uk3Аватар «Вболівальник Notorious»
++
+ja%アバター「Notorious ファン」
 3
 ru-Аватар «Болельщик Notorious».webp
 �
@@ -40818,19 +40818,19 @@ $avatar_progressive_bp_33_ruby_free_2�
 
 enLet Them Lie Avatar
 
-plLet Them Lie Avatar
-
 zhLet Them Lie Avatar
-3
-ja-アバター「誰も起きてはならぬ」
-?
-uk9Аватар «Краще б їм не вставати»
+
+plLet Them Lie Avatar
 
 ptLet Them Lie Avatar
 
 esLet Them Lie Avatar
 
 frAvatar Reposez en paix
+?
+uk9Аватар «Краще б їм не вставати»
+3
+ja-アバター「誰も起きてはならぬ」
 .
 ru(Аватар «Спи спокойно».webp
 �
@@ -40838,19 +40838,19 @@ $avatar_progressive_bp_33_ruby_free_2�
 
 enMax Holloway Avatar
 
-plMax Holloway Avatar
-
 zhMax Holloway Avatar
-$
-jaアバター「Max Holloway」
-
-ukАватар Max Holloway
+
+plMax Holloway Avatar
 
 ptMax Holloway Avatar
 
 esMax Holloway Avatar
 
 frAvatar de Max Holloway
+
+ukАватар Max Holloway
+$
+jaアバター「Max Holloway」
 0
 ru*Аватар «Макс Холлоуэй».webp
 �
@@ -40858,13 +40858,9 @@ $
 
 enSpark Avatar
 
-plSpark Avatar
-
 zhSpark Avatar
-
-jaアバター「Spark」
-
-ukАватар Spark
+
+plSpark Avatar
 
 ptSpark Avatar
 
@@ -40872,25 +40868,29 @@ $
 
 frAvatar Spark
 
+ukАватар Spark
+
+jaアバター「Spark」
+
 ruАватар Spark.webp
 �
  avatar_arena_top1_anim_legendary�
 '
 en!Arena Competition Animated Avatar
 '
-pl!Arena Competition Animated Avatar
-'
 zh!Arena Competition Animated Avatar
-D
-ja>アニメーション付きアバター「Arena Competition」
-9
-uk3Анімований аватар Arena Competition
+'
+pl!Arena Competition Animated Avatar
 '
 pt!Arena Competition Animated Avatar
 '
 es!Arena Competition Animated Avatar
 %
 frAvatar animé Arena Competition
+9
+uk3Анімований аватар Arena Competition
+D
+ja>アニメーション付きアバター「Arena Competition」
 ?
 ru9Анимированный аватар Arena Competition.webp
 �
@@ -40898,19 +40898,19 @@ D
 
 enGravitas Fan Avatar
 
-plGravitas Fan Avatar
-
 zhGravitas Fan Avatar
-*
-ja$アバター「Gravitas ファン」
-8
-uk2Аватар «Вболівальник Gravitas»
+
+plGravitas Fan Avatar
 
 ptGravitas Fan Avatar
 
 esGravitas Fan Avatar
 &
 fr Avatar du passionné de Gravitas
+8
+uk2Аватар «Вболівальник Gravitas»
+*
+ja$アバター「Gravitas ファン」
 2
 ru,Аватар «Болельщик Gravitas».webp
 �
@@ -40918,19 +40918,19 @@ D
 #
 enSpain Playoff Animated Avatar
 #
-plSpain Playoff Animated Avatar
-#
 zhSpain Playoff Animated Avatar
-@
-ja:アニメーション付きアバター「Spain Playoff」
-5
-uk/Анімований аватар Spain Playoff
+#
+plSpain Playoff Animated Avatar
 #
 ptSpain Playoff Animated Avatar
 #
 esSpain Playoff Animated Avatar
 !
 frAvatar animé Spain Playoff
+5
+uk/Анімований аватар Spain Playoff
+@
+ja:アニメーション付きアバター「Spain Playoff」
 ;
 ru5Анимированный аватар Spain Playoff.webp
 �
@@ -40938,13 +40938,9 @@ D
 
 enMenacing Grin Avatar
 
-plMenacing Grin Avatar
-
 zhMenacing Grin Avatar
-'
-ja!アバター「不敵な笑み」
-0
-uk*Аватар «Грізний оскал»
+
+plMenacing Grin Avatar
 
 ptMenacing Grin Avatar
 
@@ -40952,25 +40948,29 @@ D
 !
 frAvatar de sourire menaçant
 0
+uk*Аватар «Грізний оскал»
+'
+ja!アバター「不敵な笑み」
+0
 ru*Аватар «Грозный оскал».png
 �
 avatar_smiley_deer_common_168h�
 %
 en"Deer in the Headlights" Avatar
 %
-pl"Deer in the Headlights" Avatar
-%
 zh"Deer in the Headlights" Avatar
-9
-ja3アバター「死の恐怖に呆然とした鹿」
-#
-ukАватар «Оленяр»
+%
+pl"Deer in the Headlights" Avatar
 %
 pt"Deer in the Headlights" Avatar
 %
 es"Deer in the Headlights" Avatar
 
 frAvatar « Sidéré »
+#
+ukАватар «Оленяр»
+9
+ja3アバター「死の恐怖に呆然とした鹿」
 '
 ru!Аватар «Оленевод».png
 �
@@ -40978,19 +40978,19 @@ D
 
 enBlitz Cup Fan Avatar
 
-plBlitz Cup Fan Avatar
-
 zhBlitz Cup Fan Avatar
-+
-ja%アバター「Blitz Cup ファン」
-9
-uk3Аватар «Вболівальник Blitz Cup»
+
+plBlitz Cup Fan Avatar
 
 ptBlitz Cup Fan Avatar
 
 esBlitz Cup Fan Avatar
 *
 fr$Avatar du Passionné de la Blitz Cup
+9
+uk3Аватар «Вболівальник Blitz Cup»
++
+ja%アバター「Blitz Cup ファン」
 3
 ru-Аватар «Болельщик Blitz Cup».webp
 �
@@ -40998,19 +40998,19 @@ D
 
 enFiXX0rs Animated Avatar
 
-plFiXX0rs Animated Avatar
-
 zhFiXX0rs Animated Avatar
-:
-ja4アニメーション付きアバター「FiXX0rs」
-/
-uk)Анімований аватар FiXX0rs
+
+plFiXX0rs Animated Avatar
 
 ptFiXX0rs Animated Avatar
 
 esFiXX0rs Animated Avatar
 
 frAvatar animé des FiXX0rs
+/
+uk)Анімований аватар FiXX0rs
+:
+ja4アニメーション付きアバター「FiXX0rs」
 5
 ru/Анимированный аватар FiXX0rs.webp
 �
@@ -41018,19 +41018,19 @@ D
 
 enChanging Landscape Avatar
 
-plChanging Landscape Avatar
-
 zhChanging Landscape Avatar
--
-ja'アバター「変わりゆく風景」
-4
-uk.Аватар «Зміна ландшафту»
+
+plChanging Landscape Avatar
 
 ptChanging Landscape Avatar
 
 esChanging Landscape Avatar
 "
 frAvatar Changement de paysage
+4
+uk.Аватар «Зміна ландшафту»
+-
+ja'アバター「変わりゆく風景」
 6
 ru0Аватар «Смена обстановки».webp
 �
@@ -41038,13 +41038,9 @@ D
 
 enMegalion Avatar
 
-plMegalion Avatar
-
 zhMegalion Avatar
- 
-jaアバター「Megalion」
-
-ukАватар Megalion
+
+plMegalion Avatar
 
 ptMegalion Avatar
 
@@ -41052,25 +41048,29 @@ D
 
 frAvatar Megalion
 
+ukАватар Megalion
+ 
+jaアバター「Megalion」
+
 ruАватар Megalion.webp
 �
 avatar_progressive_bp_8_paid_1�
 
 enStellar Traveller Avatar
 
-plStellar Traveller Avatar
-
 zhStellar Traveller Avatar
-$
-jaアバター「星の旅人」
-:
-uk4Аватар «Зоряний мандрівник»
+
+plStellar Traveller Avatar
 
 ptStellar Traveller Avatar
 
 esStellar Traveller Avatar
 "
 frAvatar du voyageur stellaire
+:
+uk4Аватар «Зоряний мандрівник»
+$
+jaアバター「星の旅人」
 8
 ru2Аватар «Звёздный странник».png
 �
@@ -41078,13 +41078,9 @@ $
 
 enSecret Ingredient Avatar
 
-plSecret Ingredient Avatar
-
 zhSecret Ingredient Avatar
-*
-ja$アバター「おいしい秘訣」
->
-uk8Аватар «Секретний інгредієнт»
+
+plSecret Ingredient Avatar
 
 ptSecret Ingredient Avatar
 
@@ -41092,25 +41088,29 @@ $
 
 frAvatar Ingrédient secret
 >
+uk8Аватар «Секретний інгредієнт»
+*
+ja$アバター「おいしい秘訣」
+>
 ru8Аватар «Секретный ингредиент».webp
 �
 avatar_progressive_bp_37_paid_4�
 
 enTop Secret Avatar
 
-plTop Secret Avatar
-
 zhTop Secret Avatar
-6
-ja0アバター「トップ・シークレット」
-0
-uk*Аватар «Цілком таємно»
+
+plTop Secret Avatar
 
 ptTop Secret Avatar
 
 esTop Secret Avatar
 
 frAvatar Top secret
+0
+uk*Аватар «Цілком таємно»
+6
+ja0アバター「トップ・シークレット」
 <
 ru6Аватар «Совершенно секретно».webp
 �
@@ -41118,19 +41118,19 @@ $
 
 enTop Secret Avatar
 
-plTop Secret Avatar
-
 zhTop Secret Avatar
-6
-ja0アバター「トップ・シークレット」
-0
-uk*Аватар «Цілком таємно»
+
+plTop Secret Avatar
 
 ptTop Secret Avatar
 
 esTop Secret Avatar
 
 frAvatar Top secret
+0
+uk*Аватар «Цілком таємно»
+6
+ja0アバター「トップ・シークレット」
 <
 ru6Аватар «Совершенно секретно».webp
 �
@@ -41138,19 +41138,19 @@ $
 
 enTop Secret Avatar
 
-plTop Secret Avatar
-
 zhTop Secret Avatar
-6
-ja0アバター「トップ・シークレット」
-0
-uk*Аватар «Цілком таємно»
+
+plTop Secret Avatar
 
 ptTop Secret Avatar
 
 esTop Secret Avatar
 
 frAvatar Top secret
+0
+uk*Аватар «Цілком таємно»
+6
+ja0アバター「トップ・シークレット」
 <
 ru6Аватар «Совершенно секретно».webp
 �
@@ -41158,19 +41158,19 @@ $
 
 enTop Secret Avatar
 
-plTop Secret Avatar
-
 zhTop Secret Avatar
-6
-ja0アバター「トップ・シークレット」
-0
-uk*Аватар «Цілком таємно»
+
+plTop Secret Avatar
 
 ptTop Secret Avatar
 
 esTop Secret Avatar
 
 frAvatar Top secret
+0
+uk*Аватар «Цілком таємно»
+6
+ja0アバター「トップ・シークレット」
 <
 ru6Аватар «Совершенно секретно».webp
 �
@@ -41178,19 +41178,19 @@ $
 
 enTop Secret Avatar
 
-plTop Secret Avatar
-
 zhTop Secret Avatar
-6
-ja0アバター「トップ・シークレット」
-0
-uk*Аватар «Цілком таємно»
+
+plTop Secret Avatar
 
 ptTop Secret Avatar
 
 esTop Secret Avatar
 
 frAvatar Top secret
+0
+uk*Аватар «Цілком таємно»
+6
+ja0アバター「トップ・シークレット」
 <
 ru6Аватар «Совершенно секретно».webp
 �
@@ -41198,13 +41198,9 @@ $
 
 enHonos Avatar
 
-plHonos Avatar
-
 zhHonos Avatar
-
-jaアバター「名誉」
-
-ukАватар Honos
+
+plHonos Avatar
 
 ptHonos Avatar
 
@@ -41212,25 +41208,29 @@ $
 
 frAvatar Honos
 
+ukАватар Honos
+
+jaアバター「名誉」
+
 ruАватар Honos.png
 �
 %avatar_dec24advent_legendary_animated�
 "
 enRemixed mau5 Animated Avatar
 "
-plRemixed mau5 Animated Avatar
-"
 zhRemixed mau5 Animated Avatar
-?
-ja9アニメーション付きアバター「Remixed mau5」
-4
-uk.Анімований аватар Remixed mau5
+"
+plRemixed mau5 Animated Avatar
 "
 ptRemixed mau5 Animated Avatar
 "
 esRemixed mau5 Animated Avatar
 $
 frAvatar animé Remixé par mau5
+4
+uk.Анімований аватар Remixed mau5
+?
+ja9アニメーション付きアバター「Remixed mau5」
 :
 ru4Анимированный аватар Remixed mau5.webp
 �
@@ -41238,13 +41238,9 @@ $
 
 enZurawik Avatar
 
-plZurawik Avatar
-
 zhZurawik Avatar
-
-jaアバター「Zurawik」
-
-ukАватар Zurawik
+
+plZurawik Avatar
 
 ptZurawik Avatar
 
@@ -41252,25 +41248,29 @@ $
 
 frAvatar Zurawik
 
+ukАватар Zurawik
+
+jaアバター「Zurawik」
+
 ruАватар Zurawik.webp
 �
 avatar_progressive_bp_54_paid_3�
 
 enEye in the Sky Avatar
 
-plEye in the Sky Avatar
-
 zhEye in the Sky Avatar
-'
-ja!アバター「空からの目」
-)
-uk#Аватар «Очі в небі»
+
+plEye in the Sky Avatar
 
 ptEye in the Sky Avatar
 
 esEye in the Sky Avatar
 
 frAvatar Œil dans le ciel
+)
+uk#Аватар «Очі в небі»
+'
+ja!アバター「空からの目」
 +
 ru%Аватар «Глаз в небе».webp
 �
@@ -41278,13 +41278,9 @@ $
 
 enSanta Tower Avatar
 
-plSanta Tower Avatar
-
 zhSanta Tower Avatar
--
-ja'アバター「サンタ・タワー」
-5
-uk/Аватар «Під бій курантів»
+
+plSanta Tower Avatar
 
 ptSanta Tower Avatar
 
@@ -41292,25 +41288,29 @@ $
  
 frAvatar Tour du Père Noël
 5
+uk/Аватар «Під бій курантів»
+-
+ja'アバター「サンタ・タワー」
+5
 ru/Аватар «Под бой курантов».webp
 �
 avatar_progressive_bp_54_paid_5�
 
 enEye in the Sky Avatar
 
-plEye in the Sky Avatar
-
 zhEye in the Sky Avatar
-'
-ja!アバター「空からの目」
-)
-uk#Аватар «Очі в небі»
+
+plEye in the Sky Avatar
 
 ptEye in the Sky Avatar
 
 esEye in the Sky Avatar
 
 frAvatar Œil dans le ciel
+)
+uk#Аватар «Очі в небі»
+'
+ja!アバター「空からの目」
 +
 ru%Аватар «Глаз в небе».webp
 �
@@ -41318,19 +41318,19 @@ $
 
 enEye in the Sky Avatar
 
-plEye in the Sky Avatar
-
 zhEye in the Sky Avatar
-'
-ja!アバター「空からの目」
-)
-uk#Аватар «Очі в небі»
+
+plEye in the Sky Avatar
 
 ptEye in the Sky Avatar
 
 esEye in the Sky Avatar
 
 frAvatar Œil dans le ciel
+)
+uk#Аватар «Очі в небі»
+'
+ja!アバター「空からの目」
 +
 ru%Аватар «Глаз в небе».webp
 �
@@ -41338,13 +41338,9 @@ $
 
 en[IKPA] PAKA Clan Avatar
 
-pl[IKPA] PAKA Clan Avatar
-
 zh[IKPA] PAKA Clan Avatar
--
-ja'アバター「クラン [IKPA] PAKA」
-+
-uk%Аватар «Клан [IKPA] PAKA»
+
+pl[IKPA] PAKA Clan Avatar
 
 pt[IKPA] PAKA Clan Avatar
 
@@ -41352,25 +41348,29 @@ $
  
 frAvatar du clan [IKPA] PAKA
 +
+uk%Аватар «Клан [IKPA] PAKA»
+-
+ja'アバター「クラン [IKPA] PAKA」
++
 ru%Аватар «Клан [IKPA] PAKA».webp
 �
 avatar_hlw2023_Mummy�
 
 enPharaoh Commander Avatar
 
-plPharaoh Commander Avatar
-
 zhPharaoh Commander Avatar
-2
-ja,アバター「Pharaoh のキャプテン」
-/
-uk)Аватар «Командир Pharaoh»
+
+plPharaoh Commander Avatar
 
 ptPharaoh Commander Avatar
 
 esPharaoh Commander Avatar
 "
 frAvatar Commandant du Pharaoh
+/
+uk)Аватар «Командир Pharaoh»
+2
+ja,アバター「Pharaoh のキャプテン」
 6
 ru0Аватар «Командир Фараона».webp
 �
@@ -41378,13 +41378,9 @@ $
 
 enAgent Avatar
 
-plAgent Avatar
-
 zhAgent Avatar
-!
-jaアバター「諜報員」
-*
-uk$Аватар «Диверсант»
+
+plAgent Avatar
 
 ptAgent Avatar
 
@@ -41392,25 +41388,29 @@ $
 
 frAvatar de l'agent
 *
+uk$Аватар «Диверсант»
+!
+jaアバター「諜報員」
+*
 ru$Аватар «Диверсант».png
 �
 avatar_progressive_Warrior_3�
 
 enCenturion Avatar
 
-plCenturion Avatar
-
 zhCenturion Avatar
-$
-jaアバター「百人隊長」
-!
-ukАватар «Лицар»
+
+plCenturion Avatar
 
 ptCenturion Avatar
 
 esCenturion Avatar
 
 frAvatar de centurion
+!
+ukАватар «Лицар»
+$
+jaアバター「百人隊長」
 #
 ruАватар «Рыцарь».png
 �
@@ -41418,19 +41418,19 @@ $
 
 enRaven's Realm Avatar
 
-plRaven's Realm Avatar
-
 zhRaven's Realm Avatar
-$
-jaアバター「鴉の領分」
-6
-uk0Аватар «Вороняче царство»
+
+plRaven's Realm Avatar
 
 ptRaven's Realm Avatar
 
 esRaven's Realm Avatar
 
 frAvatar Royaume du corbeau
+6
+uk0Аватар «Вороняче царство»
+$
+jaアバター「鴉の領分」
 2
 ru,Аватар «Царство ворона».webp
 �
@@ -41438,13 +41438,9 @@ $
 
 en"Blast Off!" Avatar
 
-pl"Blast Off!" Avatar
-
 zh"Blast Off!" Avatar
-
-jaアバター「発射!」
-1
-uk+Аватар «Просто космос!»
+
+pl"Blast Off!" Avatar
 
 pt"Blast Off!" Avatar
 
@@ -41452,25 +41448,29 @@ $
 !
 frAvatar « Décollez ! »
 1
+uk+Аватар «Просто космос!»
+
+jaアバター「発射!」
+1
 ru+Аватар «Просто космос!».png
 �
 avatar_lesta_legendary�
 
 enAll Together Avatar
 
-plAll Together Avatar
-
 zhAll Together Avatar
 
-jaAll Together Avatar
-
-ukAll Together Avatar
+plAll Together Avatar
 
 ptAll Together Avatar
 
 esAll Together Avatar
 
 frAll Together Avatar
+
+ukAll Together Avatar
+
+jaAll Together Avatar
 /
 ru)Аватар «Всё сложится!».webp
 �
@@ -41478,13 +41478,9 @@ $
 
 enForever Yours Avatar
 
-plForever Yours Avatar
-
 zhForever Yours Avatar
-3
-ja-アバター「永遠にあなたのもの」
-,
-uk&Аватар «Твій навіки»
+
+plForever Yours Avatar
 
 ptForever Yours Avatar
 
@@ -41492,25 +41488,29 @@ $
 !
 frAvatar À toi pour toujours
 ,
+uk&Аватар «Твій навіки»
+3
+ja-アバター「永遠にあなたのもの」
+,
 ru&Аватар «Твой навеки».png
 �
 avatar_2026_flea_gold_anim�
 $
 enIron Heartbeat Animated Avatar
 $
-plIron Heartbeat Animated Avatar
-$
 zhIron Heartbeat Animated Avatar
-?
-ja9アニメーション付きアバター「鋼の鼓動」
-E
-uk?Анімований аватар «Залізне серце»
+$
+plIron Heartbeat Animated Avatar
 $
 ptIron Heartbeat Animated Avatar
 $
 esIron Heartbeat Animated Avatar
 *
 fr$Avatar animé Cœur de fer palpitant
+E
+uk?Анімований аватар «Залізне серце»
+?
+ja9アニメーション付きアバター「鋼の鼓動」
 O
 ruIАнимированный аватар «Железное сердце».webp
 �
@@ -41518,13 +41518,9 @@ O
 
 enBOOM mau5 Avatar
 
-plBOOM mau5 Avatar
-
 zhBOOM mau5 Avatar
-!
-jaアバター「BOOM mau5」
-
-ukАватар BOOM mau5
+
+plBOOM mau5 Avatar
 
 ptBOOM mau5 Avatar
 
@@ -41532,19 +41528,19 @@ O
 
 frAvatar BOOM mau5
 
+ukАватар BOOM mau5
+!
+jaアバター「BOOM mau5」
+
 ruАватар BOOM mau5.webp
 �
 avatar_hammer_unique�
 
 enTriumph of Power Avatar
 
-plTriumph of Power Avatar
-
 zhTriumph of Power Avatar
-'
-ja!アバター「大いなる力」
-,
-uk&Аватар «Тріумф сили»
+
+plTriumph of Power Avatar
 
 ptTriumph of Power Avatar
 
@@ -41552,19 +41548,19 @@ O
 (
 fr"Avatar du triomphe de la puissance
 ,
+uk&Аватар «Тріумф сили»
+'
+ja!アバター「大いなる力」
+,
 ru&Аватар «Триумф силы».png
 �
 avatar_pixel_panzer_common_72h�
 
 enPixel Tank Avatar
 
-plPixel Tank Avatar
-
 zhPixel Tank Avatar
-*
-ja$アバター「ピクセル戦車」
-4
-uk.Аватар «Піксельний танк»
+
+plPixel Tank Avatar
 
 ptPixel Tank Avatar
 
@@ -41572,25 +41568,29 @@ O
 
 frAvatar de char pixelisé
 4
+uk.Аватар «Піксельний танк»
+*
+ja$アバター「ピクセル戦車」
+4
 ru.Аватар «Пиксельный танк».png
 �
 avatar_progressive_bp_30_free_1�
 #
 enSong of Four Guardians Avatar
 #
-plSong of Four Guardians Avatar
-#
 zhSong of Four Guardians Avatar
-$
-jaアバター「神獣四歌」
-H
-ukBАватар «Пісня про чотирьох стражів»
+#
+plSong of Four Guardians Avatar
 #
 ptSong of Four Guardians Avatar
 #
 esSong of Four Guardians Avatar
 &
 fr Avatar Chant des quatre gardiens
+H
+ukBАватар «Пісня про чотирьох стражів»
+$
+jaアバター「神獣四歌」
 B
 ru<Аватар «Песнь о четырёх стражах».webp
 �
@@ -41598,13 +41598,9 @@ B
 
 enTriumphant Avatar
 
-plTriumphant Avatar
-
 zhTriumphant Avatar
-
-jaアバター「勝利」
 
-ukTriumphant Avatar
+plTriumphant Avatar
 
 ptTriumphant Avatar
 
@@ -41612,19 +41608,19 @@ B
 
 frAvatar triomphant
 
+ukTriumphant Avatar
+
+jaアバター「勝利」
+
 ruTriumphant Avatar.webp
 �
 avatar_bp_58_bundle�
 
 enTransceiver Avatar
 
-plTransceiver Avatar
-
 zhTransceiver Avatar
-#
-jaアバター「Transceiver」
-
-ukАватар Transceiver
+
+plTransceiver Avatar
 
 ptTransceiver Avatar
 
@@ -41632,25 +41628,29 @@ B
 
 frAvatar Transmetteur
 
+ukАватар Transceiver
+#
+jaアバター「Transceiver」
+
 ruАватар Transceiver.webp
 �
 avatar_German_legendary�
 
 enOut of Bounds Avatar
 
-plOut of Bounds Avatar
-
 zhOut of Bounds Avatar
-*
-ja$アバター「遥か高みから」
-,
-uk&Аватар «Поза межами»
+
+plOut of Bounds Avatar
 
 ptOut of Bounds Avatar
 
 esOut of Bounds Avatar
 
 frAvatar Hors d'atteinte
+,
+uk&Аватар «Поза межами»
+*
+ja$アバター「遥か高みから」
 *
 ru$Аватар «Без границ».webp
 �
@@ -41658,19 +41658,19 @@ B
 
 enHelp-O-Tron 5000 Avatar
 
-plHelp-O-Tron 5000 Avatar
-
 zhHelp-O-Tron 5000 Avatar
-0
-ja*アバター「オービット・パル」
-9
-uk3Аватар «Помічник на орбіті»
+
+plHelp-O-Tron 5000 Avatar
 
 ptHelp-O-Tron 5000 Avatar
 
 esHelp-O-Tron 5000 Avatar
 $
 frAvatar du Robot-Assistant 5000
+9
+uk3Аватар «Помічник на орбіті»
+0
+ja*アバター「オービット・パル」
 1
 ru+Аватар «Друг на орбите».webp
 �
@@ -41678,19 +41678,19 @@ $
 
 enHelp-O-Tron 5000 Avatar
 
-plHelp-O-Tron 5000 Avatar
-
 zhHelp-O-Tron 5000 Avatar
-0
-ja*アバター「オービット・パル」
-9
-uk3Аватар «Помічник на орбіті»
+
+plHelp-O-Tron 5000 Avatar
 
 ptHelp-O-Tron 5000 Avatar
 
 esHelp-O-Tron 5000 Avatar
 $
 frAvatar du Robot-Assistant 5000
+9
+uk3Аватар «Помічник на орбіті»
+0
+ja*アバター「オービット・パル」
 1
 ru+Аватар «Друг на орбите».webp
 �
@@ -41698,19 +41698,19 @@ $
 #
 enSong of Four Guardians Avatar
 #
-plSong of Four Guardians Avatar
-#
 zhSong of Four Guardians Avatar
-$
-jaアバター「神獣四歌」
-H
-ukBАватар «Пісня про чотирьох стражів»
+#
+plSong of Four Guardians Avatar
 #
 ptSong of Four Guardians Avatar
 #
 esSong of Four Guardians Avatar
 &
 fr Avatar Chant des quatre gardiens
+H
+ukBАватар «Пісня про чотирьох стражів»
+$
+jaアバター「神獣四歌」
 B
 ru<Аватар «Песнь о четырёх стражах».webp
 �
@@ -41718,13 +41718,9 @@ B
 &
 en Autumn Season Participant Avatar
 &
-pl Autumn Season Participant Avatar
-&
 zh Autumn Season Participant Avatar
-9
-ja3アバター「オータムシーズン参加者」
-E
-uk?Аватар «Учасник Осіннього сезону»
+&
+pl Autumn Season Participant Avatar
 &
 pt Autumn Season Participant Avatar
 &
@@ -41732,25 +41728,29 @@ E
 2
 fr,Avatar de participant de la Saison automnale
 E
+uk?Аватар «Учасник Осіннього сезону»
+9
+ja3アバター「オータムシーズン参加者」
+E
 ru?Аватар «Участник Осеннего сезона».png
 �
 avatar_dragon_ver1�
 
 enФонарик
 
-plФонарик
-
 zhФонарик
 
-jaФонарик
-
-ukФонарик
+plФонарик
 
 ptФонарик
 
 esФонарик
 
 frФонарик
+
+ukФонарик
+
+jaФонарик
 
 ruДракон.png
 �
@@ -41758,19 +41758,19 @@ E
 
 enHigh Score Avatar
 
-plHigh Score Avatar
-
 zhHigh Score Avatar
-+
-ja%アバター「目指せ新記録!」
-2
-uk,Аватар «Поб'ємо рекорд?»
+
+plHigh Score Avatar
 
 ptHigh Score Avatar
 
 esHigh Score Avatar
 
 frAvatar High Score
+2
+uk,Аватар «Поб'ємо рекорд?»
++
+ja%アバター「目指せ新記録!」
 1
 ru+Аватар «Побьём рекорд?».webp
 �
@@ -41779,15 +41779,11 @@ E
 en
 One Avatar
 
-pl
-One Avatar
-
 zh
 One Avatar
-
-jaアバター「One」
-
-ukАватар One
+
+pl
+One Avatar
 
 pt
 One Avatar
@@ -41797,25 +41793,29 @@ One Avatar
 
 frAvatar de One
 
+ukАватар One
+
+jaアバター「One」
+
 ruАватар One.png
 �
 avatar_progressive_bp_52_paid_1�
 
 enHoliday Warmth Avatar
 
-plHoliday Warmth Avatar
-
 zhHoliday Warmth Avatar
-*
-ja$アバター「ホリデー日和」
-8
-uk2Аватар «Святковий затишок»
+
+plHoliday Warmth Avatar
 
 ptHoliday Warmth Avatar
 
 esHoliday Warmth Avatar
  
 frAvatar Fêtes chaleureuses
+8
+uk2Аватар «Святковий затишок»
+*
+ja$アバター「ホリデー日和」
 2
 ru,Аватар «Новогодний уют».webp
 �
@@ -41823,19 +41823,19 @@ One Avatar
 !
 enLucky Blitz Animated Avatar
 !
-plLucky Blitz Animated Avatar
-!
 zhLucky Blitz Animated Avatar
-N
-jaHアニメーション付きアバター「ラッキー・ブリッツ」
-D
-uk>Анімований аватар «Щасливець Blitz»
+!
+plLucky Blitz Animated Avatar
 !
 ptLucky Blitz Animated Avatar
 !
 esLucky Blitz Animated Avatar
 "
 frAvatar animé Blitz chanceux
+D
+uk>Анімований аватар «Щасливець Blitz»
+N
+jaHアニメーション付きアバター「ラッキー・ブリッツ」
 J
 ruDАнимированный аватар «Удачливый Blitz».webp
 �
@@ -41843,13 +41843,9 @@ J
  
 en"Let's Crush This!" Avatar
  
-pl"Let's Crush This!" Avatar
- 
 zh"Let's Crush This!" Avatar
-(
-ja"アバター「ぶっ壊すぞ!」
-'
-uk!Аватар «Дам жару!»
+ 
+pl"Let's Crush This!" Avatar
  
 pt"Let's Crush This!" Avatar
  
@@ -41857,25 +41853,29 @@ J
 "
 frAvatar « Écrasons-les »
 '
+uk!Аватар «Дам жару!»
+(
+ja"アバター「ぶっ壊すぞ!」
+'
 ru!Аватар «Дам жару!».png
 �
 "avatar_progressive_vampiric_heal_5�
 
 enJaws of Life Avatar
 
-plJaws of Life Avatar
-
 zhJaws of Life Avatar
-$
-jaアバター「緊急援助」
-4
-uk.Аватар «Швидка допомога»
+
+plJaws of Life Avatar
 
 ptJaws of Life Avatar
 
 esJaws of Life Avatar
 
 frAvatar du soigneur
+4
+uk.Аватар «Швидка допомога»
+$
+jaアバター「緊急援助」
 0
 ru*Аватар «Скорая помощь».png
 �
@@ -41885,16 +41885,10 @@ $
 enTEST
 
 
-plTEST
-
-
 zhTEST
 
 
-jaTEST
-
-
-ukTEST
+plTEST
 
 
 ptTEST
@@ -41906,25 +41900,31 @@ $
 frTEST
 
 
+ukTEST
+
+
+jaTEST
+
+
 ruTEST.webp
 �
 avatar_anime_2024_cn_topup�
 "
 enSteel Dragon Animated Avatar
 "
-plSteel Dragon Animated Avatar
-"
 zhSteel Dragon Animated Avatar
-?
-ja9アニメーション付きアバター「鋼鉄の龍」
-I
-ukCАнімований аватар «Сталевий дракон»
+"
+plSteel Dragon Animated Avatar
 "
 ptSteel Dragon Animated Avatar
 "
 esSteel Dragon Animated Avatar
 "
 frAvatar animé Dragon d'acier
+I
+ukCАнімований аватар «Сталевий дракон»
+?
+ja9アニメーション付きアバター「鋼鉄の龍」
 O
 ruIАнимированный аватар «Стальной дракон».webp
 �
@@ -41932,13 +41932,9 @@ O
 
 enWild Card Avatar
 
-plWild Card Avatar
-
 zhWild Card Avatar
-!
-jaアバター「Wild Card」
-
-ukАватар Wild Card
+
+plWild Card Avatar
 
 ptWild Card Avatar
 
@@ -41946,25 +41942,29 @@ O
 
 frAvatar de Wild Card
 
+ukАватар Wild Card
+!
+jaアバター「Wild Card」
+
 ruАватар Wild Card.webp
 �
 avatar_rrs2022_anim�
 
 enDizzying Success Avatar
 
-plDizzying Success Avatar
-
 zhDizzying Success Avatar
-$
-jaアバター「眩い栄華」
->
-uk8Аватар «Запаморочливий успіх»
+
+plDizzying Success Avatar
 
 ptDizzying Success Avatar
 
 esDizzying Success Avatar
 !
 frAvatar Réussite fulgurante
+>
+uk8Аватар «Запаморочливий успіх»
+$
+jaアバター「眩い栄華」
 F
 ru@Аватар «Головокружительный успех».webp
 �
@@ -41972,13 +41972,9 @@ F
 
 enThe Constellation Avatar
 
-plThe Constellation Avatar
-
 zhThe Constellation Avatar
-*
-ja$アバター「織りなす星座」
-#
-ukАватар «Плеяди»
+
+plThe Constellation Avatar
 
 ptThe Constellation Avatar
 
@@ -41986,19 +41982,19 @@ F
 
 frAvatar Constellation
 #
+ukАватар «Плеяди»
+*
+ja$アバター「織りなす星座」
+#
 ruАватар «Плеяда».webp
 �
 avatar_lt_legendary�
 !
 enLight Tank Commander Avatar
 !
-plLight Tank Commander Avatar
-!
 zhLight Tank Commander Avatar
-$
-jaアバター「軽戦車長」
-,
-uk&Аватар «Командир ЛТ»
+!
+plLight Tank Commander Avatar
 !
 ptLight Tank Commander Avatar
 !
@@ -42006,25 +42002,29 @@ $
 &
 fr Avatar Commandant de char léger
 ,
+uk&Аватар «Командир ЛТ»
+$
+jaアバター「軽戦車長」
+,
 ru&Аватар «Командир ЛТ».webp
 �
 avatar_progressive_bp_9_free_5�
 
 enLaurel of Victory Avatar
 
-plLaurel of Victory Avatar
-
 zhLaurel of Victory Avatar
-*
-ja$アバター「勝利の月桂樹」
-4
-uk.Аватар «Лаври переможця»
+
+plLaurel of Victory Avatar
 
 ptLaurel of Victory Avatar
 
 esLaurel of Victory Avatar
 $
 frAvatar Lauriers de la victoire
+4
+uk.Аватар «Лаври переможця»
+*
+ja$アバター「勝利の月桂樹」
 6
 ru0Аватар «Лавры победителя».webp
 �
@@ -42032,19 +42032,19 @@ $
 
 enBombastic Flame Avatar
 
-plBombastic Flame Avatar
-
 zhBombastic Flame Avatar
-$
-jaアバター「絢爛な炎」
-6
-uk0Аватар «Помпезний вогонь»
+
+plBombastic Flame Avatar
 
 ptBombastic Flame Avatar
 
 esBombastic Flame Avatar
 
 frAvatar Flamme explosive
+6
+uk0Аватар «Помпезний вогонь»
+$
+jaアバター「絢爛な炎」
 /
 ru)Аватар «Просто пушка!».webp
 �
@@ -42052,19 +42052,19 @@ $
 
 enMaximum Overload Avatar
 
-plMaximum Overload Avatar
-
 zhMaximum Overload Avatar
-?
-ja9アバター「マキシマム・オーバーロード」
-C
-uk=Аватар «Максимально заряджений!»
+
+plMaximum Overload Avatar
 
 ptMaximum Overload Avatar
 
 esMaximum Overload Avatar
  
 frAvatar Surcharge maximale
+C
+uk=Аватар «Максимально заряджений!»
+?
+ja9アバター「マキシマム・オーバーロード」
 =
 ru7Аватар «Максимально заряжен!».webp
 �
@@ -42072,19 +42072,19 @@ $avatar_progressive_tournament_wins_8�
 
 enCompetitive Spirit Avatar
 
-plCompetitive Spirit Avatar
-
 zhCompetitive Spirit Avatar
-0
-ja*アバター「トーナメント精神」
-.
-uk(Аватар «Дух змагання»
+
+plCompetitive Spirit Avatar
 
 ptCompetitive Spirit Avatar
 
 esCompetitive Spirit Avatar
 (
 fr"Avatar de l'Esprit de compétition
+.
+uk(Аватар «Дух змагання»
+0
+ja*アバター「トーナメント精神」
 6
 ru0Аватар «Дух соревнования».webp
 �
@@ -42092,19 +42092,19 @@ $avatar_progressive_tournament_wins_8�
 
 enColliding Comet Avatar
 
-plColliding Comet Avatar
-
 zhColliding Comet Avatar
-*
-ja$アバター「衝突する彗星」
-C
-uk=Аватар «Траєкторія на зіткнення»
+
+plColliding Comet Avatar
 
 ptColliding Comet Avatar
 
 esColliding Comet Avatar
 !
 frAvatar Collision de comète
+C
+uk=Аватар «Траєкторія на зіткнення»
+*
+ja$アバター「衝突する彗星」
 4
 ru.Аватар «Огненная комета».webp
 �
@@ -42112,19 +42112,19 @@ C
 
 enKing Cobra Avatar
 
-plKing Cobra Avatar
-
 zhKing Cobra Avatar
-*
-ja$アバター「キングコブラ」
-9
-uk3Аватар «Королівська кобра».
+
+plKing Cobra Avatar
 
 ptKing Cobra Avatar
 
 esKing Cobra Avatar
 
 frAvatar du cobra royal
+9
+uk3Аватар «Королівська кобра».
+*
+ja$アバター「キングコブラ」
 8
 ru2Аватар «Королевская кобра».png
 �
@@ -42132,19 +42132,19 @@ C
 
 enMad Games Avatar
 
-plMad Games Avatar
-
 zhMad Games Avatar
-!
-jaアバター「Mad Games」
-,
-uk&Аватар «Шалені ігри»
+
+plMad Games Avatar
 
 ptMad Games Avatar
 
 esMad Games Avatar
 
 frAvatar des Mad Games
+,
+uk&Аватар «Шалені ігри»
+!
+jaアバター「Mad Games」
 0
 ru*Аватар «Безумные игры».png
 �
@@ -42152,19 +42152,19 @@ C
 
 enMajestic Moose Avatar
 
-plMajestic Moose Avatar
-
 zhMajestic Moose Avatar
--
-ja'アバター「荘厳なヘラジカ」
-0
-uk*Аватар «Величний лось»
+
+plMajestic Moose Avatar
 
 ptMajestic Moose Avatar
 
 esMajestic Moose Avatar
 
 frAvatar Élan majestueux
+0
+uk*Аватар «Величний лось»
+-
+ja'アバター「荘厳なヘラジカ」
 <
 ru6Аватар «Величественный лось».webp
 �
@@ -42172,19 +42172,19 @@ C
 
 enEvergreen Wreath Avatar
 
-plEvergreen Wreath Avatar
-
 zhEvergreen Wreath Avatar
-'
-ja!アバター「緑のリース」
-4
-uk.Аватар «Різдвяний вінок»
+
+plEvergreen Wreath Avatar
 
 ptEvergreen Wreath Avatar
 
 esEvergreen Wreath Avatar
 &
 fr Avatar de la Couronne de l'Avent
+4
+uk.Аватар «Різдвяний вінок»
+'
+ja!アバター「緑のリース」
 >
 ru8Аватар «Рождественский венок».png
 �
@@ -42192,19 +42192,19 @@ C
 
 enMad Games Avatar
 
-plMad Games Avatar
-
 zhMad Games Avatar
-!
-jaアバター「Mad Games」
-,
-uk&Аватар «Шалені ігри»
+
+plMad Games Avatar
 
 ptMad Games Avatar
 
 esMad Games Avatar
 
 frAvatar des Mad Games
+,
+uk&Аватар «Шалені ігри»
+!
+jaアバター「Mad Games」
 0
 ru*Аватар «Безумные игры».png
 �
@@ -42212,13 +42212,9 @@ C
 
 enWZ-120 Avatar
 
-plWZ-120 Avatar
-
 zhWZ-120 Avatar
 
-jaWZ-120 Avatar
-
-ukWZ-120 Avatar
+plWZ-120 Avatar
 
 ptWZ-120 Avatar
 
@@ -42226,19 +42222,19 @@ C
 
 frWZ-120 Avatar
 
+ukWZ-120 Avatar
+
+jaWZ-120 Avatar
+
 ruWZ-120 Avatar.webp
 �
 $avatar_progressive_bp_39_ruby_free_3�
 >
 en8storage/Items/avatar_progressive_bp_39_ruby_free_3/Title
 >
-pl8storage/Items/avatar_progressive_bp_39_ruby_free_3/Title
->
 zh8storage/Items/avatar_progressive_bp_39_ruby_free_3/Title
 >
-ja8storage/Items/avatar_progressive_bp_39_ruby_free_3/Title
->
-uk8storage/Items/avatar_progressive_bp_39_ruby_free_3/Title
+pl8storage/Items/avatar_progressive_bp_39_ruby_free_3/Title
 >
 pt8storage/Items/avatar_progressive_bp_39_ruby_free_3/Title
 >
@@ -42246,25 +42242,29 @@ $avatar_progressive_bp_39_ruby_free_3�
 >
 fr8storage/Items/avatar_progressive_bp_39_ruby_free_3/Title
 >
+uk8storage/Items/avatar_progressive_bp_39_ruby_free_3/Title
+>
+ja8storage/Items/avatar_progressive_bp_39_ruby_free_3/Title
+>
 ru8storage/Items/avatar_progressive_bp_39_ruby_free_3/Title.webp
 �
 avatar_progressive_mg_wins_2�
 
 enMad Games Avatar
 
-plMad Games Avatar
-
 zhMad Games Avatar
-!
-jaアバター「Mad Games」
-,
-uk&Аватар «Шалені ігри»
+
+plMad Games Avatar
 
 ptMad Games Avatar
 
 esMad Games Avatar
 
 frAvatar des Mad Games
+,
+uk&Аватар «Шалені ігри»
+!
+jaアバター「Mad Games」
 0
 ru*Аватар «Безумные игры».png
 �
@@ -42272,19 +42272,19 @@ $avatar_progressive_bp_39_ruby_free_3�
 
 enMad Games Avatar
 
-plMad Games Avatar
-
 zhMad Games Avatar
-!
-jaアバター「Mad Games」
-,
-uk&Аватар «Шалені ігри»
+
+plMad Games Avatar
 
 ptMad Games Avatar
 
 esMad Games Avatar
 
 frAvatar des Mad Games
+,
+uk&Аватар «Шалені ігри»
+!
+jaアバター「Mad Games」
 0
 ru*Аватар «Безумные игры».png
 �
@@ -42292,13 +42292,9 @@ $avatar_progressive_bp_39_ruby_free_3�
 
 enAnimalPlanet Avatar
 
-plAnimalPlanet Avatar
-
 zhAnimalPlanet Avatar
-$
-jaアバター「AnimalPlanet」
-
-ukАватар AnimalPlanet
+
+plAnimalPlanet Avatar
 
 ptAnimalPlanet Avatar
 
@@ -42306,25 +42302,29 @@ $
 
 frAvatar de AnimalPlanet
 
+ukАватар AnimalPlanet
+$
+jaアバター「AnimalPlanet」
+
 ruАватар AnimalPlanet.png
 �
 avatar_bp_31_bundle�
 
 enPanlong Immortal Avatar
 
-plPanlong Immortal Avatar
-
 zhPanlong Immortal Avatar
-(
-ja"アバター「Panlong Immortal」
- 
-ukАватар Wang Immortal
+
+plPanlong Immortal Avatar
 
 ptPanlong Immortal Avatar
 
 esPanlong Immortal Avatar
 
 frAvatar Wang Immortal
+ 
+ukАватар Wang Immortal
+(
+ja"アバター「Panlong Immortal」
 <
 ru6Аватар «Паньлун Бессмертный».webp
 �
@@ -42332,13 +42332,9 @@ $
 
 enQuill
 
-plQuill
-
 zhQuill
-
-ja	クィル
-
-ukДикобраз
+
+plQuill
 
 ptQuill
 
@@ -42346,19 +42342,19 @@ $
 
 frPiquant
 
+ukДикобраз
+
+ja	クィル
+
 ruДикобраз.png
 �
 avatar_gold_league_rare�
 
 enGolden Trophy Avatar
 
-plGolden Trophy Avatar
-
 zhGolden Trophy Avatar
-9
-ja3アバター「ゴールデン・トロフィー」
-2
-uk,Аватар «Золотий трофей»
+
+plGolden Trophy Avatar
 
 ptGolden Trophy Avatar
 
@@ -42366,25 +42362,29 @@ $
 
 frAvatar du Trophée d'or
 2
+uk,Аватар «Золотий трофей»
+9
+ja3アバター「ゴールデン・トロフィー」
+2
 ru,Аватар «Золотой трофей».png
 �
 avatar_progressive_bp_40_paid_2�
 
 enPolaris Avatar
 
-plPolaris Avatar
-
 zhPolaris Avatar
-$
-jaアバター「ポラリス」
-.
-uk(Аватар «Полярна зоря»
+
+plPolaris Avatar
 
 ptPolaris Avatar
 
 esPolaris Avatar
 
 frAvatar Polaris
+.
+uk(Аватар «Полярна зоря»
+$
+jaアバター「ポラリス」
 4
 ru.Аватар «Полярная звезда».webp
 �
@@ -42392,19 +42392,19 @@ $
 
 enPolaris Avatar
 
-plPolaris Avatar
-
 zhPolaris Avatar
-$
-jaアバター「ポラリス」
-.
-uk(Аватар «Полярна зоря»
+
+plPolaris Avatar
 
 ptPolaris Avatar
 
 esPolaris Avatar
 
 frAvatar Polaris
+.
+uk(Аватар «Полярна зоря»
+$
+jaアバター「ポラリス」
 4
 ru.Аватар «Полярная звезда».webp
 �
@@ -42412,13 +42412,9 @@ $
 
 enWG25 Avatar
 
-plWG25 Avatar
-
 zhWG25 Avatar
-
-jaアバター「WG25」
-
-ukАватар WG25
+
+plWG25 Avatar
 
 ptWG25 Avatar
 
@@ -42426,25 +42422,29 @@ $
 
 frAvatar WG25
 
+ukАватар WG25
+
+jaアバター「WG25」
+
 ruАватар WG25.webp
 �
 avatar_progressive_bp_67_free_2�
  
 enBeauty of Tradition Avatar
  
-plBeauty of Tradition Avatar
- 
 zhBeauty of Tradition Avatar
-$
-jaアバター「伝統の美」
-2
-uk,Аватар «Краса традицій»
+ 
+plBeauty of Tradition Avatar
  
 ptBeauty of Tradition Avatar
  
 esBeauty of Tradition Avatar
 $
 frAvatar Beauté de la tradition
+2
+uk,Аватар «Краса традицій»
+$
+jaアバター「伝統の美」
 6
 ru0Аватар «Красота традиций».webp
 �
@@ -42452,19 +42452,19 @@ $
 
 enPolaris Avatar
 
-plPolaris Avatar
-
 zhPolaris Avatar
-$
-jaアバター「ポラリス」
-.
-uk(Аватар «Полярна зоря»
+
+plPolaris Avatar
 
 ptPolaris Avatar
 
 esPolaris Avatar
 
 frAvatar Polaris
+.
+uk(Аватар «Полярна зоря»
+$
+jaアバター「ポラリス」
 4
 ru.Аватар «Полярная звезда».webp
 �
@@ -42472,19 +42472,19 @@ $
 
 enPolaris Avatar
 
-plPolaris Avatar
-
 zhPolaris Avatar
-$
-jaアバター「ポラリス」
-.
-uk(Аватар «Полярна зоря»
+
+plPolaris Avatar
 
 ptPolaris Avatar
 
 esPolaris Avatar
 
 frAvatar Polaris
+.
+uk(Аватар «Полярна зоря»
+$
+jaアバター「ポラリス」
 4
 ru.Аватар «Полярная звезда».webp
 �
@@ -42492,19 +42492,19 @@ $
 
 enMarquee Spotlight Avatar
 
-plMarquee Spotlight Avatar
-
 zhMarquee Spotlight Avatar
--
-ja'アバター「煌びやかな看板」
-6
-uk0Аватар «Сяйво прожектора»
+
+plMarquee Spotlight Avatar
 
 ptMarquee Spotlight Avatar
 
 esMarquee Spotlight Avatar
 
 frProjecteur du chapiteau
+6
+uk0Аватар «Сяйво прожектора»
+-
+ja'アバター「煌びやかな看板」
 9
 ru3Аватар «В свете прожектора».webp
 �
@@ -42512,19 +42512,19 @@ $
 
 enWild Rage Avatar
 
-plWild Rage Avatar
-
 zhWild Rage Avatar
-$
-jaアバター「獣の怒り」
-,
-uk&Аватар «Дикий норов»
+
+plWild Rage Avatar
 
 ptWild Rage Avatar
 
 esWild Rage Avatar
 
 frAvatar de rage sauvage
+,
+uk&Аватар «Дикий норов»
+$
+jaアバター「獣の怒り」
 *
 ru$Аватар «Дикий нрав».png
 �
@@ -42532,19 +42532,19 @@ $
 !
 enEnemy Tears Cocktail Avatar
 !
-plEnemy Tears Cocktail Avatar
-!
 zhEnemy Tears Cocktail Avatar
-6
-ja0アバター「カクテル "アイツの涙"」
-D
-uk>Аватар «Коктейль зі сліз недруга»
+!
+plEnemy Tears Cocktail Avatar
 !
 ptEnemy Tears Cocktail Avatar
 !
 esEnemy Tears Cocktail Avatar
 )
 fr#Avatar Cocktail de larmes d'ennemis
+D
+uk>Аватар «Коктейль зі сліз недруга»
+6
+ja0アバター「カクテル "アイツの涙"」
 ?
 ru9Аватар «Коктейль Слёзы врагов».webp
 �
@@ -42552,19 +42552,19 @@ D
 
 enCandy Cane Avatar
 
-plCandy Cane Avatar
-
 zhCandy Cane Avatar
-0
-ja*アバター「キャンディケイン」
-<
-uk6Аватар «Карамельна тростина»
+
+plCandy Cane Avatar
 
 ptCandy Cane Avatar
 
 esCandy Cane Avatar
 &
 fr Avatar de bâton de sucre d'orge
+<
+uk6Аватар «Карамельна тростина»
+0
+ja*アバター「キャンディケイン」
 :
 ru4Аватар «Карамельная трость».png
 �
@@ -42572,19 +42572,19 @@ D
 
 enSound Storm Avatar
 
-plSound Storm Avatar
-
 zhSound Storm Avatar
-#
-jaアバター「Sound Storm」
-2
-uk,Аватар «Врубай гучніше»
+
+plSound Storm Avatar
 
 ptSound Storm Avatar
 
 esSound Storm Avatar
 
 frAvatar Tempête sonore
+2
+uk,Аватар «Врубай гучніше»
+#
+jaアバター「Sound Storm」
 +
 ru%Аватар «Радиоволна».webp
 �
@@ -42592,19 +42592,19 @@ D
 
 enLeaves of the Glen Avatar
 
-plLeaves of the Glen Avatar
-
 zhLeaves of the Glen Avatar
-6
-ja0アバター「山間の谷にそよぐ草葉」
-0
-uk*Аватар «Листя ущелини»
+
+plLeaves of the Glen Avatar
 
 ptLeaves of the Glen Avatar
 
 esLeaves of the Glen Avatar
 
 frAvatar Feuilles du vallon
+0
+uk*Аватар «Листя ущелини»
+6
+ja0アバター「山間の谷にそよぐ草葉」
 +
 ru%Аватар «Трилистник».webp
 �
@@ -42612,13 +42612,9 @@ D
 
 enMagnus Avatar
 
-plMagnus Avatar
-
 zhMagnus Avatar
-
-jaアバター「偉大」
-
-ukАватар Magnus
+
+plMagnus Avatar
 
 ptMagnus Avatar
 
@@ -42626,25 +42622,29 @@ D
 
 frAvatar Magnus
 
+ukАватар Magnus
+
+jaアバター「偉大」
+
 ruАватар Magnus.png
 �
 avatar_progressive_bp_39_paid_2�
 
 enSea Wanderer Avatar
 
-plSea Wanderer Avatar
-
 zhSea Wanderer Avatar
-'
-ja!アバター「浜辺の旅人」
-6
-uk0Аватар «Морський бродяга»
+
+plSea Wanderer Avatar
 
 ptSea Wanderer Avatar
 
 esSea Wanderer Avatar
 
 frAvatar Vagabond des mers
+6
+uk0Аватар «Морський бродяга»
+'
+ja!アバター「浜辺の旅人」
 4
 ru.Аватар «Морской бродяга».webp
 �
@@ -42652,13 +42652,9 @@ D
 
 enNegan Avatar
 
-plNegan Avatar
-
 zhNegan Avatar
-$
-jaアバター「ニーガン」
-!
-ukАватар «Ніґан»
+
+plNegan Avatar
 
 ptNegan Avatar
 
@@ -42666,25 +42662,29 @@ $
 
 frAvatar Negan
 !
+ukАватар «Ніґан»
+$
+jaアバター「ニーガン」
+!
 ruАватар «Ниган».webp
 �
 avatar_progressive_bp_8_paid_7�
 
 enStellar Traveller Avatar
 
-plStellar Traveller Avatar
-
 zhStellar Traveller Avatar
-$
-jaアバター「星の旅人」
-:
-uk4Аватар «Зоряний мандрівник»
+
+plStellar Traveller Avatar
 
 ptStellar Traveller Avatar
 
 esStellar Traveller Avatar
 "
 frAvatar du voyageur stellaire
+:
+uk4Аватар «Зоряний мандрівник»
+$
+jaアバター「星の旅人」
 8
 ru2Аватар «Звёздный странник».png
 �
@@ -42692,19 +42692,19 @@ $
 
 enPro Player Avatar
 
-plPro Player Avatar
-
 zhPro Player Avatar
--
-ja'アバター「プロプレイヤー」
--
-uk'Аватар «Професіонал»
+
+plPro Player Avatar
 
 ptPro Player Avatar
 
 esPro Player Avatar
 $
 frAvatar du joueur professionnel
+-
+uk'Аватар «Професіонал»
+-
+ja'アバター「プロプレイヤー」
 /
 ru)Аватар «Профессионал».webp
 �
@@ -42712,19 +42712,19 @@ $
 
 enAdventurers Avatar
 
-plAdventurers Avatar
-
 zhAdventurers Avatar
-'
-ja!アバター「冒険者たち」
-0
-uk*Аватар «Шукачі пригод»
+
+plAdventurers Avatar
 
 ptAdventurers Avatar
 
 esAdventurers Avatar
 
 frAvatar Aventuriers
+0
+uk*Аватар «Шукачі пригод»
+'
+ja!アバター「冒険者たち」
 ;
 ru5Аватар «Отряд приключенцев».webp
 �
@@ -42732,19 +42732,19 @@ $
 
 enSea Wanderer Avatar
 
-plSea Wanderer Avatar
-
 zhSea Wanderer Avatar
-'
-ja!アバター「浜辺の旅人」
-6
-uk0Аватар «Морський бродяга»
+
+plSea Wanderer Avatar
 
 ptSea Wanderer Avatar
 
 esSea Wanderer Avatar
 
 frAvatar Vagabond des mers
+6
+uk0Аватар «Морський бродяга»
+'
+ja!アバター「浜辺の旅人」
 4
 ru.Аватар «Морской бродяга».webp
 �
@@ -42752,19 +42752,19 @@ $
 
 enSanta Tower Avatar
 
-plSanta Tower Avatar
-
 zhSanta Tower Avatar
--
-ja'アバター「サンタ・タワー」
-5
-uk/Аватар «Під бій курантів»
+
+plSanta Tower Avatar
 
 ptSanta Tower Avatar
 
 esSanta Tower Avatar
  
 frAvatar Tour du Père Noël
+5
+uk/Аватар «Під бій курантів»
+-
+ja'アバター「サンタ・タワー」
 5
 ru/Аватар «Под бой курантов».webp
 �
@@ -42772,19 +42772,19 @@ $
 
 enSanta Tower Avatar
 
-plSanta Tower Avatar
-
 zhSanta Tower Avatar
--
-ja'アバター「サンタ・タワー」
-5
-uk/Аватар «Під бій курантів»
+
+plSanta Tower Avatar
 
 ptSanta Tower Avatar
 
 esSanta Tower Avatar
  
 frAvatar Tour du Père Noël
+5
+uk/Аватар «Під бій курантів»
+-
+ja'アバター「サンタ・タワー」
 5
 ru/Аватар «Под бой курантов».webp
 �
@@ -42792,19 +42792,19 @@ $
 
 enAce Tanker Avatar
 
-plAce Tanker Avatar
-
 zhAce Tanker Avatar
-*
-ja$アバター「エース戦車長」
-%
-ukАватар «Майстер»
+
+plAce Tanker Avatar
 
 ptAce Tanker Avatar
 
 esAce Tanker Avatar
 
 frAvatar d'as du char
+%
+ukАватар «Майстер»
+*
+ja$アバター「エース戦車長」
 #
 ruАватар «Мастер».png
 �
@@ -42812,13 +42812,9 @@ $
 
 enPikeosaurus Avatar
 
-plPikeosaurus Avatar
-
 zhPikeosaurus Avatar
-0
-ja*アバター「パイクオサウルス」
-'
-uk!Аватар «Щукозавр»
+
+plPikeosaurus Avatar
 
 ptPikeosaurus Avatar
 
@@ -42826,25 +42822,29 @@ $
 
 frAvatar du Brochetosaure
 '
+uk!Аватар «Щукозавр»
+0
+ja*アバター「パイクオサウルス」
+'
 ru!Аватар «Щукозавр».webp
 �
 avatar_progressive_bp_16_paid_4�
 
 enSanta Tower Avatar
 
-plSanta Tower Avatar
-
 zhSanta Tower Avatar
--
-ja'アバター「サンタ・タワー」
-5
-uk/Аватар «Під бій курантів»
+
+plSanta Tower Avatar
 
 ptSanta Tower Avatar
 
 esSanta Tower Avatar
  
 frAvatar Tour du Père Noël
+5
+uk/Аватар «Під бій курантів»
+-
+ja'アバター「サンタ・タワー」
 5
 ru/Аватар «Под бой курантов».webp
 �
@@ -42852,13 +42852,9 @@ $
 !
 enMoon Rabbit Animated Avatar
 !
-plMoon Rabbit Animated Avatar
-!
 zhMoon Rabbit Animated Avatar
-<
-ja6アニメーション付きアバター「朧月兎」
-G
-ukAАнімований аватар «Місячний заєць»
+!
+plMoon Rabbit Animated Avatar
 !
 ptMoon Rabbit Animated Avatar
 !
@@ -42866,19 +42862,19 @@ G
 $
 frAvatar animé du Lapin lunaire
 G
+ukAАнімований аватар «Місячний заєць»
+<
+ja6アニメーション付きアバター「朧月兎」
+G
 ruAАнимированный аватар «Лунный заяц».webp
 �
 avatar_progressive_bp_16_paid_8�
 
 enSanta Tower Avatar
 
-plSanta Tower Avatar
-
 zhSanta Tower Avatar
--
-ja'アバター「サンタ・タワー」
-5
-uk/Аватар «Під бій курантів»
+
+plSanta Tower Avatar
 
 ptSanta Tower Avatar
 
@@ -42886,25 +42882,29 @@ G
  
 frAvatar Tour du Père Noël
 5
+uk/Аватар «Під бій курантів»
+-
+ja'アバター「サンタ・タワー」
+5
 ru/Аватар «Под бой курантов».webp
 �
 avatar_progressive_bp_61_paid_3�
 
 enPeak Concealment Avatar
 
-plPeak Concealment Avatar
-
 zhPeak Concealment Avatar
-*
-ja$アバター「隠蔽性の頂点」
-<
-uk6Аватар «Відмінне маскування»
+
+plPeak Concealment Avatar
 
 ptPeak Concealment Avatar
 
 esPeak Concealment Avatar
 $
 frAvatar Dissimulation de pointe
+<
+uk6Аватар «Відмінне маскування»
+*
+ja$アバター「隠蔽性の頂点」
 5
 ru/Аватар «Камуфлированный».webp
 �
@@ -42912,19 +42912,19 @@ $
 !
 enOblivion Fan Diamond Avatar
 !
-plOblivion Fan Diamond Avatar
-!
 zhOblivion Fan Diamond Avatar
-?
-ja9アバター「Oblivion ファン・ダイヤモンド」
-\
-ukVДіамантовий аватар уболівальника команди Oblivion
+!
+plOblivion Fan Diamond Avatar
 !
 ptOblivion Fan Diamond Avatar
 !
 esOblivion Fan Diamond Avatar
 0
 fr*Avatar du passionné d'Oblivion de diamant
+\
+ukVДіамантовий аватар уболівальника команди Oblivion
+?
+ja9アバター「Oblivion ファン・ダイヤモンド」
 Z
 ruTБриллиантовый аватар болельщика команды Oblivion.webp
 �
@@ -42932,13 +42932,9 @@ Z
 
 enCharles Avatar
 
-plCharles Avatar
-
 zhCharles Avatar
-
-jaアバター「Charles」
-!
-ukАватар «Шарль»
+
+plCharles Avatar
 
 ptCharles Avatar
 
@@ -42946,25 +42942,29 @@ Z
 
 frAvatar Charles
 !
+ukАватар «Шарль»
+
+jaアバター「Charles」
+!
 ruАватар «Шарль».webp
 �
 avatar_progressive_bp_70_paid_3�
 
 enErythromorpha Avatar
 
-plErythromorpha Avatar
-
 zhErythromorpha Avatar
-0
-ja*アバター「エリスロモルファ」
- 
-ukАватар Erythromorpha
+
+plErythromorpha Avatar
 
 ptErythromorpha Avatar
 
 esErythromorpha Avatar
 
 frAvatar Erythromorpha
+ 
+ukАватар Erythromorpha
+0
+ja*アバター「エリスロモルファ」
 -
 ru'Аватар «Эритроморфа».webp
 �
@@ -42972,13 +42972,9 @@ Z
 
 enVenator
 
-plVenator
-
 zhVenator
-
-jaハンター
-
-ukХантер
+
+plVenator
 
 ptVenator
 
@@ -42986,25 +42982,29 @@ Z
 
 frVenator
 
+ukХантер
+
+jaハンター
+
 ruХантер.png
 �
 avatar_progressive_bp_70_paid_2�
 
 enErythromorpha Avatar
 
-plErythromorpha Avatar
-
 zhErythromorpha Avatar
-0
-ja*アバター「エリスロモルファ」
- 
-ukАватар Erythromorpha
+
+plErythromorpha Avatar
 
 ptErythromorpha Avatar
 
 esErythromorpha Avatar
 
 frAvatar Erythromorpha
+ 
+ukАватар Erythromorpha
+0
+ja*アバター「エリスロモルファ」
 -
 ru'Аватар «Эритроморфа».webp
 �
@@ -43012,13 +43012,9 @@ Z
 
 enJokers Avatar
 
-plJokers Avatar
-
 zhJokers Avatar
-
-jaアバター「Jokers」
-
-ukАватар Jokers
+
+plJokers Avatar
 
 ptJokers Avatar
 
@@ -43026,19 +43022,19 @@ Z
 
 frAvatar de Jokers
 
+ukАватар Jokers
+
+jaアバター「Jokers」
+
 ruАватар Jokers.webp
 �
 avatar_progressive_bp_29_free_4�
 
 enMotorcycle Avatar
 
-plMotorcycle Avatar
-
 zhMotorcycle Avatar
-'
-ja!アバター「バイクもだ」
-'
-uk!Аватар «Мотоцикл»
+
+plMotorcycle Avatar
 
 ptMotorcycle Avatar
 
@@ -43046,25 +43042,29 @@ Z
 
 frAvatar de la Moto
 '
+uk!Аватар «Мотоцикл»
+'
+ja!アバター「バイクもだ」
+'
 ru!Аватар «Мотоцикл».webp
 �
 avatar_progressive_bp_71_paid_2�
 
 enCampfire Boogie Avatar
 
-plCampfire Boogie Avatar
-
 zhCampfire Boogie Avatar
-?
-ja9アバター「るんるんキャンプファイヤー」
-9
-uk3Аватар «Танок біля багаття»
+
+plCampfire Boogie Avatar
 
 ptCampfire Boogie Avatar
 
 esCampfire Boogie Avatar
 !
 frAvatar Danse du feu de camp
+9
+uk3Аватар «Танок біля багаття»
+?
+ja9アバター「るんるんキャンプファイヤー」
 #
 ruАватар «Огонёк».webp
 �
@@ -43072,19 +43072,19 @@ Z
 
 enColliding Comet Avatar
 
-plColliding Comet Avatar
-
 zhColliding Comet Avatar
-*
-ja$アバター「衝突する彗星」
-C
-uk=Аватар «Траєкторія на зіткнення»
+
+plColliding Comet Avatar
 
 ptColliding Comet Avatar
 
 esColliding Comet Avatar
 !
 frAvatar Collision de comète
+C
+uk=Аватар «Траєкторія на зіткнення»
+*
+ja$アバター「衝突する彗星」
 4
 ru.Аватар «Огненная комета».webp
 �
@@ -43092,19 +43092,19 @@ C
 
 enKingpin Avatar
 
-plKingpin Avatar
-
 zhKingpin Avatar
-
-jaアバター「Kingpin」
-
-ukАватар Kingpin
+
+plKingpin Avatar
 
 ptKingpin Avatar
 
 esKingpin Avatar
 
 frAvatar Kingpin
+
+ukАватар Kingpin
+
+jaアバター「Kingpin」
 
 ruАватар Kingpin.webp
 �
@@ -43112,13 +43112,9 @@ C
 
 enKingpin Avatar
 
-plKingpin Avatar
-
 zhKingpin Avatar
-
-jaアバター「Kingpin」
-
-ukАватар Kingpin
+
+plKingpin Avatar
 
 ptKingpin Avatar
 
@@ -43126,25 +43122,29 @@ C
 
 frAvatar Kingpin
 
+ukАватар Kingpin
+
+jaアバター「Kingpin」
+
 ruАватар Kingpin.webp
 �
  avatar_Pizza_shop_legendary_anim�
 (
 en"Who Wants a Piece? Animated Avatar
 (
-pl"Who Wants a Piece? Animated Avatar
-(
 zh"Who Wants a Piece? Animated Avatar
-F
-ja@アニメーション付きアバター「一緒に食べる?」
-F
-uk@Анімований аватар «Кому шматочок?»
+(
+pl"Who Wants a Piece? Animated Avatar
 (
 pt"Who Wants a Piece? Animated Avatar
 (
 es"Who Wants a Piece? Animated Avatar
 +
 fr%Avatar animé Qui en veut une part ?
+F
+uk@Анімований аватар «Кому шматочок?»
+F
+ja@アニメーション付きアバター「一緒に食べる?」
 J
 ruDАнимированный аватар «Кому кусочек?».webp
 �
@@ -43152,19 +43152,19 @@ J
 
 enIt's a Herbivore! Avatar
 
-plIt's a Herbivore! Avatar
-
 zhIt's a Herbivore! Avatar
-0
-ja*アバター「マッチョな草食系」
-3
-uk-Аватар «Він травоїдний!»
+
+plIt's a Herbivore! Avatar
 
 ptIt's a Herbivore! Avatar
 
 esIt's a Herbivore! Avatar
 "
 frAvatar C'est un herbivore !
+3
+uk-Аватар «Він травоїдний!»
+0
+ja*アバター「マッチョな草食系」
 1
 ru+Аватар «Он травоядный!».webp
 �
@@ -43172,19 +43172,19 @@ J
 
 enFluffy Predator Avatar
 
-plFluffy Predator Avatar
-
 zhFluffy Predator Avatar
-'
-ja!アバター「フワフワ獣」
-A
-uk;Аватар «Пушистий і небезпечний»
+
+plFluffy Predator Avatar
 
 ptFluffy Predator Avatar
 
 esFluffy Predator Avatar
 $
 frAvatar de prédateur tout doux
+A
+uk;Аватар «Пушистий і небезпечний»
+'
+ja!アバター「フワフワ獣」
 3
 ru-Аватар «Пушист и опасен».png
 �
@@ -43192,19 +43192,19 @@ $
 
 enSignal Tap Avatar
 
-plSignal Tap Avatar
-
 zhSignal Tap Avatar
-0
-ja*アバター「シグナル・タップ」
->
-uk8Аватар «Відстеження сигналів»
+
+plSignal Tap Avatar
 
 ptSignal Tap Avatar
 
 esSignal Tap Avatar
 
 frAvatar Prise de signal
+>
+uk8Аватар «Відстеження сигналів»
+0
+ja*アバター「シグナル・タップ」
 2
 ru,Аватар «Радар-детектор».webp
 �
@@ -43212,19 +43212,19 @@ $
 
 enSnowman Avatar
 
-plSnowman Avatar
-
 zhSnowman Avatar
-$
-jaアバター「ゆきまる」
-+
-uk%Аватар «Сніговичок»
+
+plSnowman Avatar
 
 ptSnowman Avatar
 
 esSnowman Avatar
 !
 frAvatar de bonhomme de neige
++
+uk%Аватар «Сніговичок»
+$
+jaアバター「ゆきまる」
 +
 ru%Аватар «Снеговичок».webp
 �
@@ -43232,19 +43232,19 @@ $
 
 enForged in Battle Avatar
 
-plForged in Battle Avatar
-
 zhForged in Battle Avatar
-$
-jaアバター「百戦錬磨」
-<
-uk6Аватар «Бойове загартування»
+
+plForged in Battle Avatar
 
 ptForged in Battle Avatar
 
 esForged in Battle Avatar
 
 frAvatar Forgé au combat
+<
+uk6Аватар «Бойове загартування»
+$
+jaアバター「百戦錬磨」
 2
 ru,Аватар «Боевая закалка».png
 �
@@ -43252,19 +43252,19 @@ $
 
 enForged in Battle Avatar
 
-plForged in Battle Avatar
-
 zhForged in Battle Avatar
-$
-jaアバター「百戦錬磨」
-<
-uk6Аватар «Бойове загартування»
+
+plForged in Battle Avatar
 
 ptForged in Battle Avatar
 
 esForged in Battle Avatar
 
 frAvatar Forgé au combat
+<
+uk6Аватар «Бойове загартування»
+$
+jaアバター「百戦錬磨」
 2
 ru,Аватар «Боевая закалка».png
 �
@@ -43272,13 +43272,9 @@ $
 
 enRobert Kitt Avatar
 
-plRobert Kitt Avatar
-
 zhRobert Kitt Avatar
-0
-ja*アバター「ロバート・キット」
-,
-uk&Аватар «Роберт Кітт»
+
+plRobert Kitt Avatar
 
 ptRobert Kitt Avatar
 
@@ -43286,19 +43282,19 @@ $
 
 frAvatar Robert Kitt
 ,
+uk&Аватар «Роберт Кітт»
+0
+ja*アバター「ロバート・キット」
+,
 ru&Аватар «Роберт Китт».webp
 �
 avatar_progressive_bp_45_free_2�
 )
 en#Teenage Mutant Ninja Turtles Avatar
 )
-pl#Teenage Mutant Ninja Turtles Avatar
-)
 zh#Teenage Mutant Ninja Turtles Avatar
-9
-ja3アバター「ミュータントタートルズ」
-6
-uk0Аватар «Черепашки-ніндзя»
+)
+pl#Teenage Mutant Ninja Turtles Avatar
 )
 pt#Teenage Mutant Ninja Turtles Avatar
 )
@@ -43306,19 +43302,19 @@ $
 
 frAvatar Tortues Ninja
 6
+uk0Аватар «Черепашки-ніндзя»
+9
+ja3アバター「ミュータントタートルズ」
+6
 ru0Аватар «Черепашки-ниндзя».webp
 �
 avatar_bear_2_common_168h�
 
 enFerocious Predator Avatar
 
-plFerocious Predator Avatar
-
 zhFerocious Predator Avatar
-*
-ja$アバター「獰猛な肉食獣」
-4
-uk.Аватар «Жорстокий хижак»
+
+plFerocious Predator Avatar
 
 ptFerocious Predator Avatar
 
@@ -43326,25 +43322,29 @@ $
 "
 frAvatar du prédateur féroce
 4
+uk.Аватар «Жорстокий хижак»
+*
+ja$アバター「獰猛な肉食獣」
+4
 ru.Аватар «Свирепый хищник».png
 �
 $avatar_bronze_warrior_legendary_anim�
 $
 enBronze Warrior Animated Avatar
 $
-plBronze Warrior Animated Avatar
-$
 zhBronze Warrior Animated Avatar
-?
-ja9アニメーション付きアバター「銅の戦士」
-A
-uk;Анімований аватар «Мідний воїн»
+$
+plBronze Warrior Animated Avatar
 $
 ptBronze Warrior Animated Avatar
 $
 esBronze Warrior Animated Avatar
 &
 fr Avatar animé Guerrier de bronze
+A
+uk;Анімований аватар «Мідний воїн»
+?
+ja9アニメーション付きアバター「銅の戦士」
 G
 ruAАнимированный аватар «Медный воин».webp
 �
@@ -43352,19 +43352,19 @@ G
 
 enFootball Fan Avatar
 
-plFootball Fan Avatar
-
 zhFootball Fan Avatar
-$
-jaアバター「Football Fan」
-6
-uk0Аватар «Футбольний фанат»
+
+plFootball Fan Avatar
 
 ptFootball Fan Avatar
 
 esFootball Fan Avatar
 &
 fr Avatar du passionné de football
+6
+uk0Аватар «Футбольний фанат»
+$
+jaアバター「Football Fan」
 >
 ru8Аватар «Футбольный болельщик».webp
 �
@@ -43372,19 +43372,19 @@ $
 
 enFortium Source Avatar
 
-plFortium Source Avatar
-
 zhFortium Source Avatar
-$
-jaフォルティウムの原石
-6
-uk0Аватар «Джерело Фортіуму»
+
+plFortium Source Avatar
 
 ptFortium Source Avatar
 
 esFortium Source Avatar
 
 frAvatar Source de Fortium
+6
+uk0Аватар «Джерело Фортіуму»
+$
+jaフォルティウムの原石
 8
 ru2Аватар «Источник Фортиума».webp
 �
@@ -43392,19 +43392,19 @@ $
 
 enFortium Source Avatar
 
-plFortium Source Avatar
-
 zhFortium Source Avatar
-$
-jaフォルティウムの原石
-6
-uk0Аватар «Джерело Фортіуму»
+
+plFortium Source Avatar
 
 ptFortium Source Avatar
 
 esFortium Source Avatar
 
 frAvatar Source de Fortium
+6
+uk0Аватар «Джерело Фортіуму»
+$
+jaフォルティウムの原石
 8
 ru2Аватар «Источник Фортиума».webp
 �
@@ -43412,19 +43412,19 @@ $
 
 enFortium Source Avatar
 
-plFortium Source Avatar
-
 zhFortium Source Avatar
-$
-jaフォルティウムの原石
-6
-uk0Аватар «Джерело Фортіуму»
+
+plFortium Source Avatar
 
 ptFortium Source Avatar
 
 esFortium Source Avatar
 
 frAvatar Source de Fortium
+6
+uk0Аватар «Джерело Фортіуму»
+$
+jaフォルティウムの原石
 8
 ru2Аватар «Источник Фортиума».webp
 �
@@ -43432,13 +43432,9 @@ $
 
 enZurawik Avatar
 
-plZurawik Avatar
-
 zhZurawik Avatar
-
-jaアバター「Zurawik」
-
-ukАватар Zurawik
+
+plZurawik Avatar
 
 ptZurawik Avatar
 
@@ -43446,19 +43442,19 @@ $
 
 frAvatar Zurawik
 
+ukАватар Zurawik
+
+jaアバター「Zurawik」
+
 ruАватар Zurawik.webp
 �
 $avatar_progressive_bp_37_ruby_paid_3�
 2
 en,Аватар «Куст крякающий»
 2
-pl,Аватар «Куст крякающий»
-2
 zh,Аватар «Куст крякающий»
 2
-ja,Аватар «Куст крякающий»
-2
-uk,Аватар «Куст крякающий»
+pl,Аватар «Куст крякающий»
 2
 pt,Аватар «Куст крякающий»
 2
@@ -43466,25 +43462,29 @@ $avatar_progressive_bp_37_ruby_paid_3�
 2
 fr,Аватар «Куст крякающий»
 2
+uk,Аватар «Куст крякающий»
+2
+ja,Аватар «Куст крякающий»
+2
 ru,Аватар «Куст крякающий».webp
 �
 avatar_ny2020_legendary�
 
 enHoliday Gem Avatar
 
-plHoliday Gem Avatar
-
 zhHoliday Gem Avatar
--
-ja'アバター「ホリデージェム」
-:
-uk4Аватар «Новорічний кристал»
+
+plHoliday Gem Avatar
 
 ptHoliday Gem Avatar
 
 esHoliday Gem Avatar
  
 frAvatar du joyau des fêtes
+:
+uk4Аватар «Новорічний кристал»
+-
+ja'アバター「ホリデージェム」
 <
 ru6Аватар «Новогодний кристалл».png
 �
@@ -43492,13 +43492,9 @@ $avatar_progressive_bp_37_ruby_paid_3�
 
 enApathy Avatar
 
-plApathy Avatar
-
 zhApathy Avatar
-
-jaアバター「Apathy」
-
-ukАватар Apathy
+
+plApathy Avatar
 
 ptApathy Avatar
 
@@ -43506,19 +43502,19 @@ $avatar_progressive_bp_37_ruby_paid_3�
 
 frAvatar d'Apathy
 
+ukАватар Apathy
+
+jaアバター「Apathy」
+
 ruАватар Apathy.webp
 �
 avatar_progressive_bp_58_paid_1�
 
 enImperative Design Avatar
 
-plImperative Design Avatar
-
 zhImperative Design Avatar
-0
-ja*アバター「絶対なるデザイン」
-<
-uk6Аватар «Невідкладний проєкт»
+
+plImperative Design Avatar
 
 ptImperative Design Avatar
 
@@ -43526,19 +43522,19 @@ $avatar_progressive_bp_37_ruby_paid_3�
 "
 frAvatar Design incontournable
 <
+uk6Аватар «Невідкладний проєкт»
+0
+ja*アバター「絶対なるデザイン」
+<
 ru6Аватар «Императивный дизайн».webp
 �
 avatar_progressive_bp_28_free_4�
 
 enSnowman Avatar
 
-plSnowman Avatar
-
 zhSnowman Avatar
-$
-jaアバター「ゆきまる」
-+
-uk%Аватар «Сніговичок»
+
+plSnowman Avatar
 
 ptSnowman Avatar
 
@@ -43546,25 +43542,29 @@ $
 !
 frAvatar de bonhomme de neige
 +
+uk%Аватар «Сніговичок»
+$
+jaアバター「ゆきまる」
++
 ru%Аватар «Снеговичок».webp
 �
 "avatar_progressive_vampiric_wins_5�
 
 enForged in Battle Avatar
 
-plForged in Battle Avatar
-
 zhForged in Battle Avatar
-$
-jaアバター「百戦錬磨」
-<
-uk6Аватар «Бойове загартування»
+
+plForged in Battle Avatar
 
 ptForged in Battle Avatar
 
 esForged in Battle Avatar
 
 frAvatar Forgé au combat
+<
+uk6Аватар «Бойове загартування»
+$
+jaアバター「百戦錬磨」
 2
 ru,Аватар «Боевая закалка».png
 �
@@ -43572,13 +43572,9 @@ $
 
 enSteel Buteo Avatar
 
-plSteel Buteo Avatar
-
 zhSteel Buteo Avatar
-0
-ja*アバター「スチール・ブテオ」
-2
-uk,Аватар «Сталевий канюк»
+
+plSteel Buteo Avatar
 
 ptSteel Buteo Avatar
 
@@ -43586,25 +43582,29 @@ $
 
 frAvatar Buteo d'acier
 2
+uk,Аватар «Сталевий канюк»
+0
+ja*アバター「スチール・ブテオ」
+2
 ru,Аватар «Стальная птица».webp
 �
 avatar_VKCommunity_unique�
 
 enCommunity Member Avatar
 
-plCommunity Member Avatar
-
 zhCommunity Member Avatar
-9
-ja3アバター「コミュニティーメンバー」
-8
-uk2Аватар «Частина спільноти»
+
+plCommunity Member Avatar
 
 ptCommunity Member Avatar
 
 esCommunity Member Avatar
 %
 frAvatar Membre de la communauté
+8
+uk2Аватар «Частина спільноти»
+9
+ja3アバター「コミュニティーメンバー」
 6
 ru0Аватар «Часть сообщества».webp
 �
@@ -43612,19 +43612,19 @@ $
 
 enDecryption Hint
 
-plDecryption Hint
-
 zhDecryption Hint
-
-ja暗号のヒント
-0
-uk*Підказка до Шифрування
+
+plDecryption Hint
 
 ptDecryption Hint
 
 esDecryption Hint
 
 frIndice de décryptage
+0
+uk*Підказка до Шифрування
+
+ja暗号のヒント
 ,
 ru&Подсказка к Шифровке.webp
 �
@@ -43632,19 +43632,19 @@ $
 
 enCryo-Lights Avatar
 
-plCryo-Lights Avatar
-
 zhCryo-Lights Avatar
-'
-ja!アバター「冷凍ライト」
-)
-uk#Аватар «Кріовогні»
+
+plCryo-Lights Avatar
 
 ptCryo-Lights Avatar
 
 esCryo-Lights Avatar
 
 frAvatar Cryolumières
+)
+uk#Аватар «Кріовогні»
+'
+ja!アバター「冷凍ライト」
 '
 ru!Аватар «Криоогни».webp
 �
@@ -43652,13 +43652,9 @@ $
 
 enCorbie Avatar
 
-plCorbie Avatar
-
 zhCorbie Avatar
-
-jaアバター「Corbie」
-
-ukАватар Corbie
+
+plCorbie Avatar
 
 ptCorbie Avatar
 
@@ -43666,25 +43662,29 @@ $
 
 frAvatar Corbie
 
+ukАватар Corbie
+
+jaアバター「Corbie」
+
 ruАватар Corbie.webp
 �
 avatar_2023_sum_duck�
 
 enSummer Vibes
 
-plSummer Vibes
-
 zhSummer Vibes
-
-jaサマー・バイブス
-#
-ukЛітня атмосфера
+
+plSummer Vibes
 
 ptSummer Vibes
 
 esSummer Vibes
 
 frAmbiance estivale
+#
+ukЛітня атмосфера
+
+jaサマー・バイブス
 
 ruЛетний вайб.webp
 �
@@ -43692,13 +43692,9 @@ $
 
 en"Dab Life" Avatar
 
-pl"Dab Life" Avatar
-
 zh"Dab Life" Avatar
-$
-jaアバター「ダブ三昧」
-
-ukАватар «Деб!»
+
+pl"Dab Life" Avatar
 
 pt"Dab Life" Avatar
 
@@ -43706,19 +43702,19 @@ $
 
 frAvatar « Comme Dab »
 
+ukАватар «Деб!»
+$
+jaアバター「ダブ三昧」
+
 ruАватар «Дэб!».png
 �
 avatar_7STAR_2023_30d�
 
 enАватар 7STAR
 
-plАватар 7STAR
-
 zhАватар 7STAR
 
-jaАватар 7STAR
-
-ukАватар 7STAR
+plАватар 7STAR
 
 ptАватар 7STAR
 
@@ -43726,25 +43722,29 @@ $
 
 frАватар 7STAR
 
+ukАватар 7STAR
+
+jaАватар 7STAR
+
 ruАватар 7STAR.webp
 �
 $avatar_BlitzCup25_EU_TEAM3_legendary�
 
 enVaporize Diamond Avatar
 
-plVaporize Diamond Avatar
-
 zhVaporize Diamond Avatar
-3
-ja-アバター「Vaporize ダイヤモンド」
-A
-uk;Діамантовий аватар команди Vaporize
+
+plVaporize Diamond Avatar
 
 ptVaporize Diamond Avatar
 
 esVaporize Diamond Avatar
 #
 frAvatar de Vaporize de diamant
+A
+uk;Діамантовий аватар команди Vaporize
+3
+ja-アバター「Vaporize ダイヤモンド」
 E
 ru?Бриллиантовый аватар команды Vaporize.webp
 �
@@ -43752,13 +43752,9 @@ E
 
 en	Splinters
 
-pl	Splinters
-
 zh	Splinters
-
-jaスプリンター
-
-ukОсколки
+
+pl	Splinters
 
 pt	Splinters
 
@@ -43766,25 +43762,29 @@ E
 
 frÉclats
 
+ukОсколки
+
+jaスプリンター
+
 ruОсколки.png
 �
 avatar_progressive_bp_29_free_3�
 
 enSunglasses Avatar
 
-plSunglasses Avatar
-
 zhSunglasses Avatar
-*
-ja$アバター「サングラスと」
-%
-ukАватар «Окуляри»
+
+plSunglasses Avatar
 
 ptSunglasses Avatar
 
 esSunglasses Avatar
 #
 frAvatar des Lunettes de soleil
+%
+ukАватар «Окуляри»
+*
+ja$アバター「サングラスと」
 
 ruАватар «Очки».webp
 �
@@ -43792,19 +43792,19 @@ E
 
 enClothes Avatar
 
-plClothes Avatar
-
 zhClothes Avatar
-
-jaアバター「服と」
-
-ukАватар «Одяг»
+
+plClothes Avatar
 
 ptClothes Avatar
 
 esClothes Avatar
 
 frAvatar de la Veste
+
+ukАватар «Одяг»
+
+jaアバター「服と」
 #
 ruАватар «Одежда».webp
 �
@@ -43812,19 +43812,19 @@ E
 
 enBoots Avatar
 
-plBoots Avatar
-
 zhBoots Avatar
--
-ja'アバター「ブーツをよこせ」
-'
-uk!Аватар «Черевики»
+
+plBoots Avatar
 
 ptBoots Avatar
 
 esBoots Avatar
 
 frAvatar des Bottes
+'
+uk!Аватар «Черевики»
+-
+ja'アバター「ブーツをよこせ」
 %
 ruАватар «Ботинки».webp
 �
@@ -43832,19 +43832,19 @@ E
 
 enDraw Enjoyer Avatar
 
-plDraw Enjoyer Avatar
-
 zhDraw Enjoyer Avatar
-3
-ja-アバター「ラッキーくじガチ勢」
-B
-uk<Аватар «Поціновувач розіграшів»
+
+plDraw Enjoyer Avatar
 
 ptDraw Enjoyer Avatar
 
 esDraw Enjoyer Avatar
 )
 fr#Avatar Passionné du Tirage au sort
+B
+uk<Аватар «Поціновувач розіграшів»
+3
+ja-アバター「ラッキーくじガチ勢」
 <
 ru6Аватар «Любитель розыгрышей».webp
 �
@@ -43852,13 +43852,9 @@ B
 
 enSaladin’s Eagle Avatar
 
-plSaladin’s Eagle Avatar
-
 zhSaladin’s Eagle Avatar
 
-jaSaladin’s Eagle Avatar
-
-ukSaladin’s Eagle Avatar
+plSaladin’s Eagle Avatar
 
 ptSaladin’s Eagle Avatar
 
@@ -43866,25 +43862,29 @@ B
 
 frAvatar Aigle de Saladin
 
+ukSaladin’s Eagle Avatar
+
+jaSaladin’s Eagle Avatar
+
 ruSaladin’s Eagle Avatar.webp
 �
 avatar_progressive_bp_32_paid_5�
 
 enHelp-O-Tron 5000 Avatar
 
-plHelp-O-Tron 5000 Avatar
-
 zhHelp-O-Tron 5000 Avatar
-0
-ja*アバター「オービット・パル」
-9
-uk3Аватар «Помічник на орбіті»
+
+plHelp-O-Tron 5000 Avatar
 
 ptHelp-O-Tron 5000 Avatar
 
 esHelp-O-Tron 5000 Avatar
 $
 frAvatar du Robot-Assistant 5000
+9
+uk3Аватар «Помічник на орбіті»
+0
+ja*アバター「オービット・パル」
 1
 ru+Аватар «Друг на орбите».webp
 �
@@ -43892,19 +43892,19 @@ $avatar_BlitzCup25_SG_TEAM1_legendary�
 
 enPrimacy Diamond Avatar
 
-plPrimacy Diamond Avatar
-
 zhPrimacy Diamond Avatar
-2
-ja,アバター「Primacy ダイヤモンド」
-@
-uk:Діамантовий аватар команди Primacy
+
+plPrimacy Diamond Avatar
 
 ptPrimacy Diamond Avatar
 
 esPrimacy Diamond Avatar
 "
 frAvatar de Primacy de diamant
+@
+uk:Діамантовий аватар команди Primacy
+2
+ja,アバター「Primacy ダイヤモンド」
 D
 ru>Бриллиантовый аватар команды Primacy.webp
 �
@@ -43912,13 +43912,9 @@ $avatar_progressive_bp_37_ruby_free_3�
 2
 en,Аватар «Куст хрюкающий»
 2
-pl,Аватар «Куст хрюкающий»
-2
 zh,Аватар «Куст хрюкающий»
 2
-ja,Аватар «Куст хрюкающий»
-2
-uk,Аватар «Куст хрюкающий»
+pl,Аватар «Куст хрюкающий»
 2
 pt,Аватар «Куст хрюкающий»
 2
@@ -43926,25 +43922,29 @@ $avatar_progressive_bp_37_ruby_free_3�
 2
 fr,Аватар «Куст хрюкающий»
 2
+uk,Аватар «Куст хрюкающий»
+2
+ja,Аватар «Куст хрюкающий»
+2
 ru,Аватар «Куст хрюкающий».webp
 �
 &avatar_progressive_rb_silver_eu_wins_8�
 
 enSilver Victor Avatar
 
-plSilver Victor Avatar
-
 zhSilver Victor Avatar
--
-ja'アバター「シルバーの勝者」
-:
-uk4Аватар «Срібний переможець»
+
+plSilver Victor Avatar
 
 ptSilver Victor Avatar
 
 esSilver Victor Avatar
 
 frAvatar Vainqueur d'argent
+:
+uk4Аватар «Срібний переможець»
+-
+ja'アバター「シルバーの勝者」
 @
 ru:Аватар «Серебряный победитель».webp
 �
@@ -43952,19 +43952,19 @@ $avatar_progressive_bp_37_ruby_free_3�
 &
 en kRoKoDiLillYz Fan Diamond Avatar
 &
-pl kRoKoDiLillYz Fan Diamond Avatar
-&
 zh kRoKoDiLillYz Fan Diamond Avatar
-D
-ja>アバター「kRoKoDiLillYz ファン・ダイヤモンド」
-a
-uk[Діамантовий аватар уболівальника команди kRoKoDiLillYz
+&
+pl kRoKoDiLillYz Fan Diamond Avatar
 &
 pt kRoKoDiLillYz Fan Diamond Avatar
 &
 es kRoKoDiLillYz Fan Diamond Avatar
 6
 fr0Avatar du passionné de kRoKoDiLillYz de diamant
+a
+uk[Діамантовий аватар уболівальника команди kRoKoDiLillYz
+D
+ja>アバター「kRoKoDiLillYz ファン・ダイヤモンド」
 _
 ruYБриллиантовый аватар болельщика команды kRoKoDiLillYz.webp
 �
@@ -43972,13 +43972,9 @@ _
 
 enLascannon Avatar
 
-plLascannon Avatar
-
 zhLascannon Avatar
-'
-ja!アバター「レーザー砲」
-%
-ukАватар «Мініган»
+
+plLascannon Avatar
 
 ptLascannon Avatar
 
@@ -43986,19 +43982,19 @@ _
 
 frAvatar Lascannon
 %
+ukАватар «Мініган»
+'
+ja!アバター「レーザー砲」
+%
 ruАватар «Миниган».webp
 �
 avatar_may_topup_2024�
 /
 en)storage/Items/avatar_may_topup_2024/Title
 /
-pl)storage/Items/avatar_may_topup_2024/Title
-/
 zh)storage/Items/avatar_may_topup_2024/Title
 /
-ja)storage/Items/avatar_may_topup_2024/Title
-/
-uk)storage/Items/avatar_may_topup_2024/Title
+pl)storage/Items/avatar_may_topup_2024/Title
 /
 pt)storage/Items/avatar_may_topup_2024/Title
 /
@@ -44006,25 +44002,29 @@ _
 /
 fr)storage/Items/avatar_may_topup_2024/Title
 /
+uk)storage/Items/avatar_may_topup_2024/Title
+/
+ja)storage/Items/avatar_may_topup_2024/Title
+/
 ru)storage/Items/avatar_may_topup_2024/Title.webp
 �
 (avatar_springseason_eSportsGeek_90d_ruby�
 
 enHardcore Fan Avatar
 
-plHardcore Fan Avatar
-
 zhHardcore Fan Avatar
-*
-ja$アバター「根強いファン」
-/
-uk)Аватар «Вболівальник»
+
+plHardcore Fan Avatar
 
 ptHardcore Fan Avatar
 
 esHardcore Fan Avatar
 )
 fr#Avatar du passionné inconditionnel
+/
+uk)Аватар «Вболівальник»
+*
+ja$アバター「根強いファン」
 )
 ru#Аватар «Болельщик».webp
 �
@@ -44032,19 +44032,19 @@ $avatar_progressive_bp_33_ruby_paid_6�
 4
 en.Аватар «Немой проводник»
 4
-pl.Аватар «Немой проводник»
-4
 zh.Аватар «Немой проводник»
 4
-ja.Аватар «Немой проводник»
-4
-uk.Аватар «Немой проводник»
+pl.Аватар «Немой проводник»
 4
 pt.Аватар «Немой проводник»
 4
 es.Аватар «Немой проводник»
 4
 fr.Аватар «Немой проводник»
+4
+uk.Аватар «Немой проводник»
+4
+ja.Аватар «Немой проводник»
 6
 ru0Аватар «Разбуженный маяк».webp
 �
@@ -44052,19 +44052,19 @@ $avatar_progressive_bp_33_ruby_paid_6�
 
 enUtopia Fan Diamond Avatar
 
-plUtopia Fan Diamond Avatar
-
 zhUtopia Fan Diamond Avatar
-=
-ja7アバター「Utopia ファン・ダイヤモンド」
-Z
-ukTДіамантовий аватар уболівальника команди Utopia
+
+plUtopia Fan Diamond Avatar
 
 ptUtopia Fan Diamond Avatar
 
 esUtopia Fan Diamond Avatar
 .
 fr(Avatar du passionné d'Utopia de diamant
+Z
+ukTДіамантовий аватар уболівальника команди Utopia
+=
+ja7アバター「Utopia ファン・ダイヤモンド」
 X
 ruRБриллиантовый аватар болельщика команды Utopia.webp
 �
@@ -44072,13 +44072,9 @@ X
  
 enSwitzerland Playoff Avatar
  
-plSwitzerland Playoff Avatar
- 
 zhSwitzerland Playoff Avatar
-+
-ja%アバター「Switzerland Playoff」
-&
-uk Аватар Switzerland Playoff
+ 
+plSwitzerland Playoff Avatar
  
 ptSwitzerland Playoff Avatar
  
@@ -44086,19 +44082,19 @@ X
  
 frAvatar Switzerland Playoff
 &
+uk Аватар Switzerland Playoff
++
+ja%アバター「Switzerland Playoff」
+&
 ru Аватар Switzerland Playoff.webp
 �
 avatar_progressive_bp_24_free_2�
 
 enRadio Telescope Avatar
 
-plRadio Telescope Avatar
-
 zhRadio Telescope Avatar
-'
-ja!アバター「電波望遠鏡」
-1
-uk+Аватар «Радіотелескоп»
+
+plRadio Telescope Avatar
 
 ptRadio Telescope Avatar
 
@@ -44106,25 +44102,29 @@ X
 
 frAvatar Radiotélescope
 1
+uk+Аватар «Радіотелескоп»
+'
+ja!アバター「電波望遠鏡」
+1
 ru+Аватар «Радиотелескоп».webp
 �
 avatar_luxuryBlitz_rare�
 
 enLightning Bolt Avatar
 
-plLightning Bolt Avatar
-
 zhLightning Bolt Avatar
-
-jaアバター「稲妻」
-2
-uk,Аватар «Удар блискавки»
+
+plLightning Bolt Avatar
 
 ptLightning Bolt Avatar
 
 esLightning Bolt Avatar
 
 frAvatar de l'éclair
+2
+uk,Аватар «Удар блискавки»
+
+jaアバター「稲妻」
 ,
 ru&Аватар «Удар молнии».png
 �
@@ -44132,13 +44132,9 @@ X
 0
 en*Аватар «Звездный вайб»
 0
-pl*Аватар «Звездный вайб»
-0
 zh*Аватар «Звездный вайб»
 0
-ja*Аватар «Звездный вайб»
-0
-uk*Аватар «Звездный вайб»
+pl*Аватар «Звездный вайб»
 0
 pt*Аватар «Звездный вайб»
 0
@@ -44146,19 +44142,19 @@ X
 0
 fr*Аватар «Звездный вайб»
 0
+uk*Аватар «Звездный вайб»
+0
+ja*Аватар «Звездный вайб»
+0
 ru*Аватар «Звездный вайб».webp
 �
 !avatar_halloween2020_raider_6_14d�
 
 enPyrotechnic
 
-plPyrotechnic
-
 zhPyrotechnic
-
-ja	花火師
-
-ukПіротехнік
+
+plPyrotechnic
 
 ptPyrotechnic
 
@@ -44166,19 +44162,19 @@ X
 
 frPyrotechnique
 
+ukПіротехнік
+
+ja	花火師
+
 ruПиротехник.png
 �
 avatar_playoff_1�
 
 enGermany Playoff Avatar
 
-plGermany Playoff Avatar
-
 zhGermany Playoff Avatar
-'
-ja!アバター「Germany Playoff」
-"
-ukАватар Germany Playoff
+
+plGermany Playoff Avatar
 
 ptGermany Playoff Avatar
 
@@ -44186,25 +44182,29 @@ X
 
 frAvatar Germany Playoff
 "
+ukАватар Germany Playoff
+'
+ja!アバター「Germany Playoff」
+"
 ruАватар Germany Playoff.webp
 �
 avatar_HWPumpkin_legendary_anim�
 %
 enJack-O'-Lantern Animated Avatar
 %
-plJack-O'-Lantern Animated Avatar
-%
 zhJack-O'-Lantern Animated Avatar
-N
-jaHアニメーション付きアバター「ジャックオランタン」
-C
-uk=Анімований аватар «Ліхтар Джека»
+%
+plJack-O'-Lantern Animated Avatar
 %
 ptJack-O'-Lantern Animated Avatar
 %
 esJack-O'-Lantern Animated Avatar
 '
 fr!Avatar animé Citrouille-lanterne
+C
+uk=Анімований аватар «Ліхтар Джека»
+N
+jaHアニメーション付きアバター「ジャックオランタン」
 Q
 ruKАнимированный аватар «Светильник Джека».webp
 �
@@ -44212,19 +44212,19 @@ Q
 
 enAyame Animated Avatar
 
-plAyame Animated Avatar
-
 zhAyame Animated Avatar
-<
-ja6アニメーション付きアバター「あやめ」
-4
-uk.Анімований аватар «Аяме»
+
+plAyame Animated Avatar
 
 ptAyame Animated Avatar
 
 esAyame Animated Avatar
 
 frAvatar animé Ayame
+4
+uk.Анімований аватар «Аяме»
+<
+ja6アニメーション付きアバター「あやめ」
 :
 ru4Анимированный аватар «Аямэ».webp
 �
@@ -44232,13 +44232,9 @@ Q
 "
 enArnold Schwarzenegger Avatar
 "
-plArnold Schwarzenegger Avatar
-"
 zhArnold Schwarzenegger Avatar
-H
-jaBアバター「アーノルド・シュワルツェネッガー」
->
-uk8Аватар «Арнольд Шварценеггер»
+"
+plArnold Schwarzenegger Avatar
 "
 ptArnold Schwarzenegger Avatar
 "
@@ -44246,19 +44242,19 @@ H
 $
 frAvatar d'Arnold Schwarzenegger
 >
+uk8Аватар «Арнольд Шварценеггер»
+H
+jaBアバター「アーノルド・シュワルツェネッガー」
+>
 ru8Аватар «Арнольд Шварценеггер».webp
 �
 avatar_brave_legendary�
 
 enBrave of Heart Avatar
 
-plBrave of Heart Avatar
-
 zhBrave of Heart Avatar
-$
-jaアバター「勇敢な心」
-4
-uk.Аватар «Хоробрий серцем»
+
+plBrave of Heart Avatar
 
 ptBrave of Heart Avatar
 
@@ -44266,19 +44262,19 @@ $
 
 frAvatar du cœur courageux
 4
+uk.Аватар «Хоробрий серцем»
+$
+jaアバター「勇敢な心」
+4
 ru.Аватар «Храбрый сердцем».png
 �
 avatar_playoff_7�
  
 enNetherlands Playoff Avatar
  
-plNetherlands Playoff Avatar
- 
 zhNetherlands Playoff Avatar
-+
-ja%アバター「Netherlands Playoff」
-&
-uk Аватар Netherlands Playoff
+ 
+plNetherlands Playoff Avatar
  
 ptNetherlands Playoff Avatar
  
@@ -44286,19 +44282,19 @@ $
  
 frAvatar Netherlands Playoff
 &
+uk Аватар Netherlands Playoff
++
+ja%アバター「Netherlands Playoff」
+&
 ru Аватар Netherlands Playoff.webp
 �
 avatar_steeleagle_rare_cis�
 
 enSteel Eagle Avatar
 
-plSteel Eagle Avatar
-
 zhSteel Eagle Avatar
-$
-jaアバター「鋼鉄の鷲」
-0
-uk*Аватар «Сталевий орел»
+
+plSteel Eagle Avatar
 
 ptSteel Eagle Avatar
 
@@ -44306,19 +44302,19 @@ $
 
 frAvatar d'aigle d'acier
 0
+uk*Аватар «Сталевий орел»
+$
+jaアバター「鋼鉄の鷲」
+0
 ru*Аватар «Стальной орёл».webp
 �
 avatar_playoff_4�
 
 enEngland Playoff Avatar
 
-plEngland Playoff Avatar
-
 zhEngland Playoff Avatar
-'
-ja!アバター「England Playoff」
-"
-ukАватар England Playoff
+
+plEngland Playoff Avatar
 
 ptEngland Playoff Avatar
 
@@ -44326,25 +44322,29 @@ $
 
 frAvatar England Playoff
 "
+ukАватар England Playoff
+'
+ja!アバター「England Playoff」
+"
 ruАватар England Playoff.webp
 �
 avatar_progressive_bp_58_free_2�
 
 enQuadrant Prototype Avatar
 
-plQuadrant Prototype Avatar
-
 zhQuadrant Prototype Avatar
-6
-ja0アバター「四分円のプロトタイプ」
-B
-uk<Аватар «Поквадрантний прототип»
+
+plQuadrant Prototype Avatar
 
 ptQuadrant Prototype Avatar
 
 esQuadrant Prototype Avatar
  
 frAvatar Prototype de cadran
+B
+uk<Аватар «Поквадрантний прототип»
+6
+ja0アバター「四分円のプロトタイプ」
 :
 ru4Аватар «Прототип квадранта».webp
 �
@@ -44352,19 +44352,19 @@ B
 
 enFrance Playoff Avatar
 
-plFrance Playoff Avatar
-
 zhFrance Playoff Avatar
-&
-ja アバター「France Playoff」
-!
-ukАватар France Playoff
+
+plFrance Playoff Avatar
 
 ptFrance Playoff Avatar
 
 esFrance Playoff Avatar
 
 frAvatar France Playoff
+!
+ukАватар France Playoff
+&
+ja アバター「France Playoff」
 !
 ruАватар France Playoff.webp
 �
@@ -44374,15 +44374,10 @@ B
 entest
 
 
-pltest
-
-
 zhtest
 
 
-jatest
-!
-ukАватар «Лидер»
+pltest
 
 
 pttest
@@ -44393,25 +44388,30 @@ B
 
 frtest
 !
+ukАватар «Лидер»
+
+
+jatest
+!
 ruАватар «Лидер».webp
 �
 avatar_bp_46_bundle�
 
 enPartysan Avatar
 
-plPartysan Avatar
-
 zhPartysan Avatar
- 
-jaアバター「Partysan」
-2
-uk,Аватар «Король вечірок»
+
+plPartysan Avatar
 
 ptPartysan Avatar
 
 esPartysan Avatar
 
 frAvatar Partysan
+2
+uk,Аватар «Король вечірок»
+ 
+jaアバター「Partysan」
 
 ruАватар Partysan.webp
 �
@@ -44419,19 +44419,19 @@ B
 &
 en Super Conqueress Animated Avatar
 &
-pl Super Conqueress Animated Avatar
-&
 zh Super Conqueress Animated Avatar
-C
-ja=アニメーション付きアバター「Super Conqueress」
-8
-uk2Анімований аватар Super Conqueress
+&
+pl Super Conqueress Animated Avatar
 &
 pt Super Conqueress Animated Avatar
 &
 es Super Conqueress Animated Avatar
 $
 frAvatar animé Super Conqueress
+8
+uk2Анімований аватар Super Conqueress
+C
+ja=アニメーション付きアバター「Super Conqueress」
 >
 ru8Анимированный аватар Super Conqueress.webp
 �
@@ -44439,13 +44439,9 @@ $
 #
 enWitch's Glare Animated Avatar
 #
-plWitch's Glare Animated Avatar
-#
 zhWitch's Glare Animated Avatar
-B
-ja<アニメーション付きアバター「魔女の慧眼」
-K
-ukEАнімований аватар «Відьомське сяйво»
+#
+plWitch's Glare Animated Avatar
 #
 ptWitch's Glare Animated Avatar
 #
@@ -44453,25 +44449,29 @@ K
 *
 fr$Avatar animé Regard de la sorcière
 K
+ukEАнімований аватар «Відьомське сяйво»
+B
+ja<アニメーション付きアバター「魔女の慧眼」
+K
 ruEАнимированный аватар «Взгляд ведьмы».webp
 �
 avatar_dog_legendary�
 
 enFerocious Bulldog Avatar
 
-plFerocious Bulldog Avatar
-
 zhFerocious Bulldog Avatar
--
-ja'アバター「猛犬ブルドッグ」
-4
-uk.Аватар «Грізний бульдог»
+
+plFerocious Bulldog Avatar
 
 ptFerocious Bulldog Avatar
 
 esFerocious Bulldog Avatar
 
 frAvatar Bulldog féroce
+4
+uk.Аватар «Грізний бульдог»
+-
+ja'アバター「猛犬ブルドッグ」
 6
 ru0Аватар «Свирепый бульдог».webp
 �
@@ -44479,19 +44479,19 @@ K
 !
 enCarrot Nose Animated Avatar
 !
-plCarrot Nose Animated Avatar
-!
 zhCarrot Nose Animated Avatar
-H
-jaBアニメーション付きアバター「ニンジンのお鼻」
-E
-uk?Анімований аватар «Ніс-морквинка»
+!
+plCarrot Nose Animated Avatar
 !
 ptCarrot Nose Animated Avatar
 !
 esCarrot Nose Animated Avatar
 "
 frAvatar animé Nez en carotte
+E
+uk?Анімований аватар «Ніс-морквинка»
+H
+jaBアニメーション付きアバター「ニンジンのお鼻」
 I
 ruCАнимированный аватар «Нос-морковка».webp
 �
@@ -44499,19 +44499,19 @@ I
 
 enBedbug Fan Avatar
 
-plBedbug Fan Avatar
-
 zhBedbug Fan Avatar
-(
-ja"アバター「Bedbug ファン」
-6
-uk0Аватар «Вболівальник Bedbug»
+
+plBedbug Fan Avatar
 
 ptBedbug Fan Avatar
 
 esBedbug Fan Avatar
 $
 frAvatar du passionné de Bedbug
+6
+uk0Аватар «Вболівальник Bedbug»
+(
+ja"アバター「Bedbug ファン」
 0
 ru*Аватар «Болельщик Bedbug».webp
 �
@@ -44519,13 +44519,9 @@ $
 ,
 en&Аватар «3 года побед»
 ,
-pl&Аватар «3 года побед»
-,
 zh&Аватар «3 года побед»
 ,
-ja&Аватар «3 года побед»
-,
-uk&Аватар «3 года побед»
+pl&Аватар «3 года побед»
 ,
 pt&Аватар «3 года побед»
 ,
@@ -44533,19 +44529,19 @@ $
 ,
 fr&Аватар «3 года побед»
 ,
+uk&Аватар «3 года побед»
+,
+ja&Аватар «3 года побед»
+,
 ru&Аватар «3 года побед».webp
 �
 avatar_smiley_love_common_72h�
 
 en"Lovestruck" Avatar
 
-pl"Lovestruck" Avatar
-
 zh"Lovestruck" Avatar
-!
-jaアバター「恋煩い」
-3
-uk-Аватар «Фугасом у рубку»
+
+pl"Lovestruck" Avatar
 
 pt"Lovestruck" Avatar
 
@@ -44553,25 +44549,29 @@ $
 #
 frAvatar « Coup de foudre »
 3
+uk-Аватар «Фугасом у рубку»
+!
+jaアバター「恋煩い」
+3
 ru-Аватар «Фугасом в рубку».png
 �
 avatar_APAC_Feast_rare_14d�
 
 enFEAST Fan Avatar
 
-plFEAST Fan Avatar
-
 zhFEAST Fan Avatar
-'
-ja!アバター「FEAST ファン」
-5
-uk/Аватар «Вболівальник FEAST»
+
+plFEAST Fan Avatar
 
 ptFEAST Fan Avatar
 
 esFEAST Fan Avatar
 #
 frAvatar du passionné de FEAST
+5
+uk/Аватар «Вболівальник FEAST»
+'
+ja!アバター「FEAST ファン」
 /
 ru)Аватар «Болельщик FEAST».webp
 �
@@ -44579,19 +44579,19 @@ $
 
 enDetection Bulb Avatar
 
-plDetection Bulb Avatar
-
 zhDetection Bulb Avatar
-$
-jaアバター「発見電球」
-:
-uk4Аватар «Лампочка виявлення»
+
+plDetection Bulb Avatar
 
 ptDetection Bulb Avatar
 
 esDetection Bulb Avatar
 "
 frAvatar Ampoule de détection
+:
+uk4Аватар «Лампочка виявлення»
+$
+jaアバター「発見電球」
 >
 ru8Аватар «Лампочка обнаружения».webp
 �
@@ -44599,13 +44599,9 @@ $
 
 enWasteland Blitzers Avatar
 
-plWasteland Blitzers Avatar
-
 zhWasteland Blitzers Avatar
 
-jaWasteland Blitzers Avatar
-
-ukWasteland Blitzers Avatar
+plWasteland Blitzers Avatar
 
 ptWasteland Blitzers Avatar
 
@@ -44613,25 +44609,29 @@ $
 
 frWasteland Blitzers Avatar
 
+ukWasteland Blitzers Avatar
+
+jaWasteland Blitzers Avatar
+
 ruWasteland Blitzers Avatar.webp
 �
 avatar_progressive_bp_35_paid_6�
 
 enOverexploited Avatar
 
-plOverexploited Avatar
-
 zhOverexploited Avatar
-6
-ja0アバター「ハーデスト・ワーカー」
- 
-ukАватар Overexploited
+
+plOverexploited Avatar
 
 ptOverexploited Avatar
 
 esOverexploited Avatar
 
 frAvatar Surexploité
+ 
+ukАватар Overexploited
+6
+ja0アバター「ハーデスト・ワーカー」
 *
 ru$Аватар «На пределе».webp
 �
@@ -44639,19 +44639,19 @@ $
 &
 en A Claw-some Dude Animated Avatar
 &
-pl A Claw-some Dude Animated Avatar
-&
 zh A Claw-some Dude Animated Avatar
-K
-jaEアニメーション付きアバター「ピースなトモダチ」
-?
-uk9Анімований аватар «Розкрабся!»
+&
+pl A Claw-some Dude Animated Avatar
 &
 pt A Claw-some Dude Animated Avatar
 &
 es A Claw-some Dude Animated Avatar
 ,
 fr&Avatar animé J'en pince pour la fête
+?
+uk9Анімований аватар «Розкрабся!»
+K
+jaEアニメーション付きアバター「ピースなトモダチ」
 H
 ruBАнимированный аватар «Держи краба!».webp
 �
@@ -44659,19 +44659,19 @@ H
 #
 enCall of the Icebreaker Avatar
 #
-plCall of the Icebreaker Avatar
-#
 zhCall of the Icebreaker Avatar
-9
-ja3アバター「アイスブレーカーの招集」
-;
-uk5Аватар «У пошуках Криголама»
+#
+plCall of the Icebreaker Avatar
 #
 ptCall of the Icebreaker Avatar
 #
 esCall of the Icebreaker Avatar
 &
 fr Avatar de l'appel du brise-glace
+;
+uk5Аватар «У пошуках Криголама»
+9
+ja3アバター「アイスブレーカーの招集」
 9
 ru3Аватар «В поисках Ледокола».png
 �
@@ -44679,19 +44679,19 @@ H
 #
 enCall of the Icebreaker Avatar
 #
-plCall of the Icebreaker Avatar
-#
 zhCall of the Icebreaker Avatar
-9
-ja3アバター「アイスブレーカーの招集」
-;
-uk5Аватар «У пошуках Криголама»
+#
+plCall of the Icebreaker Avatar
 #
 ptCall of the Icebreaker Avatar
 #
 esCall of the Icebreaker Avatar
 &
 fr Avatar de l'appel du brise-glace
+;
+uk5Аватар «У пошуках Криголама»
+9
+ja3アバター「アイスブレーカーの招集」
 9
 ru3Аватар «В поисках Ледокола».png
 �
@@ -44699,19 +44699,19 @@ H
 
 enWill of Steel Avatar
 
-plWill of Steel Avatar
-
 zhWill of Steel Avatar
-$
-jaアバター「鋼の意志」
-.
-uk(Аватар «Залізна воля»
+
+plWill of Steel Avatar
 
 ptWill of Steel Avatar
 
 esWill of Steel Avatar
 
 frAvatar Volonté d'acier
+.
+uk(Аватар «Залізна воля»
+$
+jaアバター「鋼の意志」
 0
 ru*Аватар «Железная воля».png
 �
@@ -44719,13 +44719,9 @@ $
 
 enSearch for Wisdom Avatar
 
-plSearch for Wisdom Avatar
-
 zhSearch for Wisdom Avatar
-$
-jaアバター「武哲究理」
-4
-uk.Аватар «Пошуки мудрості»
+
+plSearch for Wisdom Avatar
 
 ptSearch for Wisdom Avatar
 
@@ -44733,25 +44729,29 @@ $
 
 frAvatar Quête de sagesse
 4
+uk.Аватар «Пошуки мудрості»
+$
+jaアバター「武哲究理」
+4
 ru.Аватар «Поиски мудрости».webp
 �
 avatar_progressive_Lunar_wins_7�
 
 enSpace Corps Avatar
 
-plSpace Corps Avatar
-
 zhSpace Corps Avatar
-$
-jaアバター「宇宙兵団」
-0
-uk*Аватар «Повний відрив»
+
+plSpace Corps Avatar
 
 ptSpace Corps Avatar
 
 esSpace Corps Avatar
 
 frAvatar des Space Corps
+0
+uk*Аватар «Повний відрив»
+$
+jaアバター「宇宙兵団」
 .
 ru(Аватар «Полный отрыв».png
 �
@@ -44759,19 +44759,19 @@ $
 $
 enSecret Service Animated Avatar
 $
-plSecret Service Animated Avatar
-$
 zhSecret Service Animated Avatar
-Q
-jaKアニメーション付きアバター「シークレットサービス」
-I
-ukCАнімований аватар «Секретна служба»
+$
+plSecret Service Animated Avatar
 $
 ptSecret Service Animated Avatar
 $
 esSecret Service Animated Avatar
 $
 frAvatar animé Services secrets
+I
+ukCАнімований аватар «Секретна служба»
+Q
+jaKアニメーション付きアバター「シークレットサービス」
 Q
 ruKАнимированный аватар «Секретная служба».webp
 �
@@ -44779,19 +44779,19 @@ Q
 
 enWZ-120-1G FT Girl Avatar
 
-plWZ-120-1G FT Girl Avatar
-
 zhWZ-120-1G FT Girl Avatar
-.
-ja(アバター「WZ-120-1G FT 姐さん」
-$
-ukАватар WZ-120-1G FT Girl
+
+plWZ-120-1G FT Girl Avatar
 
 ptWZ-120-1G FT Girl Avatar
 
 esWZ-120-1G FT Girl Avatar
 
 frAvatar WZ-120-1G FT Girl
+$
+ukАватар WZ-120-1G FT Girl
+.
+ja(アバター「WZ-120-1G FT 姐さん」
 $
 ruАватар WZ-120-1G FT Girl.webp
 �
@@ -44801,16 +44801,10 @@ $
 entest
 
 
-pltest
-
-
 zhtest
 
 
-jatest
-
-
-uktest
+pltest
 
 
 pttest
@@ -44822,19 +44816,21 @@ $
 frtest
 
 
+uktest
+
+
+jatest
+
+
 rutest.webp
 �
 avatar_bp_35_bundle�
 
 enFerrum Striker Avatar
 
-plFerrum Striker Avatar
-
 zhFerrum Striker Avatar
-&
-ja アバター「Ferrum Striker」
-!
-ukАватар Ferrum Striker
+
+plFerrum Striker Avatar
 
 ptFerrum Striker Avatar
 
@@ -44842,25 +44838,29 @@ $
 
 frAvatar Ferrum Striker
 !
+ukАватар Ferrum Striker
+&
+ja アバター「Ferrum Striker」
+!
 ruАватар Ferrum Striker.webp
 �
 avatar_progressive_bp_38_paid_1�
 
 enRaven's Realm Avatar
 
-plRaven's Realm Avatar
-
 zhRaven's Realm Avatar
-$
-jaアバター「鴉の領分」
-6
-uk0Аватар «Вороняче царство»
+
+plRaven's Realm Avatar
 
 ptRaven's Realm Avatar
 
 esRaven's Realm Avatar
 
 frAvatar Royaume du corbeau
+6
+uk0Аватар «Вороняче царство»
+$
+jaアバター「鴉の領分」
 2
 ru,Аватар «Царство ворона».webp
 �
@@ -44868,19 +44868,19 @@ $
 
 enOverexploited Avatar
 
-plOverexploited Avatar
-
 zhOverexploited Avatar
-6
-ja0アバター「ハーデスト・ワーカー」
- 
-ukАватар Overexploited
+
+plOverexploited Avatar
 
 ptOverexploited Avatar
 
 esOverexploited Avatar
 
 frAvatar Surexploité
+ 
+ukАватар Overexploited
+6
+ja0アバター「ハーデスト・ワーカー」
 *
 ru$Аватар «На пределе».webp
 �
@@ -44888,19 +44888,19 @@ $
 
 enTwinkling Lights Avatar
 
-plTwinkling Lights Avatar
-
 zhTwinkling Lights Avatar
--
-ja'アバター「キラキラライト」
-:
-uk4Аватар «Мерехтливі вогники»
+
+plTwinkling Lights Avatar
 
 ptTwinkling Lights Avatar
 
 esTwinkling Lights Avatar
 '
 fr!Avatar de lumières scintillantes
+:
+uk4Аватар «Мерехтливі вогники»
+-
+ja'アバター「キラキラライト」
 8
 ru2Аватар «Мерцающие огоньки».png
 �
@@ -44908,13 +44908,9 @@ $
 
 enPebble Avatar
 
-plPebble Avatar
-
 zhPebble Avatar
-
-jaアバター「Pebble」
-
-ukАватар Pebble
+
+plPebble Avatar
 
 ptPebble Avatar
 
@@ -44922,25 +44918,29 @@ $
 
 frAvatar Pebble
 
+ukАватар Pebble
+
+jaアバター「Pebble」
+
 ruАватар Pebble.webp
 �
 avatar_progressive_bp_35_paid_3�
 
 enOverexploited Avatar
 
-plOverexploited Avatar
-
 zhOverexploited Avatar
-6
-ja0アバター「ハーデスト・ワーカー」
- 
-ukАватар Overexploited
+
+plOverexploited Avatar
 
 ptOverexploited Avatar
 
 esOverexploited Avatar
 
 frAvatar Surexploité
+ 
+ukАватар Overexploited
+6
+ja0アバター「ハーデスト・ワーカー」
 *
 ru$Аватар «На пределе».webp
 �
@@ -44948,19 +44948,19 @@ $
 
 enOverexploited Avatar
 
-plOverexploited Avatar
-
 zhOverexploited Avatar
-6
-ja0アバター「ハーデスト・ワーカー」
- 
-ukАватар Overexploited
+
+plOverexploited Avatar
 
 ptOverexploited Avatar
 
 esOverexploited Avatar
 
 frAvatar Surexploité
+ 
+ukАватар Overexploited
+6
+ja0アバター「ハーデスト・ワーカー」
 *
 ru$Аватар «На пределе».webp
 �
@@ -44968,19 +44968,19 @@ $
 !
 enHolly Jolly Animated Avatar
 !
-plHolly Jolly Animated Avatar
-!
 zhHolly Jolly Animated Avatar
-K
-jaEアニメーション付きアバター「あったかルンルン」
-A
-uk;Анімований аватар «Хвойний ліс»
+!
+plHolly Jolly Animated Avatar
 !
 ptHolly Jolly Animated Avatar
 !
 esHolly Jolly Animated Avatar
 "
 frAvatar animé du Houx sacré
+A
+uk;Анімований аватар «Хвойний ліс»
+K
+jaEアニメーション付きアバター「あったかルンルン」
 N
 ruHАнимированный аватар «Время подарков».webp
 �
@@ -44988,19 +44988,19 @@ N
 
 enAlpha Dog Avatar
 
-plAlpha Dog Avatar
-
 zhAlpha Dog Avatar
-'
-ja!アバター「リーダー犬」
-8
-uk2Аватар «Справжній ватажок»
+
+plAlpha Dog Avatar
 
 ptAlpha Dog Avatar
 
 esAlpha Dog Avatar
 
 frAvatar de chien alpha
+8
+uk2Аватар «Справжній ватажок»
+'
+ja!アバター「リーダー犬」
 4
 ru.Аватар «Настоящий вожак».png
 �
@@ -45008,19 +45008,19 @@ N
 '
 en!Leprechaun's Gold Animated Avatar
 '
-pl!Leprechaun's Gold Animated Avatar
-'
 zh!Leprechaun's Gold Animated Avatar
-T
-jaNアニメーション付きアバター「レプラコーンのゴールド」
-K
-ukEАнімований аватар «Золото лепрекона»
+'
+pl!Leprechaun's Gold Animated Avatar
 '
 pt!Leprechaun's Gold Animated Avatar
 '
 es!Leprechaun's Gold Animated Avatar
 "
 frAvatar animé Or du farfadet
+K
+ukEАнімований аватар «Золото лепрекона»
+T
+jaNアニメーション付きアバター「レプラコーンのゴールド」
 Q
 ruKАнимированный аватар «Золото лепрекона».webp
 �
@@ -45028,13 +45028,9 @@ Q
 
 enTommy Avatar
 
-plTommy Avatar
-
 zhTommy Avatar
-!
-jaアバター「トミー」
-!
-ukАватар «Томмі»
+
+plTommy Avatar
 
 ptTommy Avatar
 
@@ -45042,19 +45038,19 @@ Q
 
 frAvatar de Tommy
 !
+ukАватар «Томмі»
+!
+jaアバター「トミー」
+!
 ruАватар «Томми».webp
 �
 avatar_APAC_Feast_legendary�
 
 enFEAST Avatar
 
-plFEAST Avatar
-
 zhFEAST Avatar
-
-jaアバター「FEAST」
-
-ukАватар FEAST
+
+plFEAST Avatar
 
 ptFEAST Avatar
 
@@ -45062,25 +45058,29 @@ Q
 
 frAvatar de FEAST
 
+ukАватар FEAST
+
+jaアバター「FEAST」
+
 ruАватар FEAST.webp
 �
 avatar_progressive_bp_9_free_1�
 
 enLaurel of Victory Avatar
 
-plLaurel of Victory Avatar
-
 zhLaurel of Victory Avatar
-*
-ja$アバター「勝利の月桂樹」
-4
-uk.Аватар «Лаври переможця»
+
+plLaurel of Victory Avatar
 
 ptLaurel of Victory Avatar
 
 esLaurel of Victory Avatar
 $
 frAvatar Lauriers de la victoire
+4
+uk.Аватар «Лаври переможця»
+*
+ja$アバター「勝利の月桂樹」
 6
 ru0Аватар «Лавры победителя».webp
 �
@@ -45088,13 +45088,9 @@ $
 
 enAnggael Avatar
 
-plAnggael Avatar
-
 zhAnggael Avatar
-
-jaアバター「Anggael」
-
-ukАватар Anggael
+
+plAnggael Avatar
 
 ptAnggael Avatar
 
@@ -45102,25 +45098,29 @@ $
 
 frAvatar Anggael
 
+ukАватар Anggael
+
+jaアバター「Anggael」
+
 ruАватар Anggael.webp
 �
 avatar_progressive_bp_15_paid_8�
 
 enMedal Count Avatar
 
-plMedal Count Avatar
-
 zhMedal Count Avatar
-*
-ja$アバター「勝利のメダル」
-4
-uk.Аватар «Медальний залік»
+
+plMedal Count Avatar
 
 ptMedal Count Avatar
 
 esMedal Count Avatar
 &
 fr Avatar du Compteur de médailles
+4
+uk.Аватар «Медальний залік»
+*
+ja$アバター「勝利のメダル」
 4
 ru.Аватар «Медальный зачёт».webp
 �
@@ -45128,13 +45128,9 @@ $
 
 enMedal Count Avatar
 
-plMedal Count Avatar
-
 zhMedal Count Avatar
-*
-ja$アバター「勝利のメダル」
-4
-uk.Аватар «Медальний залік»
+
+plMedal Count Avatar
 
 ptMedal Count Avatar
 
@@ -45142,24 +45138,28 @@ $
 &
 fr Avatar du Compteur de médailles
 4
+uk.Аватар «Медальний залік»
+*
+ja$アバター「勝利のメダル」
+4
 ru.Аватар «Медальный зачёт».webp
 �
  avatar_BlitzUltimateCupASIA_rare�
 )
 en#Blitz Ultimate Cup Asia 2022 Avatar
 )
-pl#Blitz Ultimate Cup Asia 2022 Avatar
-)
 zh#Blitz Ultimate Cup Asia 2022 Avatar
-4
-ja.アバター「Blitz Ultimate Cup Asia 2022」
-/
-uk)Аватар Blitz Ultimate Cup Asia 2022
+)
+pl#Blitz Ultimate Cup Asia 2022 Avatar
 )
 pt#Blitz Ultimate Cup Asia 2022 Avatar
 )
 es#Blitz Ultimate Cup Asia 2022 Avatar
 )
 fr#Avatar Blitz Ultimate Cup Asia 2022
+/
+uk)Аватар Blitz Ultimate Cup Asia 2022
+4
+ja.アバター「Blitz Ultimate Cup Asia 2022」
 /
 ru)Аватар Blitz Ultimate Cup Asia 2022.webp
