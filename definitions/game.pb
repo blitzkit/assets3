@@ -1,5 +1,5 @@
 
-11.18.0.821_6747920usagermanyussrukjapanchinafranceeuropeanotherãŞ
+11.19.0.834_7320229usagermanyussrukjapanchinafranceeuropeanotherãŞ
 Û
 
 enRegular Battle

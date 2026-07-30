@@ -17510,16 +17510,42 @@ Blade Wing
 enT-44 Trench Raider
 +
 ru%Т-44 Окопный налётчик
-T�	O�	
+��	��	h
 
-enPalikari
+enPalikari
+
+jaパリカリ
+
+ruПаликари
+
+ukПалікарі
+
+zh帕利卡里
 
 enCaernarvon Palikari"
 
 enCaernarvon Palikari
-]�	X�	
+��	��	�
 
-enMountaineer
+enMountaineer
+
+es
+Montañero
+
+fr	Alpiniste
+
+ja	登山家
+
+pl	Alpinista
+
+ptMontanhista
+
+ru
+Горец
+
+ukАльпініст
+
+zh	登山家
 
 enERAC Proto Mountaineer"
 
@@ -17531,13 +17557,72 @@ H�	C�	
 enSPHT Invictus"
 
 enSPHT Invictus
-N�	I�	
+��	��	�
 
-enSawtooth
+enSawtooth
+
+esDientes de sierra
+
+frDent de scie
+
+plSzczękopiła
+
+ptDente de Serra
+
+ruПилозубый
+
+ukПилозубий
 
 enBrennos Sawtooth"
 
 enBrennos Sawtooth
+��	��	_
+
+enJarumi
+
+jaジャルミ
+
+ruДжаруми
+
+ukДжарумі
+
+zh	贾鲁米
+
+enAMX 13 90 Jarumi"
+
+enAMX 13 90 Jarumi
+��	��	-
+
+enBuyan
+
+ruБуян
+
+ukБуян)
+
+en
+KV-4 Buyan
+
+ruКВ-4 Буян")
+
+en
+KV-4 Buyan
+
+ruКВ-4 Буян
+��	��	Y
+
+enRedox
+
+esRédox
+
+jaレドックス
+
+plOksydacyjny
+
+zh氧化还原
+
+enToxique Redox"
+
+enToxique Redox
 �����
 
 enScorching Barricade
@@ -19921,26 +20006,42 @@ Nitro Nova
 enWZ-132 Baozhang
 
 ruWZ-132 Баочжан
-.�)�$
+�����
 "
 enUFC Legacy Championship Belt
-\�W�
+(
+fr"Ceinture de championnat UFC Legacy
+0
+ru*Чемпионский пояс UFC Legacy
+����Q
 
-enMax Holloway
+enMax Holloway
+
+ruМакс Холлоуэй
+
+zh麦克斯·霍洛威
 
 enSheridan Max Holloway"
 
 enSheridan Max Holloway
-k�f�
+����`
 
-enIsrael Adesanya#
+enIsrael Adesanya
+%
+ruИсраэль Адесанья
+ 
+zh伊斯瑞尔·阿迪萨亚#
 !
 enProgetto 65 Israel Adesanya"#
 !
 enProgetto 65 Israel Adesanya
-^�Y�
+����T
 
-enAlex Pereira
+enAlex Pereira
+
+ruАлекс Перейра
+
+zh亚历克斯·佩雷拉
 
 enGrille 15 Alex Pereira"
 
